@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+
     const files = {
         "gp1_220.json": 10,
         "ngoai966_1438.json": 10,
@@ -134,4 +134,3 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     loadQuestions();
-});
