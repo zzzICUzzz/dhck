@@ -38,7 +38,8 @@
   "5": {
     "question": "Vị trí dễ gãy của xương đòn là",
     "options": {
-      "A": "Giao điểm 1/3 ngoài và 2/3 trong\t     Giao điểm của 2/3 ngoài và 1/3 trong",
+      "A": "Giao điểm 1/3 ngoài và 2/3 trong",
+      "B": "Giao điểm của 2/3 ngoài và 1/3 trong",
       "C": "Đầu ức",
       "D": "Đầu cùng vai"
     }
