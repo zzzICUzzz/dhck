@@ -1,0 +1,1980 @@
+{
+  "1": {
+    "question": "Theo tư thế giải phẫu học thì lòng bàn tay sẽ",
+    "options": {
+      "A": "Hướng ra ngoài",
+      "B": "Úp vào đùi",
+      "C": "Hướng ra trước",
+      "D": "Hướng ra sau"
+    }
+  },
+  "2": {
+    "question": "Ngành giải phẫu học nào nghiên cứu quá trình phát triển và tiến hóa của loài người",
+    "options": {
+      "A": "Giải phẫu học hệ thống",
+      "B": "Giải phẫu học từng vùng",
+      "C": "Giải phẫu học nhân chủng",
+      "D": "Giải phẫu học định khu"
+    }
+  },
+  "3": {
+    "question": "Mô tả nào sau đây đúng khi nói về mặt phẳng đứng dọc giữa:",
+    "options": {
+      "A": "Nằm song song với mặt phẳng trán",
+      "B": "Chia cơ thể thành phía trước và phía sau",
+      "C": "Chia cơ thể thành hai nửa: nửa phải và nửa trái",
+      "D": "Là mặt phẳng duy nhất thẳng góc với mặt phẳng ngang"
+    }
+  },
+  "4": {
+    "question": "Mặt phẳng đứng ngang trong GPH có đặc điểm là:",
+    "options": {
+      "A": "Nằm song song với mặt phẳng trán",
+      "B": "Chia cơ thể thành phía trước và phía sau",
+      "C": "Chia cơ thể thành hai nửa: nửa phải và nửa trái",
+      "D": "Là mặt phẳng duy nhất thẳng góc với mặt phẳng ngang"
+    }
+  },
+  "5": {
+    "question": "Vị trí dễ gãy của xương đòn là",
+    "options": {
+      "A": "Giao điểm 1/3 ngoài và 2/3 trong\t     Giao điểm của 2/3 ngoài và 1/3 trong",
+      "C": "Đầu ức",
+      "D": "Đầu cùng vai"
+    }
+  },
+  "6": {
+    "question": "Thần kinh bị tổn thương khi gãy 1/3 giữa",
+    "options": {
+      "A": "Thần kinh nách",
+      "B": "Thần kinh trụ",
+      "C": "Thần kinh giữa",
+      "D": "Thần kinh quay"
+    }
+  },
+  "7": {
+    "question": "Chỏm xương cánh tay khớp với",
+    "options": {
+      "A": "Ổ chảo",
+      "B": "Hố ổ cối",
+      "C": "Hố dưới vai",
+      "D": "Diện nguyệt"
+    }
+  },
+  "8": {
+    "question": "Chi tiết giải phẫu nào có thể được dùng để định hướng chiều trước - sau của xương cánh tay",
+    "options": {
+      "A": "Rãnh gian củ",
+      "B": "Chỏm xương",
+      "C": "Lồi củ Delta",
+      "D": "Ròng rọc"
+    }
+  },
+  "9": {
+    "question": "Các xương sau đây tham gia vào diện khớp cổ tay, NGOẠI TRỪ:",
+    "options": {
+      "A": "Xương thuyền",
+      "B": "Xương nguyệt",
+      "C": "Xương tháp",
+      "D": "Xương đậu"
+    }
+  },
+  "10": {
+    "question": "Khớp khuỷu gồm bao nhiêu khớp thành phần:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  "11": {
+    "question": "Khớp nào tham gia hoạt động khi bàn tay làm động tác sấp ngửa:",
+    "options": {
+      "A": "Khớp quay trụ trên và khớp quay trụ dưới",
+      "B": "Khớp quay trụ trên, khớp quay trụ dưới và các khớp cổ tay",
+      "C": "Khớp quay trụ trên và khớp cánh tay trụ",
+      "D": "Khớp quay trụ trên, khớp quay trụ dưới và khớp cánh tay quay"
+    }
+  },
+  "12": {
+    "question": "Khớp gối gồm bao nhiêu khớp thành phần:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  "13": {
+    "question": "Xương nào thuộc hàng dưới xương cổ tay:",
+    "options": {
+      "A": "Xương thuyền",
+      "B": "Xương tháp",
+      "C": "Xương thê",
+      "D": "Xương nguyệt"
+    }
+  },
+  "14": {
+    "question": "Chi tiết nào sau đây nằm ở mặt sau xương vai:",
+    "options": {
+      "A": "Mỏm qua",
+      "B": "Khuyết vai",
+      "C": "Gai vai",
+      "D": "Ô chảo"
+    }
+  },
+  "15": {
+    "question": "Chi tiết nào sau đây nằm ở bờ trên xương vai:",
+    "options": {
+      "A": "Mỏm quạ",
+      "B": "Mỏm cùng vai",
+      "C": "Gai vai",
+      "D": "Ô chảo"
+    }
+  },
+  "16": {
+    "question": "Chi tiết nào sau đây nằm ở đầu dưới xương cánh tay:",
+    "options": {
+      "A": "Chỏm xương cánh tay",
+      "B": "Chỏm con",
+      "C": "Rãnh gian củ",
+      "D": "Cổ giải phẫu"
+    }
+  },
+  "17": {
+    "question": "Gãy 1/3 giữa xương cánh tay thường tổn thương thần kinh nào:",
+    "options": {
+      "A": "Thần kinh nách và động mạch mũ cánh tay sau",
+      "B": "Thần kinh trụ và động mạch bên trụ trên",
+      "C": "Thần kinh giữa và động mạch cánh tay",
+      "D": "Thần kinh quay và động mạch cánh tay sâu"
+    }
+  },
+  "18": {
+    "question": "Xương có vai trò làm giảm lực ma sát của các gân cơ:",
+    "options": {
+      "A": "Xương đốt ngón",
+      "B": "Xương bàn",
+      "C": "Xương vừng",
+      "D": "Xương phụ"
+    }
+  },
+  "19": {
+    "question": "Cấu tạo đai vai gồm những xương:",
+    "options": {
+      "A": "Xương tay và xương vai",
+      "B": "Xương đòn và xương vai",
+      "C": "Xương ức và xương cánh tay",
+      "D": "Xương đòn và xương ức"
+    }
+  },
+  "20": {
+    "question": "Xương nào sau đây không tham gia vào diện khớp cổ tay",
+    "options": {
+      "A": "Xương thuyền",
+      "B": "Xương tháp",
+      "C": "Xương nguyệt",
+      "D": "Xương đậu"
+    }
+  },
+  "21": {
+    "question": "Thành phần nào đi qua lỗ tam giác cánh tay tam đầu",
+    "options": {
+      "A": "Thần kinh quay",
+      "B": "Thần kinh nách",
+      "C": "Động mạch mũ cánh tay sau",
+      "D": "Động mạch mũ cánh tay trước"
+    }
+  },
+  "22": {
+    "question": "Lỗ tam giác vai tam đầu được giới hạn bởi",
+    "options": {
+      "A": "Cơ tròn bé, cơ tròn lớn, bờ ngoài xương vai",
+      "B": "Cơ tròn bé, cơ tròn lớn, đầu dài cơ tam đầu cánh tay",
+      "C": "Cơ tròn lớn, cơ lưng rộng, xương cánh tay",
+      "D": "Cơ tròn bé, cơ tròn lớn, xương cánh tay"
+    }
+  },
+  "23": {
+    "question": "Một nạn nhân tai nạn ở tô bị liệt tất cả các cơ dạng cánh tay, do tổn thương ở phần nào của đám rối cánh tay",
+    "options": {
+      "A": "Thân giữa và bó sau",
+      "B": "Thân giữa và bó ngoài",
+      "C": "Thân dưới và bó ngoài",
+      "D": "Thân trên và bó sau"
+    }
+  },
+  "24": {
+    "question": "Các cơ chủ vận để làm xoay ngoài cánh tay là",
+    "options": {
+      "A": "Cơ dưới gai và cơ tròn lớn",
+      "B": "Cơ dưới gai và cơ tròn bé",
+      "C": "Cơ tròn lớn và cơ tròn bé",
+      "D": "Cơ trên gai và cơ tròn lớn"
+    }
+  },
+  "25": {
+    "question": "Cơ nằm ở thành sau của nách",
+    "options": {
+      "A": "Cơ tròn lớn",
+      "B": "Cơ ngực lớn",
+      "C": "Cơ dưới dòn",
+      "D": "Cơ răng trước"
+    }
+  },
+  "26": {
+    "question": "Thành phần đi qua ổ tam giác vai tam đầu",
+    "options": {
+      "A": "Thần kinh quay",
+      "B": "Động mạch mũ vai",
+      "C": "Động mạch cánh tay sâu",
+      "D": "Thần kinh ngực lưng"
+    }
+  },
+  "27": {
+    "question": "Mô tả KHÔNG đúng khi nói về động mạch cánh tay",
+    "options": {
+      "A": "Động mạch cánh tay là phần nối tiếp với động mạch nách",
+      "B": "Đi trong ống cánh tay",
+      "C": "Nằm trong rãnh nhị đầu ngoài",
+      "D": "Chia làm 2 ngành cùng động mạch quay và động mạch trụ"
+    }
+  },
+  "28": {
+    "question": "Động tác cơ tam đầu cánh tay",
+    "options": {
+      "A": "Dạng cánh tay",
+      "B": "Khép cánh tay",
+      "C": "Duỗi cẳng tay",
+      "D": "Gấp cẳng tay"
+    }
+  },
+  "29": {
+    "question": "Động mạch cánh tay sâu là ngành bên của",
+    "options": {
+      "A": "Động mạch dưới đòn",
+      "B": "Động mạch nách",
+      "C": "Động mạch cánh tay",
+      "D": "Động mạch dưới vai"
+    }
+  },
+  "30": {
+    "question": "Thần kinh nào đi xuyên qua cơ quạ cánh tay",
+    "options": {
+      "A": "Thần kinh giữa",
+      "B": "Thần kinh trụ",
+      "C": "Thần kinh cơ bì",
+      "D": "Thần kinh quay"
+    }
+  },
+  "31": {
+    "question": "Thành phần đi trong rãnh nhị đầu trong",
+    "options": {
+      "A": "Động mạch cánh tay và thần kinh giữa",
+      "B": "Động mạch cánh tay và thần kinh trụ",
+      "C": "Động mạch cánh tay và thần kinh quay",
+      "D": "Động mạch cánh tay và thần kinh cơ bì"
+    }
+  },
+  "32": {
+    "question": "Trong trường hợp đứt gân gấp các ngón tay sâu, động tác nào có thể không thực hiện được",
+    "options": {
+      "A": "Gấp đốt gần ngón tay",
+      "B": "Gấp đốt xa ngón tay",
+      "C": "Gấp cổ tay",
+      "D": "Duỗi đốt xa ngón tay"
+    }
+  },
+  "33": {
+    "question": "Tư thế bàn tay rủ xuống do tổn thương",
+    "options": {
+      "A": "Thần kinh giữa",
+      "B": "Thần kinh trụ",
+      "C": "Thần kinh quay",
+      "D": "Thần kinh cơ bì"
+    }
+  },
+  "34": {
+    "question": "(I) Khi té trong tư thế chống bàn tay xuống đất, xương quay thường dễ gãy hơn xương trụ, vì  (II) Xương quay dài hơn xương trụ",
+    "options": {
+      "A": "Nếu (I) đúng, (II) đúng, (I) và (II) có liên quan nhân quả",
+      "B": "Nếu (I) đúng, (II) đúng, (I) và (II) không liên quan nhân quả",
+      "C": "Nếu (I) đúng, (II) sai",
+      "D": "Nếu (I) sai, (II) đủng"
+    }
+  },
+  "35": {
+    "question": "Cơ nào thuộc lớp nông vùng cẳng tay trước",
+    "options": {
+      "A": "Cơ gấp các ngón nông",
+      "B": "Cơ sấp tròn",
+      "C": "Cơ sấp vuông",
+      "D": "Cơ gấp các ngón sâu"
+    }
+  },
+  "36": {
+    "question": "Chi tiết nào ở mặt trong xương chậu",
+    "options": {
+      "A": "Đường cung",
+      "B": "Các đường mông",
+      "C": "Diện nguyệt",
+      "D": "Hố ổ cối"
+    }
+  },
+  "37": {
+    "question": "Điểm cao nhất của mào chậu tương ứng với đốt sống",
+    "options": {
+      "A": "Thắt lưng 2",
+      "B": "Thắt lưng 3",
+      "C": "Thắt lưng 4",
+      "D": "Cùng 1"
+    }
+  },
+  "38": {
+    "question": "Trường hợp gãy xương nào sau đây có thể gây tổn thương thần kinh mác chung",
+    "options": {
+      "A": "Gãy đầu trên xương chày",
+      "B": "Gãy đầu dưới xương chày",
+      "C": "Gãy thân xương mác",
+      "D": "Gãy cổ xương mác"
+    }
+  },
+  "39": {
+    "question": "Khớp hông là loại khớp",
+    "options": {
+      "A": "Khớp xoay",
+      "B": "Khớp phẳng",
+      "C": "Khớp lồi cầu",
+      "D": "Khớp chỏm"
+    }
+  },
+  "40": {
+    "question": "Đường kính lưỡng gai (liên gai) là đường nối giữa hai cấu trúc nào sau đây:",
+    "options": {
+      "A": "Hai gai chậu trước trên",
+      "B": "Hai gai chậu sau trên",
+      "C": "Hai gai chậu trước dưới",
+      "D": "Hai gai ngồi"
+    }
+  },
+  "41": {
+    "question": "Các cấu trúc bám vào mào lược xương mu, NGOẠI TRỪ:",
+    "options": {
+      "A": "Liềm bẹn",
+      "B": "Dây chằng bẹn",
+      "C": "Dây chằng lược",
+      "D": "Màng bịt"
+    }
+  },
+  "42": {
+    "question": "Góc được tạo bởi thân xương đùi và trục thẳng đứng là:",
+    "options": {
+      "A": "7⁰",
+      "B": "20⁰",
+      "C": "90⁰",
+      "D": "125⁰"
+    }
+  },
+  "43": {
+    "question": "Chi tiết nào sau đây giới hạn phía trước của mào chậu:",
+    "options": {
+      "A": "Gai chậu trước trên",
+      "B": "Gai chậu sau trên",
+      "C": "Gai chậu trước dưới",
+      "D": "Gai chậu sau dưới"
+    }
+  },
+  "44": {
+    "question": "Góc được tạo bởi thân xương đùi và cổ xương đùi là:",
+    "options": {
+      "A": "7⁰",
+      "B": "20⁰",
+      "C": "90⁰",
+      "D": "125⁰"
+    }
+  },
+  "45": {
+    "question": "Xương nào sau đây nằm ở hàng sau của nhóm xương cổ chân",
+    "options": {
+      "A": "Xương ghe",
+      "B": "Xương chêm",
+      "C": "Xương hộp",
+      "D": "Xương sên"
+    }
+  },
+  "46": {
+    "question": "Chi tiết ở mặt ngoài phần cánh xương chậu:",
+    "options": {
+      "A": "Mào chậu",
+      "B": "Đường cung",
+      "C": "Diện nhĩ",
+      "D": "Ba đường mông"
+    }
+  },
+  "47": {
+    "question": "Mô tả về xương đùi:",
+    "options": {
+      "A": "Là xương dài nhất cơ thể",
+      "B": "Có một chỏm tiếp khớp với lỗ bịt xương chậu",
+      "C": "Có một thân hình lăng trụ tam giác",
+      "D": "Có 2 lồi cầu ở đầu dưới tiếp khớp với xương chày và xương mác"
+    }
+  },
+  "48": {
+    "question": "Trong vòm ngang của bàn chân, xương được coi như là đỉnh vòm:",
+    "options": {
+      "A": "Xương chêm giữa",
+      "B": "Nền xương bàn chân II",
+      "C": "Nền xương bàn chân III",
+      "D": "Cả a và b đều đúng"
+    }
+  },
+  "49": {
+    "question": "Diện nguyệt của xương chậu:",
+    "options": {
+      "A": "Là mặt sụn che phủ toàn bộ ổ cối",
+      "B": "Là phần mặt khớp của xương chậu ăn khớp với chỏm đùi của xương đùi",
+      "C": "Là phần sụn lót ở đáy ổ cối",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "50": {
+    "question": "Diện khớp mắt cá ở đầu dưới xương mác khớp với:",
+    "options": {
+      "A": "Khuyết mác ở đầu dưới xương chày",
+      "B": "Diện khớp mác của xương chày",
+      "C": "Hố mắt cá ngoài",
+      "D": "Xương sên"
+    }
+  },
+  "51": {
+    "question": "Động tác của cơ mông lớn là",
+    "options": {
+      "A": "Dạng và duỗi đùi",
+      "B": "Xoay trong đùi",
+      "C": "Xoay ngoài đùi",
+      "D": "Gấp đùi"
+    }
+  },
+  "52": {
+    "question": "Thần kinh chi phối cho cơ mông bé",
+    "options": {
+      "A": "Thần kinh mông trên",
+      "B": "Thần kinh mông dưới",
+      "C": "Thần kinh bịt",
+      "D": "Thần kinh thẹn"
+    }
+  },
+  "53": {
+    "question": "Khi tổn thương dây thần kinh mác nông, người bệnh biểu hiện",
+    "options": {
+      "A": "Không có cử động nghiêng trong bàn chân",
+      "B": "Không có cử động nghiêng ngoài bàn chân",
+      "C": "Không có cử động duỗi ngón chân",
+      "D": "Không có cử động gập ngón chân"
+    }
+  },
+  "54": {
+    "question": "Thần kinh ngồi đi vào vùng mông thông qua",
+    "options": {
+      "A": "Lỗ bịt",
+      "B": "Lỗ ngồi lớn",
+      "C": "Lỗ ngồi bé",
+      "D": "Khuyết ở cối"
+    }
+  },
+  "55": {
+    "question": "Động tác của cơ tứ đầu đùi",
+    "options": {
+      "A": "Gấp đùi",
+      "B": "Dạng đùi",
+      "C": "Khép đùi",
+      "D": "Gấp cẳng chân"
+    }
+  },
+  "56": {
+    "question": "Trong tam giác đùi, từ trong ra ngoài của bó mạch thần kinh đùi là",
+    "options": {
+      "A": "Động mạch đùi, tĩnh mạch đùi, thần kinh đùi",
+      "B": "Động mạch đùi, thần kinh đùi, tĩnh mạch đùi",
+      "C": "Tĩnh mạch đùi, động mạch đùi, thần kinh đùi",
+      "D": "Tĩnh mạch đùi, thần kinh đùi, động mạch đùi"
+    }
+  },
+  "57": {
+    "question": "Thành phần nào KHÔNG đi qua ống cơ khép",
+    "options": {
+      "A": "Thần kinh hiển",
+      "B": "Tĩnh mạch hiển lớn",
+      "C": "Động mạch đùi và tĩnh mạch đùi",
+      "D": "Nhánh thần kinh đùi cho cơ rộng trong"
+    }
+  },
+  "58": {
+    "question": "Động mạch cấp máu chủ yếu cho vùng đùi sau là",
+    "options": {
+      "A": "Động mạch mông dưới",
+      "B": "Động mạch đùi sâu",
+      "C": "Động mạch mũ đùi trong",
+      "D": "Động mạch khoeo"
+    }
+  },
+  "59": {
+    "question": "Cơ nào KHÔNG thuộc vùng đùi trong",
+    "options": {
+      "A": "Cơ lược",
+      "B": "Cơ may",
+      "C": "Cơ thon",
+      "D": "Cơ khép lớn"
+    }
+  },
+  "60": {
+    "question": "Cơ không thuộc nhóm cơ chậu - mấu chuyển:",
+    "options": {
+      "A": "Cơ mông lớn",
+      "B": "Cơ mông nhỡ",
+      "C": "Cơ vuông đùi",
+      "D": "Cơ căng mạc đùi"
+    }
+  },
+  "61": {
+    "question": "Cơ được dùng làm mốc xác định bó mạch vùng mông:",
+    "options": {
+      "A": "Cơ bịt trong",
+      "B": "Cơ hình lê",
+      "C": "Cơ mông lớn",
+      "D": "Cơ mông nhỡ"
+    }
+  },
+  "62": {
+    "question": "Cơ được xem là cạnh trong của tam giác đùi:",
+    "options": {
+      "A": "Cơ may",
+      "B": "Cơ lược",
+      "C": "Cơ khép ngắn ùa",
+      "D": "Cơ khép dài"
+    }
+  },
+  "63": {
+    "question": "Cơ thuộc cơ vùng đùi trước:",
+    "options": {
+      "A": "Cơ vuông đùi",
+      "B": "Cơ bán gân",
+      "C": "Cơ bán màng",
+      "D": "Cơ thẳng đùi"
+    }
+  },
+  "64": {
+    "question": "Thần kinh chi phối cho cơ mác ba",
+    "options": {
+      "A": "Nhánh của thần kinh mác sâu",
+      "B": "Thần kinh mác chung",
+      "C": "Nhánh của thần kinh mác nông",
+      "D": "Thần kinh chày"
+    }
+  },
+  "65": {
+    "question": "Động tác của cơ khoeo",
+    "options": {
+      "A": "Gấp cổ chân",
+      "B": "Gấp cẳng chân",
+      "C": "Duỗi cổ chân",
+      "D": "Duỗi cẳng chân"
+    }
+  },
+  "66": {
+    "question": "Thần kinh chi phối cơ gấp ngón chân cái dài",
+    "options": {
+      "A": "Nhánh của thần kinh chày",
+      "B": "Nhánh của thần kinh mác sâu",
+      "C": "Nhánh của thần kinh mác nông",
+      "D": "Thần kinh mác chung"
+    }
+  },
+  "67": {
+    "question": "Cấu trúc nào đi dưới cung gân cơ dép",
+    "options": {
+      "A": "Động mạch khoeo",
+      "B": "Động mạch chày trước",
+      "C": "Động mạch chày sau",
+      "D": "Động mạch mác"
+    }
+  },
+  "68": {
+    "question": "Cơ thuộc khu cẳng chân ngoài:",
+    "options": {
+      "A": "Cơ mác ngắn",
+      "B": "Cơ mác ba",
+      "C": "Cơ duỗi ngón chân cái dài",
+      "D": "Cơ duỗi các ngón chân"
+    }
+  },
+  "69": {
+    "question": "Động tác của cơ tam đầu cẳng chân.",
+    "options": {
+      "A": "Duỗi cẳng chân",
+      "B": "Gấp cẳng chân",
+      "C": "Gấp các ngón chân",
+      "D": "Duỗi các ngòn chân"
+    }
+  },
+  "70": {
+    "question": "Dây thần kinh VII đi qua",
+    "options": {
+      "A": "Lỗ hạ thiệt",
+      "B": "Lỗ ống tai trong",
+      "C": "Khe ổ mắt trên",
+      "D": "Lỗ tĩnh mạch cảnh"
+    }
+  },
+  "71": {
+    "question": "Xương nào thuộc khối xương sọ mặt",
+    "options": {
+      "A": "Xương sàng",
+      "B": "Xương móng",
+      "C": "Xương bướm",
+      "D": "Xương chẩm"
+    }
+  },
+  "72": {
+    "question": "Khớp nào KHÔNG phải khớp bất động",
+    "options": {
+      "A": "Khớp trán đỉnh",
+      "B": "Khớp lamda",
+      "C": "Khớp lưỡng đỉnh",
+      "D": "Khớp thái dương hàm dưới"
+    }
+  },
+  "73": {
+    "question": "Xương sàng KHÔNG bao gồm",
+    "options": {
+      "A": "Xoăn mũi trên",
+      "B": "Xoăn mũi dưới",
+      "C": "Xoăn mũi giữa",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "74": {
+    "question": "Giới hạn giữa hố sọ trước và hố sọ giữa là",
+    "options": {
+      "A": "Phần sau thân xương bướm",
+      "B": "Phần đá xương thái dương",
+      "C": "Rãnh giao thoa thị giác",
+      "D": "Hố yên"
+    }
+  },
+  "75": {
+    "question": "Cơ vai móng, cơ ức đòn chũm và bụng sau cơ nhị thân giới hạn nên tam giác nào",
+    "options": {
+      "A": "Tam giác chẩm",
+      "B": "Tam giác dưới hàm",
+      "C": "Tam giác dưới cằm",
+      "D": "Tam giác cảnh"
+    }
+  },
+  "76": {
+    "question": "Cơ nào KHÔNG thuộc nhóm cơ dưới móng",
+    "options": {
+      "A": "Cơ ức móng",
+      "B": "Cơ giáp móng",
+      "C": "Cơ hàm móng",
+      "D": "Cơ vai móng"
+    }
+  },
+  "77": {
+    "question": "Tĩnh mạch cảnh trong, động mạch cảnh chung, thần kinh X, nằm trong tam giác nào",
+    "options": {
+      "A": "Tam giác dưới hàm",
+      "B": "Tam giác cảnh",
+      "C": "Tam giác cơ",
+      "D": "Tam giác chẩm"
+    }
+  },
+  "78": {
+    "question": "Tam giác nào KHÔNG thuộc tam giác cổ trước",
+    "options": {
+      "A": "Tam giác cảnh",
+      "B": "Tam giác vai đòn",
+      "C": "Tam giác cơ",
+      "D": "Tam giác dưới cằm"
+    }
+  },
+  "79": {
+    "question": "Lá nông mạc cổ tách làm 2 lá bao lấy:",
+    "options": {
+      "A": "Cơ vai móng",
+      "B": "Cơ thang",
+      "C": "Cơ bậc thang trước",
+      "D": "Cơ hàm móng"
+    }
+  },
+  "80": {
+    "question": "Vách mũi được tạo bởi",
+    "options": {
+      "A": "Xương mũi, xương lá mía, mảnh đứng xương sàng",
+      "B": "Xương lá mía, mảnh đứng xương sàng, sụn vách mũi",
+      "C": "Xương mũi, mảnh đứng xương sàng, sụn vách mũi",
+      "D": "Xương mũi, xương lá mía, sụn vách mũi"
+    }
+  },
+  "81": {
+    "question": "Lỗ hầu vòi tai nằm ở",
+    "options": {
+      "A": "Thành sau của hầu",
+      "B": "Thành trên của hầu",
+      "C": "Thành bên của hầu",
+      "D": "Thành trước của hầu"
+    }
+  },
+  "82": {
+    "question": "Đổ vào ngách mũi trên có các xoang",
+    "options": {
+      "A": "Xoang trán, xoang sàng trước và giữa",
+      "B": "Xoang trán, xoang bướm",
+      "C": "Xoang bướm, xoang sàng sau",
+      "D": "Xoang sàng trước, xoang sàng sau"
+    }
+  },
+  "83": {
+    "question": "Nếp phía trước của hố hạch nhân được gọi là",
+    "options": {
+      "A": "Lưỡi gà khẩu cái",
+      "B": "Nếp khẩu cái",
+      "C": "Cung khẩu cái - hầu",
+      "D": "Cung khẩu cái - lưỡi"
+    }
+  },
+  "84": {
+    "question": "Ngách mũi dưới có lỗ đổ của",
+    "options": {
+      "A": "Xoang trán",
+      "B": "Xoang sàng",
+      "C": "Xoang hàm",
+      "D": "Ống lệ mũi"
+    }
+  },
+  "85": {
+    "question": "Tuyến nước bọt mang tai có ống tiết đổ vào",
+    "options": {
+      "A": "Phần khẩu hầu",
+      "B": "Ổ miệng chính ngay phía trước khẩu cái lưỡi",
+      "C": "Tiền đình miệng, đối diện với răng cửa trên thứ hai",
+      "D": "Tiền đình miệng, đối diện với răng hàm trên thứ hai"
+    }
+  },
+  "86": {
+    "question": "Cơ làm căng dây thanh âm là:",
+    "options": {
+      "A": "Cơ nhẫn phễu bên",
+      "B": "Cơ giáp phễu",
+      "C": "Cơ nhẫn giáp",
+      "D": "Cơ liên phễu"
+    }
+  },
+  "87": {
+    "question": "Ngách mũi dưới có lỗ đổ của:",
+    "options": {
+      "A": "Xoang trán",
+      "B": "Xoang sàng",
+      "C": "Xoang hàm",
+      "D": "Ống lệ mũi"
+    }
+  },
+  "88": {
+    "question": "Lỗ hầu vòi tai nằm ở",
+    "options": {
+      "A": "Thành sau hầu mũi",
+      "B": "Thành sau hầu miệng",
+      "C": "Thành bên hầu mũi",
+      "D": "Thành bên hầu miệng"
+    }
+  },
+  "89": {
+    "question": "Tất cả các thành phần trong hộp sọ được cấp máu bởi",
+    "options": {
+      "A": "Động mạch cảnh trong, động mạch cảnh ngoài",
+      "B": "Động mạch dưới đòn, động mạch cảnh ngoài",
+      "C": "Động mạch dưới đòn, động mạch cảnh trong",
+      "D": "Động mạch đốt sống, động mạch cảnh ngoài"
+    }
+  },
+  "90": {
+    "question": "Động mạch nào KHÔNG là nhánh bên của động mạch cảnh ngoài",
+    "options": {
+      "A": "Động mạch hầu lên",
+      "B": "Động mạch hàm",
+      "C": "Động mạch chẩm",
+      "D": "Động mạch mặt"
+    }
+  },
+  "91": {
+    "question": "Thân động mạch cánh tay đầu chia thành hai nhánh là",
+    "options": {
+      "A": "Động mạch cảnh chung trái, động mạch cảnh chung phải",
+      "B": "Động mạch dưới đòn trái, động mạch dưới đòn phải",
+      "C": "Động mạch cảnh chung trái, động mạch dưới đòn trái",
+      "D": "Động mạch cảnh chung phải, động mạch dưới đòn phải"
+    }
+  },
+  "92": {
+    "question": "Động mạch cảnh chung chia đôi thành động mạch cảnh trong và động mạch cảnh ngoài ở ngang mức",
+    "options": {
+      "A": "Đốt sống cổ C2",
+      "B": "Đốt sống cổ C1",
+      "C": "Bờ trên sụn giáp",
+      "D": "Bờ dưới sụn giáp"
+    }
+  },
+  "93": {
+    "question": "Tĩnh mạch cảnh ngoài đổ máu vào",
+    "options": {
+      "A": "Tình mạch cảnh chung",
+      "B": "Tĩnh mạch cảnh trong",
+      "C": "Tĩnh mạch dưới đòn",
+      "D": "Tĩnh mạch chủ trên"
+    }
+  },
+  "94": {
+    "question": "Tiêu chuẩn chắc chắn nhất để phân biệt động mạch cảnh ngoài và động mạch cảnh trong ở vùng cổ là:",
+    "options": {
+      "A": "Động mạch cảnh ngoài nằm ở ngoài động mạch cảnh trong",
+      "B": "Động mạch cảnh ngoài có các nhánh bên ở vùng cổ",
+      "C": "Động mạch cảnh ngoài lớn hơn động mạch cảnh trong",
+      "D": "Động mạch cảnh trong nằm phía trong và sâu hơn động mạch cảnh ngoài"
+    }
+  },
+  "95": {
+    "question": "Động mạch đốt sống đi đến bờ dưới cầu não thì hợp nhất với động mạch bên đối diện trở thành:",
+    "options": {
+      "A": "Động mạch nền",
+      "B": "Động mạch màng não giữa",
+      "C": "Động mạch cảnh trong",
+      "D": "Động mạch hạ thiệt"
+    }
+  },
+  "96": {
+    "question": "Lỗ tròn cho thần kinh nào đi qua?",
+    "options": {
+      "A": "Thần kinh V1",
+      "B": "Thần kinh V2",
+      "C": "Thần kinh V3",
+      "D": "Thần kinh V"
+    }
+  },
+  "97": {
+    "question": "Thần kinh vận động cơ nâng mi trên",
+    "options": {
+      "A": "Thần kinh mắt",
+      "B": "Thần kinh thị giác",
+      "C": "Thần kinh vận nhãn",
+      "D": "Thần kinh ròng rọc"
+    }
+  },
+  "98": {
+    "question": "Lớp mạch nhãn cầu gồm",
+    "options": {
+      "A": "Màng mạch, thể mi, mống mắt",
+      "B": "Màng mạch, giác mạc, củng mạc",
+      "C": "Thể mi, mống mắt, giác mạc",
+      "D": "Màng mạch, thể mi, võng mạc"
+    }
+  },
+  "99": {
+    "question": "Cận thị là hình ảnh hiện ở",
+    "options": {
+      "A": "Trước điểm vàng",
+      "B": "Đúng vào điểm vàng",
+      "C": "Sau điểm vàng",
+      "D": "Dưới điểm vàng"
+    }
+  },
+  "100": {
+    "question": "Thành trước của hòm nhĩ được gọi là",
+    "options": {
+      "A": "Thành tĩnh mạch",
+      "B": "Thành động mạch",
+      "C": "Thành màng",
+      "D": "Thành chũm"
+    }
+  },
+  "101": {
+    "question": "Vòi nhĩ nối thông hòm nhĩ với",
+    "options": {
+      "A": "Các xoang mũi",
+      "B": "Hầu mũi",
+      "C": "Hầu miệng",
+      "D": "Khẩu hầu"
+    }
+  },
+  "102": {
+    "question": "Ranh giới giữa tiền phòng và hậu phòng là",
+    "options": {
+      "A": "Màng mạch",
+      "B": "Mống mắt",
+      "C": "Thể mi",
+      "D": "Giác mạc"
+    }
+  },
+  "103": {
+    "question": "Cấu trúc của nhãn cầu chứa tế bào hắc tố",
+    "options": {
+      "A": "Màng mạch",
+      "B": "Thể mi",
+      "C": "Mống mắt",
+      "D": "Võng mạc"
+    }
+  },
+  "104": {
+    "question": "Tủy gai tận cùng ở ngang mức",
+    "options": {
+      "A": "Bờ dưới đốt sống ngực 10 hay bờ trên đốt sống ngực 11",
+      "B": "Bờ dưới đốt sống ngực 11 hay bờ trên đốt sống ngực 12",
+      "C": "Bờ dưới đốt sống ngực 12 hay bờ trên đốt sống thắt lưng 1",
+      "D": "Bờ dưới đốt sống thắt lưng 1 hay bờ trên đốt sống thắt lưng 2"
+    }
+  },
+  "105": {
+    "question": "Cách xác định đoạn tủy dựa vào số mỏm gai",
+    "options": {
+      "A": "Đoạn cổ số đoạn tủy bằng số mỏm gai +1",
+      "B": "Đoạn ngực trên số đoạn tủy bằng số mỏm gai +2",
+      "C": "Đoạn ngực dưới số đoạn tủy bằng số mỏm gai +3",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "106": {
+    "question": "Ống trung tâm của tủy sống thông nối với",
+    "options": {
+      "A": "Não thất IV",
+      "B": "Não thất III",
+      "C": "Não thất bên",
+      "D": "Cống não"
+    }
+  },
+  "107": {
+    "question": "Thân não gồm",
+    "options": {
+      "A": "Cầu não, hành não",
+      "B": "Trung não, cầu não",
+      "C": "Trung não, cầu não, hành não",
+      "D": "Cầu não, hành não, tiểu não"
+    }
+  },
+  "108": {
+    "question": "Trong rãnh hành - cầu, có dây thần kinh nào thoát ra",
+    "options": {
+      "A": "VI",
+      "B": "VII",
+      "C": "VIII",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "109": {
+    "question": "Cuống tiểu não giữa thuộc",
+    "options": {
+      "A": "Trung não",
+      "B": "Hành não",
+      "C": "Cầu não",
+      "D": "Gian não"
+    }
+  },
+  "110": {
+    "question": "Liên quan phía dưới của cầu não là",
+    "options": {
+      "A": "Trung não",
+      "B": "Hành não",
+      "C": "Não thất IV",
+      "D": "Gian não"
+    }
+  },
+  "111": {
+    "question": "Rãnh phân chia thùy trán và thùy đỉnh là",
+    "options": {
+      "A": "Rãnh bên",
+      "B": "Rãnh trung tâm",
+      "C": "Rãnh sau trung tâm",
+      "D": "Rãnh trước trung tâm"
+    }
+  },
+  "112": {
+    "question": "Các mép dính gian bán cầu đại não gầm",
+    "options": {
+      "A": "Thế chai, vòm não, nhân đuôi, vách trong suốt",
+      "B": "Thể chai, vòm não, mép trước, vách trong suốt",
+      "C": "Thế chai, nhân đuôi, mép trước, vách trong suốt",
+      "D": "Thế chai, nhân đuôi, bao trong, bao ngoài"
+    }
+  },
+  "113": {
+    "question": "Thành phần nào KHÔNG thuộc đồi não",
+    "options": {
+      "A": "Vùng trên đồi",
+      "B": "Vùng dưới đồi",
+      "C": "Vùng hạ đồi",
+      "D": "Vùng sau đồi"
+    }
+  },
+  "114": {
+    "question": "Chất xám đại não KHÔNG tập trung ở",
+    "options": {
+      "A": "Vỏ đại não",
+      "B": "Nhân bèo",
+      "C": "Thể chai",
+      "D": "Nhân đuôi"
+    }
+  },
+  "115": {
+    "question": "Khi chọc dò dịch não tủy, người ta thường chọn vị trí",
+    "options": {
+      "A": "Khe gian đốt sống ngực 11 - ngực 12",
+      "B": "Khe gian đốt sống ngực 12 - thắt lưng 1",
+      "C": "Khe gian đốt sống thắt lưng 1 - thắt lưng 2",
+      "D": "Khe gian đốt sống thắt lưng 4 - thắt lưng 5"
+    }
+  },
+  "116": {
+    "question": "Động mạch nào không thuộc vòng động mạch não",
+    "options": {
+      "A": "Động mạch não trước",
+      "B": "Động mạch thông trước",
+      "C": "Động mạch não sau",
+      "D": "Động mạch nền"
+    }
+  },
+  "117": {
+    "question": "Màng não theo thứ tự từ ngoài vào trong là",
+    "options": {
+      "A": "Màng cứng, màng nuôi, màng nhện",
+      "B": "Màng cứng, màng nhện, màng nuôi",
+      "C": "Màng nhện, màng cứng, màng nuôi",
+      "D": "Màng nhện, màng nuôi, màng cứng"
+    }
+  },
+  "118": {
+    "question": "Động mạch não giữa chủ yếu cấp máu cho",
+    "options": {
+      "A": "Mặt trong bán cầu đại não",
+      "B": "Mặt ngoài bán cầu đại não",
+      "C": "Mặt dưới thùy thái dương, chẩm",
+      "D": "Các nhân nền, gian não"
+    }
+  },
+  "119": {
+    "question": "Thần kinh nào chi phối vận động các cơ ở lưỡi",
+    "options": {
+      "A": "TK IX",
+      "B": "TK X",
+      "C": "TK XI",
+      "D": "TK XII"
+    }
+  },
+  "120": {
+    "question": "Thần kinh nào chi phối cảm giác nôn ở 1/3 sau lưỡi",
+    "options": {
+      "A": "TK VII",
+      "B": "TK VII",
+      "C": "TK XII",
+      "D": "TK X"
+    }
+  },
+  "121": {
+    "question": "Nhãn cầu được vận động bởi các dây thần kinh",
+    "options": {
+      "A": "II, III, IV",
+      "B": "III, IV, V",
+      "C": "III, IV, VI",
+      "D": "III, VII, IX"
+    }
+  },
+  "122": {
+    "question": "Thần kinh nào chui qua lỗ ống tai trong",
+    "options": {
+      "A": "TK V",
+      "B": "TK VII",
+      "C": "TK XII",
+      "D": "TK X"
+    }
+  },
+  "123": {
+    "question": "Hệ thần kinh tự chủ",
+    "options": {
+      "A": "Hoàn toàn không chịu sự chỉ huy của vỏ não",
+      "B": "Chỉ tác động trên cơ trơn của các tuyến, các tạng và các mạch máu",
+      "C": "Gồm một trung khu thần kinh tự chủ và các sợi thần kinh từ trung khu này đến các cơ quan",
+      "D": "Gồm hai phần phần giao cảm và phần đối giao cảm"
+    }
+  },
+  "124": {
+    "question": "Có bao nhiêu loại hạch ngoại vi thần kinh tự chủ",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  "125": {
+    "question": "Đặc điểm phân biệt chính của đốt sống cổ là",
+    "options": {
+      "A": "Diện sườn ở thân đốt sống",
+      "B": "Thân đốt sống to, dày",
+      "C": "Lỗ ngang của đốt sống",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "126": {
+    "question": "Chi tiết nào của đốt sống có thể sờ được dưới da",
+    "options": {
+      "A": "Thân đốt sống",
+      "B": "Mỏm ngang",
+      "C": "Mỏm gai",
+      "D": "Mỏm khớp"
+    }
+  },
+  "127": {
+    "question": "Góc ức của xương ức",
+    "options": {
+      "A": "Là một góc lồi về phía sau",
+      "B": "Hai bờ bên có khuyết sườn 2",
+      "C": "Do thân ức hợp với mỏm ức tạo thành",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "128": {
+    "question": "Xương sườn nào sau đây là xương sườn cụt",
+    "options": {
+      "A": "Xương sườn I",
+      "B": "Xương sườn VII",
+      "C": "Xương sườn IX",
+      "D": "Xương sườn XI"
+    }
+  },
+  "129": {
+    "question": "Khớp giữa các đốt sống là",
+    "options": {
+      "A": "Khớp động",
+      "B": "Khớp bất động",
+      "C": "Khớp bán động",
+      "D": "Khớp hoạt dịch"
+    }
+  },
+  "130": {
+    "question": "Cột sống có bao nhiêu đoạn cong:",
+    "options": {
+      "A": "2 đoạn cong",
+      "B": "3 đoạn cong",
+      "C": "4 đoạn cong",
+      "D": "5 đoạn cong"
+    }
+  },
+  "131": {
+    "question": "Cột sống ngực có bao nhiêu đốt sống:",
+    "options": {
+      "A": "5 đốt sống",
+      "B": "7 đốt sống",
+      "C": "12 đốt sống",
+      "D": "14 đốt sống"
+    }
+  },
+  "132": {
+    "question": "Cấu trúc giải phẫu nào nhìn thấy ở mặt sau của xương cùng, NGOẠI TRỪ:",
+    "options": {
+      "A": "4 cặp lỗ cùng chậu",
+      "B": "Mào cùng trung gian",
+      "C": "Mào cùng giữa",
+      "D": "Lỗ cùng"
+    }
+  },
+  "133": {
+    "question": "Lỗ đốt sống được giới hạn bởi cấu trúc nào:",
+    "options": {
+      "A": "Thân đốt sống và cung đốt sống",
+      "B": "Thân đốt sống và cuống đốt sống",
+      "C": "Thân đốt sống và mảnh đốt sống",
+      "D": "Cuống đốt sống và cung đốt sống"
+    }
+  },
+  "134": {
+    "question": "Đốt sống nào còn được gọi là đốt đội:",
+    "options": {
+      "A": "Cổ 1",
+      "B": "Cổ 2",
+      "C": "Cổ 7",
+      "D": "Ngực 7"
+    }
+  },
+  "135": {
+    "question": "Đặc điểm chính để nhận diện đốt sống ngực là:",
+    "options": {
+      "A": "Diện sườn ở thân đốt sống",
+      "B": "Thân đốt sống to, dày",
+      "C": "Lỗ ở mỏm ngang của đốt sống",
+      "D": "Mỏm gai vuông"
+    }
+  },
+  "136": {
+    "question": "Đốt sống thắt lưng giống với cấu tạo đốt sống cổ, NGOẠI TRỪ:",
+    "options": {
+      "A": "Lỗ ngang",
+      "B": "Diện sườn",
+      "C": "Lỗ đốt sống",
+      "D": "Mỏm gai"
+    }
+  },
+  "137": {
+    "question": "Cột sống có bao nhiêu đĩa gian đốt sống:",
+    "options": {
+      "A": "23 đĩa gian đốt sống",
+      "B": "25 đĩa gian đốt sống",
+      "C": "34 đĩa gian đốt sống",
+      "D": "35 đĩa gian đốt sống"
+    }
+  },
+  "138": {
+    "question": "Cột sống cổ có bao nhiêu đốt sống:",
+    "options": {
+      "A": "5 đốt sống",
+      "B": "7 đốt sống",
+      "C": "12 đốt sống",
+      "D": "14 đốt sống"
+    }
+  },
+  "139": {
+    "question": "Cột sống thắt lưng có bao nhiêu đốt sống:",
+    "options": {
+      "A": "5 đốt sống",
+      "B": "7 đốt sống",
+      "C": "12 đốt sống",
+      "D": "14 đốt sống"
+    }
+  },
+  "140": {
+    "question": "Đốt sống cổ được ký hiệu là",
+    "options": {
+      "A": "C",
+      "B": "T",
+      "C": "L",
+      "D": "S"
+    }
+  },
+  "141": {
+    "question": "Đốt sống ngực được ký hiệu là:",
+    "options": {
+      "A": "C",
+      "B": "T",
+      "C": "L",
+      "D": "S"
+    }
+  },
+  "142": {
+    "question": "Đặc điểm riêng của đốt sống cổ I là:",
+    "options": {
+      "A": "Không có thân",
+      "B": "Có mỏm răng",
+      "C": "Có hố sườn trên là hô trọn vẹn",
+      "D": "Chỉ có một hổ sườn"
+    }
+  },
+  "143": {
+    "question": "Đặc điểm riêng của đốt sống cổ II là:",
+    "options": {
+      "A": "Không có thân",
+      "B": "Có mỏm răng",
+      "C": "Có hố sườn trên là hồ trọn vẹn",
+      "D": "Chỉ có một hố sườn"
+    }
+  },
+  "144": {
+    "question": "Đặc điểm riêng của đốt sống ngực I là:",
+    "options": {
+      "A": "Không có thân",
+      "B": "Có mỏm răng",
+      "C": "Hố sườn trên là hô trọn vẹn",
+      "D": "Chỉ có một hổ sườn"
+    }
+  },
+  "145": {
+    "question": "Đặc điểm riêng của đốt sống ngực XII là:",
+    "options": {
+      "A": "Không có thân",
+      "B": "Có mỏm răng",
+      "C": "Có hố sườn trên là hố trọn vẹn",
+      "D": "Chỉ có một hố sườn"
+    }
+  },
+  "146": {
+    "question": "Dây chằng nào sau đây nối thân các mỏm gai của các đốt sống lân cận:",
+    "options": {
+      "A": "Dây chằng gian gai",
+      "B": "Dây chằng trên gai",
+      "C": "Dây chằng dọc trước",
+      "D": "Dây chằng dọc sau"
+    }
+  },
+  "147": {
+    "question": "Dây chằng nào sau đây nối đỉnh các mỏm gai của các đốt sống lân cận:",
+    "options": {
+      "A": "Dây chằng gian gai",
+      "B": "Dây chằng trên gai",
+      "C": "Dây chằng dọc trước",
+      "D": "Dây chằng dọc sau"
+    }
+  },
+  "148": {
+    "question": "Số khuyết sườn ở hai bờ bên xương ức:",
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    }
+  },
+  "149": {
+    "question": "Các cơ thành ngực sau đây KHÔNG tham gia vào động tác hít vào",
+    "options": {
+      "A": "Cơ nâng sườn",
+      "B": "Nhóm trên của cơ gian sườn trong",
+      "C": "Cơ dưới sườn",
+      "D": "Nhóm dưới của cơ gian sườn trong"
+    }
+  },
+  "150": {
+    "question": "(I) Thoát vị bẹn hiếm khi xảy ra ở nữ, vì  (II) ở nữ không có ống bẹn",
+    "options": {
+      "A": "Nếu (I) đúng, (II) đúng, (I) và (II) có liên quan nhân quả",
+      "B": "Nếu (I) đúng, (II) đúng, (I) và (II) không có liên quan nhân quả",
+      "C": "Nếu (I) đúng, (II) sai",
+      "D": "Nếu (I) sai, (II) đúng"
+    }
+  },
+  "151": {
+    "question": "Cơ nào tham gia tạo nên liềm bẹn",
+    "options": {
+      "A": "Cơ thẳng bụng-Cơ ngang bụng",
+      "B": "Cơ chéo bụng trong-Cơ chéo bụng ngoài",
+      "C": "Cơ chéo bụng trong-Cơ ngang bụng",
+      "D": "Cơ chéo bụng ngoài-Cơ ngang bụng"
+    }
+  },
+  "152": {
+    "question": "Cơ gối đầu và cơ gối cổ thuộc lớp cơ nào vùng lưng gáy:",
+    "options": {
+      "A": "Lớp thứ ba của nhóm cơ nông",
+      "B": "Lớp thứ ba của nhóm cơ sâu",
+      "C": "Lớp thứ hai của nhóm cơ sâu",
+      "D": "Lớp thứ nhất của nhóm cơ sâu"
+    }
+  },
+  "153": {
+    "question": "Hố bẹn ngoài nằm ở vị trí nào:",
+    "options": {
+      "A": "Nằm trong nếp rốn trong",
+      "B": "Nằm ngoài nếp rốn ngoài",
+      "C": "Nằm giữa nếp rốn trong và nếp rốn giữa",
+      "D": "Nằm giữa nếp rốn ngoài và nếp rốn trong"
+    }
+  },
+  "154": {
+    "question": "Dây chằng nào có thể tìm thấy trong ống bẹn:",
+    "options": {
+      "A": "Dây chằng treo buồng trứng",
+      "B": "Dây chằng riêng buồng trứng",
+      "C": "Dây chằng tròn của tử cung",
+      "D": "Dây chằng rốn bên"
+    }
+  },
+  "155": {
+    "question": "Tam giác bẹn được giới hạn bởi:",
+    "options": {
+      "A": "Động mạch thượng vị trên, bờ ngoài cơ thẳng bụng, dây chằng bẹn",
+      "B": "Động mạch thượng vị dưới, bờ ngoài cơ thẳng bụng, dây chằng lược",
+      "C": "Động mạch thượng vị trên, bờ ngoài cơ chéo bụng ngoài, dây chằng bẹn",
+      "D": "Động mạch thượng vị dưới, bờ ngoài cơ thẳng bụng, dây chằng bẹn"
+    }
+  },
+  "156": {
+    "question": "Liềm bẹn là cấu trúc chủ yếu tạo nên thành nào của ống bẹn:",
+    "options": {
+      "A": "Thành trên",
+      "B": "Thành trước",
+      "C": "Thành dưới",
+      "D": "Thành sau"
+    }
+  },
+  "157": {
+    "question": "Cơ nào sau đây thuộc lớp giữa của các cơ thành ngực:",
+    "options": {
+      "A": "Cơ gian sườn ngoài",
+      "B": "Cơ gian sườn trong",
+      "C": "Cơ gian sườn trong cùng",
+      "D": "Cơ gian sườn giữa"
+    }
+  },
+  "158": {
+    "question": "Cơ dưới sườn thuộc lớp nào của các cơ thành ngực:",
+    "options": {
+      "A": "Lớp ngoài",
+      "B": "Lớp giữa",
+      "C": "Lớp trong",
+      "D": "Lớp trong cùng"
+    }
+  },
+  "159": {
+    "question": "Cơ hoành có nguyên ủy gồm các phần nào sau đây:",
+    "options": {
+      "A": "Phần ức, phần sườn, phần thắt lưng",
+      "B": "Phấn ức, phần hoành, phấn thắt lưng",
+      "C": "Phần sườn, phấn hoành, phân thắt lưng",
+      "D": "Phân ửc, phấn sườn, phấn hoành"
+    }
+  },
+  "160": {
+    "question": "Lỗ tĩnh mạch chủ của cơ hoành nằm ngang mức đốt sống nào:",
+    "options": {
+      "A": "N8-N9",
+      "B": "N9-10",
+      "C": "NI0-N11",
+      "D": "N11-N12"
+    }
+  },
+  "161": {
+    "question": "Lỗ thực quản của cơ hoành nằm ngang mức đốt sống nào:",
+    "options": {
+      "A": "N8",
+      "B": "N9",
+      "C": "N10",
+      "D": "N12"
+    }
+  },
+  "162": {
+    "question": "Tim nằm trong",
+    "options": {
+      "A": "Trung thất trên",
+      "B": "Trung thất trước",
+      "C": "Trung thất giữa",
+      "D": "Trung thất sau"
+    }
+  },
+  "163": {
+    "question": "Chọn câu ĐÚNG",
+    "options": {
+      "A": "Đáy tim nằm trên cơ hoành",
+      "B": "Tĩnh mạch tim giữa đi trong rãnh gian thất sau",
+      "C": "Xoang tĩnh mạch vành nằm ở mặt ức sườn của tim",
+      "D": "Tâm nhĩ trái có các tĩnh mạch phổi và tĩnh mạch chủ trên đổ vào"
+    }
+  },
+  "164": {
+    "question": "Mỏm tim thường nằm tương ứng với mức nào sau đây",
+    "options": {
+      "A": "Khoang gian sườn I, đường trung đòn trái",
+      "B": "Khoang gian sườn V, đường trung đòn trái",
+      "C": "Khoang gian sườn VII, đường trung đòn trái",
+      "D": "Khoang gian sườn IX, đường trung đòn trái"
+    }
+  },
+  "165": {
+    "question": "Chi tiết giải phẫu nào chạy từ mặt trước đến mặt hoành của tim",
+    "options": {
+      "A": "Rãnh vành",
+      "B": "Rãnh gian thất sau",
+      "C": "Rãnh tận cùng",
+      "D": "Rãnh gian nhĩ"
+    }
+  },
+  "166": {
+    "question": "Động mạch vành phải nằm giữa thân động mạch phổi với cấu trúc nào",
+    "options": {
+      "A": "Tiểu nhĩ phải",
+      "B": "Tiểu nhĩ trái",
+      "C": "Tâm nhĩ phải",
+      "D": "Tâm nhĩ trái"
+    }
+  },
+  "167": {
+    "question": "Thành phần nào đi trong rãnh gian thất trước",
+    "options": {
+      "A": "Động mạch vành phải và tĩnh mạch tim lớn",
+      "B": "Động mạch vành trái và tĩnh mạch tim lớn",
+      "C": "Động mạch vành phải và tĩnh mạch tim giữa",
+      "D": "Động mạch vành trái và tĩnh mạch tim giữa"
+    }
+  },
+  "168": {
+    "question": "Thành phần nào đổ vào tâm nhĩ phải của tim, NGOẠI TRỪ:",
+    "options": {
+      "A": "Xoang tĩnh mạch vành",
+      "B": "Tĩnh mạch chủ trên",
+      "C": "Tĩnh mạch phổi",
+      "D": "Tĩnh mạch chủ dưới"
+    }
+  },
+  "169": {
+    "question": "Tĩnh mạch nào đổ trực tiếp vào các buồng tim, NGOẠI TRỪ:",
+    "options": {
+      "A": "Tĩnh mạch tim chếch",
+      "B": "Xoang tĩnh mạch vành",
+      "C": "Tĩnh mạch tim cực nhỏ",
+      "D": "Tĩnh mạch tim trước"
+    }
+  },
+  "170": {
+    "question": "Tĩnh mạch tim lớn nằm ở vị trí nào của tim:",
+    "options": {
+      "A": "Rānh vành",
+      "B": "Rãnh gian thất sau",
+      "C": "Rãnh gian thất trước",
+      "D": "Rãnh tận cùng"
+    }
+  },
+  "171": {
+    "question": "Tĩnh mạch tim giữa năm ở vị trí nào của tim:",
+    "options": {
+      "A": "Rānh vành",
+      "B": "Ränh gian thất sau",
+      "C": "Ränh gian thất trước",
+      "D": "Rãnh tận cùng"
+    }
+  },
+  "172": {
+    "question": "Tĩnh mạch tim nhỏ nằm ở vị trí nào của tìm:",
+    "options": {
+      "A": "Ränh vành",
+      "B": "Ränh gian thất sau",
+      "C": "Ränh gian thất trước",
+      "D": "Ränh tận cùng"
+    }
+  },
+  "173": {
+    "question": "Lá màng phổi bọc sát và dính vào nhu mô phổi gọi là",
+    "options": {
+      "A": "Màng phổi thành",
+      "B": "Màng phổi tạng",
+      "C": "Màng phổi trung thất",
+      "D": "Màng phổi sườ"
+    }
+  },
+  "174": {
+    "question": "Thành phần KHÔNG nằm trong trung thất",
+    "options": {
+      "A": "Tuyến ức",
+      "B": "Phổi",
+      "C": "Tim",
+      "D": "Thực quản"
+    }
+  },
+  "175": {
+    "question": "Ranh giới giữa mặt sườn và mặt trung thất của phổi là",
+    "options": {
+      "A": "Bờ dưới",
+      "B": "Bờ trước",
+      "C": "Bờ sau",
+      "D": "Bờ ngoài"
+    }
+  },
+  "176": {
+    "question": "Đặc điểm nào sau đây là của phổi trái:",
+    "options": {
+      "A": "Có ba thùy",
+      "B": "Thùy trên có khuyết tim",
+      "C": "Có hai khe",
+      "D": "Quai tĩnh mạch đơn nằm trên rốn phổi"
+    }
+  },
+  "177": {
+    "question": "Khuyết tim nằm ở thùy nào của phổi:",
+    "options": {
+      "A": "Thùy giữa phổi phải",
+      "B": "Thùy dưới phổi phải",
+      "C": "Thùy trên phổi trái",
+      "D": "Thùy dưới phổi trái"
+    }
+  },
+  "178": {
+    "question": "Ấn nào sau đây nằm ở sau rốn phổi trái:",
+    "options": {
+      "A": "Ấn tĩnh mạch đơn",
+      "B": "Ấn động mạch dưới đòn",
+      "C": "Ấn động mạch chủ",
+      "D": "Ấn thực quản"
+    }
+  },
+  "179": {
+    "question": "Khi chọc dò dịch màng phổi, người ta khuyên đưa kim vào  I.\tBờ trên xương sườn ngay dưới vì  II.\tGiúp tránh tổn thương bó mạch gian sườn",
+    "options": {
+      "A": "Nếu (I) đúng, (II) đúng, (I) và (II) có liên quan nhân quả",
+      "B": "Nếu (I) đúng, (II) đúng, (I) và (II) không có liên quan nhân quả",
+      "C": "Nếu (I) đúng, (II) sai",
+      "D": "Nếu (I) sai, (II) đúng"
+    }
+  },
+  "180": {
+    "question": "Trung thất được chia thành các phần:",
+    "options": {
+      "A": "Trung thất trên, trung thất giữa, trung thất dưới, trung thất trước",
+      "B": "Trung thất trên, trung thất giữa, trung thất trước, trung thất sau",
+      "C": "Trung thất trên, trung thất trước, trung thất sau, trung thất dưới",
+      "D": "Trung thất trước, trung thất sau, trung thất giữa, trung thất dưới"
+    }
+  },
+  "181": {
+    "question": "Khí quản thường có bao nhiêu sụn:",
+    "options": {
+      "A": "11-20",
+      "B": "15-22",
+      "C": "16-20",
+      "D": "17-23"
+    }
+  },
+  "182": {
+    "question": "Khi nói về dị vật rơi vào đường hô hấp:  I. Dị vật thường rơi vào phế quản chính phải  II. Vi phế quản chính phải dài hơn phế quản chính trái",
+    "options": {
+      "A": "Nếu (I) đúng, (II) đúng, (1) và (II) có liên quan nhân quả",
+      "B": "Nếu (I) đúng, (II) đúng, (I) và (1) không có liên quan nhân quà",
+      "C": "Nếu (I) đúng, (lI) sai",
+      "D": "Nếu (I) sai, (lI) đúng"
+    }
+  },
+  "183": {
+    "question": "Đáy vị là",
+    "options": {
+      "A": "Phần thấp nhất của dạ dày",
+      "B": "Phần nối thân vị với hang vị",
+      "C": "Phần nối thân vị với ống môn vị",
+      "D": "Phần dạ dày nằm trên mặt phẳng nằm ngang đi qua khuyết tâm vị"
+    }
+  },
+  "184": {
+    "question": "Vòng động mạch bờ cong vị lớn được tạo nên bởi các động mạch",
+    "options": {
+      "A": "Động mạch vị phải và động mạch vị mạc nối phải",
+      "B": "Động mạch vị trái và động mạch vị mạc nối trái",
+      "C": "Động mạch vị phải và động mạch vị trái",
+      "D": "Động mạch vị mạc nối phải và động mạch vị mạc nối trái"
+    }
+  },
+  "185": {
+    "question": "Vị trí của lỗ môn vị ở",
+    "options": {
+      "A": "Ngang mức đốt sống thắt lưng 2",
+      "B": "Bên phải đốt sống thắt lưng 1",
+      "C": "Bên trái đốt sống thắt lưng 1",
+      "D": "Bên phải đốt sống thắt lưng 2"
+    }
+  },
+  "186": {
+    "question": "Thành phần nào đổ vào nhú tá lớn",
+    "options": {
+      "A": "Ống mật chủ, ống gan chung",
+      "B": "Ống tụy chính, ống gan chung",
+      "C": "Ống gan chung, ống túi mật",
+      "D": "Ống mật chủ, ống tụy chính"
+    }
+  },
+  "187": {
+    "question": "Mô tả đúng về tụy",
+    "options": {
+      "A": "Gồm đầu tụy, thân tụy, đuôi tụy và đáy tụy",
+      "B": "Khuyết tụy nằm giữa thân tụy và đuôi tụy",
+      "C": "Mỏm móc nằm ở đầu tụy",
+      "D": "Đuôi tụy gần như hình vuông"
+    }
+  },
+  "188": {
+    "question": "Mô tả nào về hình thể ngoài của dạ dày:",
+    "options": {
+      "A": "Hai mặt trong - ngoài, hai bờ trước-sau",
+      "B": "Gồm tâm vị, thân vị, đáy vị, môn vị",
+      "C": "Lỗ tâm vị thông với tá tràng"
+    }
+  },
+  "189": {
+    "question": "Phần nào của dạ dày phình to hình chöm cầu:",
+    "options": {
+      "A": "Tâm vị",
+      "B": "Đáy vị",
+      "C": "Thân vị",
+      "D": "Môn vị"
+    }
+  },
+  "190": {
+    "question": "Phần nào của dạ dày thường thấy chứa khí trên phim X quang:",
+    "options": {
+      "A": "Tâm vị",
+      "B": "Đáy vị",
+      "C": "Thân vị",
+      "D": "Môn vị"
+    }
+  },
+  "191": {
+    "question": "Khuyết góc nằm ở vị trí nào của dạ dày:",
+    "options": {
+      "A": "Bờ cong vị lớn",
+      "B": "Bờ cong vị nhỏ",
+      "C": "Mặt trước",
+      "D": "Mặt sau"
+    }
+  },
+  "192": {
+    "question": "Cấu trúc giải phẫu ngăn cách đáy vị với thực quản đoạn bụng:",
+    "options": {
+      "A": "Khuyết góc",
+      "B": "Khuyết tâm vị",
+      "C": "Khuyết đáy vị",
+      "D": "Co thắt môn vị"
+    }
+  },
+  "193": {
+    "question": "Vị trí dày nhất của lớp cơ dọc dạ dày là:",
+    "options": {
+      "A": "Bờ cong vị lớn",
+      "B": "Bờ cong vị bé",
+      "C": "Tâm vị",
+      "D": "Môn vị"
+    }
+  },
+  "194": {
+    "question": "Vị trí dày nhất của lớp cơ vòng dạ dày là:",
+    "options": {
+      "A": "Bờ cong vị lớn",
+      "B": "Bờ cong vị bé",
+      "C": "Tâm vị",
+      "D": "Môn vị"
+    }
+  },
+  "195": {
+    "question": "Đặc điểm để phân biệt ruột già và ruột non",
+    "options": {
+      "A": "Dải cơ dọc",
+      "B": "Túi phình kết tràng",
+      "C": "Túi thừa mạc nối",
+      "D": "Tất cả đúng"
+    }
+  },
+  "196": {
+    "question": "Đoạn ruột KHÔNG được cấp máu bởi động mạch hồi kết tràng",
+    "options": {
+      "A": "Đoạn cuối hồi tràng",
+      "B": "Manh tràng",
+      "C": "Kết tràng lên",
+      "D": "Kết tràng ngang"
+    }
+  },
+  "197": {
+    "question": "Động mạch mạc treo tràng trên KHÔNG cho nhánh đến",
+    "options": {
+      "A": "Ruột thừa",
+      "B": "Kết tràng ngang",
+      "C": "Góc kết tràng trái",
+      "D": "Góc kết tràng phải"
+    }
+  },
+  "198": {
+    "question": "Đoạn nào của đại tràng KHÔNG di động được",
+    "options": {
+      "A": "Manh tràng",
+      "B": "Đại tràng ngang",
+      "C": "Đại tràng sigma",
+      "D": "Đại tràng lên"
+    }
+  },
+  "199": {
+    "question": "Đoạn nào của đại tràng có đường kính lớn nhất",
+    "options": {
+      "A": "Góc đại tràng trái",
+      "B": "Đại tràng xuống",
+      "C": "Đại tràng lên",
+      "D": "Manh tràng"
+    }
+  },
+  "200": {
+    "question": "Dây chằng liềm treo mặt hoành của gan với",
+    "options": {
+      "A": "Thành bụng sau",
+      "B": "Thành bụng trước",
+      "C": "Thành bụng sau và cơ hoành",
+      "D": "Thành bụng trước và cơ hoành"
+    }
+  },
+  "201": {
+    "question": "Tĩnh mạch nào KHÔNG đổ về hệ tĩnh mạch cửa",
+    "options": {
+      "A": "Tĩnh mạch mạc treo tràng dưới",
+      "B": "Tĩnh mạch trực tràng dưới",
+      "C": "Tĩnh mạch lách",
+      "D": "Tĩnh mạch mạc treo tràng trên"
+    }
+  },
+  "202": {
+    "question": "Thành phần cuống gan gồm",
+    "options": {
+      "A": "Tĩnh mạch cửa, động mạch gan riêng, ống mật chủ",
+      "B": "Tĩnh mạch mạc treo tràng trên, tĩnh mạch lách, động mạch gan chung",
+      "C": "Tĩnh mạch cửa, động mạch gan riêng, tĩnh mạch gan, ống mật chủ",
+      "D": "Động mạch gan riêng, tĩnh mạch gan, ống gan chung"
+    }
+  },
+  "203": {
+    "question": "Vòng nối tĩnh mạch cửa với hệ thống tĩnh mạch chủ là",
+    "options": {
+      "A": "Vòng nối thực quản do tĩnh mạch vị trái nối với tĩnh mạch thực quản",
+      "B": "Vòng nối trực tràng do tĩnh mạch trực tràng trên nối với tĩnh mạch trực tràng giữa và dưới",
+      "C": "Vòng nối qua phúc mạc do các tĩnh mạch đại tràng nối với các tĩnh mạch thắt lưng",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "204": {
+    "question": "Dây chằng nào bản chất KHÔNG phải do lá phúc mạc tạo thành",
+    "options": {
+      "A": "Dây chằng vành",
+      "B": "Dây chằng liềm",
+      "C": "Dây chằng tam giác",
+      "D": "Dây chằng hoành gan"
+    }
+  },
+  "205": {
+    "question": "Đối chiếu lên thành cơ thể, đầu trên thận trái nằm ở",
+    "options": {
+      "A": "ở ngang bờ trên xương sườn XI",
+      "B": "Ở ngang bờ dưới xương sườn XI",
+      "C": "ở ngang bờ trên xương sườn XII",
+      "D": "ở ngang bờ dưới xương sườn XII"
+    }
+  },
+  "206": {
+    "question": "Mặt sau của thận thường được chia thành tầng ngực và tầng thắt lưng dựa vào",
+    "options": {
+      "A": "Xương sườn X",
+      "B": "Xương sườn XI",
+      "C": "Xương sườn XII",
+      "D": "Cơ hoành"
+    }
+  },
+  "207": {
+    "question": "Tam giác bàng quang được giới hạn bởi",
+    "options": {
+      "A": "Hai lỗ niệu quản và niệu đạo tiền liệt",
+      "B": "Hai lỗ niệu quản và lỗ niệu đạo trong",
+      "C": "Cổ bàng quang, lưỡi bàng quang và lỗ niệu đạo ngoài",
+      "D": "Lỗ niệu đạo trong, lưỡi bàng quang và lỗ niệu quản phải"
+    }
+  },
+  "208": {
+    "question": "Niệu đạo nữ tương ứng đoạn nào của niệu đạo nam",
+    "options": {
+      "A": "Niệu đạo tiền liệt",
+      "B": "Niệu đạo tiền liệt và niệu đạo màng",
+      "C": "Đoạn niệu đạo nam cố định",
+      "D": "Không có sự tương ứng"
+    }
+  },
+  "209": {
+    "question": "Cổ bàng quang là nơi gặp nhau của",
+    "options": {
+      "A": "Mặt trên, mặt đáy",
+      "B": "Mặt đáy, 2 mặt dưới bên",
+      "C": "Mặt trên, 2 mặt dưới bên",
+      "D": "2 mặt dưới bên"
+    }
+  },
+  "210": {
+    "question": "Dây chằng nào KHÔNG cố định tử cung",
+    "options": {
+      "A": "Dây chằng rộng",
+      "B": "Dây chằng tử cung - cùng",
+      "C": "Dây chằng tử cung - buồng trứng",
+      "D": "Dây chằng tròn"
+    }
+  },
+  "211": {
+    "question": "Có thể thăm khám gián tiếp túi cùng tử cung - trực tràng qua",
+    "options": {
+      "A": "Vòm âm đạo trước",
+      "B": "Vòm âm đạo bên",
+      "C": "Vòm âm đạo sau",
+      "D": "Không thể thăm khám"
+    }
+  },
+  "212": {
+    "question": "Tinh trùng được sinh ra tại",
+    "options": {
+      "A": "Ống sinh tinh xoắn",
+      "B": "Ống sinh tinh thẳng",
+      "C": "Ống dẫn tinh",
+      "D": "Ống phóng tinh"
+    }
+  },
+  "213": {
+    "question": "Thành phần nào không nằm trong tinh hoàn",
+    "options": {
+      "A": "Ống sinh tinh xoắn",
+      "B": "Ống sinh tinh thẳng",
+      "C": "Ống phóng tinh",
+      "D": "Ống xuất"
+    }
+  },
+  "214": {
+    "question": "Động mạch tử cung là nhánh của",
+    "options": {
+      "A": "Động mạch chủ bụng",
+      "B": "Động mạch sinh dục",
+      "C": "Động mạch chậu trong",
+      "D": "Động mạch chậu ngoài"
+    }
+  },
+  "215": {
+    "question": "Để thai dễ sổ ra ở những người sinh con so, thường cắt âm hộ ở vị trí",
+    "options": {
+      "A": "1 giờ hoặc 11 giờ",
+      "B": "3 giờ hoặc 9 giờ",
+      "C": "5 giờ hoặc 7 giờ",
+      "D": "6 giờ"
+    }
+  },
+  "216": {
+    "question": "Cơ nào KHÔNG có chức năng tống nước tiểu hay tinh dịch ra khỏi niệu đạo",
+    "options": {
+      "A": "Cơ ngang đáy chậu nông",
+      "B": "Cơ ngồi hang",
+      "C": "Cơ hành xốp",
+      "D": "Cơ thắt niệu đạo"
+    }
+  },
+  "217": {
+    "question": "Cơ nào KHÔNG bám vào trung tâm gân đáy chậu",
+    "options": {
+      "A": "Cơ ngồi hang",
+      "B": "Cơ hành xốp",
+      "C": "Cơ nâng hậu môn",
+      "D": "Cơ thắt ngoài hậu môn"
+    }
+  },
+  "218": {
+    "question": "Cấu trúc nào KHÔNG nằm trong khoang đáy chậu nông ở nam",
+    "options": {
+      "A": "Cơ thắt niệu đạo",
+      "B": "Gốc các tạng cương",
+      "C": "Cơ ngang đáy chậu nông",
+      "D": "Cơ hành xốp"
+    }
+  },
+  "219": {
+    "question": "Phẫu thuật viên thường chọn đường nào sau đây để vào túi mạc nối khi cần nối vị tràng",
+    "options": {
+      "A": "Qua lỗ mạc nối",
+      "B": "Qua mạc nối nhỏ làm sập phần mỏng của mạc nối nhỏ",
+      "C": "Qua mạc treo đại tràng ngang làm thủng mạc treo đại tràng ngang",
+      "D": "Bóc mạc dính giữa mạc nối lớn và mạc treo đại tràng ngang"
+    }
+  },
+  "220": {
+    "question": "Phần phúc mạc nối giữa các tạng với nhau được gọi là",
+    "options": {
+      "A": "Mạc treo",
+      "B": "Mạc dính",
+      "C": "Mạc chằng",
+      "D": "Mạc nối"
+    }
+  }
+}

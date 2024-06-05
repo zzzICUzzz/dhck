@@ -1,0 +1,2594 @@
+{
+  "1736": {
+    "question": "Tiến trình xử trí lồng ghép trẻ bệnh theo các bước nào sau đây:",
+    "options": {
+      "A": "Tham vấn, xác định điều trị, đánh giá",
+      "B": "Đánh giá và phân loại, xác định điều trị",
+      "C": "Phân loại, đánh giá, tham vấn cho bà me",
+      "D": "Đánh giá, tham vấn, xác định điều trị"
+    }
+  },
+  "1737": {
+    "question": "Trình tự thực hiện đánh giá và xử trí lồng ghép trẻ bệnh:",
+    "options": {
+      "A": "Dấu hiệu nguy hiểm toàn thân, ho hoặc khó thở, tiêu chảy",
+      "B": "Tiêu chảy, ho hoặc khó thở, suy dinh dưỡng và thiếu máu",
+      "C": "Sốt, ho hoặc khó thở, tiêu chảy",
+      "D": "Dấu hiệu nguy hiểm toàn thân, ho hoặc khó thở, sốt"
+    }
+  },
+  "1738": {
+    "question": "Phân loại bệnh và xác định điều trị của IMCI dựa trên nguyên tắc nào:",
+    "options": {
+      "A": "Phác đồ xử trí của Bộ Y tế",
+      "B": "Hướng dẫn của Cục y tế dự phòng",
+      "C": "Bảng phân loại 3 màu",
+      "D": "Phác đồ điều trị của Bệnh viện"
+    }
+  },
+  "1739": {
+    "question": "Xử trí lồng ghép trẻ bệnh từ 2 tháng đến 5 tuổi quan tâm đến bao nhiêu vấn đề chính:",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    }
+  },
+  "1740": {
+    "question": "Cách xử trí cho uống Oresol 100 ml/kg sau mỗi lần tiêu lỏng và cho 10 mg kẽm/ngày được áp dụng cho phân loại nào theo IMCI:",
+    "options": {
+      "A": "Trẻ 24 tháng, có mất nước, tiêu chảy kéo dài nặng",
+      "B": "Trẻ 16 tháng, không mất nước, tiêu chảy kéo dài",
+      "C": "Trẻ 12 tháng, không mất nước",
+      "D": "Trẻ 5 tháng, không mất nước"
+    }
+  },
+  "1741": {
+    "question": "Cách xử trí truyền dịch theo phác đồ, nếu không lấy được tĩnh mạch thì chuyển trẻ đến nơi có thể truyền dịch được (trong 30 phút) được áp dụng cho phân loại nào theo IMCI:",
+    "options": {
+      "A": "Có mất nước, lỵ",
+      "B": "Mất nước nặng, lỵ",
+      "C": "Có mất nước, tiêu chảy kéo dài nặng",
+      "D": "Không mất nước, tiêu chảy kéo dài"
+    }
+  },
+  "1742": {
+    "question": "Theo WHO 2005-2007, khi nào trẻ bị coi là nhẹ cân nặng:",
+    "options": {
+      "A": "Cân nặng theo tuổi < -2",
+      "B": "Cân nặng theo tuổi < -3",
+      "C": "Cân nặng theo chiều cao < -3",
+      "D": "Cân nặng theo chiều cao < -2"
+    }
+  },
+  "1743": {
+    "question": "Trẻ được gọi là suy dinh dưỡng bào thai trung bình khi nào:",
+    "options": {
+      "A": "Sanh dù tháng và cân nặng lúc sinh <2500gram",
+      "B": "Cân nặng lúc sanh < 2500 gram và chiều cao giảm",
+      "C": "Sanh non và cân nặng lúc sanh < 2500 gram",
+      "D": "Cân nặng lúc sanh < 2500 gram và vòng đầu giảm"
+    }
+  },
+  "1744": {
+    "question": "Biến chứng thường gặp nhất trong suy dinh dưỡng nặng:",
+    "options": {
+      "A": "Hạ thân nhiệt",
+      "B": "Xuất huyết",
+      "C": "Suy hô hấp",
+      "D": "Sốc"
+    }
+  },
+  "1745": {
+    "question": "Trẻ 20 tháng, bị suy dinh dưỡng nặng, cho uống vitamin A liều nào thích hợp:",
+    "options": {
+      "A": "100.000 UI uống 1 liều",
+      "B": "100.000 UI uống 3 liều",
+      "C": "200.000 UI uống 1 liều",
+      "D": "200.000 UI uống 3 liều"
+    }
+  },
+  "1746": {
+    "question": "Đối với trẻ suy dinh dưỡng có nhiều nguy cơ thì cho uống thuốc vitamin D dự phòng từ ngày thứ 7 sau sanh với liều bao nhiêu:",
+    "options": {
+      "A": "200 UI/ngày",
+      "B": "400 UI/ngày",
+      "C": "600 UI/ngày",
+      "D": "1000 UI/ngày"
+    }
+  },
+  "1747": {
+    "question": "Theo chương trình ARI, số lượng tên phân loại ho khó thở đối với trẻ < 2 tháng là bao nhiêu:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  "1748": {
+    "question": "Phân loại theo ARI cho trẻ 16 tháng tuổi có nhịp thở 40 lần/phút, bú kém, li bì khó đánh thức:",
+    "options": {
+      "A": "Không viêm phổi: ho cảm",
+      "B": "Bệnh rất nặng",
+      "C": "Viêm phổi",
+      "D": "Viêm phổi nặng"
+    }
+  },
+  "1749": {
+    "question": "Trẻ 12 tháng được phân loại viêm phổi theo ARI đến tái khám sau 2 ngày có các dấu hiệu: Sốt, thở 52 lần/phút, rút lõm ngực, cần xử trí gì tiếp theo:",
+    "options": {
+      "A": "Cho trẻ nhập viện",
+      "B": "Tiếp tục điều trị kháng sinh cho đủ ngày",
+      "C": "Hạ sốt - tăng liều kháng sinh",
+      "D": "Tiếp tục kháng sinh + hẹn 2 ngày tái khám"
+    }
+  },
+  "1750": {
+    "question": "Theo ARI, trẻ 23 tháng có ho, Sốt 2 ngày, sau đó Sốt co giật tự hết đến khám tại trạm y tế, bác sĩ nên làm gì tiếp theo:",
+    "options": {
+      "A": "Hoàn thành việc đánh giá nhanh chóng, chuyển lên tuyến trên",
+      "B": "Hoàn thành việc đánh giá, chuyển viện, chích kháng sinh liều đầu tiên",
+      "C": "Chích kháng sinh liều đầu tiên",
+      "D": "Thở oxy, chích kháng sinh, hạ sốt"
+    }
+  },
+  "1751": {
+    "question": "Trẻ 20 tháng ho, Sốt 3 ngày dược phân loại “viêm phổi” theo ARI, đến khám sau 2 ngày điều trị với tình trạng còn ho nhiều, thở 50 lần/phút. Hướng xử trí tiếp theo là gì:",
+    "options": {
+      "A": "Cho thêm thuốc ho",
+      "B": "Theo dõi liếp tình trạng ho, cho tiếp kháng sinh đó",
+      "C": "Đổi kháng sinh khác và cho 2 ngày, hẹn tái khám",
+      "D": "Tăng liều kháng sinh gấp đôi"
+    }
+  },
+  "1752": {
+    "question": "Chiến lược chăm sóc sức khỏe ban đầu cho trẻ em được viết tắt là gì:",
+    "options": {
+      "A": "IMCI",
+      "B": "CDD",
+      "C": "GOBIFFF",
+      "D": "ELEMENTS"
+    }
+  },
+  "1753": {
+    "question": "Theo nghị quyết 20/NQ TW, đến năm 2025, tỷ lệ suy dinh dưỡng thấp còi trẻ < 5 tuổi cần đạt ở mức nào:",
+    "options": {
+      "A": "<10%",
+      "B": "<15%",
+      "C": "<20%",
+      "D": "<25%"
+    }
+  },
+  "1754": {
+    "question": "Mục tiêu SDG 2.2 của Liên Hiệp Quốc nhằm xóa bỏ tất cả các loại hình còi xương vào thời điểm nào:",
+    "options": {
+      "A": "2020",
+      "B": "2025",
+      "C": "2030",
+      "D": "2035"
+    }
+  },
+  "1755": {
+    "question": "Mục tiêu SDG 3.2 của Lien Hiep Quoc nhằm giảm tỷ lệ tử vong sơ sinh trên toàn cầu đến mức nào:",
+    "options": {
+      "A": "9/1000 ca sinh sống",
+      "B": "12/1000 ca sinh sống",
+      "C": "15/1000 ca sinh sống",
+      "D": "18/1000 ca sinh sống"
+    }
+  },
+  "1756": {
+    "question": "Những việc cần làm khi tiến hành lọc bệnh ở trẻ em, NGOẠI TRỪ:",
+    "options": {
+      "A": "Hỏi lý do đến khám",
+      "B": "Quan sát trẻ",
+      "C": "Sờ tay chân trẻ",
+      "D": "Thử dextrostix"
+    }
+  },
+  "1757": {
+    "question": "Dấu hiệu cấp cứu trong quy trình lọc bệnh bao gồm bao nhiêu nhóm:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    }
+  },
+  "1758": {
+    "question": "Trong quy trình lọc bệnh, nhóm dấu hiệu cấp cứu đầu tiên, cần đánh giá là gì:",
+    "options": {
+      "A": "Hô hấp",
+      "B": "Sốc",
+      "C": "Mất nước nặng",
+      "D": "Co giật"
+    }
+  },
+  "1759": {
+    "question": "Trong quy trình lọc bệnh, nhóm dấu hiệu cấp cứu thứ ba, cần đánh giá là gì:",
+    "options": {
+      "A": "Tắc nghẽn đường thở",
+      "B": "Sốc",
+      "C": "Mất nước nặng",
+      "D": "Hôn mê"
+    }
+  },
+  "1760": {
+    "question": "Dấu hiệu chứng tỏ trẻ mất nước nặng trong lọc bệnh ở trẻ em:",
+    "options": {
+      "A": "Ngủ li bì, không uống được",
+      "B": "Mất trũng, uống háo hức",
+      "C": "Véo da mất rất chậm, kích thích",
+      "D": "Khát, nếp véo da mất chậm"
+    }
+  },
+  "1761": {
+    "question": "Khi trẻ có dấu hiệu mất nước nặng, cần kiểm tra thêm dấu hiệu nào trong quy trình lọc bệnh:",
+    "options": {
+      "A": "Phù cả 2 bàn chân",
+      "B": "Gầy mòn",
+      "C": "Suy dinh dưỡng",
+      "D": "Thiếu máu"
+    }
+  },
+  "1762": {
+    "question": "Trẻ mất nước nặng kèm suy dinh dưỡng nặng, thì hướng xử trí thích hợp là thế nào:",
+    "options": {
+      "A": "Chuyển viện nếu thời gian chuyển < 30 phút",
+      "B": "Đặt sonde dạ dày bù dịch",
+      "C": "Cho trẻ uống thêm ORESOL",
+      "D": "Gọi tuyến trên hỗ trợ"
+    }
+  },
+  "1763": {
+    "question": "Một trẻ 2 tuổi được người hàng xóm vớt lên từ ao cạnh nhà khi bà mẹ rời mắt khỏi trẻ trong khoảng 10 phút. Bé mê, tím tái toàn thân, không thở. Cha mẹ cháu vừa chạy lên nhưng người ta không cho đến gần. Người hàng xóm tiến hành xốc nước, một số người khác đốt lửa hơ nóng cháu và đưa trẻ đến bệnh viện.  Để giải quyết các xử trí chưa thích hợp tại hiện trường, lời khuyên tốt nhất dành cho thân nhân và những người hàng xóm:",
+    "options": {
+      "A": "Thực hiện CPR",
+      "B": "Không hơ lửa",
+      "C": "Không lăn lu",
+      "D": "Không sốc nước"
+    }
+  },
+  "1764": {
+    "question": "Một trẻ 2 tuổi được người hàng xóm vớt lên từ ao cạnh nhà khi bà mẹ rời mắt khỏi trẻ trong khoảng 10 phút. Bé mê, tím tái toàn thân, không thở. Cha mẹ cháu vừa chạy lên nhưng người ta không cho đến gần. Người hàng xóm tiến hành xốc nước, một số người khác đốt lửa hơ nóng cháu và đưa trẻ đến bệnh viện.  Tại khoa cấp cứu, điều cần làm trước tiên đối với ca này:",
+    "options": {
+      "A": "Đánh giá ABC",
+      "B": "Ấn tim và bóp bóng",
+      "C": "Nhanh chóng lấy tĩnh mạch",
+      "D": "Chụp X quang tim phổi"
+    }
+  },
+  "1765": {
+    "question": "Một trẻ 2 tuổi được người hàng xóm vớt lên từ ao cạnh nhà khi bà mẹ rời mắt khỏi trẻ trong khoảng 10 phút. Bé mê, tím tái toàn thân, không thở. Cha mẹ cháu vừa chạy lên nhưng người ta không cho đến gần. Người hàng xóm tiến hành xốc nước, một số người khác đốt lửa hơ nóng cháu và đưa trẻ đến bệnh viện.  Giả sử sau 30 phút hồi sức, bệnh nhi có nhịp tự thở tốt, môi hồng thì xử trí tiếp theo như thế nào:",
+    "options": {
+      "A": "Cho thở NCPAP",
+      "B": "Chuẩn bị thở máy",
+      "C": "Tiếp tục thở oxy",
+      "D": "Tiếp tục bóp bóng"
+    }
+  },
+  "1766": {
+    "question": "Một trẻ 2 tuổi được người hàng xóm vớt lên từ ao cạnh nhà khi bà mẹ rời mắt khỏi trẻ trong khoảng 10 phút. Bé mê, tím tái toàn thân, không thở. Cha mẹ cháu vừa chạy lên nhưng người ta không cho đến gần. Người hàng xóm tiến hành xốc nước, một số người khác đốt lửa hơ nóng cháu và đưa trẻ đến bệnh viện.  Giả sử sau 1 giờ hồi sức, X quang tim phổi thẳng của bệnh nhi có xẹp đỉnh phổi, mờ rải rác lan tỏa 2 phế trường, SpO2: 98% thì xử trí tiếp theo thế nào:",
+    "options": {
+      "A": "Giữ thông số NCPAP",
+      "B": "Chỉnh tăng P",
+      "C": "Cho kháng sinh tĩnh mạch",
+      "D": "Cho NaHCO3"
+    }
+  },
+  "1767": {
+    "question": "Một trẻ 2 tuổi được người hàng xóm vớt lên từ ao cạnh nhà khi bà mẹ rời mắt khỏi trẻ trong khoảng 10 phút. Bé mê, tím tái toàn thân, không thở. Cha mẹ cháu vừa chạy lên nhưng người ta không cho đến gần. Người hàng xóm tiến hành xốc nước, một số người khác đốt lửa hơ nóng cháu và đưa trẻ đến bệnh viện.  Nước mà trẻ hít vào trong trường hợp này ÍT gây ra biến chứng nào nhất:",
+    "options": {
+      "A": "Gây shunt động-tĩnh mạch",
+      "B": "Gây mất surfactant",
+      "C": "Gây xẹp phổi",
+      "D": "Gây giảm natri máu"
+    }
+  },
+  "1768": {
+    "question": "Một trẻ 2 tuổi được người hàng xóm vớt lên từ ao cạnh nhà khi bà mẹ rời mắt khỏi trẻ trong khoảng 10 phút. Bé mê, tím tái toàn thân, không thở. Cha mẹ cháu vừa chạy lên nhưng người ta không cho đến gần. Người hàng xóm tiến hành xốc nước, một số người khác đốt lửa hơ nóng cháu và đưa trẻ đến bệnh viện.  Giả sử sau 1 giờ hồi sức, bệnh nhi có khí máu động mạch pH: 7,20; PaCO2: 34 mmHg; HCO3: 18 mmol/l thì rối loạn của trẻ là gì:",
+    "options": {
+      "A": "Toan chuyển hóa",
+      "B": "Kiềm chuyển hóa",
+      "C": "Toan hô hấp",
+      "D": "Kiềm hô hấp"
+    }
+  },
+  "1769": {
+    "question": "Rối loạn toan kiềm thường gặp nhất của trẻ ngạt nước:",
+    "options": {
+      "A": "Toan chuyển hóa",
+      "B": "Toan hô hấp",
+      "C": "Toan kiềm hỗn hợp",
+      "D": "Tùy bệnh nhân"
+    }
+  },
+  "1770": {
+    "question": "Các nội dung chính của tích cực trong xử trí sốc nhiễm khuẩn, NGOẠI TRỪ:",
+    "options": {
+      "A": "Nhận diện sớm",
+      "B": "Truyền dịch nhanh",
+      "C": "Chích tủy xương sớm",
+      "D": "Cho hydrocortison sớm"
+    }
+  },
+  "1771": {
+    "question": "Trình tự ưu tiên cần đạt khi điều trị tích cực sớm trong sốc nhiễm khuẩn là:",
+    "options": {
+      "A": "Đảm bảo thông khí, CVP, HA trung bình, ScvO2",
+      "B": "CVP, HA trung bình, ScvO2, đảm bảo thông khí",
+      "C": "HA trung bình, ScvO2, đảm bảo thông khí, CVP",
+      "D": "ScvO2, đảm bảo thông khí, CVP, HA trung bình"
+    }
+  },
+  "1772": {
+    "question": "Điều trị tích cực sớm trong sốc nhiễm khuẩn, việc cần làm khi CVP 6 mmHg:",
+    "options": {
+      "A": "Truyền điện giải/cao phân tử",
+      "B": "Truyền hồng cầu lắng",
+      "C": "Truyền thuốc co mạch",
+      "D": "Truyền thuốc trợ tim"
+    }
+  },
+  "1773": {
+    "question": "Việc cần thực hiện trong điều trị tích cực sớm trong sốc nhiễm khuẩn khi CVP là 10 mmHg và HA trung bình là 55 mmHg:",
+    "options": {
+      "A": "Truyền dung dịch điện giải",
+      "B": "Truyền dung dịch cao phân từ",
+      "C": "Truyền hồng cầu lắng",
+      "D": "Truyền thuốc co mạch"
+    }
+  },
+  "1774": {
+    "question": "Cần cho y lệnh gì trước tiên khi CVP và HA trung bình đạt mục tiêu nhưng ScvO2 < 70% trong điều trị tích cực sớm trong sốc nhiễm khuẩn:",
+    "options": {
+      "A": "Truyền dung dịch điện giải",
+      "B": "Truyền dung dịch cao phân từ",
+      "C": "Truyền hồng cầu lắng",
+      "D": "Truyền thuốc co mạch"
+    }
+  },
+  "1775": {
+    "question": "Trong điều trị tích cực sớm trong sốc nhiễm khuẩn, biện pháp cần thực hiện tiếp theo khi ScvO2 vẫn còn < 70%:",
+    "options": {
+      "A": "Truyền dung dịch điện giải",
+      "B": "Truyền dung dịch cao phân từ",
+      "C": "Truyền hồng cầu lắng",
+      "D": "Truyền thuốc tăng co bóp cơ tim"
+    }
+  },
+  "1776": {
+    "question": "Liều đầu tiên của dung dịch mặn ngọt đẳng trương trong chống sốc nhiễm khuẩn theo khuyến cáo mới nhất là bao nhiêu:   Câu 1777: Thuốc vận mạch được lựa chọn ưu tiên trong chống sốc nhiễm khuẩn hiện nay là gì",
+    "options": {
+      "A": "Norepinephrine",
+      "B": "Epinephrine",
+      "C": "Dobutamine",
+      "D": "Dopamine"
+    }
+  },
+  "1778": {
+    "question": "Triệu chứng lâm sàng giúp chẩn đoán sốc nhiễm khuẩn ở trẻ nhỏ:",
+    "options": {
+      "A": "Viêm phổi và mạch tăng, huyết áp khó đo",
+      "B": "Bú kém, thời gian phục hồi màu da tăng, tiểu ít",
+      "C": "Ngủ li bì, sốt cao và da nổi bông",
+      "D": "Chi lạnh, thở nhanh và huyết áp tụt"
+    }
+  },
+  "1779": {
+    "question": "Xử trí sốc nhiễm khuẩn trong giờ đầu, quan trọng nhất là:",
+    "options": {
+      "A": "Hồi sức hô hấp, tuần hoàn, dùng kháng sinh",
+      "B": "Dùng kháng sinh sớm, thích hợp",
+      "C": "Giải quyết ổ nhiễm khuẩn",
+      "D": "Xử trí hạ calci máu và hạ đường máu"
+    }
+  },
+  "1780": {
+    "question": "Mục tiêu quan trọng nhất cần đạt trong giờ đầu xử trí chống sốc nhiễm khuẩn là:",
+    "options": {
+      "A": "Nhịp tim và huyết áp theo tuổi trở về bình thường",
+      "B": "CRT < 2 giây, mạch rõ",
+      "C": "Không có sự khác biệt giữa mạch trung tâm và ngoại biên",
+      "D": "Các chỉ số sinh học theo tuổi trở về bình thường"
+    }
+  },
+  "1781": {
+    "question": "Khuyến cáo dịch truyền chống sốc nhiễm khuẩn như thế nào là phù hợp nhất:",
+    "options": {
+      "A": "Ưu tiên chọn Lactate Ringer hơn NaCl 0,9%",
+      "B": "Ưu tiên huyết tương tươi đông lạnh hơn hồng cầu lắng",
+      "C": "Ưu tiên cao phân tử hơn NaCl 0,9%",
+      "D": "Bắt buộc NaCl 0,9% trước, sau đó mới đến cao phân tử"
+    }
+  },
+  "1782": {
+    "question": "Ở nơi không có đơn vị hồi sức nhi, tổng lượng dịch trong giờ đầu chống sốc nhiễm khuẩn ở trẻ được khuyến cáo là:",
+    "options": {
+      "A": "Không quá 20 ml/kg",
+      "B": "Không quá 40 ml/kg",
+      "C": "Không quá 60 ml/kg",
+      "D": "Không quá 80 ml/kg"
+    }
+  },
+  "1783": {
+    "question": "Lựa chọn Dopamin điều trị sốc nhiễm khuẩn giai đoạn sốc lạnh khi thỏa những điều kiện sau, NGOẠI TRỪ:",
+    "options": {
+      "A": "Không có epinephrine",
+      "B": "Không có Norepinephrine",
+      "C": "Không có milrinone",
+      "D": "Đã dùng epinephrine và Norepinephrine liều > 0,03 ug/kg/phút mà chưa cải thiện huyết động"
+    }
+  },
+  "1784": {
+    "question": "Trẻ 15 tháng, 10 kg, bị viêm não và cần nuôi ăn tĩnh mạch hoàn toàn. Lượng aminoplasmal 10% cần thiết cho trẻ trong ngày đầu tiên khoảng bao nhiêu là thích hợp nhất:",
+    "options": {
+      "A": "50 ml",
+      "B": "75 ml",
+      "C": "100 ml",
+      "D": "125 ml"
+    }
+  },
+  "1785": {
+    "question": "Trẻ 6 tuổi, 20 kg, bị viêm não và cần nuôi ăn tĩnh mạch hoàn toàn. Lượng dịch cần thiết cho trẻ trong 1 ngày khoảng bao nhiêu là thích hợp nhất:",
+    "options": {
+      "A": "2000 ml/ngày",
+      "B": "1500 ml/ngày",
+      "C": "1250 ml/ngày",
+      "D": "1050 ml/ngày"
+    }
+  },
+  "1786": {
+    "question": "Bé 24 tháng, 12 kg bị tiêu chảy vào viện với tình trạng mạch 110 lần/phút, huyết áp 70/40 mmHg, co giật và natri máu 120 mEq/L. Xử trí thích hợp nhất cho trẻ này là gì:",
+    "options": {
+      "A": "Lactat ringer 240 ml TTM/1 giờ, NaCl 3% 50 ml TTM/30 phút",
+      "B": "Lactate ringer 360 ml TTM/30 phút, NaCL 3% 100ml TTM/1 giờ",
+      "C": "ORS 900ml uống/4 giờ, Kẽm nguyên tố 20 mg",
+      "D": "Lactate in dextrose 5% 90 ml/h x 4 giờ, NaHCO3 10 ml TMC"
+    }
+  },
+  "1787": {
+    "question": "Bé 12 tháng, 10 kg, tiêu chảy cấp, có mất nước, thở nhanh nông, kali máu là 2 mmol/l và có rối loạn nhịp tim trên ECG. Xử trí nào sau đây là thích hợp nhất:",
+    "options": {
+      "A": "ORS 800 ml uống trong 4 giờ, uống thêm 1-2 viên kaldyum/ngày",
+      "B": "ORS 800 ml uống trong 4 giờ, KCl 10% 4 ml + 125 ml Glucose 5% TTM 130 ml/h",
+      "C": "ORS uống 100 ml sau mỗi lần tiêu lỏng, do lại ECG và điện giải đồ sau 4 giờ",
+      "D": "ORS uống 50ml sau mỗi lần tiêu lỏng, ăn thêm nhiều chuối"
+    }
+  },
+  "1788": {
+    "question": "Xử trí cơn tím thiếu oxy như thế nào là hợp lý:",
+    "options": {
+      "A": "Tư thế gối ngực, morphin, bicarbonate, truyền dịch",
+      "B": "Nằm đầu cao, oxymask, digoxin",
+      "C": "Nằm đầu cao, prostaglandin El, propranolol",
+      "D": "Tư thế gối ngực, dopamin, bicarbonate"
+    }
+  },
+  "1789": {
+    "question": "Hình ảnh siêu âm tim trong cơn tím thiếu oxy:",
+    "options": {
+      "A": "Hẹp đường thoát thất phải",
+      "B": "Thông liên thất",
+      "C": "EF, SF thường giảm nhiều",
+      "D": "Luồng shunt phải-trái tăng hơn so với trước đó"
+    }
+  },
+  "1790": {
+    "question": "Triệu chứng gợi ý cơn tím thiếu oxy, không phải suy tim:",
+    "options": {
+      "A": "Phế âm: phổi ran ẩm",
+      "B": "Gan to",
+      "C": "Siêu âm tim: giảm lưu lượng máu lên phổi",
+      "D": "X quang ngực: tăng tuần phổi, bóng tim to"
+    }
+  },
+  "1791": {
+    "question": "Tiêu chuẩn chẩn đoán cao huyết áp nặng do u tuỷ thượng thận:",
+    "options": {
+      "A": "95th percentile < HA tâm thu < 99th percentile theo tuổi, chiều cao và giới; bệnh cảnh não do cao huyết áp, tăng catecholamin nước tiểu",
+      "B": "99th percentile < HA tâm thu theo tuổi, chiều cao và giới; nhức đầu, nôn ói, mạch chậm, phù gai thị",
+      "C": "95th percentile < HA tâm thu < 99th percentile theo tuổi, chiều cao và giới; béo phì, tăng cortisol máu, tăng 1 7 OH, 17 KS trong nước tiểu",
+      "D": "99th percentile < HA tâm thu theo tuổi, chiều cao và giới; sang thương da + tiểu ít + tiểu máu 4- phù 4- TPTNT: tiểu đạm, tiểu máu"
+    }
+  },
+  "1792": {
+    "question": "Thuốc hạ áp được chỉ định đầu tiên trong điều trị cao huyết áp mãn tính ở trẻ em:",
+    "options": {
+      "A": "Hydrochlorothiazide: 0,5-4 mg/kg/ngày",
+      "B": "Nifedipin: 0,25- 2 mg/kg/ngày",
+      "C": "Furosemid: 1-2 mg/kg/ngày",
+      "D": "Captopril: 1-6 mg/kg/ngày"
+    }
+  },
+  "1793": {
+    "question": "Hình ảnh ECG phù hợp với tình trạng tăng huyết áp diễn tiến đã lâu:",
+    "options": {
+      "A": "Dày thất trái, dạng tăng gánh tâm thu, trục lệch trái, có thể blốc nhánh trái",
+      "B": "Dày thất trái, dạng tăng gánh tâm trương, trục lệch trái, có thể blốc nhánh trái",
+      "C": "Dày thất phải, dạng tăng gánh tâm thu, trục lệch phải, có thể blốc nhánh phải",
+      "D": "Dày thất phải, dạng tăng gánh tâm trương, trục lệch phải, có thể block"
+    }
+  },
+  "1794": {
+    "question": "Chẩn đoán suy tim theo tiêu chuẩn Châu Âu đề nghị, NGOẠI TRỪ:",
+    "options": {
+      "A": "Điều trị trợ tim bằng Digoxin thấy có chậm nhịp tim",
+      "B": "Trẻ có triệu chứng cơ năng suy tim khi nghi",
+      "C": "Trẻ có triệu chứng thực thể khách quan của bệnh tim",
+      "D": "Có nhịp tim nhanh"
+    }
+  },
+  "1795": {
+    "question": "Nguyên tắc chính để điều trị suy tim:",
+    "options": {
+      "A": "Cung cấp oxy; tăng sức co bóp cơ tim; giảm hậu tải; giảm tiền tải, cứu sống và cải thiện chất lượng cuộc sống",
+      "B": "Cung cấp oxy; nghỉ ngơi; lợi tiểu; điều trị triệu chứng; tầng co bóp cơ tim",
+      "C": "Cung cấp oxy; nghỉ ngơi; ăn lạt; lợi tiểu; thuốc dãn mạch",
+      "D": "Cung cấp oxy; tăng co bóp cơ tim; giảm công của tim; điều trị nguyên nhân, cứu sống và cải thiện chất lượng cuộc sống"
+    }
+  },
+  "1796": {
+    "question": "Cách chia liều Digoxin tấn công trong điều trị suy tim phù hợp nhất:",
+    "options": {
+      "A": "1/3, 1/3 và ⅓",
+      "B": "1/4, 1/4 và ½",
+      "C": "1/2, 1/4 và 1/4",
+      "D": "2/3, 1/6 và 1/6"
+    }
+  },
+  "1797": {
+    "question": "Cơ chế gây suy tim của thông liên nhĩ:",
+    "options": {
+      "A": "Tiền tải, tăng sức co bóp",
+      "B": "Tiền tải, giảm sức co bóp",
+      "C": "Hậu tải, tăng sức co bóp",
+      "D": "Hậu tải, giảm sức co bóp"
+    }
+  },
+  "1798": {
+    "question": "Kênh nhĩ thất bán phần là tổn thương ở vị trí nào:",
+    "options": {
+      "A": "Vách liên thất",
+      "B": "Vách liên nhĩ ở phần cao",
+      "C": "Vách liên nhĩ phần thấp và vách liên nhĩ-thất",
+      "D": "Vách liên nhĩ phần thấp"
+    }
+  },
+  "1799": {
+    "question": "Hình ảnh X-quang của bệnh còn ống động mạch:",
+    "options": {
+      "A": "Giảm tưới máu, bóng tim có thể to, cung động mạch phổi bình thường",
+      "B": "Giảm tưới máu, bóng tim có thể không to, khuyết cung động mạch phổi",
+      "C": "Tăng tưới máu, bóng tim có thể lo, khuyết cung động mạch phổi",
+      "D": "Tăng tưới máu, bóng tim to, phồng cung động mạch phổi"
+    }
+  },
+  "1800": {
+    "question": "Biểu hiện sinh lý của tứ chứng Fallot:",
+    "options": {
+      "A": "Hẹp đường thoát thất trái",
+      "B": "Tăng gánh áp suất thất phải",
+      "C": "Có shunt từ thất trái sang thất phải",
+      "D": "Có tăng áp lực động mạch phổi"
+    }
+  },
+  "1801": {
+    "question": "Gợi ý bệnh tay chân miệng có biến chứng:",
+    "options": {
+      "A": "11.000/mm³",
+      "B": "12.000/mm³",
+      "C": "15.000/mm³",
+      "D": "17.000/mm³"
+    }
+  },
+  "1802": {
+    "question": "Khám vì sốt cao ngày 2 và loét miệng, khám bé bóng nước trên nền hồng ban lòng bàn tay chân, giật mình chới với trong lúc khám, tim đều 130 lần/phút. Phân độ bệnh tay chân miệng phù hợp:",
+    "options": {
+      "A": "2a",
+      "B": "2b nhóm 1",
+      "C": "2b nhóm 2",
+      "D": "3"
+    }
+  },
+  "1803": {
+    "question": "Mạch nảy mạnh chìm sâu-nhanh, tăng động thất trái, hiệu số HA xa nhau phù hợp với bệnh lý nào:",
+    "options": {
+      "A": "Tứ chứng Fallot",
+      "B": "Còn ống động mạch",
+      "C": "Thông liên nhĩ",
+      "D": "Thông liên thất"
+    }
+  },
+  "1804": {
+    "question": "Hình ảnh ECG điển hình của thông liên thất:",
+    "options": {
+      "A": "Trục phải, block nhánh phải, dày thất phải",
+      "B": "Trục trái, block nhánh trái, dày thất phải",
+      "C": "Trục phải, block nhánh trái, dày thất trái",
+      "D": "Trục trái, block nhánh trái, dày thất trái"
+    }
+  },
+  "1805": {
+    "question": "Điều trị phẫu thuật bệnh thông liên thất chủ yếu thuộc nhóm nào:",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    }
+  },
+  "1806": {
+    "question": "Điều trị cho thở oxy, morphine 1 mg/kg tiêm bắp, natri bicarbonat 1 mEq/kg tiêm mạch và propranolol 0,5 mg/kg uống mỗi 6 giờ được chỉ định cho trường hợp nào sau đây:",
+    "options": {
+      "A": "Cơn tím thiếu oxy",
+      "B": "Suy tim ứ huyết/Thông liên thất",
+      "C": "Cao huyết áp nặng/Hẹp eo động mạch chủ",
+      "D": "Tứ chứng Fallot"
+    }
+  },
+  "1807": {
+    "question": "Bệnh nhi mắc tim bẩm sinh, được chẩn đoán suy tim ứ huyết. Kết quả siêu âm tim nào sau đây ít phù hợp nhất:",
+    "options": {
+      "A": "Vách liên thất và liên nhĩ còn nguyên vẹn, ống động mạch kích thước khoảng 3 mm. thất trái to",
+      "B": "Khuyết một phần vách liên thất, đường kính 6 mm, động mạch chủ cưỡi ngựa 60%, động mạch phổi hẹp",
+      "C": "Lỗ thông liên thất 4mm đường kính, shunt trái —> phải, PAPs 30 mmHg",
+      "D": "Khuyết một phần vách liên nhĩ, diện tích của dòng shunt trên Doppler màu qua lỗ thông chiếm khoảng 30% diện tích của nhĩ phải"
+    }
+  },
+  "1808": {
+    "question": "Cấu tạo mô học của tim ở trẻ:",
+    "options": {
+      "A": "Trẻ nhỏ: vách tim mỏng, mô liên kết giữa các thớ cơ kém phát triển.",
+      "B": "Trẻ lớn: giảm lượng sợi cơ, các sợi cơ xếp gần nhau.",
+      "C": "Cả 2 đều đúng",
+      "D": "Cả 2 đều sai"
+    }
+  },
+  "1809": {
+    "question": "Đặc điểm hệ tim mạch của trẻ em:",
+    "options": {
+      "A": "Khi còn là bào thai 42% máu từ nhĩ phải sang nhĩ trái qua lỗ Botal",
+      "B": "Trong bào thai 46% máu động mạch phổi sang động mạch chủ",
+      "C": "Sau khi ra đời, lần lượt ống động mạch và lỗ Botal được đóng kín",
+      "D": "Tổng lượng máu trong cơ thể trẻ sơ sinh là 80-85 ml/kg"
+    }
+  },
+  "1810": {
+    "question": "Phân loại tim bẩm sinh ở trẻ em:",
+    "options": {
+      "A": "Nhóm tim bẩm sinh không có luồng thông (Shunt)",
+      "B": "Tim bẩm sinh có Shunt trái phải với tuần hoàn phổi không tăng",
+      "C": "Tim bẩm sinh có Shunt phải —> trái: có tuần hoàn phổi giảm hoặc tăng",
+      "D": "Shunt P —> T với tuần hoàn phổi giảm, tím da niêm"
+    }
+  },
+  "1811": {
+    "question": "Bệnh Roger là tên gọi khác của tật tim:",
+    "options": {
+      "A": "Thông liên thất lỗ nhỏ",
+      "B": "Thông liên nhĩ lỗ nhỏ",
+      "C": "Thông liên thất lỗ lớn",
+      "D": "Thông liên nhĩ lỗ lớn"
+    }
+  },
+  "1812": {
+    "question": "Khi chẩn đoán một trẻ suy tim:",
+    "options": {
+      "A": "Áp dụng tiêu chuẩn suy tim theo các tác giả Châu Âu cho trẻ nhỏ",
+      "B": "Có thể chẩn đoán suy tim theo Framingham",
+      "C": "Ở một trẻ có hoặc không có bệnh lý ở tim, Ross đã đưa ra 4 mức độ suy tim",
+      "D": "Tiêu chuẩn Framingham thường áp dụng cho trẻ >5 tuổi"
+    }
+  },
+  "1813": {
+    "question": "Nghĩ nhiều đến Tứ chứng Fallot khi bệnh nhi:",
+    "options": {
+      "A": "Tím, tiếng T2 mờ và tiếng thổi tâm thu ở liên sườn 2 cạnh ức trái, có thể có Harzer (+)",
+      "B": "Tím, SpO2 95%, tiếng T2 mạnh ở liên sườn 2 cạnh ức trái",
+      "C": "SpO2 79%, ngón tay-chân khum-dùi trống, tiếng thổi tâm thu ở liên sườn 4 cạnh ức trái.",
+      "D": "Tiếng T2 mờ ở LS2 cạnh ức phải (liên sườn 2 cạnh ức phải), ngón tay-chân khum-dùi trống."
+    }
+  },
+  "1814": {
+    "question": "Bệnh nhi nam, 12 tháng, 7 kg, khám vì tím nhẹ khi bú hoặc khó",
+    "options": {
+      "C": "Còn ống động mạch",
+      "A": "Thông liên nhĩ",
+      "B": "Thông liên thất",
+      "D": "Kênh nhĩ thất bán phần."
+    }
+  },
+  "1815": {
+    "question": "Hình ảnh X-quang điển hình trong viêm phế quản phổi:",
+    "options": {
+      "A": "Dày thành phế quản",
+      "B": "Có hình ảnh khí nội phế quản trên bóng mờ",
+      "C": "Tăng sinh tuần hoàn phổi ra 1/3 ngoài phế trường",
+      "D": "Mờ đồng nhất thùy hoặc phân thùy"
+    }
+  },
+  "1816": {
+    "question": "Kháng sinh phối hợp để điều trị viêm phổi ở trẻ sơ sinh là gì:",
+    "options": {
+      "A": "Chloramphenicol 100 mg/kg/ngày và Ceftriaxone 75 mg/kg/ngày",
+      "B": "Ampicillin 100 mg/kg/ngày và Cefotaxime 150 mg/kg/ngày",
+      "C": "Ampicillin 100 mg/kg/ngày và Chloramphenicol 100 mg/kg/ngày",
+      "D": "Chloramphenicol 100 mg/kg/ngày và Cefotaxime 150 mg/kg/ngày"
+    }
+  },
+  "1817": {
+    "question": "Bé trai 4 tuổi được mẹ đưa đến khám tại bệnh viện Nhi vì thở mệt. Hỏi bệnh nhanh bé bệnh 3 ngày, sốt cao 2 ngày nay, bé ho nhiều cả ngày, ho đờm, bú kém. Khám bé nhịp thở 46 lần/phút, mạch 130 lần/phút, HA 90/60 mmHg, SpO2 88%, Tº 37,9°C, phổi ran nổ đỉnh phổi trái, đau ngực khi ho, gõ đục vùng đỉnh phổi phải. Chẩn đoán nghĩ đến nhiều nhất:",
+    "options": {
+      "A": "Viêm phế quản phổi - suy hô hấp",
+      "B": "Viêm phổi thùy - suy hô hấp – do virus",
+      "C": "Viêm phổi – tràn dịch màng phổi",
+      "D": "Viêm phổi thùy – suy hô hấp – do vi trùng"
+    }
+  },
+  "1818": {
+    "question": "Điều chỉnh thông số thở NCPAP:",
+    "options": {
+      "A": "Tăng hay giảm FiO2 mỗi lần 5% không nên quá 10% trong mỗi 30 phút",
+      "B": "Thông thường FiO2< 100% mà SpO2> 90% là phù hợp, ít ngộ độc oxy",
+      "C": "Tăng dần áp lực mỗi 1 - 2 cmH2O mỗi 15 – 30 phút, tối đa không quá 10 cmH2O",
+      "D": "Thay thế hệ thống CPAP mỗi 24 giờ, sát trùng dụng cụ"
+    }
+  },
+  "1819": {
+    "question": "Trong giai đoạn toàn phát của viêm phổi, nhóm triệu chứng ÍT gặp nhất là gì:",
+    "options": {
+      "A": "Triệu chứng tại phổi",
+      "B": "Triệu chứng toàn thân",
+      "C": "Triệu chứng thần kinh",
+      "D": "Triệu chứng màng phổi"
+    }
+  },
+  "1820": {
+    "question": "Nguyên tắc sử dụng kháng sinh ban đầu trong điều trị viêm phổi ở trẻ em:",
+    "options": {
+      "A": "Dựa theo giá trị bạch cầu và CRP",
+      "B": "Dựa theo kháng sinh đồ",
+      "C": "Dựa theo tuổi và lâm sàng",
+      "D": "Dựa vào hình ảnh X-quang phổi"
+    }
+  },
+  "1821": {
+    "question": "Kháng sinh phối hợp để điều trị viêm phổi ở trẻ sơ sinh:",
+    "options": {
+      "A": "Chloramphenicol 100 mg/kg/ngày và Ceftriaxone 75 mg/kg/ngày",
+      "B": "Ampicillin 100 mg/kg/ngày và Cefotaxime 150 mg/kg/ngày",
+      "C": "Ampicillin 100 mg/kg/ngày và Chloramphenicol 100 mg/kg/ngày",
+      "D": "Chloramphenicol 100 mg/kg/ngày và Cefotaxime 150 mg/kg/ngày"
+    }
+  },
+  "1822": {
+    "question": "Dấu hiệu lâm sàng giúp bác sĩ chẩn đoán bé viêm phổi:",
+    "options": {
+      "A": "Khò khè",
+      "B": "Họ đàm",
+      "C": "Thở nhanh nông",
+      "D": "Li bì"
+    }
+  },
+  "1823": {
+    "question": "Bệnh nhi 5 tháng được chẩn đoán viêm phổi, nghe có tiếng thở rên (grunting) được tiên lượng",
+    "options": {
+      "A": "Nhẹ",
+      "B": "Nặng",
+      "C": "Không phải yếu tố tiên lượng",
+      "D": "Cần tìm thêm dấu hiệu khác"
+    }
+  },
+  "1824": {
+    "question": "Bé gái 25 tháng tuổi, mẹ đưa đến khám vì sốt và ho 3 ngày. Khám: nhịp thở 46 lần/phút, mạch 110 lần/phút, T 38,9°C, thở khò khè, khám phổi nghe ran nổ. Chẩn đoán được nghĩ đến nhiều nhất là:",
+    "options": {
+      "A": "Viêm tiểu phế quản cấp",
+      "B": "Hen phế quản",
+      "C": "Viêm thanh quản cấp",
+      "D": "Viêm phổi"
+    }
+  },
+  "1825": {
+    "question": "Trẻ 18 tháng viêm phổi, kháng sinh lựa chọn đầu tiên là:",
+    "options": {
+      "A": "Cefuroxim 20 - 40 mg/kg/ngày",
+      "B": "Amoxicillin 90 mg/kg/ngày",
+      "C": "Vancomycin 60 mg/kg/ngày",
+      "D": "Azithromycin 6 - 20 mg/kg/ngày"
+    }
+  },
+  "1826": {
+    "question": "Nguyên nhân gây khó phân biệt viêm tiểu phế quản cấp với viêm phổi ở trẻ em:",
+    "options": {
+      "A": "Viêm tiểu phế quản đôi khi có tổn thương phế nang",
+      "B": "Viêm phổi và viêm tiểu phế quản có sang thương tương tự nhau",
+      "C": "Viêm phổi dôi khi có khò khè",
+      "D": "Tổn thương thường bao gồm cả tiểu phế quản và phế nang"
+    }
+  },
+  "1827": {
+    "question": "Hình ảnh X-quang ngực thẳng trong viêm tiểu phế quản cấp nặng, NGOẠI TRỪ:",
+    "options": {
+      "A": "Nhiều nốt mờ rải rác",
+      "B": "Các tiểu phế quản dày hơn",
+      "C": "2 phế trường tăng sáng, rốn phổi đậm",
+      "D": "Phổi sáng hơn bình thường"
+    }
+  },
+  "1828": {
+    "question": "Cần làm gì tiếp theo cho trẻ viêm tiểu phế quản cấp, nếu sau 1 giờ khí dung Ventolin mà vẫn không đáp ứng:",
+    "options": {
+      "A": "Thêm khí dung Ipratropium",
+      "B": "Cho them Hydrocortison tiêm mạch",
+      "C": "Không cần cho khí dung tiếp",
+      "D": "Tiếp tục thở Ventolin thêm 3 cử, cách mỗi 20 phút"
+    }
+  },
+  "1829": {
+    "question": "Bé trai 6 tuổi, đang điều trị dự phòng hen phế quản bằng Flixotide, sau ăn tôm bé khó thở, khám bé tỉnh, môi hồng, thở co kéo, phải ngồi thở, hỏi bé trả lời từng câu ngắn, phổi nghe ran rít 2 phế trường. Điều trị ban đầu cho bệnh nhi.",
+    "options": {
+      "A": "Khí dung Salbutamol: 0,15mg/kg/liều x 3 lần liên tiếp/mỗi 20 phút",
+      "B": "Khí dung bêta-2 giao cảm mỗi 6 - 8 giờ trong 24 giờ đầu",
+      "C": "Ventolin MDI 100 ug/nhát 2 - 4 nhát",
+      "D": "Tăng liều thuốc Flixotide"
+    }
+  },
+  "1830": {
+    "question": "Trong cơn hen nặng, sau 3 cữ khí dung đầu tiên, nếu bệnh nhi đáp ứng tốt thì điều trị tiếp theo sẽ là:",
+    "options": {
+      "A": "Khí dung bêta-2 giao cảm mỗi 6 - 8 giờ trong 24 giờ đầu",
+      "B": "Khí dung bêta-2 giao cảm mỗi 2 - 4 giờ trong 24 giờ đầu .",
+      "C": "Uống Salbutamol 0,15mg/kg/liều x 3 lần/ngày.",
+      "D": "Ventolin MDI 100 pg/nhát 04 nhát mỗi 2 giờ."
+    }
+  },
+  "1831": {
+    "question": "Cho kháng sinh ở bệnh nhi hen phế quản khi:",
+    "options": {
+      "A": "Bạch cầu máu tăng >12.000/mm3",
+      "B": "Họ đàm",
+      "C": "Có suy hô hấp",
+      "D": "Chụp Xquang phổi có đám mờ không đồng nhất"
+    }
+  },
+  "1832": {
+    "question": "Triệu chứng nào sau đây chứng tỏ cơn hen nặng nhất:",
+    "options": {
+      "A": "Giảm phế âm",
+      "B": "Khò khè nghe rõ cả 2 thì",
+      "C": "Mất phế âm",
+      "D": "Khò khè nghe rõ thì thở ra"
+    }
+  },
+  "1833": {
+    "question": "Triệu chứng phù hợp hen phế quản cơn “trung bình”:",
+    "options": {
+      "A": "Khó thở khi nói chuyện, nói từng cụm từ, mạch 110 lần/phút",
+      "B": "Khó thở khi nghỉ ngơi, nói từng từ, mạch 60 lần/phút",
+      "C": "Khó thở khi nói chuyện, nói từng từ, mạch 140 lần/phút",
+      "D": "Khó thở khi nằm, nói từng từ, mạch 110 lần/phút"
+    }
+  },
+  "1834": {
+    "question": "Trong cơn hen trung bình-nặng, sau 3 cữ khí dung đầu tiên, nếu đáp ứng tốt thì điều trị tiếp theo thế nào:",
+    "options": {
+      "A": "Uống Prednisone 1 mg/kg/ngày",
+      "B": "Khí dung beta-2 giao cảm mỗi 2-4 giờ trong 24 giờ đầu",
+      "C": "Uống Salbutamol 0,15mg/kg/liều x 3 lần/ngày",
+      "D": "Ventolin MDI xịt mỗi 2 giờ"
+    }
+  },
+  "1835": {
+    "question": "Trong cơn hen dọa ngưng thở, sau 3 cữ khí dung đầu tiên, nếu đáp ứng tốt thì điều trị tiếp theo sẽ là, NGOẠI TRỪ:",
+    "options": {
+      "A": "Ipratropium 250-500 mcg/lần khí dung mỗi 4-6 giờ",
+      "B": "Khí dung bêta-2 giao cảm mỗi giờ",
+      "C": "Ventolin MDI xịt 2 nhát x mỗi 1 giờ",
+      "D": "Hydrocortisone 5-7mg/kg mỗi 6 giờ TMC"
+    }
+  },
+  "1836": {
+    "question": "Tác dụng chủ yếu của thở áp lực dương liên tục qua mũi, NGOẠI TRỪ:",
+    "options": {
+      "A": "Chống và ngừa xẹp phổi",
+      "B": "Giảm công hô hấp",
+      "C": "Tăng tái hấp thu",
+      "D": "Cải thiện kiềm toan"
+    }
+  },
+  "1837": {
+    "question": "Chống chỉ định NCPAP:",
+    "options": {
+      "A": "Tràn khí màng phổi chưa dẫn lưu",
+      "B": "Tràn dịch màng phổi chưa dẫn lưu",
+      "C": "Viêm phổi, biến chứng xẹp phổi",
+      "D": "Hen phế quản nặng"
+    }
+  },
+  "1838": {
+    "question": "Bệnh nhi thở NCPAP với áp lực 4 cmH2O và FiO2 là 40% thì oxy và khí trời lần lượt là bao nhiêu:",
+    "options": {
+      "A": "3 L/phút; 9 L/phút",
+      "B": "4 L/phút; 6 L/phút",
+      "C": "8 L phút; 4 L/phút",
+      "D": "6 L/phút; 8 L/phút"
+    }
+  },
+  "1839": {
+    "question": "Triệu chứng giúp phân biệt viêm thanh quản với viêm nắp thanh môn:",
+    "options": {
+      "A": "Sốt",
+      "B": "Nhịp thở nhanh",
+      "C": "Khó nuốt",
+      "D": "Tím"
+    }
+  },
+  "1840": {
+    "question": "Để tìm hẹp hạ thanh môn ta nên chụp X quang tư thế nào:",
+    "options": {
+      "A": "Cổ nghiêng",
+      "B": "Cổ thẳng",
+      "C": "Phổi thẳng",
+      "D": "Phổi nghiêng"
+    }
+  },
+  "1841": {
+    "question": "Bệnh cảnh phù hợp với dấu hiệu nóc nhà thờ trên phim x-quang cổ thẳng:",
+    "options": {
+      "A": "Ápxe họng",
+      "B": "Bạch hầu",
+      "C": "Viêm nắp thanh môn",
+      "D": "Dị vật đường thở"
+    }
+  },
+  "1842": {
+    "question": "Liều prednisone trong điều trị viêm thanh quản khó thở độ II:",
+    "options": {
+      "A": "1 mg/kg/ngày-uống 1 lần/ngày",
+      "B": "2mg/kg/ngày-uống 1 lần/ngày",
+      "C": "1 mg/kg/ngày-uống 3 lần/ngày",
+      "D": "2mg/kg/ngày-uống 3 lần/ngày"
+    }
+  },
+  "1843": {
+    "question": "Trẻ 3 tuổi viêm phổi suy hô hấp có dấu hiệu thở nhanh, tái môi, hướng xử trí tiếp theo sau hút đàm nhớt là như thế nào:",
+    "options": {
+      "A": "Thở NCAP với FiO2=l00%",
+      "B": "Thở oxy qua cannula 5 l/phút",
+      "C": "Thở oxy qua mask 4 l/phút",
+      "D": "Đặt NKQ, bóp bóng"
+    }
+  },
+  "1844": {
+    "question": "Ý nghĩa của kết quả khí máu động mạch có PaO2=78 mmHg sau khi thở oxy 30 phút:",
+    "options": {
+      "A": "Giảm oxy chưa điều chỉnh được, cần tăng FiO2",
+      "B": "Giảm oxy máu đà được điều chỉnh, chưa giảm FiO2",
+      "C": "Giảm oxy máu được điều chỉnh dư, cần giảm FiO2",
+      "D": "Giảm oxy máu đã được điều chỉnh, càng giảm FiO2"
+    }
+  },
+  "1845": {
+    "question": "Trẻ 12 tháng được chẩn đoán là viêm phổi, khi nào có chỉ định nhập viện:",
+    "options": {
+      "A": "Trẻ ho 14 ngày",
+      "B": "Tím tái khi khóc",
+      "C": "Phập phồng cánh mũi",
+      "D": "Trẻ suy dinh dưỡng"
+    }
+  },
+  "1846": {
+    "question": "Điều trị “thở NCAP (P: 5 cmH2O, FiO2: 60%), vancomycin 60 mg/kg/ngày và gentamycin 5 mg/kg/ngày” tương ứng với chẩn đoán nào sau đây ở một trẻ 24 tháng:",
+    "options": {
+      "A": "Viêm phổi nặng",
+      "B": "Tràn dịch màng phổi, suy hô hấp nặng",
+      "C": "Ho gà",
+      "D": "Viêm phổi nghi do tụ cầu, theo dõi nhiễm trùng huyết"
+    }
+  },
+  "1847": {
+    "question": "Trong điều trị hen phế quản, thuốc nào sau đây KHÔNG cùng nhóm với các thuốc còn lại:",
+    "options": {
+      "A": "Singulair",
+      "B": "Salbutamol",
+      "C": "Ipratropium",
+      "D": "MgSO4"
+    }
+  },
+  "1848": {
+    "question": "Điều trị “Thở oxy để duy trì SaO2 92-96%, ventolin khí dung 3 lần liên tiếp mỗi 20 phút và methyl prednisolone 1 mg/kg mỗi 6 giờ TM  tương ứng với chẩn đoán nào sau đây ở một trẻ 6 tuổi:",
+    "options": {
+      "A": "Viêm tiểu phế quản tắc nghẽn, suy hô hấp nặng",
+      "B": "Hen phế quản mức độ nặng",
+      "C": "Phản ứng phản vệ độ III",
+      "D": "Viêm phổi dạng khò khè, tái phát"
+    }
+  },
+  "1849": {
+    "question": "Đặc điểm của phế quản và phổi ở trẻ:",
+    "options": {
+      "A": "Hình thành từ lúc còn bào thai và tiếp tục phát triển cho đến 6 tuổi",
+      "B": "Tế bào nội bì phân chia thành tế bào lông mao",
+      "C": "Đường hô hấp tận mở rộng ra và hình thành cấu trúc hình trụ dạng túi",
+      "D": "Phế nang phát triển hoàn tất vào tuần 30 của thai kỳ"
+    }
+  },
+  "1850": {
+    "question": "Tác nhân gây bội nhiễm thường gặp ỏ trẻ viêm tiểu phế quản cấp:",
+    "options": {
+      "A": "H. influenzae 55%, M. catarrhalis 35%",
+      "B": "H. influenzae 55%, S. pneumoniae 25%",
+      "C": "M. catarrhalis 35%, S. pneumoniae 25%",
+      "D": "S. pneumoniae 25%, S. aureus 20%"
+    }
+  },
+  "1851": {
+    "question": "Chọn câu SAI khi nói về cận lâm sàng trong bệnh hen phế quản",
+    "options": {
+      "A": "Xquang ngực: thực hiện thường quy",
+      "B": "Test lẩy da: để đánh giá tình trạng mẫn cảm với dị nguyên",
+      "C": "Hô hấp ký: hội chứng tắc nghẽn có đáp ứng nghiệm pháp giãn phế quản",
+      "D": "Đo FeNO: đánh giá tình trạng viêm đường thở"
+    }
+  },
+  "1852": {
+    "question": "Trong cơn hen nhẹ - trung bình trẻ em , sau 3 cử khí dung đầu tiên, nếu đáp ứng “không hoàn toàn” thì điều trị giãn phế quản tiếp theo sẽ là:",
+    "options": {
+      "A": "Khí dung B2 giao cảm mỗi giờ cho đến khi cắt cơn",
+      "B": "Uống Salbutamol 0,15mg/kg/liều x 6 lần/ngày",
+      "C": "Ventolin MDI xịt 2 nhát mỗi 3 giờ",
+      "D": "Tiêm MethylPrednisolone 2 mg/kg/ngày"
+    }
+  },
+  "1853": {
+    "question": "Chỉ định corticoides uống trong hen phế quản, khi:",
+    "options": {
+      "A": "Cơn trung bình trở lên",
+      "B": "Bệnh nhân đang điều trị corticoid",
+      "C": "Cơn nhẹ không đáp ứng sau liều B2 giao cảm đầu tiên",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "1854": {
+    "question": "Shunt phổi xảy ra khi:",
+    "options": {
+      "A": "Máu động mạch trộn với máu tĩnh mạch (T-P)",
+      "B": "Máu tĩnh mạch trộn với máu động mạch (P-T)",
+      "C": "Cả A và B đều đúng",
+      "D": "Cả A và B đều sai"
+    }
+  },
+  "1855": {
+    "question": "Bất thường thông khí tưới máu được định nghĩa",
+    "options": {
+      "A": "Thông khí mà không có tưới máu",
+      "B": "Tưới máu mà không thông khí",
+      "C": "Phối hợp cả thông khí không tưới máu và tưới máu không thông khí",
+      "D": "Cung lượng tim cao hon thông khí phút"
+    }
+  },
+  "1856": {
+    "question": "Nguyên tắc điều trị xuất huyết tiêu hóa dưới nặng:",
+    "options": {
+      "A": "Nhịn ăn uống",
+      "B": "Bồi hoàn thể tích máu mất",
+      "C": "Tìm và điều trị nguyên nhân",
+      "D": "Cho vitamin K.1"
+    }
+  },
+  "1857": {
+    "question": "Xét nghiệm chẩn đoán nguyên nhân xuất huyết tiêu hóa, NGOẠI TRỪ:",
+    "options": {
+      "A": "Nội soi tiêu hóa",
+      "B": "Siêu âm bụng",
+      "C": "X-quang đường tiêu hóa cản quang",
+      "D": "Dung tích hồng cầu"
+    }
+  },
+  "1858": {
+    "question": "Tiêu chuẩn vàng chẩn đoán trào ngược dạ dày-thực quản:",
+    "options": {
+      "A": "pH thực quản",
+      "B": "Siêu âm ngực bụng",
+      "C": "X-quang thực quản dạ dày cản quang",
+      "D": "Nội soi"
+    }
+  },
+  "1859": {
+    "question": "Điều trị trào ngược dạ dày thực quản không dùng thuốc, NGOẠI TRỪ:",
+    "options": {
+      "A": "Nằm sấp, đầu cao",
+      "B": "Thêm bột vào sữa ở trẻ bú bình",
+      "C": "Làm ợ hơi",
+      "D": "Dùng sô-cô-la"
+    }
+  },
+  "1860": {
+    "question": "Dùng thuốc điều trị trào ngược dạ dày thực quản có viêm thực quản đúng:",
+    "options": {
+      "A": "Nexium 1 mg/kg/ngày; uống buổi sáng, trước ăn 30 phút",
+      "B": "Omeprazol 0.15 mg/kg/ngày; trước ngủ",
+      "C": "Metoclopramide 3.5 mg/kg/ngày, trước bữa ăn",
+      "D": "Ranitidin 1 mg/kg/lần x 2 lần/ngày"
+    }
+  },
+  "1861": {
+    "question": "Bé gái 13 tháng, 3 tuần nay cháu bắt đầu bị tiêu chảy, lúc đầu cháu tiêu phân đàm máu sau đó tiêu phân lỏng hết đờm máu 4-5 lần/ngày. Bé mắc loại tiêu chảy nào:",
+    "options": {
+      "A": "Lỵ trực trùng cấp tính",
+      "B": "Tiêu chảy kéo dài",
+      "C": "Lỵ trực trùng kéo dài",
+      "D": "Tiêu chảy cấp tính"
+    }
+  },
+  "1862": {
+    "question": "Những dấu hiệu nào phù hợp với có mất nước của trẻ 20 tháng bị tiêu chảy:",
+    "options": {
+      "A": "Mắt trũng, khát nước uống háo hức, nếp véo da mất nhanh, tỉnh.",
+      "B": "Mắt không trũng, nếp véo da mất chậm, không khát, ói nhiều",
+      "C": "Mắt trũng, nếp véo da mất nhanh, không khát, ói nhiều",
+      "D": "Mắt không trũng, khát nước uống háo hức, nếp véo da mất nhanh, tỉnh."
+    }
+  },
+  "1863": {
+    "question": "Trẻ 13 tháng tuổi bị tiêu chảy 2 ngày sau đó tiêu phân lỏng có đàm lẫn máu, kèm sốt cao, lừ đừ được chẩn đoán lỵ trực trùng. Xử trí nào sau đây là tốt nhất.",
+    "options": {
+      "A": "Metronidazole 30 mg/kg/ngày",
+      "B": "Cefotaxim tiêm tĩnh mạch",
+      "C": "Ciprofloxacin truyền tĩnh mạch",
+      "D": "Azithromycin 6 - 20 mg/kg/ngày"
+    }
+  },
+  "1864": {
+    "question": "Trẻ gái 8 tháng tuổi, cân nặng 7 kg, tiêu chảy cấp có mất nước tốc độ đào thải phân cao, Chọn lựa y lệnh điều trị phù hợp nhất.",
+    "options": {
+      "A": "Lactate ringer 480 ml, TTM 120ml/giờ",
+      "B": "Oremut 2 gói, 1 gói pha 200ml nước uống trong 4 giờ",
+      "C": "Glucose 5% 480 ml, TTM 120ml/giờ",
+      "D": "Oremut 3 gói, 1 gói pha 200ml nước uống trong 4 giờ"
+    }
+  },
+  "1865": {
+    "question": "Trẻ 10 tháng tuổi, được chẩn đoán là tiêu chảy cấp KHÔNG mất nước, chế độ dinh dưỡng phù hợp nhất cho bệnh nhi:",
+    "options": {
+      "A": "Cho ăn thêm 1 bữa ăn trong 2 tuần",
+      "B": "Hạn chế cho thêm dầu ăn cho mỗi bữa ăn",
+      "C": "Ăn thức ăn giàu năng lượng",
+      "D": "Tiếp tục bú mẹ và ăn dặm"
+    }
+  },
+  "1866": {
+    "question": "Trẻ 28 tháng, tiêu chảy 5 ngày, phân lỏng nước nhiều, hiện tại trẻ có mắt trũng. Những dấu hiệu nào phù hợp với tình trạng có mất nước của trẻ:",
+    "options": {
+      "A": "Trẻ uống nước không háo hức, nếp véo da mất nhanh",
+      "B": "Nếp véo da mất nhanh, trẻ không vật vã kích thích",
+      "C": "Trẻ không vật vã kích thích, trẻ uống nước được không khát",
+      "D": "Trẻ không li bì, không vật vã kích thích, nếp véo da mất chậm"
+    }
+  },
+  "1867": {
+    "question": "Nếu không truyền tĩnh mạch được cho trẻ 9 tháng tuổi, 9 kg bị mất nước nặng thì cần bao nhiêu dung dịch ORS qua ống thông trong 6 giờ:",
+    "options": {
+      "A": "1000 ml",
+      "B": "1040 ml",
+      "C": "1080 ml",
+      "D": "1120 ml"
+    }
+  },
+  "1868": {
+    "question": "Nội dung chính của biện pháp quản lý bệnh nhi tiêu chảy, NGOẠI TRỪ:",
+    "options": {
+      "A": "Bù nước bằng đường uống",
+      "B": "Nhịn cho bú/ăn trong khi tiêu chảy",
+      "C": "Cho ăn thêm 1 bữa sau tiêu chảy",
+      "D": "Điều trị sớm"
+    }
+  },
+  "1869": {
+    "question": "Các đối tượng thực hiện trong chương trình phòng chống tiêu chảy cấp:",
+    "options": {
+      "A": "Bà mẹ, cán bộ y tế cơ sở và bệnh viện",
+      "B": "Bà mẹ, nhân viên y tế",
+      "C": "Nguồn nước, hệ thống y tế, trẻ bệnh",
+      "D": "Trẻ bệnh và trẻ lành, nguồn nước sạch"
+    }
+  },
+  "1870": {
+    "question": "Chỉ định dùng kháng sinh thích hợp khi trẻ bị tiêu chảy, NGOẠI TRỪ:",
+    "options": {
+      "A": "Tiêu phân máu",
+      "B": "Tiêu chảy do tả",
+      "C": "Lỵ Shigella",
+      "D": "Tiêu chảy do Ecoli"
+    }
+  },
+  "1871": {
+    "question": "Trẻ suy dinh dưỡng, cần cho trẻ nhập viện khi",
+    "options": {
+      "A": "Suy dinh dưỡng thể nhẹ",
+      "B": "Suy dinh dưỡng thể vừa không biến chứng",
+      "C": "Suy dinh dưỡng thể vừa",
+      "D": "Suy dinh dưỡng thể nặng và thể vừa kèm biến chứng"
+    }
+  },
+  "1872": {
+    "question": "Hội chứng Loeffler được gây ra do cơ chế nào:",
+    "options": {
+      "A": "Giun nằm trong phế quản và phế nang",
+      "B": "Giun nằm trong mạch máu phế quản",
+      "C": "Giun chui ống mật",
+      "D": "Giun nằm trong phế nang"
+    }
+  },
+  "1873": {
+    "question": "Nhiễm giun kim thường gây ảnh hưởng như thế nào cho trẻ:",
+    "options": {
+      "A": "Trẻ chậm lớn",
+      "B": "Trẻ ăn uống ít hơn",
+      "C": "Trẻ vật và kích thích",
+      "D": "Trẻ tiêu phân hơi lỏng"
+    }
+  },
+  "1874": {
+    "question": "Trẻ 3 tuổi, cân nặng 11kg, nhiễm giun móc, Hb 8g/dl, Hct 25%, cần cho sắt cơ bản với liều trong ngày:",
+    "options": {
+      "A": "50 mg",
+      "B": "60 mg",
+      "C": "70 mg",
+      "D": "80mg"
+    }
+  },
+  "1875": {
+    "question": "Tiêu chuẩn chẩn đoán suy dinh dưỡng thể teo đét, CHỌN CÂU SAI:",
+    "options": {
+      "A": "Cân nặng theo tuổi < 80%",
+      "B": "Chiều cao theo tuổi < 90%",
+      "C": "Gan to",
+      "D": "Lớp mỡ dưới da mỏng"
+    }
+  },
+  "1876": {
+    "question": "Trong giai đoạn khởi đầu điều trị suy dinh dưỡng nặng, không điều trị nào sau đây:",
+    "options": {
+      "A": "Giữ ấm/làm ấm và cho ăn",
+      "B": "Cho kháng sinh và bù nước nếu cần thiết",
+      "C": "Truyền máu",
+      "D": "Cho sắt"
+    }
+  },
+  "1877": {
+    "question": "Trẻ sanh đủ tháng và cân nặng lúc sinh <2500gram, được gọi là suy dinh dưỡng bào thai nặng khi có:",
+    "options": {
+      "A": "Chiều cao giảm, cuống rốn không teo",
+      "B": "Chiều cao và vòng đầu giảm",
+      "C": "Vòng đầu giảm, cuống rốn không teo",
+      "D": "Chiều cao giảm, cuống rốn teo"
+    }
+  },
+  "1878": {
+    "question": "Trẻ suy dinh dưỡng bào thai dễ gặp các nguy cơ sau:",
+    "options": {
+      "A": "Hạ đường huyết",
+      "B": "Suy hô hấp",
+      "C": "Xuất huyết",
+      "D": "Nhiễm trùng"
+    }
+  },
+  "1879": {
+    "question": "Trong điều trị SDD nặng, cho trẻ uống Magnesium:",
+    "options": {
+      "A": "0.1g/ngày",
+      "B": "0.5g/ ngày",
+      "C": "1g/ngày",
+      "D": "2g/ngày"
+    }
+  },
+  "1880": {
+    "question": "Trẻ sơ sinh được gọi là suy dinh dưỡng bào thai khi:",
+    "options": {
+      "A": "Sanh non và cân nặng lúc sanh < 2000 gr.",
+      "B": "Sanh đủ tháng và cân nặng lúc sanh <2500 gr",
+      "C": "Cân nặng lúc sanh <2500 gr và vòng đầu giảm.",
+      "D": "Cân nặng lúc sanh < 2500 gr và chiều dài giảm"
+    }
+  },
+  "1882": {
+    "question": "Trong điều trị SDD nặng, cho trẻ uống acid folic:",
+    "options": {
+      "A": "1 mg/ngày",
+      "B": "2,5 mg/ngày",
+      "C": "5 mg/ngày",
+      "D": "7,5 mg/ngày"
+    }
+  },
+  "1883": {
+    "question": "Đặc điểm bộ máy tiêu hóa trẻ em:",
+    "options": {
+      "A": "Thường có hiện tượng chảy nước bọt sinh lý vào tháng thứ 5-6",
+      "B": "Đối với trẻ sơ sinh động tác bú là phản xạ có trung tâm ở hành tủy",
+      "C": "Hốc miệng của trẻ sơ sinh nhỏ, lưỡi tương dổi nhỏ vì xương hàm ít phát triển",
+      "D": "Cơ môi, lợi răng chưa phát triển"
+    }
+  },
+  "1884": {
+    "question": "Sữa non:  (1)     Sữa non có từ tháng thứ sáu của bào thai.  (2)     Sữa non có nhiều protein, lactose và chất béo.  (3)     Giá trị của sữa giảm dần và cố định từ ngày 7 trở đi.  (4)     Sữa non giàu vitamin A gấp đôi sữa vĩnh viễn.  Số phát biểu đúng là:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  "1885": {
+    "question": "Các yếu tố làm giảm lượng sữa trong ngày:  (1) \tMẹ bị bệnh cảm cúm thông thường.  (2) \tKhoáng cách cho con bú dài (3 giờ).  (3) \tCho có bú chậm sau đẻ 1-2 ngày.  Các mệnh đề đúng là",
+    "options": {
+      "A": "(1),(2), (3)",
+      "B": "(1),(2)",
+      "C": "(1), (3)",
+      "D": "Không có câu nào đúng"
+    }
+  },
+  "1886": {
+    "question": "Theo nguyên tắc cho trẻ ăn dặm, thời gian cho trẻ dứt sữa hẳn:",
+    "options": {
+      "A": "12-18 tháng",
+      "B": "16-18 tháng",
+      "C": "18-24 tháng",
+      "D": "18-22 tháng"
+    }
+  },
+  "1887": {
+    "question": "Vitamin A sử dụng trong điều trị và dự phòng ở trẻ:",
+    "options": {
+      "A": "Tất cả các bà mẹ sau đẻ trong vòng 1 tháng uống 1 viên 200.000 đơn vị",
+      "B": "Triệu chứng mãn tính của ngộ độc vitamin A giống u não (giả u não)",
+      "C": "Triệu chứng ngộ độc cấp: buồn nôn, nôn; tăng kích thích, giới hạn vận động",
+      "D": "Trẻ từ 6-11 tháng uống 200.000 đơn vị/6 tháng"
+    }
+  },
+  "1888": {
+    "question": "Trong bệnh giun trẻ em, lượng máu trung bình mỗi giun móc hút:",
+    "options": {
+      "A": "0,17ml/ngày",
+      "B": "0,27ml/ngày",
+      "C": "0,37ml/ngày",
+      "D": "0,47ml/ngày"
+    }
+  },
+  "1889": {
+    "question": "Bệnh nhi nam 4 tuổi, uống nhầm thuốc diệt côn trùng. Liều tấn công than hoạt sử dụng:",
+    "options": {
+      "A": "0,5 g/kg pha với nước tỷ lệ 1:4",
+      "B": "1g/kg pha với nước tỷ lệ 1:4",
+      "C": "0,5 g/kg pha với nước tỷ lệ 1:2",
+      "D": "1 g/kg pha với nước tỷ lệ 1:2"
+    }
+  },
+  "1890": {
+    "question": "Thuốc nào sau đây dùng để điều trị đối kháng trong ngộ độc Acetaminophen?",
+    "options": {
+      "A": "Atropin",
+      "B": "Naloxon",
+      "C": "N-Acetylcysteine",
+      "D": "PAM."
+    }
+  },
+  "1891": {
+    "question": "Đặc điểm đúng về viêm màng não mủ ở trẻ",
+    "options": {
+      "A": "Ở trẻ nhũ nhi, triệu chứng thường điển hình",
+      "B": "Ở trẻ sơ sinh, triệu chứng thường diễn tiến nhanh",
+      "C": "Ở trẻ lớn, triệu chứng thường không điển hình như người lớn",
+      "D": "Ở trẻ nhỏ, triệu chứng cũng tương tự trẻ lớn"
+    }
+  },
+  "1892": {
+    "question": "Ý nghĩa chính của việc khảo sát dịch não tủy trong viêm màng não mủ",
+    "options": {
+      "A": "Theo dõi đáp ứng điều trị",
+      "B": "Xem lactate nhiều hay ít",
+      "C": "Xem áp lực nội sọ tăng không",
+      "D": "Đánh giá màu sắc thế nào"
+    }
+  },
+  "1893": {
+    "question": "Hạ Natri máu ở bệnh nhân bị viêm màng não 20mEq/l, lâm sàng có thiếu nước, gợi ý nguyên nhân nào:",
+    "options": {
+      "A": "Thiếu natri thật sự",
+      "B": "Hội chứng SIADH",
+      "C": "Hội chứng mất muối do não",
+      "D": "Phòng xét nghiệm chưa chuẩn"
+    }
+  },
+  "1894": {
+    "question": "Loại vi khuẩn gây viêm màng não mủ ở trẻ em thường có tiên lượng tốt:",
+    "options": {
+      "A": "Escherichia coli",
+      "B": "Haemophilus influenzae",
+      "C": "Streptococcus pneumoniae",
+      "D": "Neisseria meningitidis"
+    }
+  },
+  "1895": {
+    "question": "Chọn kháng sinh ban đầu cho trẻ 24 tháng tuổi bị viêm màng não mủ/nhiễm trùng huyết:",
+    "options": {
+      "A": "Cefotaxime + Ampicillin + Gentamicin",
+      "B": "Cefotaxime + Vancomycin",
+      "C": "Cefotaxime + Gentamicin",
+      "D": "Imipenem + Cilastatin"
+    }
+  },
+  "1896": {
+    "question": "Tay chân miệng được phân độ 2b nhóm 1 khi có một trong các dấu hiệu nào:",
+    "options": {
+      "A": "Bệnh sử có giật mình dưới 2 lần/30 phút",
+      "B": "Giật mình được ghi nhận lúc khám",
+      "C": "Sốt 1 -2 ngày, hay Sốt 38°C",
+      "D": "Mạch nhanh 120 lần /phút"
+    }
+  },
+  "1897": {
+    "question": "Trị số Glucose máu gợi ý tay chân miệng có biến chứng:",
+    "options": {
+      "A": "3,5 mmol/L",
+      "B": "5,6 mmol/L",
+      "C": "7,8 mmol/L",
+      "D": "9,9 mmol/L"
+    }
+  },
+  "1898": {
+    "question": "Diễn tiến mạch, huyết áp trong hênh tay chân miệng nặng:",
+    "options": {
+      "A": "Mạch tăng, huyết áp tăng —> sau đó, không đo được",
+      "B": "Mạch tăng, huyết áp giảm —> sau đó, không đo được",
+      "C": "Mạch giảm, huyết áp tăng —> sau đó, không đo được",
+      "D": "Mạch giảm, huyết áp giảm—> sau đó, không đo được"
+    }
+  },
+  "1899": {
+    "question": "Điều trị tay chân miệng độ 2b nhóm 1 khác với độ 2b nhóm 2:",
+    "options": {
+      "A": "Immunoglobulin không thường quy",
+      "B": "Liều hạ sốt thấp hơn",
+      "C": "Liều Phenobarbital thấp hơn",
+      "D": "Liều oxy thấp hơn"
+    }
+  },
+  "1900": {
+    "question": "Immunoglobulin 1g/kg/ngày truyền tĩnh mạch chậm trong 6-8 giờ; dùng trong 2 ngày liên tiếp là liệu trình điều trị tay chân miệng độ nào:",
+    "options": {
+      "A": "Độ 2b nhóm 2",
+      "B": "Độ 2b nhóm 1",
+      "C": "Độ 3",
+      "D": "Độ 4"
+    }
+  },
+  "1903": {
+    "question": "Cân nặng 10 kg, được chẩn đoán bệnh tay chân miệng độ 2b nhóm 1. Liều thuốc Phenobarbital cho bé là:",
+    "options": {
+      "A": "50 mg TTM/30 phút",
+      "B": "100 mg TTM/30 phút",
+      "C": "100 mg uống",
+      "D": "200mg tiêm bắp"
+    }
+  },
+  "1904": {
+    "question": "Bệnh nhi nam, 8 tuổi, đang điều trị sốt xuất huyết Dengue có dấu hiệu cảnh báo, bệnh nhi nôn ói, mạch quay 120 l/ph, HA 90/70 mmHg, da sung huyết. Xử trí tiếp theo:",
+    "options": {
+      "A": "Lactate Ringer 20 ml/kg/giờ",
+      "B": "Cao phân tử 20ml/kg/giờ",
+      "C": "Lactate Ringer 20ml/kg/15 phút",
+      "D": "Cao phân tử 20ml/kg/15 phút."
+    }
+  },
+  "1905": {
+    "question": "Bệnh nhi SXH-D có dấu hiệu cảnh báo, truyền dịch Lactat Ringer khởi đầu bằng liều 10 ml/kg/giờ khi trẻ có biểu hiện:",
+    "options": {
+      "A": "Đừ",
+      "B": "Chi mát, mạch nhanh",
+      "C": "Mạch nhanh, nhẹ",
+      "D": "Đau bụng."
+    }
+  },
+  "1906": {
+    "question": "Bệnh nhi nữ, 12 tuổi, đang điều trị Sốc sốt xuất huyết Dengue. Cho bệnh nhi xuất viện khi:",
+    "options": {
+      "A": "AST, ALT bình thường",
+      "B": "Tiểu cầu 20.000/mm3",
+      "C": "Hct < 40%.",
+      "D": "Hết sốt ít nhất 2 ngày"
+    }
+  },
+  "1907": {
+    "question": "Gọi là chảy máu cam nặng trong Sốt xuất huyết khi bệnh nhân có triệu chứng nào:",
+    "options": {
+      "A": "Cần nhét gạc vách mũi",
+      "B": "Kèm sốc nặng",
+      "C": "Kèm suy tạng",
+      "D": "Kèm DIC"
+    }
+  },
+  "1908": {
+    "question": "Xét nghiệm máu điển hình của Sốt xuất huyết Dengue có dấu hiệu cảnh báo:",
+    "options": {
+      "A": "Hematocrit tăng cao, tiểu cầu giảm nhanh chóng",
+      "B": "Hematocrit tăng cao, bạch cầu giảm nhanh chóng",
+      "C": "Bạch cầu và tiểu cầu giảm nhanh chóng",
+      "D": "Bạch cầu tăng, tiểu cầu giảm nhanh chóng"
+    }
+  },
+  "1909": {
+    "question": "Điều trị sốc Sốt xuất huyết Dengue, nếu tình trạng sốc cải thiện và diễn tiến thuận lợi thì liều xử trí tiếp theo của Lactat Ringer như thế nào:",
+    "options": {
+      "A": "10 ml/kg/h x 1 -2 giờ —> 7,5 ml/kg/h x 1 -2h —> 5 ml/kg/h x 4-5h",
+      "B": "10 ml/kg/h x 1 giờ —> 7,5 ml/kg/h x 2h —> 5 ml/kg/h x 4h",
+      "C": "15 ml/kg/h x 1 giờ —> 10 ml/kg/h x 2h —> 7,5 ml/kg/h x 4h",
+      "D": "15 ml/kg/h x 2 giờ —> 10 ml/kg/h x 1 h —> 7,5 ml/kg/h x 4-5h"
+    }
+  },
+  "1910": {
+    "question": "Điều trị sốc Sốt xuất huyết Dengue nặng sau liều đầu tiên, nếu mạch rõ, huyết áp hết kẹt thì xử trí tiếp theo như thế nào:",
+    "options": {
+      "A": "Refortan 6%: 10 ml/kg/h x l-2h",
+      "B": "NaCl 0,9%: 15 ml/kg/h x 1h",
+      "C": "NaCl 0,9%: 7.5 ml/kg/h x 2 giờ",
+      "D": "Lactate Ringer: 10 ml/kg/h x 1-2 giờ"
+    }
+  },
+  "1911": {
+    "question": "Việc quan trọng nhất trong chăm sóc và theo dõi người bệnh sốc Sốt xuất huyết Dengue:",
+    "options": {
+      "A": "Giữ ấm",
+      "B": "Do hematocrit cứ 1 -2 giờ 1 lần, trong 6 giờ đầu của sốc",
+      "C": "Ghi lượng nước xuất và nhập trong 24 giờ",
+      "D": "Do lượng nước tiểu"
+    }
+  },
+  "1912": {
+    "question": "Đang truyền dịch phác đồ sốt xuất huyết Dengue có dấu hiệu cảnh báo, bệnh nhi vào sốc, xử trí tiếp theo:",
+    "options": {
+      "A": "Do CVP và điều chỉnh tốc độ dịch truyền",
+      "B": "Truyền Điện giải 20ml/kg/h",
+      "C": "Tùy tổng lượng dịch đã truyền",
+      "D": "Truyền Điện giải 20ml/kg/15p"
+    }
+  },
+  "1913": {
+    "question": "Phác đồ truyền dịch SXH-D cảnh báo khởi đầu bằng liều 10 ml/kg/h khi trẻ có biểu hiện:",
+    "options": {
+      "A": "Đừ",
+      "B": "Chi mát, mạch nhanh",
+      "C": "Mạch nhanh, nhẹ",
+      "D": "Đau hạ sườn Phải"
+    }
+  },
+  "1914": {
+    "question": "Trẻ 24 tháng, bị tiêu chảy 14 ngày, vào viện với tình trạng rất khác, co giật, nếp véo da mất chậm và Natri máu 140 mmol/L. Chẩn đoán nào sau đây là thích hợp nhất:",
+    "options": {
+      "A": "Co giật chưa rõ nguyên nhân/Tiêu chảy cấp",
+      "B": "Tiêu chảy cấp, có mất nước",
+      "C": "Tiêu chảy kéo dài nặng, có mất nước ưu trương",
+      "D": "Tiêu chảy mất nước, biến chứng thần kinh do rối loạn điện giải"
+    }
+  },
+  "1915": {
+    "question": "Trẻ 18 tháng, 10 kg được chẩn đoán tiêu chảy cấp, mất nước nặng nghi do tả. Xử trí nào sau đây là thích hợp nhất trong giờ đầu tiên:",
+    "options": {
+      "A": "ORS 175 ml uống trong 60 phút, thử điện giải đồ và đường huyết",
+      "B": "Lactat ringer 200 ml trong 60 phút, ciprofloxacin 30 mg/kg",
+      "C": "ORS 200 ml bơm qua sonde dạ dày nếu trẻ không uống được; cố gắng lấy vein",
+      "D": "Lactate ringer 300 ml trong 30 phút, sau đó 140 ml trong 30 phút; azithromycin 100 mg/kg"
+    }
+  },
+  "1916": {
+    "question": "Những dấu hiệu nào phù hợp với mất nước nặng của trẻ 25 tháng bị tiêu chảy:",
+    "options": {
+      "A": "Mắt không trũng, khát nước uống háo hức",
+      "B": "Mắt không trũng, nếp véo da mất chậm",
+      "C": "Mắt trũng, nếp véo da mất nhanh",
+      "D": "Li bì, uống kém không thể uống được"
+    }
+  },
+  "1917": {
+    "question": "Trẻ 40 tháng tuổi bị tiêu chảy 1 ngày, nước đục mùi rất tanh và nôn liên tục, mắt trũng, nếp véo mất rất chậm và cháu li bì. Xử trí nào sau đây là tốt nhất:",
+    "options": {
+      "A": "Bù dịch ORS qua ông thông mũi dạ dày, uống metronidazole, theo dõi cần thận",
+      "B": "Truyền dịch tĩnh mạch theo phác đồ C, uống ampicillin, theo dõi cần thận",
+      "C": "Truyền tĩnh mạch theo phác đồ C, sau đó sử dụng dung dịch ORS tại nhà",
+      "D": "Truyền dịch tĩnh mạch theo phác đồ C, uống azithromycin, theo dõi cẩn thận"
+    }
+  },
+  "1918": {
+    "question": "Trẻ 7,5 tháng tuổi, cân nặng 6,8kg, tiêu chảy cấp 8 lần trong 12 giờ qua khám có quấy khóc liên tục, mắt trũng, véo da mất nhanh, uống háo hứ",
+    "options": {
+      "C": "520 ml",
+      "A": "500 ml",
+      "B": "510 ml",
+      "D": "530 ml"
+    }
+  },
+  "1919": {
+    "question": "Trị số Glucose máu gợi ý tay chân miệng có biến chứng:",
+    "options": {
+      "A": "4.6 mmol/L",
+      "B": "5.6 mmol/L",
+      "C": "7,8 mmol/L",
+      "D": "8,9 mmol/L"
+    }
+  },
+  "1920": {
+    "question": "Tay chân miệng được phân độ 2b nhóm 1 khi có một trong các dấu hiệu",
+    "options": {
+      "A": "Sốt 1-2 ngày, hay sốt 38 C",
+      "B": "Bệnh sử có giật mình ≥ 2 lần /30 phút",
+      "C": "Giật mình không ghi nhận lúc khám",
+      "D": "Mạch nhanh 120 lần /phút"
+    }
+  },
+  "1921": {
+    "question": "Trẻ bị tay chân miệng, triệu chứng nào sau đây sẽ phân độ trẻ nặng nhất:",
+    "options": {
+      "A": "Mạch nhanh > 170 lần/phút (khi trẻ nằm yên, không Sốt)",
+      "B": "SpO2 < 92%",
+      "C": "HA tâm thu tăng",
+      "D": "Thở nhanh, thở bất thường"
+    }
+  },
+  "1922": {
+    "question": "Bệnh nhi bị tay chân miệng độ 2b nhóm 1, được xử trí thở qua mũi 3 lít/phút; hạ sốt tích cực, phenobarbital 15 mg/kg truyền tĩnh mạch. Nếu sau 6-8 giờ mà triệu chứng không giảm thì xử trí tiếp theo quan trọng nhất là gì:",
+    "options": {
+      "A": "Lập lại phenobarbital liều 2",
+      "B": "Đặt catheter động mạch do huyết áp xâm lấn",
+      "C": "Truyền Immunoglobulin",
+      "D": "Theo dõi sinh hiệu, tri giác, ran phổi mồi 3-4 giờ dề quyết định tiếp theo"
+    }
+  },
+  "1923": {
+    "question": "Trẻ gái, 6 tuổi, 28 kg, vào viện với tình trạng: Sốt liên tục 5 ngày, mạch 120 lần/phút, huyết áp 80/50 mmHg, CRT 3 giây, vài chấm nốt xuất huyết dưới dA. Chẩn đoán lâm sàng thích hợp nhất cho trẻ này:",
+    "options": {
+      "A": "Sốt xuất huyết dengue ngày 5",
+      "B": "Sốt xuất huyết dengue có dấu hiệu cảnh báo ngày 5",
+      "C": "Sốc Sốt xuất huyết dengue ngày 5, theo dõi suy tạng",
+      "D": "Sốc Sốt xuất huyết dengue nặng ngày 5 + béo phì"
+    }
+  },
+  "1924": {
+    "question": "Bé trai, 6 tuổi, 20 kg vào viện vì Sốt liên tục 5 ngày, mạch 120 lần/phút, huyết áp 80/50 mmHg, CRT 3 giây, vài chấm nốt xuất huyết dưới dA. Xét nghiệm có bạch cầu máu 4300/mm3, tiểu cầu 75000/mm3, Hct 45%, ALT 1100 UI/L, AST 800 UI/L. Kế hoạch xử trí nào sau đây là phù hợp nhất:",
+    "options": {
+      "A": "Truyền tĩnh mạch NaCl 0,9% 400 ml/1h  150 ml/1h x 2h",
+      "B": "Truyền tĩnh mạch Lactat ringer 400 ml/1h  →150 ml/1h x 2h",
+      "C": "Truyền tĩnh mạch Lactate in dextrose 5% 400ml/1h  200 ml/1h x 2h  150 ml/1h x2h",
+      "D": "Truyền tĩnh mạch lactat ringer 400 ml/1 h  200 ml/1 h x 2h  NaCl 0,9% 150 ml/1h x 2h"
+    }
+  },
+  "1925": {
+    "question": "Trẻ 48 tháng, 15 kg, vào viện vì Sốt, nôn ói và đau đầu nhiều. Bác sĩ khám phát hiện bé có cổ gượng. Mục tiêu thăm khám của bác sĩ trên bệnh nhi này là gì:",
+    "options": {
+      "A": "Thường quy",
+      "B": "Tìm dấu hiệu viêm màng não",
+      "C": "Tìm dấu hiệu gợi ý nguyên nhân",
+      "D": "Tìm dấu hiệu gợi ý biến chứng"
+    }
+  },
+  "1926": {
+    "question": "Bệnh nhi 8 tháng, 8 kg, được chẩn đoán viêm màng não mủ, có rối loạn tri giác và không có dấu hiệu thiếu nước, natri máu 119 mmol/l thì xử trí thích hợp nhất là gì:     D.",
+    "options": {
+      "A": "Mannitol 20% 40 ml TTM/30 phút, Cefotaxim 800 mg TMC chia 4 lần, Furosemid 8 mg TB",
+      "B": "Cefotaxime 800 mg TMC chia 4 lần, Furosemid 8 mg TB, dịch nhu cầu hàng ngày khoảng 800 ml",
+      "C": "Cefotaxime 1600 mg TMC chia 4 lần, NaCl 3% 32 ml TTM/30 phút, dịch nhu cầu hàng ngày khoảng 400 ml",
+      "D": "Vancomycin 480 mg TTM, chia làm 3 lần, dịch nhu cầu hàng ngày khoảng 540 ml"
+    }
+  },
+  "1927": {
+    "question": "Triệu chứng thực thể có giá trị giúp chẩn đoán viêm màng não ở trẻ nhũ nhi",
+    "options": {
+      "A": "Thóp phồng, cổ gượng",
+      "B": "Co giật, thóp phồng",
+      "C": "Tăng cảm giác da, li bì",
+      "D": "Cổ gượng, bỏ bú"
+    }
+  },
+  "1928": {
+    "question": "Ngoài ra việc định lượng protein, các globulin trong dịch não tủy còn có thể xác định bằng:",
+    "options": {
+      "A": "Phản ứng Pandy",
+      "B": "Phản ứng Latex",
+      "C": "Phản ứng ngưng",
+      "D": "Cả a, b, c đúng"
+    }
+  },
+  "1929": {
+    "question": "Kết quả kiểm tra phản ứng IDR:",
+    "options": {
+      "A": "Nếu đường kính <10mm: tốt",
+      "B": "Nếu phản ứng đường kính >10mm: thêm xét nghiệm để chẩn đoán xác định lao.",
+      "C": "Nếu phản ứng (-): chủng lại BCG",
+      "D": "Không có phát biểu nào sai"
+    }
+  },
+  "1930": {
+    "question": "Nguyên nhân chính gây tắc mạch trong hội chứng thận hư",
+    "options": {
+      "A": "Antithrombin III tăng mất qua nước tiểu",
+      "B": "Cholesterol máu tăng",
+      "C": "Tiểu cầu tăng",
+      "D": "Fibrinogen tăng"
+    }
+  },
+  "1931": {
+    "question": "Tiêu chuẩn quan trọng nhất giúp chẩn đoán hội chứng thận hư ở bệnh nhi có phù:",
+    "options": {
+      "A": "Đạm máu < 55 g/1",
+      "B": "Cholesterol tăng",
+      "C": "Tốc độ lắng máu tăng",
+      "D": "Đạm niệu > 50 mg/kg/24 giờ"
+    }
+  },
+  "1932": {
+    "question": "Bệnh nhi bị hội chứng thận hư, xét nghiệm nào giúp đánh giá phản ứng viêm chính xác nhất:",
+    "options": {
+      "A": "Tốc độ lắng máu",
+      "B": "Điện di đạm máu",
+      "C": "CRP",
+      "D": "Bạch cầu và công thức bạch cầu"
+    }
+  },
+  "1933": {
+    "question": "Được gọi là hội chứng thận hư “kháng corticoid” khi nào:",
+    "options": {
+      "A": "Sau điều trị Prednisolone 1 mg/kg/ngày x 2 tuần mà protein niệu (+)",
+      "B": "Sau điều trị Prednisone 2 mg/kg/ngày x 4 tuần mà protein niệu (+)",
+      "C": "Sau điều trị Prednisolone 2 mg/kg/2 ngày x 8 tuần mà protein niệu (+) .",
+      "D": "Sau điều trị Prednisolone 1 mg/kg/2 ngày x 4 tuần mà protein niệu (+)"
+    }
+  },
+  "1934": {
+    "question": "Bệnh nhân hội chứng thận hư bị phù to, khi vào viện vì shock giảm thể tích. Tính cân nặng để bù dịch chống sốc, dựa vào tiêu chuẩn nào:",
+    "options": {
+      "A": "Cân nặng hiện tại khi vào viện",
+      "B": "Cản nặng trước phù",
+      "C": "Đánh giá mức độ phù để tính ra cân nặng trước phù",
+      "D": "Tính cân nặng dựa vào chiều cao của bệnh nhân"
+    }
+  },
+  "1935": {
+    "question": "Cơ chế gây phù ở bệnh nhân viêm cầu thận cấp:",
+    "options": {
+      "A": "Do giảm áp lực keo lòng mạch",
+      "B": "Do tăng tính thấm thành mạch",
+      "C": "Do tăng giữ muối và nước",
+      "D": "Do giảm áp lực lọc cầu thận"
+    }
+  },
+  "1936": {
+    "question": "Chỉ định sinh thiết thận trong viêm cầu thận cấp trẻ em là khi nào:",
+    "options": {
+      "A": "Đái máu đại thể",
+      "B": "Huyết áp táng kéo dài > 2 tuần",
+      "C": "Đạm niệu > 30 mg/kg/24 giờ   \t .",
+      "D": "Bệnh diễn biến kéo dài > 6 tháng"
+    }
+  },
+  "1937": {
+    "question": "Bệnh nhi 5 tuổi có phù kiểu thận, huyết áp cao và tiểu máu đại thể 21 ngày, creatinine tăng cao. Chẩn đoán phù hợp nhất là gì:",
+    "options": {
+      "A": "Viêm cầu thận tăng sinh màng",
+      "B": "Viêm cầu thận hậu nhiễm liên cầu",
+      "C": "Bệnh cầu thận IgA",
+      "D": "Viêm cầu thận lupus"
+    }
+  },
+  "1938": {
+    "question": "Bệnh nhân bị dị ứng kháng sinh Penicillin V khi điều trị viêm cầu thận cấp, nên chuyển sang kháng sinh nào",
+    "options": {
+      "A": "Cefixim",
+      "B": "Cefuroxim",
+      "C": "Augmentin",
+      "D": "Erythromycin"
+    }
+  },
+  "1939": {
+    "question": "Theo dõi viêm cầu thận cấp sau xuất viện như thế nào là hợp lý:",
+    "options": {
+      "A": "Theo dõi định kỳ hàng tuần, ít nhất 3 tháng",
+      "B": "Theo dõi định kỳ hàng tháng, ít nhất 1 năm",
+      "C": "Theo dõi định kỳ hàng năm, ít nhất 2 năm",
+      "D": "Không cần theo dõi thêm"
+    }
+  },
+  "1940": {
+    "question": "Trong viêm cầu thận cấp, thuốc điều trị tăng huyết áp được ưu tiên là:",
+    "options": {
+      "A": "Captopril",
+      "B": "Furosemide",
+      "C": "Aldactone",
+      "D": "Adalat"
+    }
+  },
+  "1941": {
+    "question": "Bệnh nhân bị dị ứng kháng sinh Penicillin V (uống) khi điều trị viêm cầu thận cấp, nên chuyển sang kháng sinh:",
+    "options": {
+      "A": "Cefixime",
+      "B": "Erythromycin",
+      "C": "Augmentin",
+      "D": "Cefuroxim"
+    }
+  },
+  "1942": {
+    "question": "Cách lấy mẫu nước tiểu thường áp dụng để cây và làm kháng sinh đồ:",
+    "options": {
+      "A": "Túi hứng nước tiểu",
+      "B": "Lấy qua sonde tiểu",
+      "C": "Lấy nước tiểu giữa dòng",
+      "D": "Chọc dò trên xương mu"
+    }
+  },
+  "1943": {
+    "question": "Bệnh nhi tiểu khó, đau, đi nhiều lần, mất ngủ, tiểu đỏ, đau bụng, đó là biểu hiện của bệnh lý nào:",
+    "options": {
+      "A": "Viêm niệu đạo",
+      "B": "Sỏi bàng quang",
+      "C": "Viêm bàng quang",
+      "D": "Viêm cầu thận cấp"
+    }
+  },
+  "1944": {
+    "question": "Điều trị tốt nhất đối với nhiễm trùng tiểu không biến chứng:",
+    "options": {
+      "A": "Đợt điều trị kháng sinh 3 ngày hoặc 7 đến 10 ngày",
+      "B": "10-21 ngày kháng sinh",
+      "C": "Kháng sinh tĩnh mạch",
+      "D": "Kháng sinh điều trị từ 2 tuần đến 6 tuần hoặc 12 tháng đối với nhiễm trùng tiểu kháng thuốc"
+    }
+  },
+  "1945": {
+    "question": "Tiêu chuẩn chẩn đoán suy thận cấp ở trẻ em:",
+    "options": {
+      "A": "Creatinine máu > 3 mg%",
+      "B": "Ure máu > 80 mcg%",
+      "C": "Tiểu ít",
+      "D": "Phù"
+    }
+  },
+  "1946": {
+    "question": "Nguyên nhân gây suy thận cấp thường gặp nhất ở trẻ em:",
+    "options": {
+      "A": "Sốc",
+      "B": "Nhiễm trùng tiểu",
+      "C": "Viêm cầu thận cấp",
+      "D": "Sỏi niệu"
+    }
+  },
+  "1947": {
+    "question": "Tiêu chuẩn chẩn đoán viêm cầu thận cấp hậu nhiễm liên cầu",
+    "options": {
+      "A": "Phù, tiểu ít",
+      "B": "Cao huyết áp khởi phát cấp tính",
+      "C": "ASO giảm, C3 tăng, C4 bình thường",
+      "D": "Tiểu hồng cầu, albumin máu bình thường"
+    }
+  },
+  "1948": {
+    "question": "Chỉ định dùng Prednisone và thuốc ức chế miễn dịch trong viêm cầu thận cấp, NGOẠI TRỪ:",
+    "options": {
+      "A": "Tiểu máu tái phát",
+      "B": "Chức năng thận giảm",
+      "C": "C3 giảm > 3 tháng",
+      "D": "Tiểu đạm trên 3 tháng"
+    }
+  },
+  "1949": {
+    "question": "Tiêu chuẩn chẩn đoán hội chứng thận hư phụ thuộc corticoid:",
+    "options": {
+      "A": "Tái phát trong vòng 14 ngày sau khi ngừng corticoid",
+      "B": "Protein niệu có vết trong 14 ngày liên tục và còn phù",
+      "C": "Có đạm niệu > 50 mg/kg/ngày + phù",
+      "D": "Khi điều trị dù 4 tuần tấn công không đáp ứng"
+    }
+  },
+  "1950": {
+    "question": "Chỉ định truyền Albumin trong điều trị hội chứng thận hư, NGOẠI TRỪ:",
+    "options": {
+      "A": "Có Albumin máu thấp dưới 1,5 g%",
+      "B": "Phù nhiều kèm viêm phúc mạc nguyên phát",
+      "C": "Sốc giảm thể tích không đáp ứng với dung dịch điện giải và gelatine",
+      "D": "Phù nặng cần sinh thiết thận nhưng kháng trị với lợi tiểu liều tối đa"
+    }
+  },
+  "1951": {
+    "question": "Trẻ được chẩn đoán hội chứng thận hư kết quả xét nghiệm thấy đạm niệu 24h là 0,6g. Lượng đạm cần cung cấp cho trẻ ăn là:",
+    "options": {
+      "A": "73g/ngày",
+      "B": "Càng nhiều càng tốt",
+      "C": "87g/ngày",
+      "D": "64g/ngày"
+    }
+  },
+  "1952": {
+    "question": "Chủng ngừa đối với bệnh nhân hội chứng thận hư đang điều trị corticoid:",
+    "options": {
+      "A": "Chọn vắc-xin sống giảm độc lực",
+      "B": "Nên ngừng thuốc corticoid sau 3 tháng",
+      "C": "Chọn vắc-xin đa giá",
+      "D": "Nên cân nhắc tùy vào bản chất của vắc-xin nên chủng ngừa vào thời điểm nào"
+    }
+  },
+  "1953": {
+    "question": "Bệnh nhân hội chứng thận hư đang phù, vào viện vì tiêu chảy cấp, khám lâm sàng trẻ li bì, mắt trũng, nếp véo mất rất chậm. Phác đồ bù nước bệnh nhân này đúng:",
+    "options": {
+      "A": "Giữ nguyên phác đồ bù nước trong tiêu chảy cấp",
+      "B": "Uống nước theo nhu cầu hoặc dựa vào lượng phân mất mỗi lần đi tiêu",
+      "C": "Giảm bớt lượng dịch bù so với phác đồ điều trị tiêu chảy cấp",
+      "D": "Tăng thêm 10% lượng dịch so với phác đồ"
+    }
+  },
+  "1954": {
+    "question": "Biến chứng thường gặp của hội chứng thận hư ở trẻ em:",
+    "options": {
+      "A": "Suy dinh dưỡng",
+      "B": "Nhiễm khuẩn tiết niệu",
+      "C": "Viêm phúc mạc tiên phát",
+      "D": "Suy thận cấp."
+    }
+  },
+  "1955": {
+    "question": "Bệnh nhi nam, 4 tuổi vào viện vì phù toàn thân và tiểu ít, khám: HA 90/50 mmHg, mạch 110 l/ph, bìu to, bụng chướng nhẹ. Chẩn đoán phù hợp nhất?",
+    "options": {
+      "A": "Viêm cầu thận cấp",
+      "B": "Suy dinh dưỡng thể phù",
+      "C": "Hội chứng thận hư",
+      "D": "Suy thận cấp"
+    }
+  },
+  "1956": {
+    "question": "Thời kỳ tiềm ẩn trong bệnh viêm cầu thận cấp trẻ em:",
+    "options": {
+      "A": "Diễn tiến từ từ sau khi bị nhiễm trùng ở tai mũi họng 3-10 ngày, ở da 2 -3 tuần",
+      "B": "Liên cầu trùng ꞵ tan máu nhóm A (M type): 1,2, 4, 12, 18, 25, 49, 57, 58, 60",
+      "C": "Khoảng 5% trẻ bị nhiễm liên cầu dòng độc cho thận gây ra viêm cầu thận cấp",
+      "D": "Nếu nhiễm trùng da nguy cơ là 15%, nhiễm trùng ờ họng chi có 5%"
+    }
+  },
+  "1957": {
+    "question": "Ở trẻ em, viêm cầu thận cấp không rõ nguyên nhân được chia thành:",
+    "options": {
+      "A": "1 thể",
+      "B": "2 thể",
+      "C": "3 thể",
+      "D": "4 thể"
+    }
+  },
+  "1958": {
+    "question": "Ở bệnh nhi viêm cầu thận cấp, thuốc điều trị Tăng huyết áp nên được lựa chọn hàng đầu là",
+    "options": {
+      "A": "Captopril",
+      "B": "Furosemide",
+      "C": "Nifedipine",
+      "D": "Minoxidil"
+    }
+  },
+  "1959": {
+    "question": "Bệnh nhi được chẩn đoán VCTC, sử dụng corticosteroids khi:",
+    "options": {
+      "A": "VCT mạn",
+      "B": "Tiểu đạm >3th",
+      "C": "VCTC hậu nhiễm liên cầu",
+      "D": "VCTC kèm lupus đỏ"
+    }
+  },
+  "1960": {
+    "question": "Trong HCTH trẻ em, người ta sử dụng chỉ số IgG/transferrin để:",
+    "options": {
+      "A": "Chẩn đoán",
+      "B": "Đánh giá đáp ứng điều trị",
+      "C": "Tiên lượng",
+      "D": "Dự phòng"
+    }
+  },
+  "1961": {
+    "question": "Chẩn đoán xác định nhiễm trùng tiểu (NTT) trẻ em dựa vào:",
+    "options": {
+      "A": "Bạch cầu niệu tăng",
+      "B": "Cấy nước tiểu dương tính",
+      "C": "Bạch cầu niệu tăng, cấy nước tiểu (-), nếu có dùng kháng sinh trước đó thì chẩn đoán xác định NTT",
+      "D": "Bạch cầu niệu bình thường, Nitrit (+)"
+    }
+  },
+  "1962": {
+    "question": "Yếu tố giúp chẩn đoán có yếu tố ức chế ở trẻ bị hemophilia:",
+    "options": {
+      "A": "TC kéo dài",
+      "B": "PT kéo dài",
+      "C": "aPTT hỗn hợp kéo dài",
+      "D": "aPTT gián biệt kéo dài"
+    }
+  },
+  "1963": {
+    "question": "Bệnh nhân Hemophilia A, thời gian aPTT sẽ rút ngắn về bình thường nếu trong ống nghiệm có thêm yếu tố nào:",
+    "options": {
+      "A": "Nước muối sinh lý",
+      "B": "Huyết tương bình thường",
+      "C": "Huyết thanh bình thường",
+      "D": "Máu tươi"
+    }
+  },
+  "1964": {
+    "question": "Lượng yếu tố VIII cần truyền cho trẻ trai 10 tuổi, 30kg bị hemophilia A, xuất huyết khớp gối, định lượng yếu tố VIII còn 1%:",
+    "options": {
+      "A": "300 - 450 đơn vị",
+      "B": "450 - 750 đơn vị",
+      "C": "750 - 900 đơn vị",
+      "D": "900-1.500 đơn vị"
+    }
+  },
+  "1965": {
+    "question": "Nguyên nhân gây thiếu máu có độ phân bố hồng cầu rộng:",
+    "options": {
+      "A": "Thiếu men G6PD",
+      "B": "Suy tủy",
+      "C": "Thiếu sắt",
+      "D": "Bạch cầu cap"
+    }
+  },
+  "1966": {
+    "question": "Chỉ định truyền máu dựa vào mức Hb phù hợp đối với trẻ thiếu máu thiếu sắt:",
+    "options": {
+      "A": "Hb<9 g/dl",
+      "B": "Hb<7 g/dl",
+      "C": "Hb<5 g/dl",
+      "D": "Hb<4 g/dl"
+    }
+  },
+  "1967": {
+    "question": "Bé nam, 35 tháng tuổi, khám bệnh vì xanh xao, khám: niêm nhợt, gan lách không to, xét nghiệm máu: Hb 80 g/l, MCV 60 fl, MCH 20 pg. Chẩn đoán phù hợp nhất:",
+    "options": {
+      "A": "Suy tủy",
+      "B": "Thiếu men G6PD",
+      "C": "Ngộ độc chì",
+      "D": "Thalassemia"
+    }
+  },
+  "1968": {
+    "question": "Trẻ 29 tháng tuổi, cân nặng 10 kg, chẩn đoán thiếu máu thiếu sắt. Liều sắt nguyên tố sử dụng:",
+    "options": {
+      "A": "2-3 mg/kg/ngày",
+      "B": "4-6 mg/kg/ngày",
+      "C": "7-9 mg/kg/ngày",
+      "D": "10 -15 mg/kg/ngày"
+    }
+  },
+  "1969": {
+    "question": "Mục tiêu xuất viện ở trẻ truyền máu do thalassemia:",
+    "options": {
+      "A": "Hb> l0g/dL, HCN/BC <5/100",
+      "B": "Hb > 10g/dL, HCN/BC >5/100",
+      "C": "Hb < l0g/dL, HCN/BC < 5/100",
+      "D": "Hb < l0g/dL. 11CN/BC < 5/100"
+    }
+  },
+  "1970": {
+    "question": "Chi định tủy đồ trong xuất huyết giảm tiểu cầu:",
+    "options": {
+      "A": "Sau 1 tuần điều trị steroid mà lâm sàng và tiều cáu còn kem",
+      "B": "tái phát sau ngưng steroid",
+      "C": "Bệnh kéo dài trên 3 tháng",
+      "D": "Trẻ gái, > 10 tuổi"
+    }
+  },
+  "1971": {
+    "question": "Có nhiều nốt xuất huyết và/hoặc > 5 bầm máu lớn nhưng không có chảy máu niêm mạc ở một ca xuất huyết giảm tiểu cầu miễn dịch, hướng xử trí;",
+    "options": {
+      "A": "Đồng thuận quan sát",
+      "B": "Đồng thuận quan sát hoặc điều trị chọn lọc",
+      "C": "Can thiệp để đạt độ 1/2 ở những bệnh nhi chọn lọc",
+      "D": "Can thiệp"
+    }
+  },
+  "1972": {
+    "question": "Bệnh nhi 12 tháng có thiếu máu, vàng da trên lâm sàng và điện di Hb cho kết quả HbA1 = 76%, HbA2 = 5%, HbF = 19%. Chẩn đoán phù hợp nhất là:",
+    "options": {
+      "A": "Beta-thalassemia/HbE",
+      "B": "HbH",
+      "C": "Beta-thalassemia thể trung gian",
+      "D": "Minkowski Chauffard"
+    }
+  },
+  "1973": {
+    "question": "Triệu chứng của bệnh thiếu máu tan máu mạn tính ở trẻ em, chọn câu SAI:",
+    "options": {
+      "A": "Vàng da nhẹ",
+      "B": "Gan, lách to ít",
+      "C": "Tiểu vàng sậm",
+      "D": "Nhiễm sắt"
+    }
+  },
+  "1974": {
+    "question": "yếu tố nào giúp loại bệnh giảm tiểu cầu miễn dịch:",
+    "options": {
+      "A": "Thiếu máu nặng",
+      "B": "Trẻ có dị tật",
+      "C": "Gan, lách to",
+      "D": "Xuất huyết"
+    }
+  },
+  "1975": {
+    "question": "Cơ chế tác động corticoid được sử dụng trong điều trị xuất huyết giảm tiểu cầu miễn dịch:",
+    "options": {
+      "A": "ức chế bạch cầu đa nhân trung tính",
+      "B": "ức chế đại thực bào ở lách",
+      "C": "ức chế Lympho bào",
+      "D": "ức chế bạch cầu ưa axit"
+    }
+  },
+  "1976": {
+    "question": "Chi định cắt lách trong điều trị xuất huyết giảm tiểu cầu miễn dịch:",
+    "options": {
+      "A": "Xuất huyết nặng",
+      "B": "Xuất huyết nặng kéo dài kém đáp ứng với thuốc",
+      "C": "Thất bại với Corticoides",
+      "D": "Thất bại với Immunoglobulin"
+    }
+  },
+  "1977": {
+    "question": "Dấu hiệu xuất huyết ở trẻ bệnh bạch cầu cấp có đặc điểm nào:",
+    "options": {
+      "A": "Thường xảy ra sau va chạm",
+      "B": "Có tính đối xứng",
+      "C": "Xuất huyết da dạng",
+      "D": "Ít gây xuất huyết niêm"
+    }
+  },
+  "1978": {
+    "question": "Đặc điểm thiếu máu phù hợp với bệnh bạch cầu cấp:",
+    "options": {
+      "A": "Hb giảm nhiều hơn so với Hct",
+      "B": "MCV giàn",
+      "C": "MCH giảm",
+      "D": "RDW bình thường"
+    }
+  },
+  "1979": {
+    "question": "Yếu tố giúp phân biệt bệnh bạch cầu cấp và tăng bạch cầu phản ứng:",
+    "options": {
+      "A": "Số lượng bạch cầu",
+      "B": "Hiện diện bạch cầu non không điển hình",
+      "C": "Hồng cầu giảm",
+      "D": "Tiểu cầu giảm"
+    }
+  },
+  "1980": {
+    "question": "Đặc điểm thiếu máu phù hợp với suy tủy mắc phải:",
+    "options": {
+      "A": "Hồng cầu nhỏ",
+      "B": "Hồng cầu đẳng bào",
+      "C": "Hồng cầu to",
+      "D": "Hồng cầu có kích thước thay đổi"
+    }
+  },
+  "1981": {
+    "question": "Xét nghiệm tìm nguyên nhân gây suy tủy:",
+    "options": {
+      "A": "Huyết đồ",
+      "B": "Tủy đồ",
+      "C": "Khảo sát HLA",
+      "D": "Huyết thanh chẩn đoán HIV và HBV"
+    }
+  },
+  "1982": {
+    "question": "Biện pháp được ưu tiên lựa chọn để điều trị đặc hiệu cho trẻ bị suy tủy mắc phải:",
+    "options": {
+      "A": "Ghép tủy cùng huyết thống",
+      "B": "Ghép tủy không cùng huyết thống",
+      "C": "Ức chế miễn dịch",
+      "D": "Ức chế miễn dịch + Yếu tố tạo máu"
+    }
+  },
+  "1983": {
+    "question": "Đặc điểm hệ tạo máu ở trẻ sơ sinh:",
+    "options": {
+      "A": "Sơ sinh <7 ngày tuổi, sản xuất tế bào máu xảy ra ở gan, lách, thận",
+      "B": "Erythropoietin được sản xuất ở trẻ đủ tháng khi Hb còn 10-11g/dl",
+      "C": "Trẻ sinh non không có triệu chứng suy tim với nồng độ Hb 8-9g/dl",
+      "D": "Trẻ sơ sinh non tháng ≥ 1200g, thời gian có nồng độ Hb thấp nhất là 2 tháng"
+    }
+  },
+  "1984": {
+    "question": "Co giật sơ sinh có thể là, NGOẠI TRỪ:",
+    "options": {
+      "A": "Thay đổi trương lực cơ của thân và chi",
+      "B": "Cử động bất thường ở mặt, miệng, lười",
+      "C": "Cơn ngừng thở",
+      "D": "Thay đổi tri giác"
+    }
+  },
+  "1985": {
+    "question": "Điều trị trẻ sơ sinh co giật do hạ đường huyết, NGOẠI TRỪ:",
+    "options": {
+      "A": "Dextrose 10%: 2 ml/kg, tiêm mạch chậm trong 2-3 phút",
+      "B": "Duy trì: 6-8 mg/kg/phút",
+      "C": "Tốc độ truyền Dextrose 5% 3-5ml/kg/giờ",
+      "D": "Thử Dextrostix mỗi 2-4 giờ đến khi đường huyết ổn định"
+    }
+  },
+  "1986": {
+    "question": "Biểu hiện rối loạn đông máu trên bệnh nhi xuất huyết não màng não muộn:",
+    "options": {
+      "A": "Tiểu cầu giảm, aPTT kéo dài, PT kéo dài",
+      "B": "Tiểu cầu bình thường, TC, TS kéo dài",
+      "C": "Tiểu cầu bình thường, aPTT kéo dài, PT kéo dài",
+      "D": "aPTT bình thường, tỷ lệ Prothrombin giảm"
+    }
+  },
+  "1987": {
+    "question": "Hướng điều trị xuất huyết não màng não muộn bao gồm các bước nào:",
+    "options": {
+      "A": "Vitamin K1, chống thiếu máu, chống phù não",
+      "B": "Chống thiếu máu, chống phù não, điều trị triệu chứng khác",
+      "C": "Chọc hút máu khi tăng áp lực nội sọ, truyền máu",
+      "D": "Hạ Sốt, Vitamin K, Canxi, Seduxen"
+    }
+  },
+  "1988": {
+    "question": "Lựa chọn kháng sinh ban đầu ở trẻ 9 ngày tuổi, được chẩn đoán nhiễm trùng huyết kèm nhiễm trùng rốn:",
+    "options": {
+      "A": "Ampicillin + Gentamicin",
+      "B": "Ampicillin + Cefotaxime",
+      "C": "Ampicillin + Cefotaxime 4- Gentamicin",
+      "D": "Oxacillin + Gentamicin ± Cefotaxime"
+    }
+  },
+  "1989": {
+    "question": "Nguyên tắc điều trị nhiễm trùng huyết sơ sinh:",
+    "options": {
+      "A": "Phát hiện và điều trị biến chứng: suy hô hấp, sốc",
+      "B": "Điều trị kháng sinh",
+      "C": "Phối hợp với điều trị nâng đỡ và điều trị các biến chứng khác",
+      "D": "Cả 3 đúng"
+    }
+  },
+  "1990": {
+    "question": "Vàng da sinh lý có đặc điểm nào:",
+    "options": {
+      "A": "Kèm gan to nhẹ",
+      "B": "Xuất hiện trong 24 giờ đầu sau sanh",
+      "C": "Bilirubin máu 11,7-14.7mg%",
+      "D": "Nước tiểu vàng nhạt lúc khỏi đầu"
+    }
+  },
+  "1991": {
+    "question": "Ngưỡng bilirubin mg% cần chiếu đèn trong điều trị vàng da so với trọng lượng (g) của trẻ:",
+    "options": {
+      "A": "1/100",
+      "B": "1/130",
+      "C": "1/170",
+      "D": "1/200"
+    }
+  },
+  "1992": {
+    "question": "Chỉ định thay máu trong điều trị vàng da sơ sinh:",
+    "options": {
+      "A": "Tốc độ tăng bilirubin là 0,5-1 mg%/h",
+      "B": "Trẻ có xoắn vặn",
+      "C": "Ngừng thở",
+      "D": "Bỏ bú"
+    }
+  },
+  "1993": {
+    "question": "Khi hồi sức trẻ sơ sinh tím bị suy hô hấp, phát hiện bé khóc thì hồng không khóc thì tím; nên nghĩ ngay đến bệnh nào:",
+    "options": {
+      "A": "Hẹp lỗ mũi sau",
+      "B": "Teo thực quản",
+      "C": "Hội chứng Pierre Robin",
+      "D": "Thoát vị cơ hoành"
+    }
+  },
+  "1994": {
+    "question": "Trên phim x-quang thấy bờ tim không rõ, phế trường mờ lan tỏa phù hợp với bệnh màng trong giai đoạn nào:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    }
+  },
+  "1995": {
+    "question": "Bé gái, 37 tuần, sinh mổ vì mẹ đau vết mổ cũ, sau sinh Apgar 5/6, bé tím, thở nhanh 70 lần/phút. Chẩn đoán có thể nhất:",
+    "options": {
+      "A": "Bệnh màng trong",
+      "B": "Viêm phổi bẩm sinh",
+      "C": "Viêm phổi hít ối",
+      "D": "Chậm hấp thu dịch phế nang"
+    }
+  },
+  "1996": {
+    "question": "Trẻ sơ sinh 30 tuần, cân nặng 1900gr, sau sinh 2 giờ bé tím môi, thở rên, rút lõm ngực nặng, phổi thông khí kém. Xử trí phù hợp nhất:",
+    "options": {
+      "A": "Thở oxy qua cannula 1 lít/phút.",
+      "B": "Thở oxy qua mask 61 lít/phút.",
+      "C": "Thở NCPAP",
+      "D": "Đặt nội khí quản, thở máy."
+    }
+  },
+  "1997": {
+    "question": "Trẻ sơ sinh 28 tuần, cân nặng 1800gr, suy hô hấp nặng sau sanh, Chụp Xquang ngực thẳng: hình ảnh lưới hạt, bờ tim không rõ, 2 phổi mờ phù hợp với giai đoạn bệnh màng trong:   Câu 1998  Phương pháp tốt nhất trong điều trị suy hô hấp sơ sinh do bệnh màng trong là gì:",
+    "options": {
+      "A": "Thở oxy qua cannula",
+      "B": "Thở oxy qua mask",
+      "C": "Thở NCPAP",
+      "D": "Thở oxy qua catheter"
+    }
+  },
+  "1999": {
+    "question": "Triệu chứng lâm sàng điển hình của bệnh ngạt nặng thiếu máu cục bộ do thiếu oxy ở trẻ sơ sinh đủ tháng:",
+    "options": {
+      "A": "Suy hô hấp, giật cơ",
+      "B": "Co giật",
+      "C": "Hôn mê",
+      "D": "Thiếu máu nặng"
+    }
+  },
+  "2000": {
+    "question": "Số lượng các đặc điểm dùng để phân biệt bướu máu dưới xương sọ với bướu huyết thanh:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    }
+  },
+  "2001": {
+    "question": "Triệu chứng chính của chấn thương khi đẻ và ngạt tím sơ sinh:",
+    "options": {
+      "A": "Tim còn đập",
+      "B": "Da tím",
+      "C": "Trương lực cơ còn tăng",
+      "D": "Phản xạ còn"
+    }
+  },
+  "2002": {
+    "question": "Tiêu chuẩn chẩn đoán xác định suy hô hấp sơ sinh:",
+    "options": {
+      "A": "Con ngừng thở > 20 giây hoặc < 20 giây kèm nhịp tim < 100 lần/phút.",
+      "B": "Thở rên (thì thở ra).",
+      "C": "SaO2 < 90%",
+      "D": "PaO2 < 50 mmHg và/hoặc PaCO2 > 60 mmHg và pH < 7,25"
+    }
+  },
+  "2003": {
+    "question": "Bé trai, 39 tuần, sinh mổ vì chuyển dạ ngưng tiến triển, sau sinh Apgar 5/6, tím, nước ối xanh lẫn phân su. Khả năng nào có thể nhất:",
+    "options": {
+      "A": "Bệnh màng trong",
+      "B": "Viêm phổi bẩm sinh",
+      "C": "Viêm phổi hít",
+      "D": "Chậm hấp thu phế nang"
+    }
+  },
+  "2004": {
+    "question": "Trẻ sơ sinh đủ tháng, ối vỡ 16 giờ, tiền sử của mẹ không có gì đặc biệt, sau sinh 2 ngày bị suy hô hấp, bỏ bú và ọc sữA. Chẩn đoán phù hợp nhất:",
+    "options": {
+      "A": "Suy hô hấp do hít nước ối",
+      "B": "Nhiễm trùng sơ sinh mắc phải",
+      "C": "Nhiễm trùng huyết sơ sinh sớm",
+      "D": "Viêm màng não"
+    }
+  },
+  "2005": {
+    "question": "Chỉ định thở NCPAP thích hợp nhất ở trẻ sơ sinh bị suy hô hấp do nguyên nhân/điều kiện nào sau đây:",
+    "options": {
+      "A": "Bệnh màng trong",
+      "B": "Tràn khí màng phổi",
+      "C": "Dị tật não",
+      "D": "SaO2< 85% (PaO2 < 50 mmHg) với khí trời"
+    }
+  },
+  "2006": {
+    "question": "Bé gái 3200gr, đủ tháng có mẹ HbsAg (+), trẻ này cần tiêm phòng Viêm gan siêu vi B?",
+    "options": {
+      "A": "Thử máu con tìm HbsAg, nếu HbsAg (+) thì không cần chích vắc-xin ngừa VGSV B",
+      "B": "Tiêm Hepatitis B ImmunoGlobulin (HBIG).",
+      "C": "Tiêm ngừa vắc-xin viêm gan siêu vi B thường qui",
+      "D": "Tiêm ngừa vắc-xin ngừa VGSV B và HBIG trong vòng 12 giờ đầu sau sanh và phải tiêm ở 2 vị trí khác nhau."
+    }
+  },
+  "2007": {
+    "question": "Trẻ sơ sinh 37 tuần, cân nặng 3000gr, 19 ngày tuổi vào viện vì bỏ bú, sốt 390C, bụng chướng, thở nhanh. Điều trị nào là thích hợp nhất.",
+    "options": {
+      "A": "Ampicillin + Gentamicin",
+      "B": "Cefotaxime + Gentamicin",
+      "C": "Cephalosporin thế hệ thứ III",
+      "D": "Vancomycine TTM"
+    }
+  },
+  "2008": {
+    "question": "Nguyên tắc điều trị nhiễm trùng sơ sinh:",
+    "options": {
+      "A": "Cho kháng sinh sớm và kịp thời nếu tiên lượng nhiều yếu tố nguy cơ không cần chờ đủ xét nghiệm",
+      "B": "Phối hợp kháng sinh và ưu tiên đường uống",
+      "C": "Dùng kháng sinh khi đủ bằng chứng lâm sàng và cận lâm sàng",
+      "D": "Ngừng kháng sinh khi có đủ bằng chứng loại trừ nhiễm trùng sơ sinh"
+    }
+  },
+  "2009": {
+    "question": "Tiêu chuẩn chẩn đoán nhiễm trùng huyết sơ sinh KÉM thuyết phục nhất:",
+    "options": {
+      "A": "Viêm da mủ + cấy máu (+)",
+      "B": "Viêm phổi + CRP 5 mg/L",
+      "C": "Viêm màng não mù + ti lệ band neutrophil 1:0,3",
+      "D": "Sốt 7 ngày + có không bào, hạt độc trên phết máu ngoại biên"
+    }
+  },
+  "2010": {
+    "question": "Trong nhiễm trùng huyết sơ sinh, nếu có các dấu hiệu sau đây thì chỉ định dùng Ampicillin + Cefotaxim + Gentamycin ngay từ đầu, NGOẠI TRỪ:",
+    "options": {
+      "A": "Nhiễm trùng huyết trước 7 ngày tuổi",
+      "B": "Nhiễm trùng da hoặc rốn độ 3",
+      "C": "Bệnh có dấu hiệu nặng, nguy kịch ngay từ đầu",
+      "D": "Nhiễm trùng huyết + viêm màng não mủ"
+    }
+  },
+  "2011": {
+    "question": "Nếu mẹ có HbsAg (+), thì chăm sóc trẻ sơ sinh tại phòng sanh bao gồm:",
+    "options": {
+      "A": "Thử máu con tìm HbsAg, nếu HbsAg (+) thì không cần chích vắc-xin ngừa VGSV B",
+      "B": "Tiêm Hepatitis B Immunoglobulin (HBIG) là đủ",
+      "C": "Tiêm ngừa vắc-xin viêm gan siêu vi B thường quy",
+      "D": "Tiêm ngừa vắc-xin ngừa VGSV B + HBIG trong vòng 12 giờ đầu sau sanh và phải tiêm ở 2 vị trí khác nhau"
+    }
+  },
+  "2012": {
+    "question": "Sởi mũi 1 được tiêm ngừa khi trẻ:",
+    "options": {
+      "A": "3 tháng tuổi",
+      "B": "6 tháng tuổi",
+      "C": "9 tháng tuổi",
+      "D": "12 tháng tuổi"
+    }
+  },
+  "2013": {
+    "question": "Vắc-xin 5 trong 1 gồm:",
+    "options": {
+      "A": "Bại liệt, ho gà, uốn ván, lao, Hib",
+      "B": "Bạch hầu, ho gà, uốn ván, viêm gan B, Hib",
+      "C": "Bại liệt, uốn ván, viêm gan B, sởi, Hib",
+      "D": "Bạch hầu, ho gà, uốn ván, viêm gan B, bại liệt."
+    }
+  },
+  "2014": {
+    "question": "Trẻ sơ sinh đủ tháng, ối vỡ 26 giờ, sau sinh 4 ngày, sốt 390C kèm theo bú kém, tiêu lỏng. Chỉ định cận lâm sàng phù hợp là:",
+    "options": {
+      "A": "Công thức máu, CRP, cấy máu",
+      "B": "CRP, soi cấy dịch dạ dày",
+      "C": "Công thức máu, CRP, Xquang ổ bụng",
+      "D": "Công thức máu, Chọc dò dịch não tủy"
+    }
+  },
+  "2015": {
+    "question": "Yếu tố nguy cơ nhiễm trùng từ mẹ, CHỌN CÂU SAI",
+    "options": {
+      "A": "Vỡ ối sớm",
+      "B": "Mẹ sốt > 38 lúc sanh",
+      "C": "Sản giật",
+      "D": "Chuyển dạ sanh non"
+    }
+  },
+  "2016": {
+    "question": "Đặc điểm hệ nội tiết trẻ sơ sinh:",
+    "options": {
+      "A": "Bé gái có thể có kinh nguyệt 7-10 ngày đầu",
+      "B": "Chất thyroxin xuất hiện vào tháng 6-8 của thai kỳ",
+      "C": "Tuyến tụy bắt đầu hoạt động vào tuần đầu sau sinh, chủ yếu tiết insulin",
+      "D": "Trẻ mới sinh rất dễ bị suy tuyến cận giáp do thường xuyên bị đe dọa thiếu Ca máu"
+    }
+  },
+  "2017": {
+    "question": "Hệ thống bảo vệ cơ thể trẻ sơ sinh, bao gồm:",
+    "options": {
+      "A": "IgG: xuất hiện từ tuần lễ thứ 12, không qua được nhau thai",
+      "B": "IgM: xuất hiện từ tuần lễ thứ 10, chống được vi trùng Gr (-)",
+      "C": "IgA: xuất hiện từ tuần lễ thứ 10, không qua được nhau thai",
+      "D": "Miễn dịch tế bào có từ tháng thứ 5 của thai kỳ"
+    }
+  },
+  "2018": {
+    "question": "Điều trị hỗ trợ xuất huyết não màng não muộn ở trẻ em:",
+    "options": {
+      "A": "Truyền máu cho tất cả trẻ có Hct <40%",
+      "B": "Chế phẩm máu truyền: huyết tương tươi cho tất cả trẻ",
+      "C": "Chống co giật bằng Phenobarbital 10mg/kg tiêm mạch chậm",
+      "D": "Vitamin E liều 25-50 đơn vị/ngày trong 2 tuần"
+    }
+  },
+  "2019": {
+    "question": "Hoàn thành phát biểu sau: \"Quá trình quang tổng hợp ở da tạo ..(1).. dưới tác dụng của ..(2).. trong ánh sáng mặt trời”. (1) và (2) lần lượt là:",
+    "options": {
+      "A": "7- dehydrocholesterol và UVA",
+      "B": "7- dehydrocholesterol và UVB",
+      "C": "cholecalciferol và UVA",
+      "D": "cholecalciferol và UVB"
+    }
+  },
+  "2020": {
+    "question": "Một trẻ sinh non 32 tuần 3 ngày, tỷ lệ mắc bệnh màng trong của trẻ này là:",
+    "options": {
+      "A": "60-80%",
+      "B": "15-30%",
+      "C": "30-60%",
+      "D": "5-15%"
+    }
+  },
+  "2021": {
+    "question": "Tổn thương thần kinh, cột sống ở trẻ sơ sinh do sang chấn sản khoa:",
+    "options": {
+      "A": "Liệt thần kinh hoành thường trẻ sẽ tự hồi phục sau 6 tháng",
+      "B": "Liệt Duchenne Erb do tổn thương gốc thần kinh C5-C6",
+      "C": "Liệt đám rối thần kinh cánh tay do tổn thương C1-C2",
+      "D": "Liệt kiểu Kumple do tổn thương rễ thần kinh C6-C7"
+    }
+  },
+  "2022": {
+    "question": "Dị tật bẩm sinh ít xảy ra trong giai đoạn nào sau đây:",
+    "options": {
+      "A": "Trong 3 tháng đầu",
+      "B": "Trong giai đoạn nhau thai",
+      "C": "Trong thời kỳ bào thai",
+      "D": "Trong giai đoạn phôi thai"
+    }
+  },
+  "2023": {
+    "question": "Đặc điểm tăng cân ở trẻ em:",
+    "options": {
+      "A": "Trẻ tăng cân liên tục xen kẽ giai đoạn giảm cân sinh lý (<10% cân nặng)",
+      "B": "Trẻ tăng cân liên tục xen kẽ giai đoạn giảm cân sinh lý (>10% cân nặng)",
+      "C": "Từ tháng thứ 7 đến tháng thứ 9 trẻ tăng trung bình gần 500 gram/tháng",
+      "D": "Từ tháng thứ 7 đến tháng thứ 9 trẻ tăng trung bình gần 750 gram/tháng"
+    }
+  },
+  "2024": {
+    "question": "Đặc điểm điều hòa thân nhiệt ở trẻ:  (1)     Đảm bảo nhiệt độ tối ưu của môi trường 30-33°C cho trẻ dù tháng.  (2)     Để chống lạnh, trẻ chủ yếu dựa vào chuyển hóa protid, lipid và gluci  (3)     Trẻ sơ sinh sau khi chào đời rất dễ bị mất nhiệt.  (4)     Các chất dự trữ dề tạo năng lượng dù cho 3-4 giờ đầu sau sinh.  Phát biểu đúng là:",
+    "options": {
+      "A": "(l), (2), (3)",
+      "B": "(2), (3)",
+      "C": "(3), (4)",
+      "D": "(l), (4)"
+    }
+  },
+  "2025": {
+    "question": "Nguyên tắc quan trọng nhất của nuôi ăn tĩnh mạch hoàn toàn ở trẻ em.",
+    "options": {
+      "A": "Cung cấp đầy đủ năng lượng và các chất dinh dưỡng",
+      "B": "Các chất phải được đưa vào cơ thể cùng lúc",
+      "C": "Chất dinh dưỡng phải đưa vào đều đặn mỗi ngày",
+      "D": "Ngày đầu tiên có thể chỉ cho đạm"
+    }
+  },
+  "2026": {
+    "question": "Để đảm bảo nhu cầu axit béo cần thiết, thì lượng lipid cung cấp tối thiểu cho trẻ nhũ nhi phải là:",
+    "options": {
+      "A": "0,3 g/kg/ngày",
+      "B": "0,5 g/kg/ngày",
+      "C": "0,7 g/kg/ngày",
+      "D": "0,9 g/kg/ngày"
+    }
+  },
+  "2027": {
+    "question": "Trong co giật sơ sinh, nghi ngờ nguyên nhân do hạ magie khi lượng magie máu dưới ngưỡng (mmol/L):",
+    "options": {
+      "A": "0,2",
+      "B": "0.4",
+      "C": "0,6",
+      "D": "0,8"
+    }
+  },
+  "2028": {
+    "question": "Trẻ 16 tháng tuổi, cân nặng 10 kg, tiêu chảy cấp có mất nước, kèm bụng chướng nhu động ruột 3 lần/phút, xử trí phù hợp là:",
+    "options": {
+      "A": "Cho uống dịch ORS 750ml/4 giờ",
+      "B": "Cho Ringer’s lactate truyền tĩnh mạch",
+      "C": "Cho thuốc tăng co bóp nhu động ruột tiêm bắp, sau đó bù dịch ORS",
+      "D": "Bù dịch NaC1 9%% qua ống thông mũi dạ dày"
+    }
+  }
+}

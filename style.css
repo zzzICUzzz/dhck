@@ -1,0 +1,135 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.title {
+    text-align: center;
+    margin: 20px;
+    font-size: 2em;
+}
+
+.disclaimer {
+    text-align: center;
+    margin: 20px;
+    font-size: 1em;
+}
+
+.selection-area {
+    text-align: center;
+    margin: 20px;
+}
+
+.selection-area label {
+    display: block;
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+.selection-area input,
+.selection-area select,
+.selection-area button {
+    font-size: 1em;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    max-width: 300px;
+}
+
+#questions-container {
+    padding: 20px;
+}
+
+.question {
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.question h3 {
+    font-size: 1.2em;
+}
+
+.question label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.correct {
+    background-color: #d4edda;
+}
+
+.incorrect {
+    background-color: #f8d7da;
+}
+
+.checkmark {
+    font-size: 1.5em;
+    margin-left: 10px;
+}
+
+/* Media queries for responsiveness */
+
+/* Mobile styles */
+@media (max-width: 600px) {
+    .title {
+        font-size: 1.5em;
+    }
+
+    .disclaimer {
+        font-size: 0.9em;
+    }
+
+    .selection-area label {
+        font-size: 1em;
+    }
+
+    .selection-area input,
+    .selection-area select,
+    .selection-area button {
+        font-size: 0.9em;
+    }
+
+    .question h3 {
+        font-size: 1em;
+    }
+
+    .question label {
+        font-size: 0.9em;
+    }
+}
+
+/* Tablet styles */
+@media (min-width: 601px) and (max-width: 768px) {
+    .title {
+        font-size: 1.75em;
+    }
+
+    .disclaimer {
+        font-size: 1em;
+    }
+
+    .selection-area label {
+        font-size: 1.1em;
+    }
+
+    .selection-area input,
+    .selection-area select,
+    .selection-area button {
+        font-size: 1em;
+    }
+
+    .question h3 {
+        font-size: 1.1em;
+    }
+
+    .question label {
+        font-size: 1em;
+    }
+}
