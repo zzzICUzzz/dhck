@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Đóng góp/Chỉnh sửa câu hỏi</title>
+    <script src="script.js"></script> 
+    <style>
+        /* ... (CSS styles cho form) */
+    </style>
+</head>
+<body>
+    <div id="contribution-form"></div>
+
+    <script>
+        // Lấy action từ query parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const action = urlParams.get('action'); 
+
+        // Gọi hàm handleContributionForm để hiển thị form
+        handleContributionForm(action); 
+    </script>
+</body>
+</html>

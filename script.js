@@ -122,17 +122,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 .catch(error => console.error('Có lỗi xảy ra khi gửi dữ liệu:', error));
 
                         
-            if (subject === 'random') {
-                window.location.href = 'quiz.html?subject=random';
-            } else if (subject === 'contribute' || subject === 'edit') {
-                handleContributionForm(subject);
-            } else {
-                window.location.href = `quiz.html?subject=${subject}`;
-            }
-        });
-    } else {
-        console.error("Không tìm thấy phần tử có ID 'startBtn'.");
-    }
+                if (subject === 'random') {
+                    window.location.href = 'quiz.html?subject=random';
+                } else if (subject === 'contribute' || subject === 'edit') {
+                    window.location.href = 'contribution.html?action=' + subject; // Chuyển hướng đến trang mới
+                } else {
+                    window.location.href = `quiz.html?subject=${subject}`;
+                }
+            });
+        } else {
+            console.error("Không tìm thấy phần tử có ID 'startBtn'.");
+        }
 
     async function handleContributionForm(action) {
         const contributionForm = document.getElementById("contribution-form");
