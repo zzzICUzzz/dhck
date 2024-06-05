@@ -2,21 +2,90 @@
 <html>
 <head>
     <title>Đóng góp/Chỉnh sửa câu hỏi</title>
-    <script src="script.js"></script> 
     <style>
-        /* ... (CSS styles cho form) */
+        #contribution-form {
+            width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"], textarea, select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
-    <div id="contribution-form"></div>
+    <div id="contribution-form">
+        <h2>Đóng góp/Chỉnh sửa câu hỏi</h2>
+        <textarea id="questionText" placeholder="Nội dung câu hỏi"></textarea>
+        <input type="text" id="optionA" placeholder="Lựa chọn A">
+        <input type="text" id="optionB" placeholder="Lựa chọn B">
+        <input type="text" id="optionC" placeholder="Lựa chọn C">
+        <input type="text" id="optionD" placeholder="Lựa chọn D">
+        <select id="correctAnswer">
+            <option value="">-- Đáp án đúng --</option>
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+            <option value="D">D</option>
+        </select>
+        <button id="submitContribution">Gửi</button>
+    </div>
 
     <script>
-        // Lấy action từ query parameters
-        const urlParams = new URLSearchParams(window.location.search);
-        const action = urlParams.get('action'); 
+        const scriptUrl = 'https://script.google.com/macros/s/AKfycby2_L67r4LXq26dINLWJ8HYgZ3i9g1eunGfhWAG_hEYVlsUh4De8TqF2x7yz5a-IzC9Rg/exec'; // Thay bằng URL của Google Apps Script của bạn
 
-        // Gọi hàm handleContributionForm để hiển thị form
-        handleContributionForm(action); 
+        document.getElementById("submitContribution").addEventListener("click", () => {
+            const questionText = document.getElementById("questionText").value;
+            const optionA = document.getElementById("optionA").value;
+            const optionB = document.getElementById("optionB").value;
+            const optionC = document.getElementById("optionC").value;
+            const optionD = document.getElementById("optionD").value;
+            const correctAnswer = document.getElementById("correctAnswer").value;
+
+            fetch(scriptUrl, {
+                method: 'POST',
+                body: JSON.stringify({ questionText, optionA, optionB, optionC, optionD, correctAnswer }),
+                headers: { 'Content-Type': 'application/json' }
+            })
+            .then(response => {
+                if (response.ok) {
+                    // Reset các ô input và thông báo thành công
+                    document.getElementById("questionText").value = "";
+                    document.getElementById("optionA").value = "";
+                    document.getElementById("optionB").value = "";
+                    document.getElementById("optionC").value = "";
+                    document.getElementById("optionD").value = "";
+                    document.getElementById("correctAnswer").value = "";
+                    alert("Dữ liệu đã được gửi thành công!");
+
+                    // Reload trang sau khi gửi thành công
+                    location.reload();
+                } else {
+                    alert("Có lỗi xảy ra khi gửi dữ liệu. Vui lòng thử lại.");
+                }
+            });
+        });
     </script>
 </body>
 </html>
