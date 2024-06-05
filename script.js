@@ -109,82 +109,29 @@ document.addEventListener('DOMContentLoaded', () => {
                 return; // Prevent submission if name is empty
             }
 
-                                // Gửi dữ liệu đến Google Apps Script
-            var scriptUrl = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
-            var formData = new FormData();
+            // Gửi dữ liệu đến Google Apps Script
+            const scriptUrl = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
+            const formData = new FormData();
             formData.append('time', new Date().toISOString());
-            formData.append('name', document.getElementById('name').value); // Lấy giá trị tên từ input
-            formData.append('subject', document.getElementById('subject').value); // Lấy giá trị chủ đề từ input
+            formData.append('name', name); // Lấy giá trị tên từ input
+            formData.append('subject', subject); // Lấy giá trị chủ đề từ input
 
             fetch(scriptUrl, { method: 'POST', body: formData })
                 .then(response => response.text())
                 .then(responseText => console.log(responseText))
                 .catch(error => console.error('Có lỗi xảy ra khi gửi dữ liệu:', error));
 
-                        
-                if (subject === 'random') {
-                    window.location.href = 'quiz.html?subject=random';
-                } else if (subject === 'contribute' || subject === 'edit') {
-                    window.location.href = 'contribution.html?action=' + subject; // Chuyển hướng đến trang mới
-                } else {
-                    window.location.href = `quiz.html?subject=${subject}`;
-                }
-            });
-        } else {
-            console.error("Không tìm thấy phần tử có ID 'startBtn'.");
-        }
-
-    async function handleContributionForm(action) {
-        const contributionForm = document.getElementById("contribution-form");
-        contributionForm.innerHTML = `
-            <h2>${action === 'contribute' ? 'Đóng góp câu hỏi' : 'Chỉnh sửa câu hỏi'}</h2>
-            <textarea id="questionText" placeholder="Nội dung câu hỏi"></textarea>
-            <input type="text" id="optionA" placeholder="Lựa chọn A">
-            <input type="text" id="optionB" placeholder="Lựa chọn B">
-            <input type="text" id="optionC" placeholder="Lựa chọn C">
-            <input type="text" id="optionD" placeholder="Lựa chọn D">
-            <select id="correctAnswer">
-                <option value="">-- Đáp án đúng --</option>
-                <option value="A">A</option>
-                <option value="B">B</option>
-                <option value="C">C</option>
-                <option value="D">D</option>
-            </select>
-            <button id="submitContribution">Gửi</button>
-        `;
-        contributionForm.style.display = "block";
-
-        document.getElementById("submitContribution").addEventListener("click", () => {
-            const questionText = document.getElementById("questionText").value;
-            const optionA = document.getElementById("optionA").value;
-            const optionB = document.getElementById("optionB").value;
-            const optionC = document.getElementById("optionC").value;
-            const optionD = document.getElementById("optionD").value;
-            const correctAnswer = document.getElementById("correctAnswer").value;
-
-            const scriptUrl = 'https://script.google.com/macros/s/AKfycby2_L67r4LXq26dINLWJ8HYgZ3i9g1eunGfhWAG_hEYVlsUh4De8TqF2x7yz5a-IzC9Rg/exec'; // Thay bằng URL của Google Apps Script của bạn
-            fetch(scriptUrl, {
-            method: 'POST',
-            body: JSON.stringify({ questionText, optionA, optionB, optionC, optionD, correctAnswer }),
-            headers: { 'Content-Type': 'application/json' }
-            })
-            .then(response => {
-            if (response.ok) {
-                // Reset các ô input sau khi gửi thành công
-                document.getElementById("questionText").value = "";
-                document.getElementById("optionA").value = "";
-                document.getElementById("optionB").value = "";
-                document.getElementById("optionC").value = "";
-                document.getElementById("optionD").value = "";
-                document.getElementById("correctAnswer").value = "";
-
-                alert("Dữ liệu đã được gửi thành công!");
+            if (subject === 'random') {
+                window.location.href = 'quiz.html?subject=random';
+            } else if (subject === 'contribute' || subject === 'edit') {
+                window.location.href = 'contribution.html?action=' + subject; // Chuyển hướng đến trang mới
             } else {
-                alert("Có lỗi xảy ra khi gửi dữ liệu. Vui lòng thử lại.");
+                window.location.href = `quiz.html?subject=${subject}`;
             }
-            });
         });
-        }
+    } else {
+        console.error("Không tìm thấy phần tử có ID 'startBtn'.");
+    }
 
     loadQuestions();
 });
