@@ -162,16 +162,29 @@ document.addEventListener('DOMContentLoaded', () => {
             const optionD = document.getElementById("optionD").value;
             const correctAnswer = document.getElementById("correctAnswer").value;
 
-            const scriptUrl = 'https://script.google.com/macros/s/AKfycby2_L67r4LXq26dINLWJ8HYgZ3i9g1eunGfhWAG_hEYVlsUh4De8TqF2x7yz5a-IzC9Rg/exec';
+            const scriptUrl = 'https://script.google.com/macros/s/AKfycby2_L67r4LXq26dINLWJ8HYgZ3i9g1eunGfhWAG_hEYVlsUh4De8TqF2x7yz5a-IzC9Rg/exec'; // Thay bằng URL của Google Apps Script của bạn
             fetch(scriptUrl, {
-                method: 'POST',
-                body: JSON.stringify({ questionText, optionA, optionB, optionC, optionD, correctAnswer }),
-                headers: {
-                    'Content-Type': 'application/json'
-                }
+            method: 'POST',
+            body: JSON.stringify({ questionText, optionA, optionB, optionC, optionD, correctAnswer }),
+            headers: { 'Content-Type': 'application/json' }
+            })
+            .then(response => {
+            if (response.ok) {
+                // Reset các ô input sau khi gửi thành công
+                document.getElementById("questionText").value = "";
+                document.getElementById("optionA").value = "";
+                document.getElementById("optionB").value = "";
+                document.getElementById("optionC").value = "";
+                document.getElementById("optionD").value = "";
+                document.getElementById("correctAnswer").value = "";
+
+                alert("Dữ liệu đã được gửi thành công!");
+            } else {
+                alert("Có lỗi xảy ra khi gửi dữ liệu. Vui lòng thử lại.");
+            }
             });
         });
-    }
+        }
 
     loadQuestions();
 });
