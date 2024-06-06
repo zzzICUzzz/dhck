@@ -16,7 +16,7 @@ function hasSpecialCharacters(input) {
 }
 
 function isValidName(name) {
-    const invalidNames = ["Nguyễn Công Minh", "Minh", "Minhz", "minhz", "congminh", "minh", "CongMinh"];
+    const invalidNames = ["Z"];
     return name.length > 1 && !invalidNames.includes(name);
 }
 
@@ -125,7 +125,7 @@ if (startBtn) {
         }
 
         if (hasSpecialCharacters(name) || !isValidName(name)) {
-            alert('Tên không hợp lệ. Vui lòng nhập lại tên hợp lệ.');
+            alert('Thích nhập tên kiểu đó không ???');
             return;
         }
 
