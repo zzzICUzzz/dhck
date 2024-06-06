@@ -109,25 +109,18 @@ if (startBtn) {
 
         const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
 
-        const xhr = new XMLHttpRequest();
-        xhr.open('POST', googleSheetsURL, true);
-        xhr.setRequestHeader('Content-Type', 'application/json');
+        const formData = new FormData();
+        formData.append('time', currentTime);
+        formData.append('name', name);
+        formData.append('subject', subject);
 
-        xhr.onreadystatechange = function() {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                console.log("Result submitted successfully to Google Sheets!");
-            } else if (xhr.readyState === 4) {
-                console.error("Error submitting result to Google Sheets:", xhr.statusText);
-            }
-        };
+        try {
+            await fetch(googleSheetsURL, { method: 'POST', body: formData });
 
-        const data = JSON.stringify({
-            time: currentTime,
-            name: name,
-            subject: subject
-        });
-
-        xhr.send(data);
+            console.log("Result submitted successfully to Google Sheets!");
+        } catch (error) {
+            console.error("Error submitting result to Google Sheets:", error);
+        }
 
         if (subject === 'random') {
             window.location.href = 'quiz.html?subject=random';
