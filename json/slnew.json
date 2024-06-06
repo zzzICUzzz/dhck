@@ -189,9 +189,11 @@
     }
   },
   "20450": {
-    "question": "Độ lọc cầu thận ở người trưởng thành bình thường là bao nhiêu m//phút: А. 25-50 С. 75-100",
+    "question": "Độ lọc cầu thận ở người trưởng thành bình thường là bao nhiêu m//phút:",
     "options": {
+      "A":"25-50", 
       "B": "50-75",
+      "C":"75-100",
       "D": "100-125"
     }
   },
