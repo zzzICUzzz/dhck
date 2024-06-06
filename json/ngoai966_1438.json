@@ -4206,5 +4206,545 @@
       "C": "Barton",
       "D": "Galeazzi"
     }
+  },
+  "41097": {
+    "question": "Vai trò của kháng nguyên phôi ung thư (CEA) trong ung thư đại trực tràng, NGOẠI TRỪ:",
+    "options": {
+      "A": "Không chẩn đoán xác định ung thư đại trực tràng",
+      "B": "Tiên lượng ung thư đại trực tràng",
+      "C": "Chỉ đặc hiệu trong ung thư đại trực tràng",
+      "D": "Theo dõi tái phát bệnh"
+    }
+  },
+  "41111": {
+    "question": "Hệ thống phân loại Forrest dùng để đánh giá (qua nội soi) nguy cơ chảy máu tái phát, đánh giá Forrest là Iia khi:",
+    "options": {
+      "A": "Ổ loét đang phun máu",
+      "B": "Đáy ổ loát có chồi mạch máu hay nốt sắc tố",
+      "C": "Đáy ổ loét có cục máu đông",
+      "D": "Đáy ổ loét có điểm sắc tố"
+    }
+  },
+  "41112": {
+    "question": "Bệnh nhân nữ, 40 tuổi, được chẩn đoán viêm túi thừa manh tràng chưa biến chứng. Hướng điều trị phù hợp hiện nay là:",
+    "options": {
+      "A": "Nhập viện và mổ cắt túi thừa cấp cứu",
+      "B": "Cho về kèm toa thuốc",
+      "C": "Cho nhập viện và điều trị bảo tồn bằng kháng sinh",
+      "D": "Nhập viện và mổ chương trình cắt túi thừa"
+    }
+  },
+  "41113": {
+    "question": "Phân loại viêm túi thừa đại tràng theo Hinchey, độ II là viêm túi thừa với:",
+    "options": {
+      "A": "Áp xe quanh đại tràng",
+      "B": "Áp xe sau phúc mạc",
+      "C": "Viêm phúc mạc mủ",
+      "D": "Viêm phúc mạc phân"
+    }
+  },
+  "41147": {
+    "question": "Nguyên nhân của áp – xe gan là:",
+    "options": {
+      "A": "Áp xe gan do vi trùng thường do một loại vi trùng hiếu khí hoặc kị khí gây ra",
+      "B": "Áp xe gan do vi trùng có thể xảy ra do nhiễm trùng huyết từ ổ nhiễm trùng xa trong cơ thể",
+      "C": "Áp xe gan do amip, tác nhân gây bệnh lý do ký sinh trùng Entamoeba harmanni",
+      "D": "Áp xe gan do nấm thường gặp, tác nhân chủ yếu do Candida gây ra"
+    }
+  },
+  "41168": {
+    "question": "Nguyên nhân của viêm túi mật cấp không do sỏi, NGOẠI TRỪ:",
+    "options": {
+      "A": "Sự hình thành sắc tố mật do ứ trệ",
+      "B": "Ứ trệ mật do thiếu cholecystikinin kích thích co bóp",
+      "C": "Sự giảm tưới máu cho biểu mô túi mật trong chấn thương nặng hoặc trong phẫu thuật",
+      "D": "Do nhiều yếu tố phối hợp"
+    }
+  },
+  "41169": {
+    "question": "Đặc điểm của triệu chứng đau bụng do sỏi túi mật, NGOẠI TRỪ:",
+    "options": {
+      "A": "Có thể xảy ra bất kỳ lúc nào trong ngày",
+      "B": "Đau chủ yếu về đêm do khi nằm phễu và cổ túi mật thấp nhất nên sỏi dễ bị kẹt",
+      "C": "Có thể hết đau khi thay đổi tư thế từ nằm sang ngồi",
+      "D": "Đau quặn từng cơn"
+    }
+  },
+  "41170": {
+    "question": "Giá trị của siêu âm trong bệnh lý viêm túi mật cấp, NGOẠI TRỪ:",
+    "options": {
+      "A": "Không xâm lấn, khó thực hiện nhiều lần",
+      "B": "Đánh giá sỏi, dịch mật và tình trạng giãn đường mật",
+      "C": "Khó phát hiện sỏi nhỏ, đường tiêu hóa chứa nhiều hơi",
+      "D": "Phụ thuộc vào người siêu âm"
+    }
+  },
+  "41171": {
+    "question": "Biến chứng ngay sau phẫu thuật cắt túi mật:",
+    "options": {
+      "A": "Chảy máu, nhiễm trùng, rối loạn chức năng cơ vòng Oddi",
+      "B": "Chảy máu, nhiễm trùng, đau",
+      "C": "Chảy máu, viêm phúc mạc mật, tái phát sỏi",
+      "D": "Chảy máu, nhiễm trùng, áp xe dưới hoành"
+    }
+  },
+  "41172": {
+    "question": "Bệnh nhân nam 70 tuổi nhập viện vì đau thượng vị, được chẩn đoán viêm túi mật cấp độ III theo Tokyo guideline 2018, xử trí thích hợp là:",
+    "options": {
+      "A": "Phẫu thuật nội soi cắt túi mật",
+      "B": "Dẫn lưu túi mật hoặc dẫn lưu dưới hướng dẫn siêu âm",
+      "C": "Điều trị nội khoa bằng kháng sinh",
+      "D": "Mổ mở cắt túi mật"
+    }
+  },
+  "41173": {
+    "question": "Bệnh nhân nam, 22 tuổi, quốc tịch Nhật Bản, bệnh nhân vào viện triệu chứng đau bụng vùng hố chậu ohair, tiền sử ghi nhận đã cắt ruột thừa 5 năm trước, qua thăm khám và cận lâm sàng, bệnh nhân được chẩn đoán viêm túi thừa đại tràng. Trong trường hợp này, túi thừa viêm ở vị trí nào của đại tràng là phù hợp nhất:",
+    "options": {
+      "A": "Manh tràng",
+      "B": "Đại tràng ngang",
+      "C": "Đại tràng xuống",
+      "D": "Đại tràng chậu hông"
+    }
+  },
+  "41241": {
+    "question": "Một bệnh nhân nam, 60 tuổi, đi khám bệnh vì bí đái hoàn toàn, tiểu tia nhỏ 1 năm nay, ta nghĩ đến gì trước tiên:",
+    "options": {
+      "A": "Tăng sinh lành tính tiền liệt tuyến",
+      "B": "Ung thư tiền liệt tuyến",
+      "C": "Hẹp niệu đạo",
+      "D": "Sỏi bọng đái gây nghẹt cổ bọng đái"
+    }
+  },
+  "41488": {
+    "question": "Thể dị dạng hậu môn trực tràng phức tạp nhất ở trẻ em là:",
+    "options": {
+      "A": "Hẹp hậu môn",
+      "B": "Rò trực tràng - âm đạo",
+      "C": "Teo trực tràng",
+      "D": "Còn ổ nhớp"
+    }
+  },
+  "41489": {
+    "question": "Theo phân loại Pena, thể dị dạng hậu môn trực tràng cần mở hậu môn tạm là:",
+    "options": {
+      "A": "Hậu môn lạc chỗ",
+      "B": "Hẹp hậu môn",
+      "C": "Rò trực tràng-bàng quang",
+      "D": "Hậu môn nắp kín"
+    }
+  },
+  "41490": {
+    "question": "Bé Nam 9 tháng tuổi dị dạng hậu môn trực tràng đã được tạo hình hậu môn kích thước que nong Hegar cần đạt cho bé là:",
+    "options": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    }
+  },
+  "41491": {
+    "question": "Bé Nam 9 tháng tuổi dị dạng hậu môn trực tràng đã được tạo hình hậu môn Được 7 tuần, Hiện đã được kích thước que nông theo tuổi.Vậy tần suất nong hậu môn hiện tại sẽ là:",
+    "options": {
+      "A": "01 lần/ ngày",
+      "B": "03 ngày/ lần",
+      "C": "02 lần/ tuần",
+      "D": "01 lần/ tuần"
+    }
+  },
+  "41492": {
+    "question": "Hình ảnh học nào được chỉ định đầu tiên khi nghi ngờ teo hẹp hỗng- hồi tràng;",
+    "options": {
+      "A": "X quang bụng",
+      "B": "Siêu âm bụng",
+      "C": "Chụp TOGD",
+      "D": "Chụp đại tràng cản quang"
+    }
+  },
+  "41493": {
+    "question": "X quang thế nằm sấp trong chẩn đoán Dị dạng hậu môn trực tràng được chụp vào thời điểm",
+    "options": {
+      "A": "Sau sinh 3 đến 6 giờ",
+      "B": "Sau sinh 6 - 12 giờ",
+      "C": "Sau sinh 12 đến 18 giờ",
+      "D": "Sau sinh 18 đến 24 giờ"
+    }
+  },
+  "41494": {
+    "question": "Bé trai 12 giờ tuổi sau sinh phát hiện không có lỗ hậu môn Khám không có lỗ hậu môn có vết tích hậu môn Không có lỗ thoát phân ở vùng tầng sinh môn. Điều cần làm tiếp theo là:",
+    "options": {
+      "A": "Khảo sát dị tật phối hợp",
+      "B": "Chụp X quang thế nằm sấp",
+      "C": "Làm hậu môn tạm",
+      "D": "Tạo hình hậu môn"
+    }
+  },
+  "41495": {
+    "question": "Dị tật thuộc hội chứng VACTERL Trông dị dạng hậu môn trực tràng, ngoại trừ:",
+    "options": {
+      "A": "Dị tật tim",
+      "B": "Bất thường nhiễm sắc thể",
+      "C": "Dị tật cột sống",
+      "D": "dị tật chi"
+    }
+  },
+  "41496": {
+    "question": "Bé gái 30 giờ tuổi sao sinh được phát hiện không Không có lỗ hậu môn khám Có lỗ âm đạo và niệu đạo không có lỗ hậu môn Có lỗ thoát con kích thước nhỏ d = 2mm nằm ở vị trí 6 giờ Vùng tiền đình điều cần làm tiếp theo là:",
+    "options": {
+      "A": "Chụp X quang Thế nằm sấp",
+      "B": "Siêu âm Vùng tầng sinh môn",
+      "C": "Làm hậu môn tạm",
+      "D": "Tạo hình hậu môn"
+    }
+  },
+  "41497": {
+    "question": "Biểu hiện lâm sàng thường gặp của tắc ruột sơ sinh Được ghi nhận trước sinh là:",
+    "options": {
+      "A": "Mẹ đa ối",
+      "B": "Mẹ lớn tuổi.40 tuổi",
+      "C": "Thai quá ngày 40 tuần",
+      "D": "Mẹ bị tiểu đường khi mang thai"
+    }
+  },
+  "41498": {
+    "question": "Số lượng vít tối thiểu khi kết hợp xương trong gãy thân xương trụ là:",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    }
+  },
+  "41499": {
+    "question": "Bệnh nhân nam 30 tuổi vào viện vì đau vùng háng sao té.Lâm sàng các khớp háng gấp nhẹ Và xoay ngoài.Tổn thương trật khớp háng phù hợp nhất là:",
+    "options": {
+      "A": "lên trên và ra sau",
+      "B": "xuống dưới và ra sau",
+      "C": "lên trên và ra trước",
+      "D": "xuống dưới và ra trước"
+    }
+  },
+  "41500": {
+    "question": "Bệnh nhân nam 60 tuổi gãy kín liên mấu chuyển xương đùi có thể sử dụng phương tiện kết hợp xương:",
+    "options": {
+      "A": "Đinh SIGN",
+      "B": "Đinh Kuntscher",
+      "C": "Đinh kirschner",
+      "D": "Đinh PFNA"
+    }
+  },
+  "41501": {
+    "question": "Đặc điểm các loại vít sử dụng trong kết hợp xương là:",
+    "options": {
+      "A": "Vít vỏ có bước ren nhỏ và dày suốt thân vít",
+      "B": "Vít xốp thường được chỉ định ở vùng xương cứng",
+      "C": "Vít khóa là loại vít thiết kế dành riêng cho đinh nội tủy",
+      "D": "Vít chốt là loại vít được cố định cuối cùng cho nẹp vít"
+    }
+  },
+  "41502": {
+    "question": "Phân loại nẹp dựa theo chức năng.Ngoại trừ:",
+    "options": {
+      "A": "Nẹp bắt cầu",
+      "B": "Nẹp nâng đỡ",
+      "C": "Nẹp lòng máng",
+      "D": "Nẹp trung tính"
+    }
+  },
+  "41503": {
+    "question": "Phải đinh nội tủy nào sau đây thuộc nhóm đinh mềm dẻo là:",
+    "options": {
+      "A": "Đinh SIGN",
+      "B": "Đinh PFNA",
+      "C": "Đinh Rush",
+      "D": "Đinh interTan"
+    }
+  },
+  "41504": {
+    "question": "Các phương pháp cố định xương bên trong ngoại trừ:",
+    "options": {
+      "A": "Lag screws",
+      "B": "Khung Hoffman",
+      "C": "Chỉ thép",
+      "D": "Đinh nội tủy"
+    }
+  },
+  "41505": {
+    "question": "Điều trị bảo tồn gãy 2 xương mắt cá:",
+    "options": {
+      "A": "Nẹp bột cẳng chân",
+      "B": "Nẹp chức năng",
+      "C": "Bó bột giày ống",
+      "D": "Bó bột sarmiento"
+    }
+  },
+  "41506": {
+    "question": "Nguyên tắc xử trí vết thương phần mềm tại phòng cấp cứu ngoại trừ:",
+    "options": {
+      "A": "liệt kê đầy đủ tổn thương",
+      "B": "băng vết thương đảm bảo vô trùng",
+      "C": "thay băng nhiều lần để đánh giá diễn tiến vết Thương.",
+      "D": "cầm máu tốt"
+    }
+  },
+  "41507": {
+    "question": "Mục đích điều trị gãy xương là:",
+    "options": {
+      "A": "Liền xương thẩm mỹ.",
+      "B": "Thẩm mỹ, phục hồi chức năng",
+      "C": "Liền xương phục hồi chức năng",
+      "D": "Liền xương"
+    }
+  },
+  "41580": {
+    "question": "Phân biệt máu tụ dưới màng cứng và ngoài màng cứng trên CT dựa vào ngoại trừ:",
+    "options": {
+      "A": "Qua đường khớp",
+      "B": "Hiệu ứng choáng",
+      "C": "Hình dạng",
+      "D": "Qua đường giữa"
+    }
+  },
+  "41581": {
+    "question": "Đánh giá thang điểm TLICS Trong chấn thương cột sống ngực thắt lưng cho bệnh nhân sau:Bệnh liệt 2 chân.Mất cảm giác 2 chân kiểu gãy trật.Khám thấy mất liên tục vùng lưng, nghi ngờ có tổn thương phức hợp dây chằng dọc sau:",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    }
+  },
+  "41582": {
+    "question": "Denis cột sống chia làm mấy cột tổn thương, mất vững khi chấn thương:",
+    "options": {
+      "A": "4 cột, 3 cột thì mất vững",
+      "B": "4 cột, 2 cột thì mất vững",
+      "C": "3 cột, 2 cột thì mất vững",
+      "D": "3 cột, 1 cột thì mất vững"
+    }
+  },
+  "41583": {
+    "question": "Đặc điểm của máu tụ dưới màng cứng ngoại trừ:",
+    "options": {
+      "A": "nguồn chảy từ tổn thương tĩnh mạch liên lạc",
+      "B": "máu tụ dưới màng cứng bán cấp có hình ảnh trên ct scan đồng đậm độ với nhu mô não",
+      "C": "hình ảnh trên ct scan có hình liềm qua được đường khớp không qua đường giữa",
+      "D": "máu tụ dưới màng cứng mạn tính thường gặp sau chấn thương từ 3 ngày đến 3 tuần"
+    }
+  },
+  "41584": {
+    "question": "Trong các trường hợp bệnh nhân có máu tụ ngoài màng cứng trán phải trên phim ct sao đây: Trường hợp nào cần can thiệp phẫu thuật:",
+    "options": {
+      "A": "bệnh nhân say rượu GCS 12 điểm.ba kích thước của khối máu tụ lần lượt là 2*6*4cm",
+      "B": "GCS 13 điểm,đau đầu.Ct đường giữa lệch 5mm bề dày 12mm",
+      "C": "đau đầu, V>20ml bất kể GCS",
+      "D": "GCS 3đ, đồng tử 2 bên 5mm, pxas (-)"
+    }
+  },
+  "41585": {
+    "question": "Phương pháp phẫu thuật điều trị hẹp ống sống thắt lưng là:",
+    "options": {
+      "A": "phẫu thuật lấy nhân nhầy đĩa đệm qua ống nông",
+      "B": "PLIF",
+      "C": "phẫu thuật cố định cột sống qua cuống",
+      "D": "bơm xi măng sinh học"
+    }
+  },
+  "41586": {
+    "question": "Bệnh nhân phẫu thuật giải ép mở trán 2 bên thường dùng đường mổ:",
+    "options": {
+      "A": "đường mổ chấm hỏi",
+      "B": "đường mổ hình chữ u",
+      "C": "đường mổ trán cách chân tóc một xăng ti mét",
+      "D": "cả 3 đường mẫu trên"
+    }
+  },
+  "41587": {
+    "question": "Thuốc điều trị chống phù não trong chấn thương sọ não cấp.ngoại trừ:",
+    "options": {
+      "A": "manitol 20%.",
+      "B": "furosemide 40 mg",
+      "C": "natri clorid 3%.",
+      "D": "dexamethason 4 mg"
+    }
+  },
+  "41588": {
+    "question": "bệnh nhân nam 30 tuổi vào viện vì té cây dừa 5m.Sau đó liệt 2 chân. Khám ghi nhận bệnh nhân tỉnh.Liệt 2 chân.Còn cảm giác 2 chân đánh giá Frankel.Trên bệnh nhân trên:",
+    "options": {
+      "A": "Frankel A",
+      "B": "Frankel B",
+      "C": "Frankel C",
+      "D": "Frankel D"
+    }
+  },
+  "41589": {
+    "question": "Kích thước xương sọ tiêu chuẩn khi phẫu thuật mở sọ giải ép cho bệnh nhân nhồi máu não:",
+    "options": {
+      "A": "Bằng bàn tay của phẫu thuật viên",
+      "B": "Bằng bàn tay của bệnh nhân",
+      "C": "8cm*10 cm",
+      "D": "15cm*18cm"
+    }
+  },
+  "41590": {
+    "question": "bệnh nhân nam, 80 tuổi đi khám vì tiểu khó siêu âm bụng tuyến tiền liệt to tình cờ phát hiện khối phình động mạch chủ bụng dưới thận kích thước 4cm hướng điều trị phình động mạch chủ bụng là:",
+    "options": {
+      "A": "Phẫu thuật cắt túi phình ghép bằng ống ghép nhân tạo",
+      "B": "Can thiệp nội mạch.Đặt ống ghép nội mạch",
+      "C": "Điều trị nội khoa theo dõi",
+      "D": "Can thiệp nội mạch rồi cắt túi phình"
+    }
+  },
+  "41591": {
+    "question": "Bệnh nhân nữ 67 tuổi cách nhập viện 2 giờ, bệnh nhân đột ngột đau bụng quanh rốn lan ra sau lưng.Tình trạng lúc nhập viện.Tỉnh táo, da niêm hồng.Huyết áp 130/80mmhg.Mạch 84 lần/ phút.Khám lâm sàng khối đập vùng ngang rốn.Haemoglobin 12g/dL .Creatinin 0.94mg/dl .Siêu âm bụng phình động mạch chủ bụng kích thước 65 mm động mạch chậu khó khảo sát, không có ổ dịch bụng.Xử trí tiếp theo là:",
+    "options": {
+      "A": "Chuyển phòng mổ phẫu thuật cấp cứu",
+      "B": "Chụp cộng hưởng từ mạch máu",
+      "C": "Chụp cắt lớp vi tính dựng hình mạch máu",
+      "D": "Chụp mạch máu kỹ thuật số xóa nền"
+    }
+  },
+  "41592": {
+    "question": "Bệnh nhân nam 48 tuổi vào viện vì đau ngực, cộng khó thở sau tai nạn giao thông.Khám ghi nhận.Bệnh nhân tỉnh HA 110/60mmHg, M 100l/p, Hội chứng 3 giảm phổi phải.Ít quang ngực thẳng.Gãy xương sườn, 4, 5, 6 7, 8.Cung sao bên phải mờ toàn bộ phổi phải được chẩn đoán tràn máu màng phổi phải./gãy đa xương/TNGT Đặt dẫn lưu ra khoảng 1000 mililít máu.. Sau Mổ 30 phút theo dõi ra thêm khoảng 300ml.Máu đỏ tươi:",
+    "options": {
+      "A": "Truyền máu và theo Giỏi lâm sàng",
+      "B": "Kẹp ống dẫn lưu theo dõi",
+      "C": "phẫu thuật mở ngực cầm máu",
+      "D": "Phẫu thuật nội soi lồng ngực cầm máu"
+    }
+  },
+  "41593": {
+    "question": "Bệnh nhân nữ 52 tuổi bị tai nạn giao thông đập ngực trái xuống đường được chẩn đoán gãy xương sườn 4, 5, 6 7 trái.Cộng tràn máu màng phổi trái lượng trung bình được dẫn lưu.Khoang màng phổi trái.Hậu phẫu ngày 3, Khám dẫn lưu màng phổi hoạt động kém.Ra ít dịch đỏ loãng.Phổi trái, hội chứng 3 giảm.X quang ngựC. Còn mờ phế trường trái.xử trí tiếp theo là:",
+    "options": {
+      "A": "Chụp x quang ngực theo dõi",
+      "B": "Chụp cắt lớp vi tính ngực",
+      "C": "Bơm rửa ống dẫn lưu",
+      "D": "Tiếp tục theo dõi dẫn lưu"
+    }
+  },
+  "41594": {
+    "question": "Bệnh nhân nam vào viện vì vết thương cẳng tay phải.Cách nhập viện 2 giờ bị chém vào cẳng tay phải được cột garo cầm máu tại hiện trường và chuyển vào bệnh viện tuyến huyện. Tại đây, thám sát thấy có vết thương mặt trụ.1/3 dưới cẳng tay phải.Máu phụt thành tia biện pháp sơ cứu cầm máu tốt nhất trước khi chuyển đến bệnh viện có chuyên khoa phẫu thuật mạch máu trong trường hợp này là:",
+    "options": {
+      "A": "Băng ép có trọng điểm",
+      "B": "Dùng kelly kẹp mạch máu",
+      "C": "Đắp gạc và băng lại vị trí vết thương",
+      "D": "Garo vị trí 1/3 trên cánh tay"
+    }
+  },
+  "41595": {
+    "question": "Nhân nam, 20 tuổi.Vào viện vì tai nạn giao thông được chẩn đoán gãy mâm chày trái.Tổn thương động mạch khoeo trái giờ thứ 18 khám thấy mất hoàn toàn vận động cảm giác cẳng chân, cứng khớp cổ chân trái, các mảng tím và nốt phỏng ngoài da bàn chân.Xử trí phù hợp nhất là:",
+    "options": {
+      "A": "Phẫu thuật khẩn cấp phục hồi lưu thông mạch máu",
+      "B": "Chụp cắt lớp vi tính, dựng hình mạch máu khẩn",
+      "C": "Phẫu thuật cắt cụt chi 1/3 dưới đùi trái",
+      "D": "Truyền dịch hồi sức làm xét nghiệm chức năng gan, thận."
+    }
+  },
+  "41596": {
+    "question": "Bệnh nhân đang đặt dẫn lưu màng phổi với chẩn đoán tràn khí màng phổi hậu phẫu ngày 5 được kẹp ống dẫn lưu sau kẹp 2 giờ bệnh nhân kêu mệt đau ngực than khó thở xử trí phù hợp nhất là:",
+    "options": {
+      "A": "Thở oxy và theo dõi",
+      "B": "Tháo kẹp và thở oxy",
+      "C": "Giảm đau",
+      "D": "Hướng dẫn bệnh nhân ngồi tập hít thở"
+    }
+  },
+  "41597": {
+    "question": "Bệnh nhân nữ 28 tuổi vào viện vì tai nạn giao thông, chẩn đoán gãy mâm chày trái Tổn thương động mạch khoeo trái giờ thứ 6 được phẫu thuật khâu nối mạch khoeo hậu phẫu khám thấy bệnh nhân đau nhiều cẳng chân trái, bàn chân trái lạnh, bắp chân, căng cứng, mạch mu, chân bắt yếu. Chẩn đoán phù hợp nhất là:",
+    "options": {
+      "A": "Tắc miệng nối động mạch",
+      "B": "Tắc tĩnh mạch khoeo",
+      "C": "Hội chứng chèn ép khoang",
+      "D": "Tổn thương thần kinh"
+    }
+  },
+  "41598": {
+    "question": "Bệnh nhân nam 48 tuổi vào viện vì đau hố chậu phải ngày 2 kèm ói khám, ghi nhận bệnh tĩnh thân nhiệt 38,3 độ c ấn đau điểm McBurney siêu âm bụng cấu trúc dạng ống tiêu hóa có đầu tận cắt ngang hình bia đường kính 7,5mm, lòng có khối hồi âm hỗn hợp.Có bóng lưng kích thước 5 milimet bạch cầu 9000/mm3 neutro 75% hướng xử trí phù hợp:",
+    "options": {
+      "A": "Phẫu thuật nội soi cắt ruột thừa",
+      "B": "chụp ct scan bụng có tiêm thuốc cản quang để chẩn đoán xác định",
+      "C": "theo dõi trong 48 giờ nếu không có cải thiện sẽ phẫu thuật",
+      "D": "Điều trị nội khoa"
+    }
+  },
+  "41599": {
+    "question": "Bệnh nhân nam 70 tuổi vào viện vì tiêu phân nhầy máu, sụt cân 5 ký trong một tháng nay thăm trực tràng không chạm khối u, có máu dính răng, chẩn đoán lâm sàng nghĩ nhiều nhất trên bệnh nhân này:",
+    "options": {
+      "A": "Ung thư trực tràng",
+      "B": "Ung thư manh tràng",
+      "C": "Ung thư tiền liệt tuyến",
+      "D": "Ung thư bàng quang"
+    }
+  },
+  "41600": {
+    "question": "Bệnh nhân nữ 67 tuổi.Có 7 người con.Sinh ngã âm đạo, tiền căn gia đình bị ung thư đại tràng, bệnh nhân đi tiêu khoảng 5 lần/ngày Mỗi lần một ít phân, có lần không có phân ăn uống kém và sụt 6kg Trong 2 tháng bước tiếp theo cần làm trên bệnh nhân này:",
+    "options": {
+      "A": "Nội soi đại trực tràng sinh thiết",
+      "B": "Khám hậu môn trực tràng",
+      "C": "Chụp cộng hưởng từ vùng chậu",
+      "D": "Phẫu thuật cắt trước thấp nội soi"
+    }
+  },
+  "41601": {
+    "question": "Bệnh nhân nữ 50 tuổi có tiền căn gia đình bị ung thư đại tràng vào viện vì mót rặn, sụt sáo ký trong 2 tháng ăn uống kém.Thăm trực tràng cảm khối u cách rìa hậu môn 6cm, nội soi thấy u sùi trực tràng và kết quả sinh thiết là ung thư biểu mô tuyến để đánh giá mức độ xâm lấn tại chỗ cận lâm sàng nên thực hiện là:",
+    "options": {
+      "A": "chụp cắt lớp vi tính bụng tiểu khung",
+      "B": "siêu âm trong lòng Trực tràng",
+      "C": "Phẫu thuật cắt trước thấp nội soi",
+      "D": "Nội soi toàn bộ đại tràng bằng ống soi mềm"
+    }
+  },
+  "41602": {
+    "question": "vai trò của nội soi trong xuất huyết tiêu hóa do loét dạ dày tá tràng là:",
+    "options": {
+      "A": "Phòng ngừa chảy máu tái phát",
+      "B": "Điều trị bệnh loét dạ dày tá tràng",
+      "C": "xác định nguy cơ chảy máu tái phát",
+      "D": "Xác định mức độ mất máu"
+    }
+  },
+  "41603": {
+    "question": "Vai trò của kháng nguyên ung thư CEA. Trong ung thư đại trực tràng Ngoại trừ.",
+    "options": {
+      "A": "Chẩn đoán xác định ung thư đại trực tràng:",
+      "B": "Tiên lượng ung thư đại trực tràng",
+      "C": "Không dùng để tầm soát ung thư đại trực tràng",
+      "D": "Theo dõi tái phát bệnh"
+    }
+  },
+  "41604": {
+    "question": "bệnh nhân thủng ổ loét dạ dày tá tràng không rõ ràng cần phân biệt với:",
+    "options": {
+      "A": "Nhồi máu cơ tim",
+      "B": "Viêm tụy cấp",
+      "C": "Viêm phổi thùy",
+      "D": "Giun chui ống mật"
+    }
+  },
+  "41605": {
+    "question": "Bệnh nhân nam 25 tuổi có khối sa vùng hậu môn khi đi tiêu dùng tay đẩy lên được có ít máu đỏ tươi ra sau phân quay video hậu môn.Ghi nhận khói sa vị trí 3h, 11 giờ màu đỏ tươi, các vị trí khác không có gì bất thường, chẩn đoán phù hợp là:",
+    "options": {
+      "A": "trĩ nội độ 2",
+      "B": "Trĩ nội độ 3",
+      "C": "Sa trực tràng độ một",
+      "D": "Sa trực tràng đổ 2"
+    }
+  },
+  "41606": {
+    "question": "Đặc điểm của phương pháp Milligan _ Morgan Trong phẫu thuật điều trị bệnh trĩ:",
+    "options": {
+      "A": "Cắt trĩ từng búi, Khâu kín vết thương",
+      "B": "Cắt trĩ từng búi, Để hở vết thương",
+      "C": "Cắt trĩ vòng khâu kín vết thương",
+      "D": "Cắt trĩ vòng để hở vết thương"
+    }
+  },
+  "41607": {
+    "question": "Các yếu tố nguy cơ dẫn đến tái phát sau mổ thoát vị bẹn.Ngoại trừ;",
+    "options": {
+      "A": "Hút thuốc lá",
+      "B": "Phì đại tuyến tiền liệt",
+      "C": "Táo bón kéo dài",
+      "D": "Tuổi"
+    }
   }
 }
