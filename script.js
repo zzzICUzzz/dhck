@@ -10,13 +10,14 @@ const files = {
 const questionsContainer = document.getElementById("questions-container");
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
 
-function sanitizeInput(input) {
-    return input.replace(/[^a-zA-Z0-9 ]/g, '');
-}
-
 function hasSpecialCharacters(input) {
     const regex = /[^a-zA-Z0-9 ]/;
     return regex.test(input);
+}
+
+function isValidName(name) {
+    const invalidNames = ["Nguyễn Công Minh", "Minh", "Minhz", "minhz", "congminh", "minh", "CongMinh"];
+    return name.length > 1 && !invalidNames.includes(name);
 }
 
 function checkSession() {
@@ -115,18 +116,21 @@ const startBtn = document.getElementById('startBtn');
 
 if (startBtn) {
     startBtn.addEventListener('click', async () => {
-        let name = document.getElementById('name').value;
+        let name = document.getElementById('name').value.trim();
         const subject = document.getElementById('subject').value;
 
-        if (name.trim() === '') {
+        if (name === '') {
             alert('Vui lòng nhập tên của bạn.');
             return;
         }
 
-        if (hasSpecialCharacters(name)) {
-            alert('Tên vậy á hả, có ngu không ???');
+        if (hasSpecialCharacters(name) || !isValidName(name)) {
+            alert('Tên không hợp lệ. Vui lòng nhập lại tên hợp lệ.');
             return;
         }
+
+        // Lưu tên vào localStorage
+        localStorage.setItem('name', name);
 
         const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
 
@@ -153,6 +157,14 @@ if (startBtn) {
 } else {
     console.error("Không tìm thấy phần tử có ID 'startBtn'.");
 }
+
+// Tự động điền tên từ localStorage khi tải trang
+window.addEventListener('DOMContentLoaded', (event) => {
+    const savedName = localStorage.getItem('name');
+    if (savedName) {
+        document.getElementById('name').value = savedName;
+    }
+});
 
 checkSession();
 loadQuestions();
