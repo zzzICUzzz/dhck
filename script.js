@@ -11,8 +11,10 @@ const questionsContainer = document.getElementById("questions-container");
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
 
 function hasSpecialCharacters(input) {
-    const regex = /[^a-zA-Z0-9 ]/;
-    return regex.test(input);
+    // Loại bỏ dấu câu và các ký tự đặc biệt không phải tiếng Việt
+    const normalizedInput = input.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    const regex = /[^a-zA-Z0-9À-ỹ ]/; // Cho phép chữ cái tiếng Việt có dấu
+    return regex.test(normalizedInput);
 }
 
 function isValidName(name) {
