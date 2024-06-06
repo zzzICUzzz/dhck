@@ -1,0 +1,587 @@
+{
+  "30847": {
+    "question": "Bệnh lý thường gây tổn thương đa khớp, chọn câu SAI:",
+    "options": {
+      "A": "Viêm khớp dạng thấp",
+      "B": "Lupus ban đỏ hệ thống",
+      "C": "Viêm khớp nhiễm khuẩn",
+      "D": "Viêm khớp vảy nến"
+    }
+  },
+  "30848": {
+    "question": "Đặc điểm của bệnh lý khớp viêm:",
+    "options": {
+      "A": "Đau tăng khi vận động, giảm khi nghỉ ngơi",
+      "B": "Thường kèm sưng, nóng, đỏ khớp",
+      "C": "Triệu chứng cứng khớp buổi sáng nhẹ, ngắn",
+      "D": "Không có dấu hiệu toàn thân"
+    }
+  },
+  "30849": {
+    "question": "Tổn thương ban dạng đĩa có thể gặp trong bệnh lý:",
+    "options": {
+      "A": "Viêm da cơ",
+      "B": "Xơ cứng bì",
+      "C": "Lupus ban đỏ hệ thống",
+      "D": "Viêm cột sống dính khớp"
+    }
+  },
+  "30850": {
+    "question": "Nghiệm pháp nào nên thực hiện khi nghi ngờ hội chứng ống cổ tay:",
+    "options": {
+      "A": "Nghiệm pháp Cozen",
+      "B": "Nghiệm pháp Finkelstein",
+      "C": "Nghiệm pháp Phalen",
+      "D": "Nghiệm pháp Schober"
+    }
+  },
+  "30851": {
+    "question": "Biến chứng gãy xương do loãng xương, chọn câu SAI:",
+    "options": {
+      "A": "Mật độ xương càng thấp nguy cơ gãy xương càng cao",
+      "B": "Đã gãy xương sẽ tăng nguy cơ gãy xương tái phát",
+      "C": "Gãy xương gây nhiều biến chứng, tăng nguy cơ tàn phế và tử vong",
+      "D": "Gãy xương cổ tay là biến chứng thường gặp nhất"
+    }
+  },
+  "30852": {
+    "question": "Cách dùng các thuốc bisphosphonate, chọn câu SAI:",
+    "options": {
+      "A": "Aledronat 70mg tuần uống 1 viên",
+      "B": "Ibandronat 150 mg tháng uống 1 viên",
+      "C": "Ibandronat 3 mg 3 tháng tiêm mạch chậm 1 lần",
+      "D": "Zoledronic acid 6 tháng tiêm mạch chậm 1 lần"
+    }
+  },
+  "30853": {
+    "question": "Hình ảnh \"mất vôi nặng, khuyết xương, hẹp khe khớp, dính khớp 1 phần\" trên Xquang thuộc giai đoạn mấy của viêm khớp dạng thấp theo phân loại của Steinbroker:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  "30854": {
+    "question": "Xét nghiệm nào sau đây ít có giá trị nhất trong theo dõi mức độ tiến triển của bệnh Lupus ban đỏ hệ thống:",
+    "options": {
+      "A": "Kháng thể kháng nhân",
+      "B": "Anti - dsDNA",
+      "C": "Nồng độ C3, C4",
+      "D": "Công thức máu"
+    }
+  },
+  "30855": {
+    "question": "Liều Hydroxychloroquin trong điều trị bệnh Lupus ban đỏ hệ thống:",
+    "options": {
+      "A": "100 - 200mg/ngày",
+      "B": "200 - 400mg/ngày",
+      "C": "400 - 600mg/ngày",
+      "D": "200 - 600mg/ngày"
+    }
+  },
+  "30856": {
+    "question": "Bệnh nhân nữ 45 tuổi béo phì và có chị ruột mắc đái tháo đường, đến khám để tầm soát bệnh đái tháo đường. Sau khi xét nghiệm, bệnh được giải thích là kết quả xét nghiệm bình thường. Kết quả phù hợp là:",
+    "options": {
+      "A": "Đường huyết đói 107mg/dL., đường huyết 2 giờ sau uống 75g glucose 167 mg/dL.",
+      "B": "Đường huyết đói 105mg/dL, đường huyết 2 giờ sau uống 75g glucose 136mg/dL",
+      "C": "Đường huyết đói 98mg/dL, đường huyết 2 giờ sau uống 75g glucose 129mg/dL.",
+      "D": "Đường huyết đói 96mg/dL, đường huyết 2 giờ sau uống 75g glucose 148mg/dL"
+    }
+  },
+  "30857": {
+    "question": "Bệnh nhân nam 60 tuổi, tiền căn bản thân khỏe mạnh, có mẹ bị đái tháo đường típ 2. Xét nghiệm tầm soát đái tháo đường ghi nhận đường huyết tương đói là 126mg/dL, HbA1c 6%. Bệnh nhân không có triệu chứng tiểu nhiều, sụt cân. Để chẩn đoán xác định đái tháo đường, cần thực hiện:",
+    "options": {
+      "A": "Xét nghiệm lại đường huyết tương đói",
+      "B": "Xét nghiệm lại HbAlc",
+      "C": "Xét nghiệm lại đường huyết tương đói và HbAIc",
+      "D": "Đã đủ tiêu chuẩn chẩn đoán đái tháo đường, không cần làm thêm xét nghiệm"
+    }
+  },
+  "30858": {
+    "question": "Bệnh nhân đái tháo đường típ 2 #8 năm, HbA1c 11%. Bệnh nhân này được chẩn đoán bệnh thận mạn do đái tháo đường. Điều kiện chắc chắn cho chẩn đoán này:",
+    "options": {
+      "A": "Bệnh nhân có tiểu đạm vi thể kéo dài từ 3-6 tháng",
+      "B": "Bệnh nhân có thời gian mắc đái tháo đường típ 2 >5 năm",
+      "C": "Bệnh nhân có bệnh võng mạc không tăng sinh kèm theo",
+      "D": "Bệnh nhân có tăng huyết áp kèm theo"
+    }
+  },
+  "30859": {
+    "question": "Bệnh nhân nam 55 tuổi, tiền sử đái tháo đường típ 2 #6 năm. Toa thuốc đang dùng mỗi ngày là: (1) Mixtard 30/70 16UI x 2 (TDD) trước ăn sáng, chiều 30 phút; (2) Metformin 1000mg 1 viên x 2 (uống) sau ăn sáng, chiều; (3) Dapagliflozin 10mg 1 viên (uống) sau an sang; (4) Gliclazid MR 30mg 1 vien (ung) trước an sang. Phối hợp thuốc không phù hợp là:",
+    "options": {
+      "A": "Mixtard + dapagliflozin",
+      "B": "Mixtard + gliclazid",
+      "C": "Mixtard + metformin",
+      "D": "Dapagliflozin + gliclazid"
+    }
+  },
+  "30860": {
+    "question": "Thuốc được lựa chọn ưu tiên trong điều trị tăng triglycerid ở bệnh nhân đái tháo đường là:",
+    "options": {
+      "A": "Atorvastatin",
+      "B": "Fenofibrat",
+      "C": "Simvastatin phối hợp với acid nicotinic",
+      "D": "Atorvastatin phối hợp với fenofibrate"
+    }
+  },
+  "30861": {
+    "question": "Siêu âm gan có thể thấy các biểu hiện của bệnh lý xơ gan. Chọn đáp án SAI",
+    "options": {
+      "A": "Kích thước lách",
+      "B": "Nguyên nhân xơ gan",
+      "C": "Dầu tăng áp cửa",
+      "D": "Phát hiện cổ trướng"
+    }
+  },
+  "30862": {
+    "question": "Giãn các tĩnh mạch vòng nối tiếp cửa-chủ trong hội chứng tăng áp cửa gồm Chọn đáp án SAI:",
+    "options": {
+      "A": "Tuần hoàn bàng hệ chủ- chủ",
+      "B": "Giãn tĩnh mạch thực quản",
+      "C": "Trĩ nội",
+      "D": "Giãn tĩnh mạch tâm phình vị"
+    }
+  },
+  "30863": {
+    "question": "Điều trị biến chứng xuất huyết tiêu hóa do vỡ tĩnh mạch thực quản giãn của xơ gan có hiệu quả cao khi các phương pháp điều trị thất bại:",
+    "options": {
+      "A": "Đặt sonde Blakemore",
+      "B": "Chích xơ tĩnh mạch thực quản",
+      "C": "Cột thắt vòng cao su tĩnh mạch thực quản",
+      "D": "Đặt stent cửa- chủ (TIPS)"
+    }
+  },
+  "30864": {
+    "question": "Hàm lượng viên thuốc Dexlansoprazole dùng trong điều trị trào ngược dạ dày thực quản có hiệu quả là:",
+    "options": {
+      "A": "15mg",
+      "B": "30mg",
+      "C": "60mg",
+      "D": "90mg"
+    }
+  },
+  "30865": {
+    "question": "Thuốc nào sau đây làm tăng trào ngược dạ dày thực quản, NGOẠI TRỮ:",
+    "options": {
+      "A": "Itopride",
+      "B": "Theophylline",
+      "C": "Diazepam",
+      "D": "Atropin"
+    }
+  },
+  "30866": {
+    "question": "Phản ứng Weber Meyer dùng để:",
+    "options": {
+      "A": "Tìm máu trong phân",
+      "B": "Tìm vi trùng trong phân",
+      "C": "Tìm virus trong phân",
+      "D": "Tìm ký sinh trùng trong phân"
+    }
+  },
+  "30867": {
+    "question": "Liều bolus của Octreotide khi điều trị xuất huyết tiêu hóa do vỡ giãn tĩnh mạch thực quản:",
+    "options": {
+      "A": "10ug",
+      "B": "20ug",
+      "C": "50ug",
+      "D": "100ug"
+    }
+  },
+  "30868": {
+    "question": "Hội chứng Mallory Weiss có đặc điểm nào sau đây:",
+    "options": {
+      "A": "Thường ở bệnh nhân loét dạ dày, khi có uống thêm thuốc kháng viêm",
+      "B": "Xuất huyết sau uống rượu, do rách tâm vị",
+      "C": "Bệnh nhân bị loét nhiều ổ ở hành tá tràng",
+      "D": "Do tăng tiết gastrin"
+    }
+  },
+  "30869": {
+    "question": "Phân loại viêm dạ dày theo hệ thống Sydney có mấy type:",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    }
+  },
+  "30870": {
+    "question": "Phác đồ 4 thuốc có Bismuth diệt Helicobacter pylori, liều trong ngày của Tetracyclin là:",
+    "options": {
+      "A": "1g",
+      "B": "1,5g",
+      "C": "2g",
+      "D": "2,5g"
+    }
+  },
+  "30871": {
+    "question": "Nguyên nhân suy thượng thận thứ phát thường gặp nhất là:",
+    "options": {
+      "A": "Xạ trị",
+      "B": "Hội chứng Sheehan",
+      "C": "Sử dụng glucocorticoid ngoại sinh",
+      "D": "U tuyến yên"
+    }
+  },
+  "30872": {
+    "question": "Liều hydrocortisone gây giảm tỷ trọng xương là:",
+    "options": {
+      "A": "200 mg/ngày",
+      "B": "100 mg/ngày",
+      "C": "50 mg/ngày",
+      "D": "30 mg/ngày"
+    }
+  },
+  "30873": {
+    "question": "Sử dụng đủ liều glucocorticoid trong trường hợp đợt cấp của suy thượng thận, huyết áp cải thiện trong thời gian:",
+    "options": {
+      "A": "1-2 giờ",
+      "B": "2-4 giờ",
+      "C": "4-6 giờ",
+      "D": "6-8 giờ"
+    }
+  },
+  "30874": {
+    "question": "Sử dụng prednisolon với hàm lượng tối thiểu bao nhiêu và trong khoảng thời gian tối thiểu bao lâu thì người bệnh có nguy cơ bị suy thượng thận do thuốc:",
+    "options": {
+      "A": "5mg trong 2 tuần",
+      "B": "5mg trong 3 tuần",
+      "C": "7,5mg trong 2 tuần",
+      "D": "7,5mg trong 3 tuần"
+    }
+  },
+  "30875": {
+    "question": "Vai trò của tiền liệt tuyến trong bảo vệ đường tiểu:",
+    "options": {
+      "A": "Tiền liệt tuyến tăng sinh giúp ngăn chặn vi khuẩn",
+      "B": "Phóng thích bạch cầu tiêu diệt vi khuẩn",
+      "C": "Tiết ra dịch có kẽm có tính kháng khuẩn",
+      "D": "Nhận diện vi khuẩn để thông báo cho cơ thể"
+    }
+  },
+  "30876": {
+    "question": "Xử trí trường hợp bí tiểu do viêm tiền liệt tuyến cấp:",
+    "options": {
+      "A": "Đặt sonde tiểu dẫn lưu",
+      "B": "Chọc giải áp bàng quang",
+      "C": "Cho thuốc giảm đau",
+      "D": "Chườm ấm vùng hạ vị"
+    }
+  },
+  "30877": {
+    "question": "Khi nghi ngờ bệnh nhân bị viêm niệu đạo cấp do lậu, cận lâm sàng nào giúp chẩn đoán xác định:",
+    "options": {
+      "A": "Cấy nước tiểu",
+      "B": "Soi tươi nước tiểu",
+      "C": "Xét nghiệm máu",
+      "D": "Tổng phân tích nước tiểu"
+    }
+  },
+  "30878": {
+    "question": "Trong bệnh cầu thận, bệnh nhân có tiểu máu kéo dài, chỉ định sinh thiết thận khi đạm niệu ở mức nào:",
+    "options": {
+      "A": "Đạm niệu dương tính trong xét nghiệm nước tiểu",
+      "B": "0,5 - 1g/ 24 giờ",
+      "C": "2g/ 24 giờ",
+      "D": "3 g/ 24 giờ"
+    }
+  },
+  "30879": {
+    "question": "Bệnh cầu thận nào sau đây có khuynh hướng biểu hiện lâm sàng bằng hội chứng thận viêm nhiều hơn thận hư, CHỌN CÂU SAI:",
+    "options": {
+      "A": "Viêm cầu thận tăng sinh gian mạch",
+      "B": "Viêm cầu thận tăng sinh màng",
+      "C": "Viêm cầu thận hậu nhiễm liên cầu",
+      "D": "Viêm cầu thận liềm"
+    }
+  },
+  "30880": {
+    "question": "Thay đổi bổ thể trong viêm cầu thận hậu nhiễm liên cầu trùng:",
+    "options": {
+      "A": "C3 giảm, C4 bình thường, CH50 giảm",
+      "B": "C3 bình thường, C4 giảm, CH50 giảm",
+      "C": "C3 giảm, C4 giảm, CH50 giảm",
+      "D": "C3 giảm, C4 giảm, CH50 bình thường"
+    }
+  },
+  "30881": {
+    "question": "Biến chứng mạn tính hội chứng thận hư. NGOẠI TRỪ:",
+    "options": {
+      "A": "Tắc tĩnh mạch thận",
+      "B": "Loãng xương",
+      "C": "Đục thủy tinh thể",
+      "D": "Cushing do thuốc"
+    }
+  },
+  "30882": {
+    "question": "Khi sử dụng albumin điều trị phù trong hội chứng thận hư cần lưu ý điều gì, NGOẠI TRỪ:",
+    "options": {
+      "A": "Huyết áp",
+      "B": "Nồng độ albumin máu",
+      "C": "Cân nặng hàng ngày",
+      "D": "Mức độ tiểu đạm"
+    }
+  },
+  "30883": {
+    "question": "Bệnh nhân 55 tuổi, suy thận mạn, cân nặng 50kg, tổng năng lượng mỗi ngày là:",
+    "options": {
+      "A": "1500 Kcal/ngày",
+      "B": "1500-1750 Kcal/ngày",
+      "C": "1750 Kcal/ngày",
+      "D": "2000 Kcal/ngày"
+    }
+  },
+  "30884": {
+    "question": "Trong định nghĩa bệnh thận mạn, thận ghép được xem là tiêu chí tổn thương thận khi có:",
+    "options": {
+      "A": "Bất thường trên sinh thiết thận",
+      "B": "Bất thường marker tổn thương thận",
+      "C": "Bất thường trên sinh thiết thận VÀ/ HOẶC marker tổn thương thận",
+      "D": "Không cần thêm tiêu chuẩn khác"
+    }
+  },
+  "30885": {
+    "question": "Trong hội chứng Cushing, tái phân bố mỡ tập trung ở những vị trí sau, NGOẠI TRỪ:",
+    "options": {
+      "A": "Má và thái dương hai bên",
+      "B": "Hố thượng đòn",
+      "C": "Vùng cổ gáy",
+      "D": "Bàn tay và bàn chân"
+    }
+  },
+  "30886": {
+    "question": "Bệnh Cushing là tên gọi khác của:",
+    "options": {
+      "A": "U thượng thận tăng tiết androgen",
+      "B": "Cushing do thuốc",
+      "C": "U tuyến yên tăng tiết ACTH",
+      "D": "U tiêt ACTH lạc chỗ"
+    }
+  },
+  "30887": {
+    "question": "Triệu chứng lâm sàng của Cushing do thuốc, chọn câu SAI:",
+    "options": {
+      "A": "Béo phì là triệu chứng thường gặp nhất, điển hình là béo trung tâm",
+      "B": "Yếu cơ gặp trong 60% trường hợp, thường yếu cơ ngọn chi",
+      "C": "Huyết áp tâm trương > 100mmHg trong 50% các trường hợp",
+      "D": "Rạn da gặp trong 50% trường hợp nhưng ít gặp ở những bệnh nhân trên 40 tuổi"
+    }
+  },
+  "30888": {
+    "question": "Biểu hiện của bướu giáp đơn thuần:",
+    "options": {
+      "A": "Tay ẩm, ấm. Tim nhanh. T3 T4 tăng, TSH giảm",
+      "B": "Bướu giáp lan tỏa hay bướu giáp nhân, T3 T4 bình thường, TSH bình thường",
+      "C": "Nhịp tim chậm ≤ 60 lần/phút, da lạnh khô. T3 T4 giảm, TSH tăng cao",
+      "D": "Tuyền giáp mật độ chắc, có kèm rối loạn miễn dịch. Có thể có kháng thể thyroperoxidase (TPO), T3 T4 bình thường, TSH bình thường"
+    }
+  },
+  "30889": {
+    "question": "Đặc điểm cận lâm sàng trong Basedow, chọn câu SAI:",
+    "options": {
+      "A": "FT3, FT4 tăng, TSH bị ức chế",
+      "B": "Siêu âm Doppler màu tuyến giáp thấy tăng sinh mạch máu lan tỏa",
+      "C": "TRAb âm thì loại trừ Basedow",
+      "D": "Xạ hình tuyến giáp ghi nhận tuyến giáp tăng bắt iod lan tỏa"
+    }
+  },
+  "30890": {
+    "question": "Vai trò của bạch cầu đa nhân trung tính trong cơ chế bệnh sinh bệnh phổi tắc nghẽn mạn tính:",
+    "options": {
+      "A": "Thúc đẩy quá trình viêm do lympho T",
+      "B": "Phá hủy cấu trúc ngoại bào và tăng tiết chất nhầy",
+      "C": "Tiêu huỷ tế bào biểu mô phế nang",
+      "D": "Thúc đẩy sự chết tế bào có chương trình"
+    }
+  },
+  "30891": {
+    "question": "Bệnh nhân bệnh phổi tắc nghẽn mạn tính, kết quả hô hấp ký sau test hồi phục phế quản FEV1/FVC = 0,62 và FEV1 84%. Hãy kết luận giai đoạn bệnh:",
+    "options": {
+      "A": "GOLD 1",
+      "B": "GOLD 2",
+      "C": "GOLD 3",
+      "D": "GOLD 4"
+    }
+  },
+  "30892": {
+    "question": "Nguyên tắc điều trị đợt cấp bệnh phổi tắc nghẽn mạn tính, NGOẠI TRỪ:",
+    "options": {
+      "A": "Tối ưu hóa thuốc giãn phế quản",
+      "B": "Corticosteroid toàn thân",
+      "C": "Kháng sinh khi có nhiễm khuẩn",
+      "D": "Thở máy không xâm lấn"
+    }
+  },
+  "30893": {
+    "question": "Bệnh nhân nữ, 48 tuổi, tiền sử hen phế quản, vào viện vì tăng khò khè, khó thở. Tình trạng nhập viện: Lơ mơ, M 42 lần/phút, NT 39 lần/phút, cử động ngực - bụng nghịch thường, phối giảm âm toàn bộ. Xử trí đầu tiên cơn hen cho bệnh nhân:",
+    "options": {
+      "A": "Đặt nội khí quản thông khí cơ học",
+      "B": "SABA khí dung, lặp lại mỗi 20 phút trong 1h đầu",
+      "C": "Prednisolone 1 mg/Kg/ngày, tiêm mạch",
+      "D": "Ipratropium bromide khí dung, lặp lại mỗi 20 phút trong 1h đầu"
+    }
+  },
+  "30894": {
+    "question": "Kháng sinh được sử dụng trong giãn phế quản đợt cấp do nhiễm các vi khuẩn gram âm:",
+    "options": {
+      "A": "Cephalosporin thế hệ 2 hay 3 phối hợp Macrolid",
+      "B": "Cephalosporin thế hệ 2 hay 3 phối hợp Aminoglycosid",
+      "C": "Cephalosporin thế hệ 2 hay 3 phối hợp Betalactam/kháng betalactamase",
+      "D": "Cephalosporin thế hệ 2 hay 3 phối hợp Glycopeptid"
+    }
+  },
+  "30895": {
+    "question": "Bệnh nhân viêm phổi thể nào thường khám phối nghe được ran rít, ran ngáy sớm:",
+    "options": {
+      "A": "Viêm phổi thùy",
+      "B": "Viêm phế quản phổi",
+      "C": "Viêm phổi mô kẽ",
+      "D": "Viêm phổi cộng đồng"
+    }
+  },
+  "30896": {
+    "question": "Thuật ngữ Viêm phổi cộng đồng, Viêm phổi bệnh viện, Viêm phổi liên quan tới chăm sóc y tế, Viêm phổi thở máy là để:",
+    "options": {
+      "A": "Chi tình trạng nặng hay nhẹ của viêm phổi",
+      "B": "Chỉ điều kiện y tế cần chăm sóc đặc biệt",
+      "C": "Để định hướng tác nhân vi sinh gây bệnh",
+      "D": "Để phân loại bệnh học viêm phổi"
+    }
+  },
+  "30897": {
+    "question": "Để phân tầng nguy cơ trong viêm phổi cộng đồng, chúng ta thường sử dụng thang điểm. NGOẠI TRỪ:",
+    "options": {
+      "A": "PSI",
+      "B": "CURB-65",
+      "C": "mMRC",
+      "D": "ATS"
+    }
+  },
+  "30898": {
+    "question": "Tác nhân vi sinh không điển hình gặp nhiều nhất ở bệnh nhân viêm phổi nặng điều trị tại khoa chăm sóc đặc biệt hiện nay là:",
+    "options": {
+      "A": "Mycoplasma pneumoniae",
+      "B": "Chlamydia pneumoniae",
+      "C": "Coxiella burnetti",
+      "D": "Legionella pneumophila"
+    }
+  },
+  "30899": {
+    "question": "Bệnh nhân viêm phổi cộng đồng dị ứng với kháng sinh betalactam, sự lựa chọn kháng sinh thay thế được khuyến cáo là:",
+    "options": {
+      "A": "Macrolide",
+      "B": "Fluoroquinolone",
+      "C": "Aminoglycosid",
+      "D": "Cephalosporin"
+    }
+  },
+  "30900": {
+    "question": "Phát biểu về Viêm phổi, chọn câu SAI:      C.",
+    "options": {
+      "A": "Viêm phổi là thuật ngữ rất dễ bị lạm dụng khi chẩn đoán. Sự hiện diện của tiếng ran ẩm, ran nổ khi nghe phổi không phải luôn đồng nghĩa với viêm phổi.",
+      "B": "Chẩn đoán lâm sàng viêm phổi không có tiêu chuẩn vàng nên cần chẩn đoán phân biệt.",
+      "C": "Điều trị kháng sinh kinh nghiệm cần thiết dựa trên sự phân tích về mức độ nặng, nguy cơ nhiễm khuẩn đặc biệt, nguy cơ kháng thuố",
+      "D": "Rất ít các trường hợp viêm phổi cộng đồng có thể điều trị ngoại trú."
+    }
+  },
+  "30901": {
+    "question": "Hướng lan của cơn đau thắt ngực:",
+    "options": {
+      "A": "Lan xuống mặt trụ của cánh tay trái",
+      "B": "Lan xuống mặt quay của cánh tay trái.",
+      "C": "Lan xuống mặt trụ của cánh tay phải.",
+      "D": "Lan xuống mặt quay của cánh tay phải"
+    }
+  },
+  "30902": {
+    "question": "Đặc điểm cơn đau thắt ngực điển hình:",
+    "options": {
+      "A": "Đau sâu bên trong lồng ngực, bóp nghẹt, xuất hiện khi gắng sức, giảm khi nghỉ",
+      "B": "Đau bên ngoài lồng ngực, bóp nghẹt, xuất hiện khi gắng sức, giảm khi nghi",
+      "C": "Đau ngực trái, đau như xé, xuất hiện khi gắng sức, giảm khi nghỉ",
+      "D": "Đau khắp ngực, âm ỉ, không liên quan gắng sức hoặc nghỉ ngơi"
+    }
+  },
+  "30903": {
+    "question": "Tình huống thúc đẩy cơn đau thắt ngực xuất hiện:",
+    "options": {
+      "A": "Nghỉ ngơi quá mức",
+      "B": "Stress",
+      "C": "Giảm nhịp tim",
+      "D": "Giảm huyết áp"
+    }
+  },
+  "30904": {
+    "question": "Cận lâm sàng giúp sàng lọc bệnh mạch vành:",
+    "options": {
+      "A": "Chụp mạch vành",
+      "B": "Điện tâm đồ",
+      "C": "Chụp cắt lớp vi tính",
+      "D": "Siêu âm tim"
+    }
+  },
+  "30905": {
+    "question": "Dấu hiệu thiếu máu cơ tim trên điện tim:",
+    "options": {
+      "A": "ST chênh xuống 0,2 mm, T dẹt, ST dốc lên",
+      "B": "T âm 2mm, ST chênh xuống kiểu đi ngang hay dốc xuống 1 mm",
+      "C": "T dương, ST chênh xuống 1mm, ST đi dốc lên",
+      "D": "T dẹt, ST chênh lên, ST đi ngang 1mm"
+    }
+  },
+  "30906": {
+    "question": "Sử dụng đồng thời nitrate và sildenafil có thể dẫn đến nguy cơ:",
+    "options": {
+      "A": "Hạ huyết áp",
+      "B": "Tăng huyết áp khó kiểm soát",
+      "C": "Tăng co thắt mạch vành",
+      "D": "Giảm tần số tim quá mức"
+    }
+  },
+  "30907": {
+    "question": "Bệnh nhân thiếu máu cục bộ cơ tim kèm tăng huyết áp, thuốc hạ áp nào được ưu tiên lựa chọn:",
+    "options": {
+      "A": "Carvedilol",
+      "B": "Nifedipine",
+      "C": "Furosemid",
+      "D": "Amlodipin"
+    }
+  },
+  "30908": {
+    "question": "Metoprolol có vai trò gì trong điều trị bệnh mạch vành:",
+    "options": {
+      "A": "Giảm tưới máu thận",
+      "B": "Phòng suy thận",
+      "C": "Giảm sức co bóp cơ tim",
+      "D": "Giãn mạch vành"
+    }
+  },
+  "30909": {
+    "question": "Vai trò chính của ức chế men chuyển sau nhồi máu cơ tim là:",
+    "options": {
+      "A": "Hạ áp",
+      "B": "Điều trị suy tim",
+      "C": "Chống tái cấu trúc thất trái",
+      "D": "Chống co mạch"
+    }
+  },
+  "30910": {
+    "question": "Nguyên nhân hẹp van hai lá thường gặp nhất:",
+    "options": {
+      "A": "Thấp tim",
+      "B": "Lupus ban đỏ hệ thống",
+      "C": "Bẩm sinh",
+      "D": "Di truyền"
+    }
+  },
+  "30911": {
+    "question": "Các rối loạn chủ yếu của bệnh phổi tắc nghẽn mạn tính, NGOẠI TRỪ:",
+    "options": {
+      "A": "Sự phơi nhiễm lâu dài với khói thuốc lá ở những người nhạy cảm sẽ thúc đầy quá trình viêm và huy động các tế bào miễn dịch vào trong đường thở và phế nang.",
+      "B": "Các tế bào viêm phóng thích anti-proteases làm tổn thương tế bào miễn dịch trong đường thở và phế nang.",
+      "C": "Sự chết của các tế bào cấu trúc dẫn đến mất tính dãn nở của đường thở nhỏ, cắt xén mạch máu và phá hủy phế nang.",
+      "D": "Quá trình sửa chữa bất thường của elastin và các thành phần cấu trúc ngoại bào khác góp phần làm giãn nở khoảng khí và khí phế thũng."
+    }
+  }
+} 
