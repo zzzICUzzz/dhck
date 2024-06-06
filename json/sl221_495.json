@@ -2473,5 +2473,273 @@
       "C": "Miếng dán tránh thai",
       "D": "Que cấy tránh thai"
     }
+  },
+"20261": {
+    "question": "Sự trao đổi thông tin liên lạc giữa các tế bào ở xa nhau thông qua:",
+    "options": {
+      "A": "Tín hiệu vật lý",
+      "B": "Mối liên kết hở",
+      "C": "Tín hiệu hóa học",
+      "D": "Tín hiệu sinh học"
+    }
+  },
+  "20262": {
+    "question": "Những sản phẩm chuyển hóa trong cơ thể sẽ được chia sẻ nhanh chóng qua cấu trúc:",
+    "options": {
+      "A": "Gap junction",
+      "B": "Connexon",
+      "C": "Khe synap",
+      "D": "Ribosom"
+    }
+  },
+  "20263": {
+    "question": "Nơi dự trữ chủ về cơ chế thể dịch trong điều hòa hoạt động các phản ứng quan trọng trong tế bào:",
+    "options": {
+      "A": "Hệ thống mạng lưới nội bào tương",
+      "B": "Hệ thống ty thể",
+      "C": "Bộ Golgi",
+      "D": "Peroxisom"
+    }
+  },
+  "20264": {
+    "question": "Vai trò của bơm Na+-K+-ATPase trong việc tái lập sự phân bố ion thông qua quá trình bơm mỗi đợt 3 Na+ ra và 2 K+ vào bên trong tế bào sẽ làm cho điện thế màng giảm:",
+    "options": {
+      "A": "-2mV",
+      "B": "-3 mV",
+      "C": "-4 mV",
+      "D": "-5 mV"
+    }
+  },
+  "20265": {
+    "question": "Đặc điểm của bơm Na+-K+-ATPase? Tập hợp nào sau đây đúng: (1)  Vai trò của bơm Na+-K+-ATPase: Tái lập điện thế nghỉ (2)   Bơm Na+-K+-ATPase là các chất vận chuyển (bản chất là protein) có trên màng tế bào (3)  Bơm Na+-K+-ATPase bơm 3 Na+ ra ngoài và 2 K+ vào trong tế bào (4)  Có nhiệm vụ chuyển K từ phía ngoài tế bào trả vào phía trong màng tế bào",
+    "options": {
+      "A": "(1), (4)",
+      "B": "(1), (3)",
+      "C": "(2), (4)",
+      "D": "(2), (3)"
+    }
+  },
+  "20266": {
+    "question": "Đặc điểm chất mang của khuếch tán được gia tốc là:",
+    "options": {
+      "A": "Còn gọi là bơm",
+      "B": "Protein xuyên màng loại mang không có tính chất enzym",
+      "C": "Lực liên kết giữa chất được vận chuyển và protein mang rất mạnh",
+      "D": "Protein xuyên màng loại mang có tính chất enzyme"
+    }
+  },
+  "20267": {
+    "question": "Đặc điểm của Glycoprotein trên màng tế bào:",
+    "options": {
+      "A": "Là những phân tử oligosaccharid gắn thành nhánh với bề mặt ngoài của 100% protein xuyên màng.",
+      "B": "Là những phân tử oligosaccharid gắn với 1/10 lipid màng",
+      "C": "Là những đại phân tử tạo bởi các carbohydrat bao quanh lõi protein nhỏ gắn lỏng lẻo bên ngoài tế bào",
+      "D": "Bao phủ bề mặt ngoài của tế bào thành một lớp áo lỏng lẻo"
+    }
+  },
+  "20268": {
+    "question": "Trường hợp nào sau đây làm tăng tốc độ khuếch tán của một vật thể qua màng:",
+    "options": {
+      "A": "Giảm diện tích bề mặt của màng.",
+      "B": "Tăng độ dày của màng.",
+      "C": "Tăng kích thước của vật thể.",
+      "D": "Tăng khả năng tan trong lipid của vật thể."
+    }
+  },
+  "20269": {
+    "question": "Khuếch tán đơn giản có đặc điểm, NGOẠI TRỪ:",
+    "options": {
+      "A": "Là hiện tượng khuếch tán không cần chất mang.",
+      "B": "Có 2 hình thức: khuếch tán qua lớp lipid kép và khuếch tán qua các kênh protein.",
+      "C": "Sự khuếch tán của 1 chất khác xảy ra đồng thời.",
+      "D": "Tỉ lệ nghịch với độ hòa tan trong dầu."
+    }
+  },
+  "20270": {
+    "question": "Protein mang (bơm) gắn trên màng tế bào có những tính chất nào sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Protein mang vừa đóng vai trò là chất chuyên chở, vừa đồng vai trò là một men thủy phân АТР.",
+      "B": "Năng lượng từ sự thủy phân ATP làm thay đổi cấu hình của protein mang giúp chúng bơm các chất cần vận chuyển qua màng.",
+      "C": "Bơm Na\"-K*-ATPase, bơm Ca2+, bơm proton là những bơm điển hình.",
+      "D": "Chất được vận chuyển gắn vào protein mang làm cho protein mang thay đổi cầu hình và mở ra ở phía bên kia của màng."
+    }
+  },
+  "20390": {
+    "question": "Trong điều hòa của tim bằng cơ chế Frank - Starling, phát biểu nào KHÔNG ĐÚNG:",
+    "options": {
+      "A": "Lực co của cơ tim tỉ lệ thuận với chiều dài của sợi cơ tim trước khi co",
+      "B": "Trước khi co, máu về tim càng nhiều, sợi cơ tim càng giãn",
+      "C": "Tiền tải tăng thì sức co của cơ tim ở tâm thu càng mạnh",
+      "D": "Ở thì tâm thu, máu về tim nhiều, sợi cơ tim giãn"
+    }
+  },
+  "20391": {
+    "question": "Hiện tượng nào KHÔNG xảy ra trong pha số 3 trong hoạt động điện học tế bào cơ tim loại đáp ứng nhanh:",
+    "options": {
+      "A": "Kênh Ca2* và Na+ đóng lại",
+      "B": "Điện thế màng giảm nhanh đến khoảng -65m V",
+      "C": "Bơm Ca2+ hoạt động bơm Ca2+ ra ngoại bào và vào trong các bào quan",
+      "D": "Bơm Na - K+ - ATPase hoạt động, bơm theo tỉ lệ 2 Na* ra ngoài, 3 K+ vào trong"
+    }
+  },
+  "20392": {
+    "question": "Khi một người bình thường đột ngột bị đánh mạnh vào vùng thượng vị sẽ gây ra phản xạ:",
+    "options": {
+      "A": "Bainbridge - tim đập nhanh.",
+      "B": "Goltz - tim đập chậm hoặc ngừng đập",
+      "C": "Bainbridge - tim đập chậm",
+      "D": "Goltz - tim đập nhanh."
+    }
+  },
+  "20393": {
+    "question": "Khi nói về cơ chế thể dịch trong điều hòa hoạt động tim, có bao nhiêu phát biểu đúng? 1. Nồng độ glucagon tăng làm giảm tần số tim và lực co bóp cơ tim. 2. Hormone tủy thượng thận là epinephrin và norepinephrin làm tăng tần số tim và lực cơ bóp cơ tim. 3. Epinephrin có tác dụng yếu hơn norepinephrin. 4. K+ tăng làm tăng trương lực cơ tim. 5. Na+ tăng làm tăng trương lực cơ tim. 6. Thân nhiệt tăng, tăng nhịp tim, trương lực cơ và lực co giảm",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    }
+  },
+  "20394": {
+    "question": "Yếu tố nào sau đây đưa máu từ tĩnh mạch về tim:",
+    "options": {
+      "A": "Khi thở ra lồng ngực giãn rộng, áp suất trong lồng ngực càng âm, tâm nhĩ và các tĩnh mạch lớn trong lồng ngực giãn hút máu về.",
+      "B": "Khi tâm thất trương, tim to ra làm áp suất trong lồng ngực càng âm, tĩnh mạch và tâm nhĩ giãn ra hút máu về tim",
+      "C": "Khi tâm thất thu sẽ kéo sàn nhĩ thất xuống do đó tâm nhĩ giãn rộng làm áp suất trong tâm nhĩ giảm, hút máu về tim",
+      "D": "Khi tâm thất trương làm áp suất trong tâm thất tăng, tạo sức hút máu từ nhĩ xuống thất và từ tĩnh mạch về nhĩ"
+    }
+  },
+  "20395": {
+    "question": "Đặc điểm của áp suất máu, NGOẠI TRỪ:",
+    "options": {
+      "A": "Huyết áp được tạo ra từ áp lực mà máu tác dụng lên thành mạch",
+      "B": "Đề máu chảy được trong lòng mạch thì áp lực đẩy máu tới phải nhỏ hơn sức cản máu của hệ mạch",
+      "C": "Để máu chảy theo một chiều thì áp suất máu đầu vào phải luôn luôn lớn hơn áp suất máu đầu ra",
+      "D": "Trị số áp suất tương ứng với lúc mạch xẹp gọi là áp suất động mạch"
+    }
+  },
+  "20396": {
+    "question": "Yếu tố quan trọng quyết định chủ yếu trong việc điều hòa lượng máu tại mao mạch:",
+    "options": {
+      "A": "Nồng độ CO2",
+      "B": "Các hormon như catecholamin tác động vào thụ thể a",
+      "C": "Nồng độ 02 trong dịch kẽ",
+      "D": "Nhiệt độ tại mô"
+    }
+  },
+  "20397": {
+    "question": "Đặc điểm của hoạt động thần kinh giao cảm trong điều hòa mạch máu, NGOẠI TRỪ:",
+    "options": {
+      "A": "Phát xung động liên tục cường độ tăng dần đến cơ trơn thành mạch tạo trương lực cơ",
+      "B": "Tại tim tác động vào thụ thể beta 1 làm tăng hoạt động của tim",
+      "C": "Gây co các tĩnh mạch dồn máu về tim",
+      "D": "Có tác dụng lên thụ thể beta 2 tác động đến khối cơ của động mạch vành gây giãn mạch giảm huyết áp"
+    }
+  },
+  "20398": {
+    "question": "Trong phản xạ hóa cảm thụ quan, xung động từ hóa cảm thụ quan về hành não, kích thích vùng co mạch của trung tâm vận mạch làm tăng huyết áp, khi:",
+    "options": {
+      "A": "PO2 giảm, PCO2 tăng, pH giảm",
+      "B": "P02 tăng, PCO2 giảm, pH tăng",
+      "C": "PO2 giảm, PCO2 giảm, pH giảm",
+      "D": "PO2 tăng, PCO2 tăng, pH giảm"
+    }
+  },
+  "20399": {
+    "question": "Phát biểu nào sau đây KHÔNG ĐÚNG trong điều hòa hoạt động tĩnh mạch:",
+    "options": {
+      "A": "Nhiệt độ tăng gây giãn tĩnh mạch",
+      "B": "Nồng độ 02 giảm làm giãn tĩnh mạch",
+      "C": "Nồng độ CO2 tăng làm giãn tĩnh mạch",
+      "D": "Adrenalin và histamin làm co tĩnh mạch"
+    }
+  },
+  "20400": {
+    "question": "Yếu tố nào sau đây KHÔNG làm co cơ thắt tiền mao mạch mở:",
+    "options": {
+      "A": "Nhiệt độ tại mô giảm",
+      "B": "Catecholamin tác dụng qua thụ thể alpha",
+      "C": "Nồng độ CO2 giảm, pH tăng",
+      "D": "Nồng độ CO2 tăng, pH giảm."
+    }
+  },
+  "20450": {
+    "question": "Độ lọc cầu thận ở người trưởng thành bình thường là bao nhiêu m//phút: А. 25-50 С. 75-100",
+    "options": {
+      "B": "50-75",
+      "D": "100-125"
+    }
+  },
+  "20451": {
+    "question": "Lượng nước tiểu bài xuất ra ngoài được cấu thành từ các thành phần như sau:",
+    "options": {
+      "A": "Lượng lọc + Lượng tái hấp thu + Lượng bài tiết",
+      "B": "Lượng lọc - Lượng tái hấp thu - Lượng bài tiết",
+      "C": "Lượng lọc - Lượng tái hấp thu + Lượng bài tiết",
+      "D": "Lượng lọc + Lượng tái hấp thu - Lượng bài tiết"
+    }
+  },
+  "20452": {
+    "question": "Bệnh nhân nữ, 62 tuổi, mắc đái tháo đường và tăng huyết áp 12 năm, để đánh giá bệnh nhân co suy thận hay không, cần dựa vào yếu tố nào sau đây:",
+    "options": {
+      "A": "Đo độ lọc cầu thận",
+      "B": "Siêu âm Doppler thận",
+      "C": "Chụp thận có cản quang",
+      "D": "Sinh thiết thận"
+    }
+  },
+  "20453": {
+    "question": "Bệnh nhân nữ, 38 tuổi, mắc bệnh thận mạn giai đoạn cuối, hormon nào sau đây được bài tiết giảm đi:",
+    "options": {
+      "A": "Erythropoietin.",
+      "B": "Cortisol, ADH",
+      "C": "Aldosteron",
+      "D": "Angiotensinogen"
+    }
+  },
+  "20454": {
+    "question": "Bệnh nhân nữ, 48 tuổi, bị mất nước do tiêu chảy cấp, đáp ứng nào sau đây của cơ thể có thể xảy ra:",
+    "options": {
+      "A": "Ức chế trung khu khát",
+      "B": "Giảm lượng ADH trong máu",
+      "C": "Tăng lượng nước tiểu bài xuất",
+      "D": "Tăng bài tiết Aldosteron"
+    }
+  },
+  "20456": {
+    "question": "Bệnh nhân nam, 28 tuổi, mắc hội chứng SIADH làm bài tiết ADH quá mức, hậu quả gì sẽ xảy ra:",
+    "options": {
+      "A": "Na* huyết tương thấp do tác dụng pha loãng của nước",
+      "B": "Na huyết tương thấp do tác dụng ức chế trực tiếp ADH trên sự tái hấp thu Na* của ống lượn xa",
+      "C": "Na* huyết tương cao do tác dụng kích thích trực tiếp của ADH trên sự tái hấp thu Na* của ống lượn xa",
+      "D": "Na* huyết tương cao do tác dụng của ADH làm tăng bài xuất nước ở ống góp"
+    }
+  },
+  "20457": {
+    "question": "Thành phần nào sau đây sau khi được lọc qua cầu thận tương tự như trong huyết tương",
+    "options": {
+      "A": "Glucose",
+      "B": "Albumin",
+      "C": "Hồng cầu",
+      "D": "Hemoglobin"
+    }
+  },
+  "20458": {
+    "question": "Độ lọc cầu thận của một người nam, 45 tuổi, khỏe mạnh là 100ml/phút/1,73m2, hỏi theo diễn tiền bình thường thì độ lọc cầu thận khi người này 70 tuổi là bao nhiêu:",
+    "options": {
+      "A": "55ml/phút/1,73m2",
+      "B": "65ml/phút/1,73m2",
+      "C": "75ml/phút/1,73m2",
+      "D": "85ml/phút/1,73m2"
+    }
+  },
+  "20459": {
+    "question": "Một thanh niên nam, 30 tuổi, khỏe mạnh, lượng protein bài tiết vào nước tiểu mỗi ngày là bao nhiêu:",
+    "options": {
+      "A": "<30mg/24 giờ.",
+      "B": "<150mg/24 giờ",
+      "C": "<300mg/24 giờ.",
+      "D": "<500mg/24 giờ."
+    }
   }
 }
