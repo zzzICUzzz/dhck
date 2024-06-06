@@ -14,6 +14,11 @@ function sanitizeInput(input) {
     return input.replace(/[^a-zA-Z0-9 ]/g, '');
 }
 
+function hasSpecialCharacters(input) {
+    const regex = /[^a-zA-Z0-9 ]/;
+    return regex.test(input);
+}
+
 function checkSession() {
     if (!sessionStorage.getItem('visited')) {
         sessionStorage.setItem('visited', 'true');
@@ -21,48 +26,36 @@ function checkSession() {
     }
 }
 
-function loadQuestions() {
+async function loadQuestions() {
     const urlParams = new URLSearchParams(window.location.search);
     const subjectParam = urlParams.get('subject');
 
     let dapAn;
     let questions;
 
-    fetch('json/da.json')
-        .then(res => res.json())
-        .then(data => {
-            dapAn = data;
+    try {
+        dapAn = await fetch('json/da.json').then(res => res.json());
 
-            if (subjectParam === 'random') {
-                questions = [];
+        if (subjectParam === 'random') {
+            questions = [];
 
-                const promises = Object.entries(files).map(([file, numQuestions]) =>
-                    fetch(`json/${file}`)
-                        .then(res => res.json())
-                        .then(data => {
-                            const keys = Object.keys(data);
-                            const randomKeys = getRandomKeys(keys, numQuestions);
-                            questions.push(...randomKeys.map(key => ({ ...data[key], id: key })));
-                        })
-                );
-
-                return Promise.all(promises);
-            } else {
-                return fetch(`json/${subjectParam}`)
-                    .then(res => res.json())
-                    .then(data => {
-                        const keys = Object.keys(data);
-                        questions = keys.map(key => ({ ...data[key], id: key }));
-                    });
+            for (const [file, numQuestions] of Object.entries(files)) {
+                const data = await fetch(`json/${file}`).then(res => res.json());
+                const keys = Object.keys(data);
+                const randomKeys = getRandomKeys(keys, numQuestions);
+                questions.push(...randomKeys.map(key => ({ ...data[key], id: key })));
             }
-        })
-        .then(() => {
-            displayQuestions(questions, dapAn);
-        })
-        .catch(error => {
-            console.error("Lỗi khi tải dữ liệu:", error);
-            questionsContainer.innerHTML = "<p>Đã xảy ra lỗi khi tải câu hỏi. Vui lòng thử lại sau.</p>";
-        });
+        } else {
+            const data = await fetch(`json/${subjectParam}`).then(res => res.json());
+            const keys = Object.keys(data);
+            questions = keys.map(key => ({ ...data[key], id: key }));
+        }
+
+        displayQuestions(questions, dapAn);
+    } catch (error) {
+        console.error("Lỗi khi tải dữ liệu:", error);
+        questionsContainer.innerHTML = "<p>Đã xảy ra lỗi khi tải câu hỏi. Vui lòng thử lại sau.</p>";
+    }
 }
 
 function displayQuestions(questions, dapAn) {
@@ -125,10 +118,13 @@ if (startBtn) {
         let name = document.getElementById('name').value;
         const subject = document.getElementById('subject').value;
 
-        name = sanitizeInput(name);
-
         if (name.trim() === '') {
             alert('Vui lòng nhập tên của bạn.');
+            return;
+        }
+
+        if (hasSpecialCharacters(name)) {
+            alert('Tên vậy á hả, có ngu không ???');
             return;
         }
 
@@ -141,7 +137,6 @@ if (startBtn) {
 
         try {
             await fetch(googleSheetsURL, { method: 'POST', body: formData });
-
             console.log("Result submitted successfully to Google Sheets!");
         } catch (error) {
             console.error("Error submitting result to Google Sheets:", error);
