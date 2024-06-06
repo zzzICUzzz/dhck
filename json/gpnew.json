@@ -134,8 +134,17 @@
       "D": "Tĩnh mạch mạc treo tràng trên"
     }
   },
-  "10217": {
-    "question": "Vị trí tập trung của 3 dải cơ dọc kết tràng là: Cầu 218.Mô tả về túi thừa hồi tràng, NGOẠI TRỪ:",
+  "10217":{
+    "question":"Vị trí tập trung của 3 dải cơ dọc kết tràng là:",
+    "options":{
+        "A":"Góc hồi manh tràng",
+        "B":"Van hồi manh tràng",
+        "C":"Mạc treo kết tràng",
+        "D":"Gốc ruột thừa"
+    }
+  },
+  "10218": {
+    "question": "Mô tả về túi thừa hồi tràng, NGOẠI TRỪ:",
     "options": {
       "A": "Là di tích của ống niệu rốn",
       "B": "Dài trung bình 5 – 6cm",
