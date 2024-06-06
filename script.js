@@ -8,38 +8,18 @@ const files = {
 };
 
 const questionsContainer = document.getElementById("questions-container");
+const urlParams = new URLSearchParams(window.location.search);
+const subjectParam = urlParams.get('subject');
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
 
-function hasSpecialCharacters(input) {
-    const regex = /[^a-zA-Z0-9 ]/;
-    return regex.test(input);
-}
-
-function isValidName(name) {
-    const invalidNames = ["Z"];
-    return name.length > 1 && !invalidNames.includes(name);
-}
-
-function checkSession() {
-    if (!sessionStorage.getItem('visited')) {
-        sessionStorage.setItem('visited', 'true');
-        window.location.href = 'index.html';
-    }
-}
-
 async function loadQuestions() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const subjectParam = urlParams.get('subject');
-
     let dapAn;
-    let questions;
+    let questions = [];
 
     try {
         dapAn = await fetch('json/da.json').then(res => res.json());
 
         if (subjectParam === 'random') {
-            questions = [];
-
             for (const [file, numQuestions] of Object.entries(files)) {
                 const data = await fetch(`json/${file}`).then(res => res.json());
                 const keys = Object.keys(data);
@@ -112,53 +92,41 @@ function getRandomKeys(keys, numKeys) {
     return shuffled.slice(0, numKeys);
 }
 
-const startBtn = document.getElementById('startBtn');
+document.getElementById('startBtn').addEventListener('click', () => {
+    const name = document.getElementById('name').value.trim();
+    const subject = document.getElementById('subject').value;
 
-if (startBtn) {
-    startBtn.addEventListener('click', async () => {
-        let name = document.getElementById('name').value.trim();
-        const subject = document.getElementById('subject').value;
+    if (name === '' || name.length <= 1 || hasSpecialCharacters(name) || !isValidName(name)) {
+        alert('THÍCH NHẬP TÊN KIỂU ĐÓ KHÔNG ???');
+        return;
+    }
 
-        if (name === '') {
-            alert('Vui lòng nhập tên của bạn.');
-            return;
-        }
+    localStorage.setItem('name', name);
 
-        if (hasSpecialCharacters(name) || !isValidName(name)) {
-            alert('Thích nhập tên kiểu đó không ???');
-            return;
-        }
+    const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
 
-        // Lưu tên vào localStorage
-        localStorage.setItem('name', name);
+    const formData = new FormData();
+    formData.append('time', currentTime);
+    formData.append('name', name);
+    formData.append('subject', subject);
 
-        const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
-
-        const formData = new FormData();
-        formData.append('time', currentTime);
-        formData.append('name', name);
-        formData.append('subject', subject);
-
-        try {
-            await fetch(googleSheetsURL, { method: 'POST', body: formData });
+    fetch(googleSheetsURL, { method: 'POST', body: formData })
+        .then(() => {
             console.log("Result submitted successfully to Google Sheets!");
-        } catch (error) {
+        })
+        .catch(error => {
             console.error("Error submitting result to Google Sheets:", error);
-        }
+        });
 
-        if (subject === 'random') {
-            window.location.href = 'quiz.html?subject=random';
-        } else if (subject === 'contribute' || subject === 'edit') {
-            window.location.href = 'contribution.html?action=' + subject;
-        } else {
-            window.location.href = `quiz.html?subject=${subject}`;
-        }
-    });
-} else {
-    console.error("Không tìm thấy phần tử có ID 'startBtn'.");
-}
+    if (subject === 'random') {
+        window.location.href = 'quiz.html?subject=random';
+    } else if (subject === 'contribute' || subject === 'edit') {
+        window.location.href = 'contribution.html?action=' + subject;
+    } else {
+        window.location.href = `quiz.html?subject=${subject}`;
+    }
+});
 
-// Tự động điền tên từ localStorage khi tải trang
 window.addEventListener('DOMContentLoaded', (event) => {
     const savedName = localStorage.getItem('name');
     if (savedName) {
@@ -166,5 +134,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
     }
 });
 
-checkSession();
-loadQuestions();
+function hasSpecialCharacters(input) {
+    const regex = /[^a-zA-Z0-9 ]/;
+    return regex.test(input);
+}
+
+function isValidName(name) {
+    const invalidNames = ["Z"];
+    return name.length > 1 && !invalidNames.includes(name);
+}
