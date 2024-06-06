@@ -109,24 +109,25 @@ if (startBtn) {
 
         const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
 
-        try {
-            await fetch(googleSheetsURL, {
-                method: 'POST',
-                mode: 'no-cors',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    time: currentTime,
-                    name: name,
-                    subject: subject
-                })
-            });
+        const xhr = new XMLHttpRequest();
+        xhr.open('POST', googleSheetsURL, true);
+        xhr.setRequestHeader('Content-Type', 'application/json');
 
-            console.log("Result submitted successfully to Google Sheets!");
-        } catch (error) {
-            console.error("Error submitting result to Google Sheets:", error);
-        }
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                console.log("Result submitted successfully to Google Sheets!");
+            } else if (xhr.readyState === 4) {
+                console.error("Error submitting result to Google Sheets:", xhr.statusText);
+            }
+        };
+
+        const data = JSON.stringify({
+            time: currentTime,
+            name: name,
+            subject: subject
+        });
+
+        xhr.send(data);
 
         if (subject === 'random') {
             window.location.href = 'quiz.html?subject=random';
