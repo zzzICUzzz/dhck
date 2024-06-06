@@ -1,0 +1,254 @@
+{
+  "62021": {
+    "question": "Trẻ 20 ngày tuổi bị viêm phổi, kháng sinh lựa chọn",
+    "options": {
+      "A": "Chloramphenicol 100mg/kg/ngày và Ceftriaxone 75mg/kg/ngày",
+      "B": "Ampicilline 100mg/kg/ngày và Cefotaxim 150mg/kg/ngày",
+      "C": "Ampicilline 100mg/kg/ngày và Chloramphenicol 100mg/kg/ngày",
+      "D": "Chloramphenicol 100mg/kg/ngày và Cefotaxim 150mg/kg/ngày"
+    } 
+  },
+  "62024": {
+    "question": "Trẻ 18 tháng tuổi, viêm phổi suy hô hấp có dấu hiệu thở nhanh, môi tím nhẹ, hướng xử trí tiếp theo sau hút đàm nhớt:",
+    "options": {
+      "A": "Thở NCAP với FiO2 = 100%",
+      "B": "Thở oxy qua cannula 5 l/phút",
+      "C": "Thở oxy qua mask 4 l/phút",
+      "D": "Đặt NKQ, bóp bóng"
+    }
+  },
+  "62063": {
+    "question": "Bé gái 9 tháng, 3 tuần nay cháu bắt đầu bị tiêu chảy, lúc đầu cháu tiêu phân đàm máu sau đó tiêu phân lỏng hết đàm máu 5-6 lần/ngày, mùi chua và hăm hậu môn. Chẩn đoán phù hợp nhất:",
+    "options": {
+      "A": "Lỵ trực trùng",
+      "B": "Tiêu chảy kéu dài nghĩ do bất dung nạp đường lactose",
+      "C": "Tiêu chảy kéo dài nghĩ do dị ứng đạm bò",
+      "D": "Tiêu chảy cấp do Rotavirus"
+    }
+  },
+  "62070": {
+    "question": "Trẻ 10 tháng tuổi, 10 kg bị tiêu chảy cấp mất nước nặng thì cần bao nhiêu Lactate Ringer truyền tĩnh mạch trong giờ đầu:",
+    "options": {
+      "A": "100 ml",
+      "B": "200 ml",
+      "C": "300 ml",
+      "D": "400 ml"
+    }
+  },
+  "62075": {
+    "question": "Trường hợp nào sau đây KHÔNG CÓ chỉ định dùng kháng sinh khi trẻ bị tiêu chảy:",
+    "options": {
+      "A": "Tiêu phân đàm máu",
+      "B": "Tiêu chảy do tả",
+      "C": "Lỵ Shigella",
+      "D": "Tiêu chảy do ETEC"
+    }
+  },
+  "62203": {
+    "question": "Trẻ sơ sinh 29 tuần tuổi, sau sanh 2 giờ tím môi, thở rên, rút lõm ngực nặng. Phương pháp hỗ trợ hô hấp tốt nhất:",
+    "options": {
+      "A": "Thở oxy qua cannula",
+      "B": "Thở oxy qua mask",
+      "C": "Thở NCPAP",
+      "D": "Đặt nội khí quản thở máy"
+    }
+  },
+  "62236": {
+    "question": "Nguyên tắc sử quang điển hình điều trị viêm phổi ở trẻ em",
+    "options": {
+      "A": "Dựa theo giá trị bạch cầu và CRP",
+      "B": "Dựa theo kháng sinh đồ",
+      "C": "Dựa theo tuổi và lâm sàng",
+      "D": "Dựa vào hình ảnh X-quang phổi"
+    }
+  },
+  "62237": {
+    "question": "Bệnh nhị, 7 tuổi có phù kiểu thận, huyết áp cao và tiểu máu đại thể 21 ngày, creatinin tăng cao. Chẩn đoán phù hợp nhất:",
+    "options": {
+      "A": "Viêm cầu thận tăng sinh màng",
+      "B": "Viêm cầu thận hậu nhiễm liên cầu",
+      "C": "Bệnh cầu thận IgA",
+      "D": "Viêm cầu thận lupus"
+    }
+  },
+  "62238": {
+    "question": "Lựa chọn kháng sinh ban đầu ở trẻ 7 ngày tuổi, được chẩn đoán nhiễm trùng huyết kèm nhiễm trùng rốn:",
+    "options": {
+      "A": "Ampicillin + Gentamycin",
+      "B": "Ampicillin + Cefotaxim",
+      "C": "Ampicillin + Cefotaxim + Gentamycin",
+      "D": "Oxacillin + Gentamycin + Cefotaxim"
+    }
+  },
+  "62239": {
+    "question": "Cách xử trí cho uống Oremut 5 100 ml sau mỗi lần tiêu lỏng và cho 10 mg kẽm/ngày được áp dụng cho bệnh nhi:",
+    "options": {
+      "A": "Trẻ 26 tháng, tiêu chảy cấp có mất nước",
+      "B": "Trẻ 14 tháng, tiêu chảy cấp không mất nước",
+      "C": "Trẻ 8 tháng, tiêu chảy không mất nước",
+      "D": "Trẻ 5 tháng, tiêu chảy cấp không mất nước"
+    }
+  },
+  "62240": {
+    "question": "Trẻ 20 tháng, bị suy dinh dưỡng nặng, điều trị tấn công vitamin A liều nào thích hợp",
+    "options": {
+      "A": "100.000 UI uống 3 liều vào ngày thứ 1,2 và 3.",
+      "B": "200.000 UI uống 3 liều vào ngày thứ 1,2 và 7.",
+      "C": "200.000 UI uống 3 liều vào ngày thứ 1,2 và 10",
+      "D": "200.000 UI uống 3 liều vào ngày thứ 1,2 và 20."
+    }
+  },
+  "62241": {
+    "question": "Tật tim nào sau đây ít nguy cơ suy tim và tim không lớn nhưng bệnh nhi dễ thiếu oxy và khó thở trầm trọng:",
+    "options": {
+      "A": "Kênh nhĩ thất toàn phần",
+      "B": "Thông liên thất",
+      "C": "Tứ chứng Fallot",
+      "D": "Còn ống động mạch"
+    }
+  },
+  "62242": {
+    "question": "Hình ảnh X-quang của bệnh thông liên thất:",
+    "options": {
+      "A": "Giảm tưới máu, bóng tim có thể to, cung động mạch phổi bình thường",
+      "B": "Giảm tưới máu, bóng tim có thể không to, khuyết cung động mạch phổi",
+      "C": "Tăng tưới máu, bóng tim có thể to, khuyết cung động mạch phổi",
+      "D": "Tăng tưới máu, rốn phổi đậm, tim to toàn bộ ưu thế thất trái"
+    }
+  },
+  "62243": {
+    "question": "Hình ảnh ECG của tứ chứng Fallot:",
+    "options": {
+      "A": "Trục phải, dày thất phải, vùng chuyển tiếp ở V1, V2",
+      "B": "Trục trái, block nhánh trái, dày thất phải",
+      "C": "Trục phải, block nhánh trái, dày thất trái",
+      "D": "Trục trái, S sâu ở V1 hay V2 và R cao ở V5, V6"
+    }
+  },
+  "62244": {
+    "question": "Trẻ 24 tháng tuổi, sốt, ho và thở nhanh, được chẩn đoán viêm phổi. Tổn thương thường gặp trên X-quang phổi:",
+    "options": {
+      "A": "Dày thành phế quản",
+      "B": "Có hình ảnh khí nội phế quản trên bóng mờ",
+      "C": "Tăng sinh tuần hoàn phổi ra 1/3 ngoài phế trường",
+      "D": "Mờ đồng nhất thùy hoặc phân thùy"
+    }
+  },
+  "62245": {
+    "question": "Chọn kháng sinh ban đầu điều trị cho trẻ 24 tháng tuổi bị viêm phế quản phổi:",
+    "options": {
+      "A": "Clarithromycin",
+      "B": "Cefotaxime",
+      "C": "Amoxicillin",
+      "D": "Azithromycin"
+    }
+  },
+  "62246": {
+    "question": "Bé trai 8 tuổi, sốt cao liên tục ngày 3, được chẩn đoán sốt xuất huyết Dengue có dấu hiệu cảnh báo. Giá trị xét nghiệm máu phù hợp:",
+    "options": {
+      "A": "Hematocrit tăng cao, tiểu cầu giảm nhanh chóng",
+      "B": "Hematocrit tăng cao, bạch cầu giảm nhanh chóng",
+      "C": "Bạch cầu và tiểu cầu giảm nhanh chóng",
+      "D": "Bạch cầu tăng, tiểu cầu giảm nhanh chóng"
+    }
+  },
+  "62247": {
+    "question": "Bé gái 10 tuổi, sốt ngày 4, mạch quay nhanh nhẹ, huyết áp 90/70 mmHg, được chẩn đoán sốc sốt xuất huyết Dengue đầu ngày 4, xử trí phù hợp nhất:",
+    "options": {
+      "A": "NaCl 0,9%: 10 ml/kg/giờ",
+      "B": "NaCI 0,9%: 15 ml/kg/giờ",
+      "C": "Lactat Ringer: 15 ml/kg/giờ",
+      "D": "Lactat Ringer: 20 ml/kg/giờ"
+    }
+  },
+  "62248": {
+    "question": "Bé trai 15 tuổi được chẩn đoán sốc sốt xuất huyết Dengue nặng. Sau liều chống sốc đầu tiên, nếu mạch rõ, huyết áp hết kẹp thì xử trí tiếp theo:",
+    "options": {
+      "A": "Cao phân tử: 10 ml/kg/giờ",
+      "B": "NaCl 0,9%: 15 ml/kg/giờ",
+      "C": "NaCl 0,9%: 10 ml/kg/giờ",
+      "D": "Lactat Ringer: 10 ml/kg/giờ"
+    }
+  },
+  "62249": {
+    "question": "Nguyên nhân chính gây tắc mạch trong hội chứng thận hư:",
+    "options": {
+      "A": "Mất antithrombin III qua đường tiểu",
+      "B": "Mất cholecanxiferol qua đường tiểu",
+      "C": "Tăng tiểu cầu",
+      "D": "Fibrinogen tăng"
+    }
+  },
+  "62250": {
+    "question": "Tiêu chuẩn quan trọng nhất giúp chẩn đoán hội chứng thận hư ở bệnh nhi 5 tuổi:",
+    "options": {
+      "A": "Đạm máu < 55 g/l",
+      "B": "Cholesterol tăng .",
+      "C": "Tốc độ lắng máu tăng",
+      "D": "Đạm niệu > 50 mg/kg/24 giờ"
+    }
+  },
+  "62251": {
+    "question": "Bé trai 6 tuổi, vào viện vì phù và tiểu ít, được chẩn đoán viêm cầu thận cấp. Bệnh nhi này được chỉ định sinh thiết thận khi:",
+    "options": {
+      "A": "Tiểu máu",
+      "B": "Huyết áp tăng kéo dài > 2 tuần",
+      "C": "Đạm niệu > 30mg/kg/24 giờ",
+      "D": "Bệnh diễn biến kéo dài > 6 tháng"
+    }
+  },
+  "62252": {
+    "question": "Bệnh nhi nữ 6 tuổi, tiểu gắt, tiểu đau, được chỉ định cấy nước tiểu giữa dòng. Chẩn đoán xác định nhiễm trùng tiểu khi kết quả nuôi cấy:",
+    "options": {
+      "A": "< 10^3 khúm vi khuẩn/ml.",
+      "B": "< 10^4 khúm vi khuẩn/ml",
+      "C": "10^4 - 10^5 khúm vi khuẩn/ml",
+      "D": "≥ 10^5 khúm vi khuẩn/ml"
+    }
+  },
+  "62253": {
+    "question": "Nguyên nhân gây thiếu máu hồng cầu nhỏ nhược sắc thường gặp trên lâm sàng:",
+    "options": {
+      "A": "Thiếu men G6PD",
+      "B": "Ngộ độc chì",
+      "C": "Thiếu sắt",
+      "D": "Thalassemia"
+    }
+  },
+  "62254": {
+    "question": "Chỉ định truyền máu dựa vào mức Hemoglobin phù hợp đối với trẻ thiếu máu thiếu sắt:",
+    "options": {
+      "A": "Hb< 7g/dl",
+      "B": "Hb< 6g/dl",
+      "C": "Hb< 5 g/dl",
+      "D": "Hb< 4 g/dl"
+    }
+  },
+  "62255": {
+    "question": "Trẻ trai 10 tuổi, vào viện vì nổi chấm xuất huyết da và được chẩn đoán xuất huyết giảm tiểu cầu miễn dịch. Chỉ định cắt lách khi:",
+    "options": {
+      "A": "Xuất huyết nặng",
+      "B": "Xuất huyết nặng kéo dài kém đáp ứng với thuốc",
+      "C": "Thất bại với Corticoides",
+      "D": "Thất bại với Immunoglobulin"
+    }
+  },
+  "62256": {
+    "question": "Trẻ sơ sinh, chẩn đoán vàng da sinh lý có đặc điểm:",
+    "options": {
+      "A": "Vàng da đến cẳng tay, cẳng chân",
+      "B": "Xuất hiện trong 24 giờ đầu sau sanh",
+      "C": "Bilirubin máu 11mg%",
+      "D": "Tốc độ tăng bilirubin máu > 5 mg%/24 giờ"
+    }
+  },
+  "62257": {
+    "question": "Khi hồi sức trẻ sơ sinh tím bị suy hô hấp, phát hiện trẻ miệng sùi bọt cua và đặt sonde dạ dày vướng ở chiều dài 8-10 cm. Nghĩ ngay đến bệnh:",
+    "options": {
+      "A": "Hẹp lỗ mũi sau",
+      "B": "Teo thực quản",
+      "C": "Hội chứng Pierre Robin",
+      "D": "Thoát vị cơ hoành"
+    }
+  }
+}

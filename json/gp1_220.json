@@ -1977,5 +1977,221 @@
       "C": "Mạc chằng",
       "D": "Mạc nối"
     }
+  },
+  "10151": {
+    "question": "Đặc điểm riêng của đốt sống ngực, NGOẠI TRỪ:",
+    "options": {
+      "A": "Đốt T1 có hố sườn trên là một hố không trọn vẹn để khớp với chỏm xương sườn I",
+      "B": "Đốt T1 có hố sườn dưới là một nửa hố vì khớp với một phần chỏm xương sườn II",
+      "C": "Đốt T10 không có hố sườn dưới",
+      "D": "Đốt T11 và T12 không có hố sườn ngang"
+    }
+  },
+  "10152": {
+    "question": "Dây chằng cung giữa giới hạn cùng với thân đốt sống T12 tạo thành:",
+    "options": {
+      "A": "Lỗ động mạch chủ",
+      "B": "Lỗ thực quản",
+      "C": "Lỗ tĩnh mạch chủ dưới",
+      "D": "Lỗ ống ngực"
+    }
+  },
+  "10166": {
+    "question": "Các cơ dựng sống gồm:",
+    "options": {
+      "A": "Cơ chậu sườn, cơ dài, cơ gai",
+      "B": "Cơ nâng sườn, cơ dài, cơ bán gai",
+      "C": "Cơ chậu sườn, cơ dài, cơ xoay",
+      "D": "Cơ chậu sườn, cơ gai, cơ xoay"
+    }
+  },
+  "10167": {
+    "question": "1/3 dưới lá trước bao cơ thẳng bụng được tạo bởi, chọn câu đúng nhất:",
+    "options": {
+      "A": "Cân cơ chéo bụng ngoài",
+      "B": "Cân cơ chéo bụng ngoài và lá trước cân cơ chéo bụng trong",
+      "C": "Cân cơ chéo bụng ngoài và cân cơ chéo bụng trong",
+      "D": "Cân cơ chéo bụng ngoài, cân cơ chéo bụng trong, cân cơ ngang bụng"
+    }
+  },
+  "10168": {
+    "question": "1/3 dưới lá sau bao cơ thẳng bụng được tạo bởi, chọn câu đúng nhất:",
+    "options": {
+      "A": "Cân cơ chéo bụng trong",
+      "B": "Cân cơ ngang bụng và cân cơ chéo bụng trong",
+      "C": "Cân cơ ngang bụng và lá sau cân cơ chéo bụng trong",
+      "D": "Mạc ngang"
+    }
+  },
+  "10169": {
+    "question": "Cân cơ chéo bụng ngoài là cấu trúc chủ yếu tạo nên:",
+    "options": {
+      "A": "Thành trên ống bẹn",
+      "B": "Thành dưới ống bẹn",
+      "C": "Thành trước ống bẹn",
+      "D": "Thành sau ống bẹn"
+    }
+  },
+  "10170": {
+    "question": "Thành dưới của tiền đình túi mạc nối là:",
+    "options": {
+      "A": "Mặt sau dạ dày",
+      "B": "Mạc nối nhỏ",
+      "C": "Khối tá tụy",
+      "D": "Thùy vuông của gan"
+    }
+  },
+  "10171": {
+    "question": "Vị trí thường dùng để thám sát túi mạc nối là:",
+    "options": {
+      "A": "Ngách lách",
+      "B": "Ngách trên của túi mạc nối",
+      "C": "Lỗ mạc nối",
+      "D": "Mạc nối nhỏ"
+    }
+  },
+  "10183": {
+    "question": "Mô tả về vị trí các động mạch vành:",
+    "options": {
+      "A": "Nằm giữa là thành ngoại tâm mạc thanh mạc và ngoại tâm mạc sợi",
+      "B": "Nằm giữa lá tạng và lá thành của ngoại tâm mạc thanh mạc",
+      "C": "Nằm giữa lá tạng ngoại tâm mạc thanh mạc và bề mặt cơ tim",
+      "D": "Nằm trong cơ tim"
+    }
+  },
+  "10184": {
+    "question": "Mô tả về hệ thống dẫn truyền của tim, NGOẠI TRỪ:",
+    "options": {
+      "A": "Không chịu sự chi phối của thần kinh trung ương",
+      "B": "Là tập hợp của các tế bào tự phát nhịp",
+      "C": "Đảm bảo cho các buồng tim co bóp một cách có phối hợp",
+      "D": "Bao gồm nút xoang nhĩ, nút nhĩ - thất và bó nhĩ - thất"
+    }
+  },
+  "10195": {
+    "question": "Giới hạn sau của trung thất trước là:",
+    "options": {
+      "A": "Mặt sau xương ức",
+      "B": "Mặt sau các sụn sườn III-VI",
+      "C": "Mặt trước tim",
+      "D": "Mặt trước màng ngoài tim"
+    }
+  },
+  "10196": {
+    "question": "Tại rốn phổi, phế quản chính phải chia thành:",
+    "options": {
+      "A": "Phế quản thùy trên và phế quản thùy dưới",
+      "B": "Phế quản thùy trên và phế quản thùy giữa",
+      "C": "Phế quản thùy trên và phế quản giữa",
+      "D": "Phế quản thùy trên, phế quản thùy giữa và phế quản thùy dưới"
+    }
+  },
+  "10197": {
+    "question": "Dị vật đường hô hấp thường rơi vào:",
+    "options": {
+      "A": "Phế quản chính trái",
+      "B": "Phế quản chính phải",
+      "C": "Góc Carina",
+      "D": "Tỉ lệ ở các vị trí là như nhau"
+    }
+  },
+  "10210": {
+    "question": "Cấu trúc giải phẫu nằm trong mạc nối nhỏ:",
+    "options": {
+      "A": "Động mạch gan",
+      "B": "Tĩnh mạch cửa",
+      "C": "Ông tụy chính",
+      "D": "Ống mật chủ"
+    }
+  },
+  "10211": {
+    "question": "Một khối u của mỏm móc tụy có thể chèn ép sớm nhất cấu trúc:",
+    "options": {
+      "A": "Ông mật chủ",
+      "B": "Ống tụy chính",
+      "C": "Động mạch mạc treo tràng trên",
+      "D": "Tĩnh mạch mạc treo tràng trên"
+    }
+  },
+  "10217": {
+    "question": "Vị trí tập trung của 3 dải cơ dọc kết tràng là: Cầu 218.Mô tả về túi thừa hồi tràng, NGOẠI TRỪ:",
+    "options": {
+      "A": "Là di tích của ống niệu rốn",
+      "B": "Dài trung bình 5 – 6cm",
+      "C": "Nằm cách gốc hồi manh tràng chừng 80cm",
+      "D": "Đầu túi thừa có thể tự do hay dính vào thành bụng ở vùng rốn bằng một dải xơ"
+    }
+  },
+  "10224": {
+    "question": "Dây chằng có bản chất là phúc mạc, NGOẠI TRỪ:",
+    "options": {
+      "A": "Dây chằng vành",
+      "B": "Dây chằng hoành",
+      "C": "Dây chằng liềm",
+      "D": "Dây chằng tam giác"
+    }
+  },
+  "10225": {
+    "question": "Dây chằng nối vùng trần của gan với cơ hoành là:",
+    "options": {
+      "A": "Dây chằng vành",
+      "B": "Dây chằng hoành gan",
+      "C": "Dây chằng liềm",
+      "D": "Dây chằng tam giác"
+    }
+  },
+  "10226": {
+    "question": "Sự thông nối giữa hệ tĩnh mạch cửa và hệ tĩnh mạch chủ có thể gặp ở:",
+    "options": {
+      "A": "Rốn lách",
+      "B": "Khuyết tụy",
+      "C": "Vùng hang môn vị",
+      "D": "Hành tá tràng"
+    }
+  },
+  "10227": {
+    "question": "Đây chẳng tam giác nối phần sau mặt hoành của gan với:",
+    "options": {
+      "A": "Dây chằng vành",
+      "B": "Cơ hoành",
+      "C": "Thành bụng trước",
+      "D": "Dây chằng liềm"
+    }
+  },
+  "10228": {
+    "question": "Cấu trúc nào trong thời kỳ phôi thai trở thành dây chằng tròn của gan sau khi sinh:",
+    "options": {
+      "A": "Động mạch rốn",
+      "B": "Tĩnh mạch rốn",
+      "C": "Ông động mạch",
+      "D": "Ông tĩnh mạch"
+    }
+  },
+  "10229": {
+    "question": "Sau khi sinh, động mạch rốn xơ hóa thành:",
+    "options": {
+      "A": "Dây chằng rốn trong",
+      "B": "Dây treo bàng quang",
+      "C": "Dây chằng động mạch",
+      "D": "Dây chằng liềm"
+    }
+  },
+  "10244": {
+    "question": "Cấu trúc giải phẫu không nhìn thấy được ở mặt sau của xương cùng:",
+    "options": {
+      "A": "Lỗ cùng chậu hông",
+      "B": "Mào cùng trung gian",
+      "C": "Mào cùng giữa",
+      "D": "Lỗ cùng lưng"
+    }
+  },
+  "10247": {
+    "question": "Mạc ngang là câu trúc tạo nên:",
+    "options": {
+      "A": "Thành trên ống bẹn",
+      "C": "Thành trước ống bẹn",
+      "B": "Thành dưới ống bẹn",
+      "D": "Thành sau ống bẹn"
+    }
   }
 }
