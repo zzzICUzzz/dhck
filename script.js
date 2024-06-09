@@ -8,7 +8,6 @@ const files = {
 };
 
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
-const loadingDiv = document.getElementById('loading');
 
 function hasSpecialCharacters(input) {
     // Loại bỏ các ký tự đặc biệt không phải tiếng Việt
@@ -120,9 +119,10 @@ function getRandomKeys(keys, numKeys) {
     return shuffled.slice(0, numKeys);
 }
 
-window.addEventListener('DOMContentLoaded', (event) => {
+document.addEventListener('DOMContentLoaded', (event) => {
     const startBtn = document.getElementById('startBtn');
-
+    const loadingDiv = document.getElementById('loading');
+    
     if (startBtn) {
         startBtn.addEventListener('click', async () => {
             let name = document.getElementById('name').value.trim();
@@ -139,7 +139,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
             }
 
             // Hiển thị hình ảnh loading
-            loadingDiv.style.display = 'block';
+            if (loadingDiv) {
+                loadingDiv.style.display = 'block';
+            }
 
             // Lưu tên vào localStorage
             localStorage.setItem('name', name);
@@ -166,7 +168,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
                 } else {
                     window.location.href = `quiz.html?subject=${subject}`;
                 }
-            }, 2000);
+            }, 3000);
         });
     } else {
         console.error("Không tìm thấy phần tử có ID 'startBtn'.");
