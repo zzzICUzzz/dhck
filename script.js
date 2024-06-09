@@ -9,6 +9,7 @@ const files = {
 
 const questionsContainer = document.getElementById("questions-container");
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
+const loadingDiv = document.getElementById('loading');
 
 function hasSpecialCharacters(input) {
     // Loại bỏ các ký tự đặc biệt không phải tiếng Việt
@@ -16,11 +17,11 @@ function hasSpecialCharacters(input) {
     return regex.test(input);
 }
 
-
 function isValidName(name) {
     const invalidNames = ["Z"];
     return name.length > 1 && !invalidNames.includes(name);
 }
+
 // kiểm tra người dùng đã truy cập index chưa và không cho truy cập ngang.
 function checkSession() {
     if (!sessionStorage.getItem('visited')) {
@@ -131,6 +132,9 @@ if (startBtn) {
             return;
         }
 
+        // Hiển thị hình ảnh loading
+        loadingDiv.style.display = 'block';
+
         // Lưu tên vào localStorage
         localStorage.setItem('name', name);
 
@@ -148,13 +152,15 @@ if (startBtn) {
             console.error("Error submitting result to Google Sheets:", error);
         }
 
-        if (subject === 'random') {
-            window.location.href = 'quiz.html?subject=random';
-        } else if (subject === 'contribute' || subject === 'edit') {
-            window.location.href = 'contribution.html?action=' + subject;
-        } else {
-            window.location.href = `quiz.html?subject=${subject}`;
-        }
+        setTimeout(() => {
+            if (subject === 'random') {
+                window.location.href = 'quiz.html?subject=random';
+            } else if (subject === 'contribute' || subject === 'edit') {
+                window.location.href = 'contribution.html?action=' + subject;
+            } else {
+                window.location.href = `quiz.html?subject=${subject}`;
+            }
+        }, 2000);
     });
 } else {
     console.error("Không tìm thấy phần tử có ID 'startBtn'.");
@@ -166,20 +172,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
     if (savedName) {
         document.getElementById('name').value = savedName;
     }
-});
-// loading....
-document.getElementById('startBtn').addEventListener('click', function() {
-    // Hiển thị hình ảnh loading
-    document.getElementById('loading').style.display = 'block';
-
-    // Mô phỏng việc chuyển trang (chờ 2 giây)
-    setTimeout(function() {
-        // Ẩn hình ảnh loading (giả sử trang đã tải xong)
-        document.getElementById('loading').style.display = 'none';
-
-        // Tiếp tục logic chuyển trang ở đây
-        // Ví dụ: window.location.href = 'newPage.html';
-    }, 2000);
 });
 
 checkSession();
