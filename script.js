@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 } else {
                     window.location.href = `quiz.html?subject=${subject}`;
                 }
-            }, 3000);
+            }, 2000);
         });
     } else {
         console.error("Không tìm thấy phần tử có ID 'startBtn'.");
