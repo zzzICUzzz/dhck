@@ -7,7 +7,6 @@ const files = {
     "noi496_965.json": 20
 };
 
-const questionsContainer = document.getElementById("questions-container");
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
 const loadingDiv = document.getElementById('loading');
 
@@ -58,11 +57,17 @@ async function loadQuestions() {
         displayQuestions(questions, dapAn);
     } catch (error) {
         console.error("Lỗi khi tải dữ liệu:", error);
-        questionsContainer.innerHTML = "<p>Đã xảy ra lỗi khi tải câu hỏi. Vui lòng thử lại sau.</p>";
+        const questionsContainer = document.getElementById("questions-container");
+        if (questionsContainer) {
+            questionsContainer.innerHTML = "<p>Đã xảy ra lỗi khi tải câu hỏi. Vui lòng thử lại sau.</p>";
+        }
     }
 }
 
 function displayQuestions(questions, dapAn) {
+    const questionsContainer = document.getElementById("questions-container");
+    if (!questionsContainer) return;
+    
     questionsContainer.innerHTML = "";
     let correctAnswers = 0;
 
@@ -115,64 +120,69 @@ function getRandomKeys(keys, numKeys) {
     return shuffled.slice(0, numKeys);
 }
 
-const startBtn = document.getElementById('startBtn');
-
-if (startBtn) {
-    startBtn.addEventListener('click', async () => {
-        let name = document.getElementById('name').value.trim();
-        const subject = document.getElementById('subject').value;
-
-        if (name === '') {
-            alert('Vui lòng nhập tên của bạn.');
-            return;
-        }
-
-        if (hasSpecialCharacters(name) || !isValidName(name)) {
-            alert('Nhập tên như dị mà coi được đó hả -_-');
-            return;
-        }
-
-        // Hiển thị hình ảnh loading
-        loadingDiv.style.display = 'block';
-
-        // Lưu tên vào localStorage
-        localStorage.setItem('name', name);
-
-        const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
-
-        const formData = new FormData();
-        formData.append('time', currentTime);
-        formData.append('name', name);
-        formData.append('subject', subject);
-
-        try {
-            await fetch(googleSheetsURL, { method: 'POST', body: formData });
-            console.log("Result submitted successfully to Google Sheets!");
-        } catch (error) {
-            console.error("Error submitting result to Google Sheets:", error);
-        }
-
-        setTimeout(() => {
-            if (subject === 'random') {
-                window.location.href = 'quiz.html?subject=random';
-            } else if (subject === 'contribute' || subject === 'edit') {
-                window.location.href = 'contribution.html?action=' + subject;
-            } else {
-                window.location.href = `quiz.html?subject=${subject}`;
-            }
-        }, 2000);
-    });
-} else {
-    console.error("Không tìm thấy phần tử có ID 'startBtn'.");
-}
-
-// Tự động điền tên từ localStorage khi tải trang
 window.addEventListener('DOMContentLoaded', (event) => {
+    const startBtn = document.getElementById('startBtn');
+
+    if (startBtn) {
+        startBtn.addEventListener('click', async () => {
+            let name = document.getElementById('name').value.trim();
+            const subject = document.getElementById('subject').value;
+
+            if (name === '') {
+                alert('Vui lòng nhập tên của bạn.');
+                return;
+            }
+
+            if (hasSpecialCharacters(name) || !isValidName(name)) {
+                alert('Nhập tên như dị mà coi được đó hả -_-');
+                return;
+            }
+
+            // Hiển thị hình ảnh loading
+            loadingDiv.style.display = 'block';
+
+            // Lưu tên vào localStorage
+            localStorage.setItem('name', name);
+
+            const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
+
+            const formData = new FormData();
+            formData.append('time', currentTime);
+            formData.append('name', name);
+            formData.append('subject', subject);
+
+            try {
+                await fetch(googleSheetsURL, { method: 'POST', body: formData });
+                console.log("Result submitted successfully to Google Sheets!");
+            } catch (error) {
+                console.error("Error submitting result to Google Sheets:", error);
+            }
+
+            setTimeout(() => {
+                if (subject === 'random') {
+                    window.location.href = 'quiz.html?subject=random';
+                } else if (subject === 'contribute' || subject === 'edit') {
+                    window.location.href = 'contribution.html?action=' + subject;
+                } else {
+                    window.location.href = `quiz.html?subject=${subject}`;
+                }
+            }, 2000);
+        });
+    } else {
+        console.error("Không tìm thấy phần tử có ID 'startBtn'.");
+    }
+
+    // Tự động điền tên từ localStorage khi tải trang
     const savedName = localStorage.getItem('name');
     if (savedName) {
-        document.getElementById('name').value = savedName;
+        const nameInput = document.getElementById('name');
+        if (nameInput) {
+            nameInput.value = savedName;
+        } else {
+            console.error("Không tìm thấy phần tử có ID 'name'.");
+        }
     }
-});
 
-checkSession();
-loadQuestions();
+    checkSession();
+    loadQuestions();
+});
