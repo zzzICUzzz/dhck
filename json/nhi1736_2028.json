@@ -360,7 +360,16 @@
     }
   },
   "1776": {
-    "question": "Liều đầu tiên của dung dịch mặn ngọt đẳng trương trong chống sốc nhiễm khuẩn theo khuyến cáo mới nhất là bao nhiêu:   Câu 1777: Thuốc vận mạch được lựa chọn ưu tiên trong chống sốc nhiễm khuẩn hiện nay là gì",
+    "question": "Liều đầu tiên của dung dịch mặn ngọt đẳng trương trong chống sốc nhiễm khuẩn theo khuyến cáo mới nhất là bao nhiêu",
+    "options": {
+      "A": "20ml/kg/5 phút",
+      "B": "20ml/kg/10 phút",
+      "C": "20ml/kg/ 15 phút",
+      "D": "20ml/kg/ 5 phút"
+    }
+  }, 
+    "1777":{ 
+    "question":"Thuốc vận mạch được lựa chọn ưu tiên trong chống sốc nhiễm khuẩn hiện nay là gì",
     "options": {
       "A": "Norepinephrine",
       "B": "Epinephrine",
