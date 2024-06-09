@@ -21,7 +21,7 @@ function isValidName(name) {
     const invalidNames = ["Z"];
     return name.length > 1 && !invalidNames.includes(name);
 }
-
+// kiểm tra người dùng đã truy cập index chưa và không cho truy cập ngang.
 function checkSession() {
     if (!sessionStorage.getItem('visited')) {
         sessionStorage.setItem('visited', 'true');
@@ -82,7 +82,7 @@ function displayQuestions(questions, dapAn) {
         questionDiv.addEventListener("change", () => {
             const selectedOption = questionDiv.querySelector(`input[name="q${question.id}"]:checked`).value;
             const correctOption = dapAn[question.id];
-
+            
             questionDiv.querySelectorAll("label").forEach(label => {
                 label.classList.remove("correct", "incorrect");
                 if (label.querySelector("input").value === selectedOption) {
