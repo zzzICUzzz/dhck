@@ -167,6 +167,20 @@ window.addEventListener('DOMContentLoaded', (event) => {
         document.getElementById('name').value = savedName;
     }
 });
+// script.js
+document.getElementById('startBtn').addEventListener('click', function() {
+    // Hiển thị hình ảnh loading
+    document.getElementById('loading').style.display = 'block';
+
+    // Mô phỏng việc chuyển trang (chờ 2 giây)
+    setTimeout(function() {
+        // Ẩn hình ảnh loading (giả sử trang đã tải xong)
+        document.getElementById('loading').style.display = 'none';
+
+        // Tiếp tục logic chuyển trang ở đây
+        // Ví dụ: window.location.href = 'newPage.html';
+    }, 2000);
+});
 
 checkSession();
 loadQuestions();
