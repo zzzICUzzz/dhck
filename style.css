@@ -86,8 +86,8 @@ body {
 }
 
 #loading img {
-    width: 50px; /* Kích thước hình ảnh loading */
-    height: 50px;
+    width: 150px; /* Kích thước hình ảnh loading */
+    height: 150px;
 }
 
 

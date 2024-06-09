@@ -167,7 +167,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         document.getElementById('name').value = savedName;
     }
 });
-// script.js
+// loading....
 document.getElementById('startBtn').addEventListener('click', function() {
     // Hiển thị hình ảnh loading
     document.getElementById('loading').style.display = 'block';
