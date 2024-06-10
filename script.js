@@ -10,8 +10,7 @@ const files = {
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
 
 function hasSpecialCharacters(input) {
-    // Loại bỏ các ký tự đặc biệt không phải tiếng Việt
-    const regex = /[^a-zA-Z0-9À-ỹ\s]/; // Cho phép chữ cái tiếng Việt có dấu và khoảng trắng
+    const regex = /[^a-zA-Z0-9À-ỹ\s]/;
     return regex.test(input);
 }
 
@@ -20,7 +19,6 @@ function isValidName(name) {
     return name.length > 1 && !invalidNames.includes(name);
 }
 
-// kiểm tra người dùng đã truy cập index chưa và không cho truy cập ngang.
 function checkSession() {
     if (!sessionStorage.getItem('visited')) {
         sessionStorage.setItem('visited', 'true');
@@ -66,11 +64,11 @@ async function loadQuestions() {
 function displayQuestions(questions, dapAn) {
     const questionsContainer = document.getElementById("questions-container");
     if (!questionsContainer) return;
-    
-    questionsContainer.innerHTML = "";
-    let correctAnswers = 0;
 
-    questions.forEach(question => {
+    let correctAnswers = 0;
+    let answeredQuestions = 0;
+
+    questions.forEach((question, index) => {
         const questionDiv = document.createElement("div");
         questionDiv.classList.add("question");
 
@@ -87,7 +85,7 @@ function displayQuestions(questions, dapAn) {
         questionDiv.addEventListener("change", () => {
             const selectedOption = questionDiv.querySelector(`input[name="q${question.id}"]:checked`).value;
             const correctOption = dapAn[question.id];
-            
+
             questionDiv.querySelectorAll("label").forEach(label => {
                 label.classList.remove("correct", "incorrect");
                 if (label.querySelector("input").value === selectedOption) {
@@ -99,6 +97,9 @@ function displayQuestions(questions, dapAn) {
                     label.classList.add("correct");
                 }
             });
+
+            answeredQuestions++;
+            updateProgressBar(answeredQuestions, questions.length);
 
             const resultDiv = document.getElementById("result");
             if (resultDiv) {
@@ -114,6 +115,16 @@ function displayQuestions(questions, dapAn) {
     questionsContainer.appendChild(resultDiv);
 }
 
+function updateProgressBar(answeredQuestions, totalQuestions) {
+    const progressBar = document.getElementById("progress-bar");
+    const progressText = document.getElementById("progress-text");
+    if (!progressBar || !progressText) return;
+
+    const progress = (answeredQuestions / totalQuestions) * 100;
+    progressBar.value = progress;
+    progressText.textContent = `${Math.round(progress)}%`;
+}
+
 function getRandomKeys(keys, numKeys) {
     const shuffled = keys.sort(() => 0.5 - Math.random());
     return shuffled.slice(0, numKeys);
@@ -122,7 +133,7 @@ function getRandomKeys(keys, numKeys) {
 document.addEventListener('DOMContentLoaded', (event) => {
     const startBtn = document.getElementById('startBtn');
     const loadingDiv = document.getElementById('loading');
-    
+
     if (startBtn) {
         startBtn.addEventListener('click', async () => {
             let name = document.getElementById('name').value.trim();
@@ -138,12 +149,10 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 return;
             }
 
-            // Hiển thị hình ảnh loading
             if (loadingDiv) {
                 loadingDiv.style.display = 'block';
             }
 
-            // Lưu tên vào localStorage
             localStorage.setItem('name', name);
 
             const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
@@ -174,7 +183,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
         console.error("Không tìm thấy phần tử có ID 'startBtn'.");
     }
 
-    // Tự động điền tên từ localStorage khi tải trang
     const savedName = localStorage.getItem('name');
     if (savedName) {
         const nameInput = document.getElementById('name');

@@ -2,9 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0px;
     padding-top: 0px;
-
 }
-
 
 .title {
     text-align: center;
@@ -75,7 +73,7 @@ body {
     font-size: 1.5em;
     margin-left: 10px;
 }
-/* style.css */
+
 #loading {
     display: none; /* Ẩn hình ảnh loading ban đầu */
     position: fixed; /* Cố định vị trí hình ảnh loading */
@@ -90,6 +88,30 @@ body {
     height: 300px;
 }
 
+/* Progress Bar Styles */
+#progress-container {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #f3f3f3;
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+#progress-bar {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    height: 20px;
+}
+
+#progress-text {
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 14px;
+}
 
 /* Media queries for responsiveness */
 
