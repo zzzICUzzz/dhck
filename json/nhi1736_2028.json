@@ -2322,7 +2322,16 @@
     }
   },
   "1997": {
-    "question": "Trẻ sơ sinh 28 tuần, cân nặng 1800gr, suy hô hấp nặng sau sanh, Chụp Xquang ngực thẳng: hình ảnh lưới hạt, bờ tim không rõ, 2 phổi mờ phù hợp với giai đoạn bệnh màng trong:   Câu 1998  Phương pháp tốt nhất trong điều trị suy hô hấp sơ sinh do bệnh màng trong là gì:",
+    "question": "Trẻ sơ sinh 28 tuần, cân nặng 1800gr, suy hô hấp nặng sau sanh, Chụp Xquang ngực thẳng: hình ảnh lưới hạt, bờ tim không rõ, 2 phổi mờ phù hợp với giai đoạn bệnh màng trong:",   
+    "options":{
+      "A":"1",
+      "B":"2",
+      "C":"3",
+      "D":"4"
+    }
+  },
+  "1998":{  
+    "question": "Phương pháp tốt nhất trong điều trị suy hô hấp sơ sinh do bệnh màng trong là gì:",
     "options": {
       "A": "Thở oxy qua cannula",
       "B": "Thở oxy qua mask",
