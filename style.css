@@ -84,8 +84,8 @@ body {
 }
 
 #loading img {
-    width: 600px; /* Kích thước hình ảnh loading */
-    height: 600px;
+    width: 800px; /* Kích thước hình ảnh loading */
+    height: 800px;
 }
 
 /* Progress Bar Styles */
