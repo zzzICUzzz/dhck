@@ -9,7 +9,7 @@ const files = {
 
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
 
-const SESSION_LIMIT_MINUTES = 120;
+const SESSION_LIMIT_MINUTES = 180;
 
 function hasSpecialCharacters(input) {
     const regex = /[^a-zA-Z0-9À-ỹ\s]/;
