@@ -9,6 +9,8 @@ const files = {
 
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
 
+const SESSION_LIMIT_MINUTES = 120;
+
 function hasSpecialCharacters(input) {
     const regex = /[^a-zA-Z0-9À-ỹ\s]/;
     return regex.test(input);
@@ -23,6 +25,35 @@ function checkSession() {
     if (!sessionStorage.getItem('visited')) {
         sessionStorage.setItem('visited', 'true');
         window.location.href = 'index.html';
+    }    
+    const currentPage = window.location.pathname.split("/").pop();
+    if (currentPage === 'index.html' || currentPage === '') {
+        sessionStorage.removeItem('sessionStartTime');
+        return;
+    }
+
+    const sessionStartTime = sessionStorage.getItem('sessionStartTime');
+    if (sessionStartTime) {
+        const startTime = new Date(sessionStartTime).getTime();
+        const currentTime = new Date().getTime();
+        const sessionLimit = SESSION_LIMIT_MINUTES * 60 * 1000;
+
+        if (currentTime - startTime > sessionLimit) {
+            alert("Your session has expired. You will be redirected to the homepage.");
+            window.location.href = 'index.html';
+        } else {
+            // Set timeout for the remaining time
+            setTimeout(() => {
+                alert("Your session has expired. You will be redirected to the homepage.");
+                window.location.href = 'index.html';
+            }, sessionLimit - (currentTime - startTime));
+        }
+    } else {
+        sessionStorage.setItem('sessionStartTime', new Date().toISOString());
+        setTimeout(() => {
+            alert("Your session has expired. You will be redirected to the homepage.");
+            window.location.href = 'index.html';
+        }, SESSION_LIMIT_MINUTES * 60 * 1000);
     }
 }
 
