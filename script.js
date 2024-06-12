@@ -1,10 +1,16 @@
 const files = {
-    "gp1_220.json": 11,
-    "ngoai966_1438.json": 12,
-    "nhi1736_2028.json": 12,
-    "san1439_1735.json": 12,
-    "sl221_495.json": 11,
-    "noi496_965.json": 12
+    "gp1_220.json": 9,
+    "gpnew.json": 2,
+    "ngoai966_1438.json": 10,
+    "ngoainew.json": 2,
+    "nhi1736_2028.json": 10,
+    "nhinew.json": 2,
+    "san1439_1735.json": 10,
+    "sannew.json": 2,
+    "sl221_495.json": 9,
+    "slnew.json": 2,
+    "noi496_965.json": 10,
+    "noinew.json": 2
 };
 
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
