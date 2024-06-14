@@ -15,7 +15,8 @@ const files = {
 
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
 
-const SESSION_LIMIT_MINUTES = 180;
+const SESSION_LIMIT_MINUTES = 150;
+const QUIZ_TIME_LIMIT_MINUTES = 50;
 
 function hasSpecialCharacters(input) {
     const regex = /[^a-zA-Z0-9À-ỹ\s]/;
@@ -83,6 +84,8 @@ async function loadQuestions() {
                 const randomKeys = getRandomKeys(keys, numQuestions);
                 questions.push(...randomKeys.map(key => ({ ...data[key], id: key })));
             }
+
+            startQuizTimer(QUIZ_TIME_LIMIT_MINUTES, questions, dapAn);
         } else {
             const data = await fetch(`json/${subjectParam}`).then(res => res.json());
             const keys = Object.keys(data);
@@ -175,6 +178,18 @@ function getRandomKeys(keys, numKeys) {
 
     return selectedKeys;
 }
+
+function startQuizTimer(minutes, questions, dapAn) {
+    setTimeout(() => {
+        const correctAnswers = questions.reduce((total, question) => {
+            const selectedOption = document.querySelector(`input[name="q${question.id}"]:checked`);
+            return total + (selectedOption && selectedOption.value === dapAn[question.id] ? 1 : 0);
+        }, 0);
+
+        alert(`Thời gian làm bài đã hết. Bạn đã trả lời đúng ${correctAnswers}/${questions.length} câu.`);
+    }, minutes * 60 * 1000);
+}
+
 
 document.addEventListener('DOMContentLoaded', (event) => {
     const startBtn = document.getElementById('startBtn');
