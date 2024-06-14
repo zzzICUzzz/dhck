@@ -36,7 +36,7 @@ function checkSession() {
     const currentPage = window.location.pathname.split("/").pop();
     if (currentPage === 'index.html' || currentPage === '') {
         sessionStorage.removeItem('sessionStartTime');
-        sessionStorage.removeItem('usedQuestionKeys');  // Clear used questions on reset
+        localStorage.removeItem('usedQuestionKeys');  // Clear used questions on reset
         return;
     }
 
@@ -157,12 +157,23 @@ function displayQuestions(questions, dapAn) {
 
     // Add the "Next Quiz" button
     const nextQuizBtn = document.createElement("button");
-    nextQuizBtn.textContent = "Đề tiếp theo";
+    nextQuizBtn.textContent = "Đề tiếp theo (bỏ qua các câu đã làm)";
     nextQuizBtn.addEventListener("click", () => {
         // Reload the page to generate a new quiz
         window.location.reload();
     });
     questionsContainer.appendChild(nextQuizBtn);
+
+    // Add the "Clear Quiz" button
+    const clearQuizBtn = document.createElement("button");
+    clearQuizBtn.textContent = "Xóa lưu trữ các đề đã làm.";
+    clearQuizBtn.addEventListener("click", () => {
+        // Clear used questions and reload the page to generate a new quiz
+        localStorage.removeItem('usedQuestionKeys');
+        alert('Đã xóa các câu hỏi đã sử dụng.');
+        window.location.reload();
+    });
+    questionsContainer.appendChild(clearQuizBtn);
 }
 
 function updateProgressBar(answeredQuestions, totalQuestions) {
@@ -176,16 +187,29 @@ function updateProgressBar(answeredQuestions, totalQuestions) {
 }
 
 function getRandomKeys(keys, numKeys) {
-    const usedKeys = JSON.parse(sessionStorage.getItem('usedQuestionKeys') || '[]');
+    const usedKeys = getUsedQuestionKeys();
     const availableKeys = keys.filter(key => !usedKeys.includes(key));
     const shuffled = availableKeys.sort(() => 0.5 - Math.random());
     const selectedKeys = shuffled.slice(0, numKeys);
 
-    // Save the selected keys to sessionStorage
-    const newUsedKeys = [...usedKeys, ...selectedKeys];
-    sessionStorage.setItem('usedQuestionKeys', JSON.stringify(newUsedKeys));
+    addUsedQuestionKeys(selectedKeys);
 
     return selectedKeys;
+}
+
+function saveUsedQuestionKeys(usedKeys) {
+    localStorage.setItem('usedQuestionKeys', JSON.stringify(usedKeys));
+}
+
+function getUsedQuestionKeys() {
+    const usedKeys = localStorage.getItem('usedQuestionKeys');
+    return usedKeys ? JSON.parse(usedKeys) : [];
+}
+
+function addUsedQuestionKeys(newKeys) {
+    const usedKeys = getUsedQuestionKeys();
+    const updatedKeys = [...usedKeys, ...newKeys];
+    saveUsedQuestionKeys(updatedKeys);
 }
 
 function startQuizTimer(minutes, questions, dapAn) {
