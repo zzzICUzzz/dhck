@@ -35,6 +35,7 @@ function checkSession() {
     const currentPage = window.location.pathname.split("/").pop();
     if (currentPage === 'index.html' || currentPage === '') {
         sessionStorage.removeItem('sessionStartTime');
+        sessionStorage.removeItem('usedQuestionKeys');  // Clear used questions on reset
         return;
     }
 
@@ -163,8 +164,16 @@ function updateProgressBar(answeredQuestions, totalQuestions) {
 }
 
 function getRandomKeys(keys, numKeys) {
-    const shuffled = keys.sort(() => 0.5 - Math.random());
-    return shuffled.slice(0, numKeys);
+    const usedKeys = JSON.parse(sessionStorage.getItem('usedQuestionKeys') || '[]');
+    const availableKeys = keys.filter(key => !usedKeys.includes(key));
+    const shuffled = availableKeys.sort(() => 0.5 - Math.random());
+    const selectedKeys = shuffled.slice(0, numKeys);
+
+    // Save the selected keys to sessionStorage
+    const newUsedKeys = [...usedKeys, ...selectedKeys];
+    sessionStorage.setItem('usedQuestionKeys', JSON.stringify(newUsedKeys));
+
+    return selectedKeys;
 }
 
 document.addEventListener('DOMContentLoaded', (event) => {
