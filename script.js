@@ -154,6 +154,15 @@ function displayQuestions(questions, dapAn) {
     const resultDiv = document.createElement("div");
     resultDiv.id = "result";
     questionsContainer.appendChild(resultDiv);
+
+    // Add the "Next Quiz" button
+    const nextQuizBtn = document.createElement("button");
+    nextQuizBtn.textContent = "Đề tiếp theo";
+    nextQuizBtn.addEventListener("click", () => {
+        // Reload the page to generate a new quiz
+        window.location.reload();
+    });
+    questionsContainer.appendChild(nextQuizBtn);
 }
 
 function updateProgressBar(answeredQuestions, totalQuestions) {
@@ -189,7 +198,6 @@ function startQuizTimer(minutes, questions, dapAn) {
         alert(`Thời gian làm bài đã hết. Bạn đã trả lời đúng ${correctAnswers}/${questions.length} câu.`);
     }, minutes * 60 * 1000);
 }
-
 
 document.addEventListener('DOMContentLoaded', (event) => {
     const startBtn = document.getElementById('startBtn');
