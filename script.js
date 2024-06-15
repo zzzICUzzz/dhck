@@ -36,7 +36,6 @@ function checkSession() {
     const currentPage = window.location.pathname.split("/").pop();
     if (currentPage === 'index.html' || currentPage === '') {
         sessionStorage.removeItem('sessionStartTime');
-        localStorage.removeItem('usedQuestionKeys');  // Clear used questions on reset
         return;
     }
 
@@ -126,6 +125,11 @@ function displayQuestions(questions, dapAn) {
         questionDiv.addEventListener("change", () => {
             const selectedOption = questionDiv.querySelector(`input[name="q${question.id}"]:checked`).value;
             const correctOption = dapAn[question.id];
+        
+            // Lưu trạng thái câu hỏi
+            const status = selectedOption === correctOption ? "correct" : "incorrect";
+            localStorage.setItem(`question_${question.id}`, status);
+        
 
             questionDiv.querySelectorAll("label").forEach(label => {
                 label.classList.remove("correct", "incorrect");
@@ -167,12 +171,45 @@ function displayQuestions(questions, dapAn) {
     // Add the "Clear Quiz" button
     const clearQuizBtn = document.createElement("button");
     clearQuizBtn.textContent = "Xóa lưu trữ các đề đã làm.";
-    clearQuizBtn.addEventListener("click", () => {
-        // Clear used questions and reload the page to generate a new quiz
+    clearQuizBtn.addEventListener("click", async () => {
+        // Gửi dữ liệu về Google Sheets
+        const dataToSend = {};
+        for (let i = 0; i < localStorage.length; i++) {
+          const key = localStorage.key(i);
+          if (key.startsWith("question_")) {
+            dataToSend[key] = localStorage.getItem(key);
+          }
+        }
+        dataToSend.time = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
+      
+        try {
+          const response = await fetch(googleSheetsURL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(dataToSend)
+          });
+      
+          if (response.ok) {
+            alert('Đã xóa các câu hỏi đã sử dụng ');
+          } else {
+            alert('Có lỗi xảy ra ');
+          }
+        } catch (error) {
+          console.error("Error submitting result to Google Sheets:", error);
+          alert('Có lỗi xảy ra ');
+        } 
+      
+        // Xóa localStorage
         localStorage.removeItem('usedQuestionKeys');
-        alert('Đã xóa các câu hỏi đã sử dụng.');
+        for (let i = 0; i < localStorage.length; i++) {
+          const key = localStorage.key(i);
+          if (key.startsWith("question_")) {
+            localStorage.removeItem(key);
+          }
+        }
+      
         window.location.reload();
-    });
+      });
     questionsContainer.appendChild(clearQuizBtn);
 }
 
