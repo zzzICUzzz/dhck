@@ -14,6 +14,7 @@ const files = {
 };
 
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
+const googleSheetsURL2 = 'https://script.google.com/macros/s/AKfycbxDrku5zGypJ2FoNbquVD9CNoQbTVodZoD1uKLRFOGavOB1xf0Ub_k_wAPGLUrdfEtV/exec';
 
 const SESSION_LIMIT_MINUTES = 10000000000;
 const QUIZ_TIME_LIMIT_MINUTES = 50;
@@ -188,7 +189,7 @@ function displayQuestions(questions, dapAn) {
         dataToSend.time = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
       
         try {
-          const response = await fetch(googleSheetsURL, {
+          const response = await fetch(googleSheetsURL2, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(dataToSend)
