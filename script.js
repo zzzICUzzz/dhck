@@ -191,7 +191,7 @@ function displayQuestions(questions, dapAn) {
           console.log("Result submitted successfully to Google Sheets!");
         } catch (error) {
           console.error("Error sending data to Google Sheets:", error);
-            alert("lỗi gửi");
+            alert("lỗi gửi, bắt đầu đề tiếp theo.");
           // Xử lý lỗi ở đây, ví dụ: hiển thị thông báo cho người dùng
         } finally {
           window.location.reload(); // Reload sau khi gửi dữ liệu, bất kể thành công hay thất bại
