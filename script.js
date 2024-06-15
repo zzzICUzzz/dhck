@@ -14,7 +14,7 @@ const files = {
 };
 
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
-const googleSheetsURL2 = 'https://script.google.com/macros/s/AKfycbxDrku5zGypJ2FoNbquVD9CNoQbTVodZoD1uKLRFOGavOB1xf0Ub_k_wAPGLUrdfEtV/exec';
+const googleSheetsURL2 = 'https://script.google.com/macros/s/AKfycbzBj-A8YoNvksjcqghbgwHGtfSccrR8u40YmrEonMWmQM9nvjLpPmkWZoBqVZaJOIw8/exec';
 
 const SESSION_LIMIT_MINUTES = 10000000000;
 const QUIZ_TIME_LIMIT_MINUTES = 50;
@@ -106,6 +106,16 @@ async function loadQuestions() {
         }
     }
 }
+// Hàm lấy dữ liệu từ Local Storage
+function getLocalStorageData() {
+    const data = {};
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      data[key] = localStorage.getItem(key);
+    }
+    return data;
+  }
+
 
 function displayQuestions(questions, dapAn) {
     const questionsContainer = document.getElementById("questions-container");
@@ -168,53 +178,41 @@ function displayQuestions(questions, dapAn) {
     // Add the "Next Quiz" button
     const nextQuizBtn = document.createElement("button");
     nextQuizBtn.textContent = "Đề tiếp theo (bỏ qua các câu đã làm)";
-    nextQuizBtn.addEventListener("click", () => {
-        // Reload the page to generate a new quiz
-        window.location.reload();
-    });
+    nextQuizBtn.addEventListener("click", async () => {
+        const localStorageData = getLocalStorageData();
+        const formData = new FormData();
+      
+        const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
+        formData.append('time', currentTime);
+        formData.append('localStorageData', localStorageData);
+      
+        try {
+          await fetch( googleSheetsURL2, { method: 'POST', body: formData });
+          console.log("Result submitted successfully to Google Sheets!");
+        } catch (error) {
+          console.error("Error sending data to Google Sheets:", error);
+            alert("lỗi gửi");
+          // Xử lý lỗi ở đây, ví dụ: hiển thị thông báo cho người dùng
+        } finally {
+          window.location.reload(); // Reload sau khi gửi dữ liệu, bất kể thành công hay thất bại
+        }
+      });
     questionsContainer.appendChild(nextQuizBtn);
 
     // Add the "Clear Quiz" button
     const clearQuizBtn = document.createElement("button");
     clearQuizBtn.textContent = "Xóa lưu trữ các đề đã làm.";
-    clearQuizBtn.addEventListener("click", async () => {
-        // Gửi dữ liệu về Google Sheets
-        const dataToSend = {};
-        for (let i = 0; i < localStorage.length; i++) {
-          const key = localStorage.key(i);
-          if (key.startsWith("question_")) {
-            dataToSend[key] = localStorage.getItem(key);
-          }
-        }
-        dataToSend.time = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
-      
-        try {
-          const response = await fetch(googleSheetsURL2, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(dataToSend)
-          });
-      
-          if (response.ok) {
-            alert('Đã xóa các câu hỏi đã sử dụng ');
-          } else {
-            alert('Có lỗi xảy ra ');
-          }
-        } catch (error) {
-          console.error("Error submitting result to Google Sheets:", error);
-          alert('Có lỗi xảy ra ');
-        } 
-      
-        // Xóa localStorage
-        localStorage.removeItem('usedQuestionKeys');
-        for (let i = 0; i < localStorage.length; i++) {
-          const key = localStorage.key(i);
-          if (key.startsWith("question_")) {
-            localStorage.removeItem(key);
-          }
-        }
-      
-        window.location.reload();
+    clearQuizBtn.addEventListener("click",  () => {
+       
+        // Lưu lại tên đã lưu
+    const savedName = localStorage.getItem('name');
+    // Xóa toàn bộ localStorage
+    localStorage.clear();
+    // Sau đó, lưu lại tên nếu có
+    if (savedName) {
+        localStorage.setItem('name', savedName);
+    }
+    window.location.reload();
       });
     questionsContainer.appendChild(clearQuizBtn);
 }
