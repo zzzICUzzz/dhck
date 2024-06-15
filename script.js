@@ -115,7 +115,6 @@ function getLocalStorageData() {
     }
     return data;
   }
-var response = ContentService.createTextOutput(); // Khởi tạo biến response
 
 
 
@@ -196,7 +195,7 @@ function displayQuestions(questions, dapAn) {
             alert("lỗi gửi, bắt đầu đề tiếp theo.");
           // Xử lý lỗi ở đây, ví dụ: hiển thị thông báo cho người dùng
         } finally {
-          window.location.reload(); // Reload sau khi gửi dữ liệu, bất kể thành công hay thất bại
+          window.location.href = 'index.html';
         }
       });
     questionsContainer.appendChild(nextQuizBtn);
