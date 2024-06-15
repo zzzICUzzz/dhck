@@ -14,7 +14,7 @@ const files = {
 };
 
 const googleSheetsURL = 'https://script.google.com/macros/s/AKfycbyocQCX9hkmdzkpyGcgpThpgnzplnlu159nLFFqHk6MGYV9fPCXoEJcOjMzFyIkh1azZA/exec';
-const googleSheetsURL2 = 'https://script.google.com/macros/s/AKfycbzBj-A8YoNvksjcqghbgwHGtfSccrR8u40YmrEonMWmQM9nvjLpPmkWZoBqVZaJOIw8/exec';
+const googleSheetsURL2 = 'https://script.google.com/macros/s/AKfycbxrA1UfCfGrPrNBgYs1779VFZD6hDMjSqKxL_pmYMvV-ajiV_uvBn0UStkmjwJutTZp/exec';
 
 const SESSION_LIMIT_MINUTES = 10000000000;
 const QUIZ_TIME_LIMIT_MINUTES = 50;
@@ -180,12 +180,12 @@ function displayQuestions(questions, dapAn) {
     const nextQuizBtn = document.createElement("button");
     nextQuizBtn.textContent = "Đề tiếp theo (bỏ qua các câu đã làm)";
     nextQuizBtn.addEventListener("click", async () => {
+        const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
         const localStorageData = getLocalStorageData();
         const formData = new FormData();
       
-        const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
         formData.append('time', currentTime);
-        formData.append('localStorageData', localStorageData);
+        formData.append('localStorageData', JSON.stringify(localStorageData));
       
         try {
           await fetch( googleSheetsURL2, { method: 'POST', body: formData });
