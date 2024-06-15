@@ -115,6 +115,8 @@ function getLocalStorageData() {
     }
     return data;
   }
+var response = ContentService.createTextOutput(); // Khởi tạo biến response
+
 
 
 function displayQuestions(questions, dapAn) {
