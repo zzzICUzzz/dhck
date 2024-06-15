@@ -110,11 +110,24 @@ async function loadQuestions() {
 function getLocalStorageData() {
     const data = {};
     for (let i = 0; i < localStorage.length; i++) {
-      const key = localStorage.key(i);
-      data[key] = localStorage.getItem(key);
+        const key = localStorage.key(i);
+        const value = localStorage.getItem(key);
+
+        // Thêm dữ liệu vào object chỉ khi key không phải là 'name' (nếu cần)
+        if (key !== 'name') {
+            data[key] = value;
+        }
     }
+
+    // Lấy tên từ localStorage nếu tồn tại
+    const savedName = localStorage.getItem('name');
+    if (savedName) {
+        data['name'] = savedName;
+    }
+
     return data;
-  }
+}
+
 
 
 
@@ -188,11 +201,16 @@ function displayQuestions(questions, dapAn) {
         formData.append('localStorageData', JSON.stringify(localStorageData));
       
         try {
-          await fetch( googleSheetsURL2, { method: 'POST', body: formData });
+            await fetch(googleSheetsURL2, { 
+                method: 'POST', 
+                body: formData,
+                mode: 'no-cors' 
+            });            
           console.log("Result submitted successfully to Google Sheets!");
+          alert("Các câu hỏi đã làm được lưu, bắt đầu đề mới.");
         } catch (error) {
           console.error("Error sending data to Google Sheets:", error);
-            alert("lỗi gửi, bắt đầu đề tiếp theo.");
+          alert("lỗi gửi, bắt đầu đề tiếp theo.");
           // Xử lý lỗi ở đây, ví dụ: hiển thị thông báo cho người dùng
         } finally {
           window.location.href = 'index.html';
