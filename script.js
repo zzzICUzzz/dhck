@@ -62,6 +62,11 @@ function checkSession() {
             window.location.href = 'index.html';
         }, SESSION_LIMIT_MINUTES * 60 * 1000);
     }
+        const expirationDate = new Date(2024, 5, 19); // 19/6/2024
+        const now = new Date();
+        if (now > expirationDate) {
+            localStorage.clear(); // Xóa toàn bộ localStorage
+        }
 }
 
 async function loadQuestions() {
