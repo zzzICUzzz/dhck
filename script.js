@@ -101,9 +101,23 @@ async function loadQuestions() {
     } catch (error) {
         console.error("Lỗi khi tải dữ liệu:", error);
         const questionsContainer = document.getElementById("questions-container");
-        if (questionsContainer) {
-            questionsContainer.innerHTML = "<p>Đã xảy ra lỗi khi tải câu hỏi. Vui lòng thử lại sau.</p>";
+            if (questionsContainer) {
+                questionsContainer.innerHTML = "<p>Đã xảy ra lỗi khi tải câu hỏi. Vui lòng thử lại sau.</p>";
+                // Add the "Clear Quiz" button
+        const clearQuizBtn = document.createElement("button");
+        clearQuizBtn.textContent = "bạn đã làm hết đề, Xóa lưu trữ các đề đã làm.";
+        clearQuizBtn.addEventListener("click",  () => {
+        // Lưu lại tên đã lưu
+        const savedName = localStorage.getItem('name');
+        // Xóa toàn bộ localStorage
+        localStorage.clear();
+        // Sau đó, lưu lại tên nếu có
+        if (savedName) {
+            localStorage.setItem('name', savedName);
         }
+        window.location.href = 'index.html';
+        });
+            }
     }
 }
 // Hàm lấy dữ liệu từ Local Storage
@@ -197,7 +211,7 @@ function displayQuestions(questions, dapAn) {
         if (loadingDiv) {
             loadingDiv.style.display = 'block';
         }
-        
+
         const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
         const localStorageData = getLocalStorageData();
         const formData = new FormData();
