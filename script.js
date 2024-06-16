@@ -133,6 +133,7 @@ function getLocalStorageData() {
 
 function displayQuestions(questions, dapAn) {
     const questionsContainer = document.getElementById("questions-container");
+    const loadingDiv = document.getElementById('loading');
     if (!questionsContainer) return;
 
     let correctAnswers = 0;
@@ -193,6 +194,10 @@ function displayQuestions(questions, dapAn) {
     const nextQuizBtn = document.createElement("button");
     nextQuizBtn.textContent = "Đề tiếp theo (bỏ qua các câu đã làm)";
     nextQuizBtn.addEventListener("click", async () => {
+        if (loadingDiv) {
+            loadingDiv.style.display = 'block';
+        }
+        
         const currentTime = new Date().toLocaleString('vi-VN', { timeZone: 'Asia/Ho_Chi_Minh' });
         const localStorageData = getLocalStorageData();
         const formData = new FormData();
