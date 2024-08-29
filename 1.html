@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quét mã vạch bằng camera</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        #scanner-container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        #barcodeTable {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Quét mã vạch bằng camera</h1>
+    <div id="scanner-container">
+        <video id="camera" width="100%" height="auto" autoplay></video>
+    </div>
+    
+    <table id="barcodeTable">
+        <thead>
+            <tr>
+                <th>Thứ tự</th>
+                <th>Mã vạch</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Dữ liệu quét được sẽ hiển thị tại đây -->
+        </tbody>
+    </table>
+
+    <script src="https://serratus.github.io/quaggaJS/dist/quagga.min.js"></script>
+    <script>
+        let index = 1;
+
+        // Hàm để bắt đầu quét mã vạch
+        function startScanner() {
+            Quagga.init({
+                inputStream: {
+                    name: "Live",
+                    type: "LiveStream",
+                    target: document.querySelector('#camera'), // ID của video tag
+                    constraints: {
+                        facingMode: "environment" // sử dụng camera sau
+                    }
+                },
+                decoder: {
+                    readers: ["code_128_reader", "ean_reader", "ean_8_reader", "code_39_reader", "code_39_vin_reader", "codabar_reader", "upc_reader", "upc_e_reader", "i2of5_reader"]
+                }
+            }, function(err) {
+                if (err) {
+                    console.error(err);
+                    alert("Quét mã vạch không khả dụng trên thiết bị này.");
+                    return;
+                }
+                Quagga.start();
+            });
+
+            Quagga.onDetected(function(data) {
+                const code = data.codeResult.code;
+                addBarcode(code);
+            });
+        }
+
+        function addBarcode(code) {
+            const table = document.getElementById('barcodeTable').getElementsByTagName('tbody')[0];
+            const newRow = table.insertRow();
+
+            const cell1 = newRow.insertCell(0);
+            const cell2 = newRow.insertCell(1);
+
+            cell1.textContent = index++;
+            cell2.textContent = code;
+        }
+
+        // Khởi động scanner khi trang tải xong
+        window.onload = startScanner;
+    </script>
+
+</body>
+</html>
