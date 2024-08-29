@@ -55,54 +55,23 @@
         </tbody>
     </table>
 
-    <script src="https://serratus.github.io/quaggaJS/dist/quagga.min.js"></script>
     <script>
         let index = 1;
 
-        function startScanner() {
-            Quagga.init({
-                inputStream: {
-                    type: "LiveStream",
-                    constraints: {
-                        width: 640,
-                        height: 480,
+        async function startScanner() {
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({
+                    video: {
                         facingMode: "environment" // Sử dụng camera sau
-                    },
-                    area: { // giới hạn vùng quét
-                        top: "0%",    // bắt đầu từ đỉnh (top) của video
-                        right: "0%",  // từ phía phải (right) của video
-                        left: "0%",   // từ phía trái (left) của video
-                        bottom: "0%"  // đến phía dưới (bottom) của video
-                    },
-                    singleChannel: false // kích hoạt cho hình ảnh trắng đen
-                },
-                decoder: {
-                    readers: ["code_128_reader", "ean_reader", "ean_8_reader", "upc_reader"]
-                }
-            }, function(err) {
-                if (err) {
-                    console.error(err);
-                    alert("Quét mã vạch không khả dụng trên thiết bị này.");
-                    return;
-                }
-                Quagga.start();
-            });
+                    }
+                });
 
-            Quagga.onDetected(function(data) {
-                const code = data.codeResult.code;
-                addBarcode(code);
-            });
-        }
-
-        function addBarcode(code) {
-            const table = document.getElementById('barcodeTable').getElementsByTagName('tbody')[0];
-            const newRow = table.insertRow();
-
-            const cell1 = newRow.insertCell(0);
-            const cell2 = newRow.insertCell(1);
-
-            cell1.textContent = index++;
-            cell2.textContent = code;
+                const video = document.getElementById('camera');
+                video.srcObject = stream;
+            } catch (err) {
+                console.error("Lỗi khi truy cập camera: ", err);
+                alert("Không thể truy cập camera. Vui lòng kiểm tra quyền và thử lại.");
+            }
         }
 
         // Khởi động scanner khi trang tải xong
