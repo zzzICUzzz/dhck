@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <canvas id="canvas" width="640" height="480" style="display:none;"></canvas>
+    <video id="camera" width="100%" height="auto" autoplay playsinline></video>
     <title>Quét mã vạch bằng camera</title>
     <style>
         body {
@@ -42,7 +44,7 @@
 
     <h1>Quét mã vạch bằng camera</h1>
     <div id="scanner-container">
-        <video id="camera" width="100%" height="auto" autoplay></video>
+        <video id="camera" width="100%" height="auto" autoplay playsinline></video>
     </div>
     
     <table id="barcodeTable">
@@ -58,34 +60,36 @@
     </table>
 
     <script>
-        let index = 1;
-
         async function startScanner() {
             try {
                 const video = document.getElementById('camera');
+                const canvas = document.getElementById('canvas');
+                const ctx = canvas.getContext('2d');
                 const stream = await navigator.mediaDevices.getUserMedia({
                     video: {
-                        facingMode: "environment" // Sử dụng camera sau
+                        facingMode: "environment"
                     }
                 });
-
+        
                 if ("srcObject" in video) {
                     video.srcObject = stream;
                 } else {
                     video.src = window.URL.createObjectURL(stream);
                 }
-
+        
                 video.addEventListener('loadedmetadata', () => {
                     video.play();
+                    setInterval(() => {
+                        ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+                    }, 100);
                 });
-
             } catch (err) {
                 console.error("Lỗi khi truy cập camera: ", err);
                 alert("Không thể truy cập camera. Vui lòng kiểm tra quyền và thử lại.");
             }
         }
-
         window.onload = startScanner;
+        
     </script>
 
 </body>
