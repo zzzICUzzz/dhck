@@ -263,7 +263,11 @@
     "90027": {
         "question": "Mask thanh quản:",
         "options": {
-            "A": "Bảo vệ viêm phổi hít cũng như ống nội khí quản"
+            "A": "Bảo vệ viêm phổi hít cũng như ống nội khí quản",
+            "B": "Có thể dùng để phòng ngừa tắt thở trong gây mê",
+            "C": "Cho phép thông khí áp lực dương",
+            "D": "Linh hoạt soi thanh quản ống mềm",
+            "E": "Đặt dễ dàng khi có ép sụn nhẫn"
         }
     },
     "90028": {
@@ -343,5 +347,301 @@
             "D": "Nên dùng Cortisteroids",
             "E": "Không có lợi ích dùng thuốc phòng ngừa để kiểm soát thể tích và acid dạ dày"
         }
+    },
+    "90036": {
+        "question": "Thay đổi huyết động học nào sau đây ít gặp liên kết với kẹp động mạch chủ dưới thận?",
+        "options": {
+            "A": "Tăng CVP",
+            "B": "Tăng lưu lượng tim",
+            "C": "Giảm áp lực động mạch phổi",
+            "D": "Không thay đổi áp lực động mạch phổi bít",
+            "E": "Tăng áp lực tâm thu"
+        }
+    },
+    "90037": {
+        "question": "Sự kết hợp rối loạn acid–base thường gặp trong hồi sinh tim phổi:",
+        "options": {
+            "A": "Kiềm hô hấp và kiềm chuyển hóa",
+            "B": "Toan hô hấp và toan chuyển hóa",
+            "C": "Kiềm hô hấp và toan chuyển hóa",
+            "D": "Toan hô hấp và kiềm chuyển hóa",
+            "E": "Không câu nào đúng"
+        }
+    },
+    "90038": {
+        "question": "Tình huống nào sau đây không gây tăng sự khác biệt giữa áp lực tâm trương động mạch phổi và áp lực cuối thì tâm trương thất trái?",
+        "options": {
+            "A": "Hẹp van 2 lá",
+            "B": "Tăng động mạch phổi nguyên phát",
+            "C": "Thiếu oxy máu",
+            "D": "Hẹp động mạch phổi",
+            "E": "Hạ thân nhiệt"
+        }
+    },
+    "90039": {
+        "question": "Sau khi xác định bệnh nhân vô mạch, điều trị nào sau đây nên bắt đầu cho bệnh nhân rung thất?",
+        "options": {
+            "A": "Hồi sinh tim phổi (CPR)",
+            "B": "Khử rung",
+            "C": "Epinephrine IV",
+            "D": "Lidocaine IV",
+            "E": "Vasopressin IV"
+        }
+    },
+    "90040": {
+        "question": "Yếu tố nào sau đây ít giải thích cho thời gian hoạt hóa đông máu kéo dài?",
+        "options": {
+            "A": "Heparin",
+            "B": "Warfarin",
+            "C": "Rối loạn tiểu cầu",
+            "D": "Tăng thân nhiệt",
+            "E": "Pha loãng máu"
+        }
+    },
+    "90041": {
+        "question": "Can thiệp điều trị nào sau đây không được chỉ định xử trí cấp hở động mạch chủ nặng?",
+        "options": {
+            "A": "Tăng tần số tim 75-85",
+            "B": "Đặt bóng đối xung trong động mạch chủ",
+            "C": "Giảm hậu tải bằng chuẩn độ thuốc dãn mạch",
+            "D": "Hỗ trợ thuốc tăng co bóp để giảm co rút",
+            "E": "Tham vấn phẫu thuật ngay"
+        }
+    },
+    "90042": {
+        "question": "Can thiệp điều trị nào sau đây ít được chỉ định trong xử trí suy thất trái cấp?",
+        "options": {
+            "A": "Bắt đầu bằng Dobutamine đường TM",
+            "B": "Đặt bóng động mạch chủ",
+            "C": "Bắt đầu bằng milrinone đường TM",
+            "D": "Bắt đầu bằng trao đổi oxy qua màng ngoài cơ thể",
+            "E": "Đặt dụng cụ trợ giúp thất trái"
+        }
+    },
+    "90043": {
+        "question": "Thông số huyết động học nào sau đây nên tránh ở bệnh nhân thiếu năng van động mạch chủ?",
+        "options": {
+            "A": "Nhịp nhanh",
+            "B": "Nhịp chậm",
+            "C": "Giảm hậu tải",
+            "D": "A và C",
+            "E": "B và C"
+        }
+    },
+    "90044": {
+        "question": "Lidocaine điều trị rối loạn nhịp gì? Và liều lượng? Câu nào sai?",
+        "options": {
+            "A": "Ngoại tâm thu thất, nhịp nhanh thất, rung thất, cuồng thất",
+            "B": "Liều lượng: 1 mg/kg tiêm tĩnh mạch",
+            "C": "Rung nhĩ, cuồng nhĩ"
+        }
+    },
+    "90045": {
+        "question": "Theo phân loại Vaughan Williams, Amiodarone (Cordarone) thuộc nhóm thuốc nào?",
+        "options": {
+            "A": "Nhóm I",
+            "B": "Nhóm II",
+            "C": "Nhóm III",
+            "D": "Nhóm IV"
+        }
+    },
+    "90046": {
+        "question": "Chống chỉ định của sốc điện ngoài lồng ngực:",
+        "options": {
+            "A": "Ngộ độc digoxin",
+            "B": "Cơn nhịp nhanh thoáng qua lặp đi lặp lại",
+            "C": "Nhịp nhanh trên thất gây tụt huyết áp",
+            "D": "Cuồng nhĩ trên bệnh nhân cường giáp chưa điều trị đạt tình trạng bình giáp",
+            "E": "Câu C sai"
+        }
+    },
+    "90047": {
+        "question": "Trong quá trình gây mê hồi sức trên bệnh nhân có hội chứng Wolff–Parkinson–White xuất hiện rung nhĩ, thuốc nào chống chỉ định?",
+        "options": {
+            "A": "Digoxin",
+            "B": "Cordaron (Amiodarone)",
+            "C": "Verapamil",
+            "D": "Câu A và B đúng",
+            "E": "Câu A và C đúng"
+        }
+    },
+    "90048": {
+        "question": "Các thông số nào sau đây dự báo là bệnh tim bẩm sinh nặng?",
+        "options": {
+            "A": "SaO2 < 75%",
+            "B": "Kháng lực động mạch phổi < 3 Wood",
+            "C": "Chênh áp thất phải – động mạch phổi > 50 mmHg",
+            "D": "Chênh áp thất trái – động mạch chủ > 50 mmHg",
+            "E": "Câu A, C và D đúng"
+        }
+    },
+    "90049": {
+        "question": "Tim bẩm sinh với luồng thông trái–phải, câu nào sai?",
+        "options": {
+            "A": "Tăng độ bão hòa O2 máu bên tim phải",
+            "B": "Viêm phổi tái phát nhiều lần",
+            "C": "Quá tải tuần hoàn phổi làm tăng công tim phải",
+            "D": "Tim tái",
+            "E": "Chậm phát triển cân nặng khi luồng thông lớn"
+        }
+    },
+    "90050": {
+        "question": "Các bệnh lý có luồng thông phải–trái:",
+        "options": {
+            "A": "Thông liên nhĩ",
+            "B": "Thông liên thất",
+            "C": "Tứ chứng Fallot",
+            "D": "Còn ống động mạch",
+            "E": "Hẹp eo động mạch chủ"
+        }
+    },
+    "90051": {
+        "question": "Các hậu quả xảy ra trên bệnh nhân tim bẩm sinh tím có luồng thông phải–trái, câu nào sai?",
+        "options": {
+            "A": "Thiếu O2 mạn",
+            "B": "Đa hồng cầu, Hct tăng khi thiếu O2 nặng",
+            "C": "Rối loạn đông máu",
+            "D": "Tăng áp động mạch phổi nặng",
+            "E": "Nguy cơ mất nước cao do máu đặc"
+        }
+    },
+    "90052": {
+        "question": "Khi gây mê bệnh nhân có thông liên thất với tăng áp động mạch phổi nặng, nên tránh:",
+        "options": {
+            "A": "Tăng thông khí paCO2 30–35 mmHg",
+            "B": "Kiềm máu",
+            "C": "Gây mê nông, đau, hạ thân nhiệt",
+            "D": "FiO2 100%",
+            "E": "NO chọn lọc mạch phổi"
+        }
+    },
+    "90053": {
+        "question": "Bệnh nào không liên kết với hở van động mạch chủ?",
+        "options": {
+            "A": "Marfan",
+            "B": "Ehlers–Danlos",
+            "C": "Viêm đốt sống",
+            "D": "Sjögren nguyên phát",
+            "E": "Syphilis"
+        }
+    },
+    "90054": {
+        "question": "Hậu tải giảm trong khi áp lực tưới máu tâm trương tăng do:",
+        "options": {
+            "A": "Dopamine",
+            "B": "Epinephrine",
+            "C": "Nitroglycerin",
+            "D": "Nitroprusside",
+            "E": "Bóng đối xung"
+        }
+    },
+    "90055": {
+        "question": "Thiếu máu do tổn thương động mạch vành phải thấy ở chuyển đạo nào?",
+        "options": {
+            "A": "II",
+            "B": "III",
+            "C": "aVR",
+            "D": "aVL",
+            "E": "V5"
+        }
+    },
+    "90056": {
+        "question": "Kẹp động mạch chủ ngực trong sửa phình động mạch gây:",
+        "options": {
+            "A": "Hạ huyết áp ngay",
+            "B": "Tăng huyết áp ngay",
+            "C": "Ngừng tim",
+            "D": "Không thay đổi",
+            "E": "Mất huyết áp tay phải"
+        }
+    },
+    "90057": {
+        "question": "Bóng đối xung động mạch chủ trợ giúp tuần hoàn bằng cách:",
+        "options": {
+            "A": "Dùng ở phình động mạch chủ",
+            "B": "Dùng ở hẹp động mạch chủ",
+            "C": "Có bóng bơm căng thì tâm thu",
+            "D": "Tăng lưu lượng máu vành",
+            "E": "Tăng trở kháng thất trái"
+        }
+    },
+    "90058": {
+        "question": "Tỉ lệ lưu lượng máu phổi trên cung lượng tim bình thường:",
+        "options": {
+            "A": "15 mL/kg/min",
+            "B": "35 mL/kg/min",
+            "C": "55 mL/kg/min",
+            "D": "85 mL/kg/min",
+            "E": "115 mL/kg/min"
+        }
+    },
+    "90059": {
+        "question": "Theo dõi tin cậy để phát hiện thiếu máu cơ tim trong mổ:",
+        "options": {
+            "A": "CPK",
+            "B": "ST-T ECG",
+            "C": "Siêu âm tim thực quản",
+            "D": "Troponin",
+            "E": "NO thở ra"
+        }
+    },
+    "90060": {
+        "question": "Với bệnh nhân nhịp tim nhanh, bước tốt nhất là:",
+        "options": {
+            "A": "Quan sát",
+            "B": "Metoprolol",
+            "C": "Nicardipine",
+            "D": "Neostigmine",
+            "E": "Glycopyrrolate"
+        }
+    },
+    "90061": {
+        "question": "Các bệnh lý tim mạch chống chỉ định có thai:",
+        "options": {
+            "A": "Tăng áp động mạch phổi >75% huyết áp hệ thống",
+            "B": "Hẹp van động mạch chủ diện tích <1 cm2",
+            "C": "Marfan gốc chủ >40 mm",
+            "D": "Suy tim NYHA III-IV",
+            "E": "Tất cả đúng"
+        }
+    },
+    "90062": {
+        "question": "Tại sao dùng oxytocin phải tiêm chậm và pha loãng trên BN hẹp động mạch chủ nặng?",
+        "options": {
+            "A": "Tăng huyết áp",
+            "B": "Tụt huyết áp do dãn mạch mạnh",
+            "C": "Nhịp nhanh",
+            "D": "Ngừng tim",
+            "E": "B và C đúng"
+        }
+    },
+    "90063": {
+        "question": "Tứ chứng Fallot là shunt gì?",
+        "options": {
+            "A": "Phải → trái",
+            "B": "Tắc ngõ thất phải",
+            "C": "Tim",
+            "D": "Cả sai",
+            "E": "Cả đúng"
+        }
+    },
+    "90064": {
+        "question": "Vấn đề lo ngại nhất khi phụ nữ có thai hẹp van 2 lá <1 cm2 cần xử trí ngay:",
+        "options": {
+            "A": "Phù phổi cấp",
+            "B": "Tăng áp phổi tiến triển không đáp ứng",
+            "C": "Nhịp nhanh",
+            "D": "Tụt huyết áp",
+            "E": "Suy tim"
+        }
+    },
+    "90065": {
+        "question": "Tăng áp động mạch phổi nguyên phát trong thai kỳ có nguy cơ:",
+        "options": {
+            "A": "Tử vong mẹ ~40% và thai cuối kỳ",
+            "B": "Suy tim tam cá nguyệt II-III và đột tử",
+            "C": "Chống chỉ định có thai"
+        }
     }
+    
 }
