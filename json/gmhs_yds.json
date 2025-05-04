@@ -1,0 +1,347 @@
+{
+    "90000": {
+        "question": "Thành phần nào sau đây được quy cho là khoảng chết của hệ thống vòng:",
+        "options": {
+            "A": "Bình hấp thu CO2",
+            "B": "Túi thở (dự trữ)",
+            "C": "Chiều dài ống từ valves một chiều đến ống chữ Y",
+            "D": "Khoảng cách ống chữ Y đến tiểu phế quản tận",
+            "E": "Tất cả các câu trên"
+        }
+    },
+    "90001": {
+        "question": "Điều nào sau đây ít gây thiếu oxy sau mổ:",
+        "options": {
+            "A": "Cho opioid quá mức trong mổ",
+            "B": "Phù phổi áp lực âm",
+            "C": "Hạ thân nhiệt",
+            "D": "Hạ huyết áp",
+            "E": "Đau sau phẫu thuật lồng ngực"
+        }
+    },
+    "90002": {
+        "question": "Phần nào sau đây xác định áp suất bay hơi của thuốc mê:",
+        "options": {
+            "A": "Thể tích chất lỏng trong bình chứa (vd..., bình bốc hơi)",
+            "B": "Nhiệt độ",
+            "C": "Áp suất khí quyển",
+            "D": "Diện tích bề mặt của chất lỏng trong bình chứa",
+            "E": "Nhiều hơn một câu đúng"
+        }
+    },
+    "90003": {
+        "question": "Phần nào sau đây ít gây khả năng chấn thương do áp lực:",
+        "options": {
+            "A": "Sử dụng valve oxy khẩn trong thì hít vào với một số máy thông khí cơ học",
+            "B": "Đóng valve APL khi chuyển từ thông khí cơ học đến thông khí tự nhiên",
+            "C": "Tắc phần thở ra của vòng thở",
+            "D": "Sử dụng thông khí phụt trong phẫu thuật thanh quản",
+            "E": "Van xả thông khí không hoàn toàn"
+        }
+    },
+    "90004": {
+        "question": "Phát biểu nào sau đây về valve oxy khẩn sai?",
+        "options": {
+            "A": "Sử dụng valve oxy khẩn có thể gây chấn thương áp lực, đặc biệt máy gây mê thể hệ cũ",
+            "B": "Valve oxy khẩn luôn cấp khí ra 50 psi",
+            "C": "Sử dụng valve oxy khẩn có thể gây pha loãng thuốc mê khi khí hít vào",
+            "D": "Valve oxy khẩn có thể được dùng trong một số trường hợp thông khí phụ",
+            "E": "Tất cả phát biểu trên đều đúng"
+        }
+    },
+    "90005": {
+        "question": "Tất cả yếu tố sau đây đều ảnh hưởng đến tỉ lệ lưu lượng khí thông qua lưu lượng kế, ngoại trừ:",
+        "options": {
+            "A": "Tính chất vật lý của khí",
+            "B": "Sự khác biệt áp suất đi qua ống hẹp",
+            "C": "Chiều dài của ống lưu lượng kế",
+            "D": "Kích thước lỗ bên trong ống"
+        }
+    },
+    "90006": {
+        "question": "Vị trí đo nhiệt độ nào sau đây ít phản ánh nhiệt độ của não trong hạ thân nhiệt do ngừng tuần hoàn:",
+        "options": {
+            "A": "Trực tràng",
+            "B": "Mũi hầu",
+            "C": "Động mạch phổi",
+            "D": "Thực quản"
+        }
+    },
+    "90007": {
+        "question": "Nồng độ của oxy hít vào bằng đường mũi với lưu lượng oxy 100% ở 6 lít/phút, xấp xỉ:",
+        "options": {
+            "A": "30%",
+            "B": "45%",
+            "C": "60%",
+            "D": "75%"
+        }
+    },
+    "90008": {
+        "question": "Yếu tố sau đây làm tăng nồng độ % thuốc mê bởi bình bốc hơi desflurane:",
+        "options": {
+            "A": "Giảm nhiệt độ",
+            "B": "Tăng nhiệt độ",
+            "C": "Giảm áp suất bay hơi",
+            "D": "Giảm độ cao",
+            "E": "Tăng độ cao"
+        }
+    },
+    "90009": {
+        "question": "Hợp chất nào sau đây gây độc được sản sinh bởi lưu lượng khí desflurane đi qua bình hấp thu soda khô:",
+        "options": {
+            "A": "Cyanide",
+            "B": "Carbon monoxide",
+            "C": "Compound A",
+            "D": "Dichloroacetylene",
+            "E": "Không hợp chất nào trên"
+        }
+    },
+    "90010": {
+        "question": "Capnometry ít có lợi để theo dõi cho tình huống nào sau:",
+        "options": {
+            "A": "Tuột ống nội khí quản",
+            "B": "Tắc đường thở hoàn toàn",
+            "C": "Đặt đúng nội khí quản",
+            "D": "Tăng thân nhiệt ác tính",
+            "E": "Đặt ống vào thực quản"
+        }
+    },
+    "90011": {
+        "question": "Tỷ lệ đặt nội khí quản thất bại, hoặc không có khả năng đặt ống nội khí quản, xấp xỉ 0,05% bệnh nhân được phẫu thuật. Tỷ lệ đặt nội khí quản khó (đòi hỏi đặt nhiều lần) là:",
+        "options": {
+            "A": "0.5% to 1%",
+            "B": "1% to 4%",
+            "C": "4% to 8%"
+        }
+    },
+    "90012": {
+        "question": "Mức PaCO2 máu động mạch (PaCO2):",
+        "options": {
+            "A": "Chỉ phụ thuộc thông khí phút",
+            "B": "Độc lập với sản xuất CO2",
+            "C": "Không phụ thuộc vào thông khí khoảng chết",
+            "D": "Thay đổi trực tiếp với sự sản xuất CO2 và đảo ngược với thông khí phút",
+            "E": "Giảm khi thông khí khoảng chết tăng"
+        }
+    },
+    "90013": {
+        "question": "Phổi bình thường trong tư thế đứng:",
+        "options": {
+            "A": "Lưu lượng máu lớn nhất ở đỉnh",
+            "B": "Thông khí lớn nhất ở đỉnh",
+            "C": "Tỉ lệ thông khí tưới máu (V/Q) ở đỉnh cao hơn",
+            "D": "Thông khí không thay đổi",
+            "E": "PaO2 thấp hơn ở đỉnh phổi so với đáy phổi"
+        }
+    },
+    "90014": {
+        "question": "Sự vận chuyển Carbon dioxide bao gồm tất cả các phần sau, trừ:",
+        "options": {
+            "A": "Nước",
+            "B": "Bicarbonate ion",
+            "C": "Carbonic anhydrase",
+            "D": "Hemoglobin",
+            "E": "Carboxyhemoglobin"
+        }
+    },
+    "90015": {
+        "question": "Chất chỉ thị có trong hấp thụ carbon dioxide là:",
+        "options": {
+            "A": "Methylene blue",
+            "B": "Ethyl violet",
+            "C": "Bromthymol blue",
+            "D": "Phenolphthalein",
+            "E": "Cresol purple"
+        }
+    },
+    "90016": {
+        "question": "Xem dạng sóng của capnograph có thể phát hiện tất cả các tình huống sau, TRỪ:",
+        "options": {
+            "A": "Ngắt kết nối nguồn cung cấp oxy",
+            "B": "Thân trạng bốc màu của chất hấp thụ carbon dioxide",
+            "C": "Thuyên tắc phổi",
+            "D": "Khò khè",
+            "E": "Ống thực quản"
+        }
+    },
+    "90017": {
+        "question": "Thành phần chính theo trọng lượng riêng được sử dụng trong hấp thụ carbon dioxide là:",
+        "options": {
+            "A": "Barium hydroxide",
+            "B": "Calcium hydroxide",
+            "C": "pH indicator",
+            "D": "Potassium hydroxide",
+            "E": "Sodium hydroxide"
+        }
+    },
+    "90018": {
+        "question": "Sự hình thành carbon monoxide trong hấp thụ carbon dioxide được tạo điều kiện bởi sự hiện diện của tất cả các hợp chất sau đây TRỪ:",
+        "options": {
+            "A": "Desflurane",
+            "B": "Potassium hydroxide",
+            "C": "Sodium hydroxide",
+            "D": "Water"
+        }
+    },
+    "90019": {
+        "question": "Thiếu oxy máu được định nghĩa khi áp lực riêng phần oxy trong máu động mạch nhỏ hơn ______ mmHg khi thở trong phòng bình thường:",
+        "options": {
+            "A": "50",
+            "B": "60",
+            "C": "70",
+            "D": "80",
+            "E": "100"
+        }
+    },
+    "90020": {
+        "question": "Hút thuốc lá là yếu tố nguy cơ độc lập mà trường hợp nào sau đây xảy ra trong khi xử trí đường thở:",
+        "options": {
+            "A": "Mất bão hòa Oxygen",
+            "B": "Bão hòa oxygen trước mổ thấp",
+            "C": "Co thắt phế quản",
+            "D": "Chấn thương răng",
+            "E": "Tất cả đều đúng"
+        }
+    },
+    "90021": {
+        "question": "So với người không hút thuốc lá, người hút thuốc có tăng tỉ lệ:",
+        "options": {
+            "A": "Tất cả biến chứng phổi",
+            "B": "Những biến chứng nhiễm trùng phổi",
+            "C": "Nhập ICU sau phẫu thuật",
+            "D": "Thông khí cơ học kéo dài sau phẫu thuật",
+            "E": "Tất cả đều đúng"
+        }
+    },
+    "90022": {
+        "question": "Cấu trúc nào sau đây ở trẻ em và người lớn tương ứng xác định đúng kích thước ống nội khí quản:",
+        "options": {
+            "A": "Thanh môn; dây thanh âm",
+            "B": "Dây thanh âm; dây thanh âm",
+            "C": "Sụn nhẫn; dây thanh âm",
+            "D": "Dây thanh âm; sụn nhẫn"
+        }
+    },
+    "90023": {
+        "question": "Khoảng chết giải phẫu bắt đầu ở miệng và/hoặc mũi và kết thúc ở:",
+        "options": {
+            "A": "Phế quản thùy",
+            "B": "Tiểu phế quản hô hấp",
+            "C": "Tiểu phế quản tận",
+            "D": "Ống phế nang"
+        }
+    },
+    "90024": {
+        "question": "Đặt nội khí quản ngược dòng có thể là kỹ thuật hữu ích cho đường thở khó. Trong tất cả tình huống sau đây đều hợp lý để cân nhắc, ngoại trừ:",
+        "options": {
+            "A": "Cứng hàm",
+            "B": "Cứng liền khớp hàm dưới",
+            "C": "Bệnh nhân béo phì có râu",
+            "D": "Chấn thương hàm"
+        }
+    },
+    "90025": {
+        "question": "Trường hợp nào sau đây không đề nghị dùng mask thanh quản?",
+        "options": {
+            "A": "Thông khí cấp cứu khi đặt nội khí quản khó",
+            "B": "Trợ giúp đặt nội khí quản",
+            "C": "Bảo vệ chống lại viêm phổi hít",
+            "D": "Dự phòng đường thở với thay đổi tối thiểu huyết áp và tần số tim",
+            "E": "Trợ giúp nội soi phế quản với ống soi quang học"
+        }
+    },
+    "90026": {
+        "question": "Phân bố thông khí ở phổi ở bệnh nhân thở tự nhiên:",
+        "options": {
+            "A": "Đỉnh phổi lớn nhất",
+            "B": "Vùng giữa phổi lớn nhất",
+            "C": "Vùng đáy lớn nhất",
+            "D": "2/3 trên của phổi lớn nhất",
+            "E": "Phân bố đều"
+        }
+    },
+    "90027": {
+        "question": "Mask thanh quản:",
+        "options": {
+            "A": "Bảo vệ viêm phổi hít cũng như ống nội khí quản"
+        }
+    },
+    "90028": {
+        "question": "Theo hiệp hội Bs gây mê Mỹ về xử trí đường hô hấp khó, hành động nào cần nhắc sau khi cố gắng đặt nội khí quản không thành công?",
+        "options": {
+            "A": "Kêu gọi sự giúp đỡ",
+            "B": "Quay trở lại thông khí tự nhiên",
+            "C": "Để bệnh nhân tỉnh lại",
+            "D": "Đặt mask thanh quản",
+            "E": "Tất cả đều đúng"
+        }
+    },
+    "90029": {
+        "question": "Điều nào sau đây có thể dẫn đến quá liều thuốc mê?",
+        "options": {
+            "A": "Bình bơm hoặc đo quá đầy",
+            "B": "Thuốc gây mê không đúng bình bốc hơi",
+            "C": "Tipped vaporizer",
+            "D": "Hư hệ thống khóa bình bốc hơi",
+            "E": "Tất cả đều đúng"
+        }
+    },
+    "90030": {
+        "question": "Yếu tố nguy cơ hít dịch dạ dày trong mổ bao gồm các yếu tố sau, ngoại trừ:",
+        "options": {
+            "A": "Phẫu thuật cấp cứu",
+            "B": "Tắc ruột",
+            "C": "Nữ giới",
+            "D": "Béo phì",
+            "E": "Chấn thương đầu"
+        }
+    },
+    "90031": {
+        "question": "Cơ chế có thể gây thiếu oxy trong gây mê bao gồm tất cả điều sau, trừ:",
+        "options": {
+            "A": "Giảm thông khí",
+            "B": "Tăng thông khí",
+            "C": "Tăng FRC",
+            "D": "Nằm ngửa",
+            "E": "Tăng áp lực đường thở"
+        }
+    },
+    "90032": {
+        "question": "Thông khí cơ học kéo dài có nhiều nguy cơ, bao gồm viêm phổi và hẹp/nhuyễn khí quản. Hẹp/nhuyễn khí quản mặc dù phát triển từ giảm lưu lượng máu mao mạch khí quản do bơm cuff quá căng. Áp lực tối đa của cuff được khuyến cáo nào sau đây?",
+        "options": {
+            "A": "5 to 15 mm Hg",
+            "B": "15 to 25 mm Hg",
+            "C": "25 to 35 mm Hg",
+            "D": "35 to 45 mm Hg",
+            "E": "45 to 55 mm Hg"
+        }
+    },
+    "90033": {
+        "question": "Ép sụn nhẫn (Sellick's maneuver) có thể được dùng trong cố gắng:",
+        "options": {
+            "A": "Giảm căng dạ dày trong thông khí bằng mask",
+            "B": "Cải thiện tầm nhìn khi dùng đèn soi thanh quản",
+            "C": "Làm bít thực quản khi ép vào đốt sống C6"
+        }
+    },
+    "90034": {
+        "question": "Hô hấp có ảnh hưởng trên chức năng hô hấp, phát biểu nào sau đây không đúng?",
+        "options": {
+            "A": "Tăng carbonic gây co thắt phế quản",
+            "B": "Thiếu oxy làm tăng kích thích đường hô hấp",
+            "C": "Nitroglycerine làm dãn trực tiếp cơ trơn đường hô hấp",
+            "D": "Giảm carbonic gây co thắt phế quản",
+            "E": "Tất cả đều sai"
+        }
+    },
+    "90035": {
+        "question": "Phát biểu nào sau đây về viêm phổi hít đúng:",
+        "options": {
+            "A": "Viêm phổi hít có thể dẫn đến hội chứng Mendelson",
+            "B": "Nếu đặt nội khí quản là cần thiết, thông khí nên bắt đầu ngay để được bảo vệ với ống nội khí quản",
+            "C": "Nên dùng kháng sinh phòng ngừa",
+            "D": "Nên dùng Cortisteroids",
+            "E": "Không có lợi ích dùng thuốc phòng ngừa để kiểm soát thể tích và acid dạ dày"
+        }
+    }
+}
