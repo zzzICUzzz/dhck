@@ -1,5 +1,258 @@
 {
-    
+    "thuoc.151.14": {
+    "question": "Naloxone không là lựa chọn thích hợp để đối vận lại tác dụng nào của opioid?",
+    "options": {
+      "A": "Ức chế hô hấp",
+      "B": "Co cứng hệ cơ xương",
+      "C": "Ngứa",
+      "D": "Nôn ói sau phẫu thuật",
+      "E": "An thần"
+    }
+  },
+  "thuoc.151.15": {
+    "question": "Phát biểu nào đúng về meperidine?",
+    "options": {
+      "A": "Meperidine dường như không gây ức chế hô hấp ở trẻ sơ sinh",
+      "B": "Meperidine là opioid được lựa chọn khi co thắt cơ vòng Oddi hoặc tăng áp suất đường mật cần phải tránh",
+      "C": "Naloxon có hiệu quả đảo ngược triệu chứng độc tính thần kinh gây ra bởi sự tích lũy normeperidine",
+      "D": "sự tích lũy của chất chuyển hóa hoạt động sau khi dùng liều lập lại meperidine dường như không gặp ở bệnh nhân có chức năng thận bình thường",
+      "E": "Meperidin không gây co đồng tử"
+    }
+  },
+  "thuoc.151.16": {
+    "question": "Thụ thể nào không là đích của thuốc chống nôn hiện nay?",
+    "options": {
+      "A": "Opioid receptor (μ)",
+      "B": "Dopamine receptor (D2)",
+      "C": "Neurokinin receptor (NK1)",
+      "D": "Muscarinic acetylcholine receptor (mAChR)",
+      "E": "5-hydroxytryptamine receptor (5-HT3)"
+    }
+  },
+  "thuoc.151.17": {
+    "question": "Sau một liều midazolam tiêm tĩnh mạch, tác dụng nào còn kéo dài nhất?",
+    "options": {
+      "A": "Ức chế hô hấp",
+      "B": "Quên",
+      "C": "Hạ huyết áp",
+      "D": "An thần",
+      "E": "Ức chế men cytochrome P450, subtype 3A4"
+    }
+  },
+  "thuoc.151.18": {
+    "question": "Phát biểu nào về midazolam không đúng?",
+    "options": {
+      "A": "Phân tử Midazolam hòa tan trong lipid",
+      "B": "Midazolam hòa tan trong nước",
+      "C": "Chất chuyển hóa hoạt động của Midazolam có hoạt tính benzodiazepine yếu",
+      "D": "Midazolam là chất ức chế men cytochrome P450",
+      "E": "Midazolam là chất nền của men cytochrome P450"
+    }
+  },
+  "thuoc.151.19": {
+    "question": "Droperidol chống chỉ định ở?",
+    "options": {
+      "A": "Bệnh nhân bị Parkinson",
+      "B": "Trẻ em",
+      "C": "Bệnh nhân bị suy thận",
+      "D": "Bệnh nhân có nguy cơ cao nôn ói sau mổ",
+      "E": "Bệnh nhân bị viêm gan C"
+    }
+  },
+  "thuoc.151.20": {
+    "question": "Thụ thể nào không liên quan đến tác dụng lâm sàng của ketamine?",
+    "options": {
+      "A": "NMDA receptor",
+      "B": "Opioid receptor",
+      "C": "Muscarinic acetylcholine receptor",
+      "D": "Beta-adrenergic receptor",
+      "E": "GABA A receptor"
+    }
+  },
+  "thuoc.151.21": {
+    "question": "Cho ketamine gây ra:",
+    "options": {
+      "A": "Giảm tần số tim",
+      "B": "Tăng tần số tim",
+      "C": "Giảm lưu lượng tim",
+      "D": "Không thay đổi lưu lượng tim",
+      "E": "Không thay đổi tần số tim"
+    }
+  },
+  "thuoc.151.22": {
+    "question": "Bình bốc hơi của thuốc mê nào được đặt trong vòng của hệ gây mê đường vòng?",
+    "options": {
+      "A": "Ether",
+      "B": "Halothane",
+      "C": "Desflurane",
+      "D": "Sevoflurane"
+    }
+  },
+  "thuoc.151.23": {
+    "question": "Bupivacaine:",
+    "options": {
+      "A": "Là thuốc tê nhóm ester có thời gian tác dụng ngắn",
+      "B": "Nên dùng nồng độ 0,75% gây tê ngoài màng cứng trong giảm đau chuyển dạ",
+      "C": "Liên kết với độc tính tim do tác dụng trên kênh sodium",
+      "D": "Độc tính không là vấn đề trừ khi tiêm vào tĩnh mạch",
+      "E": "Độc tính tim được ghi nhận bởi nhịp tim nhanh"
+    }
+  },
+  "thuoc.151.24": {
+    "question": "Sevoflurane:",
+    "options": {
+      "A": "Có thể gây độc tính cho gan",
+      "B": "Cháy ở nồng độ 6%",
+      "C": "Cho dẫn cơ kém",
+      "D": "Chuyển hóa qua gan",
+      "E": "Gây kích thích cơ tim"
+    }
+  },
+  "thuoc.151.25": {
+    "question": "Thuốc mê nào có tính giảm đau?",
+    "options": {
+      "A": "Sevoflurane",
+      "B": "Halothane",
+      "C": "Desflurane",
+      "D": "N2O"
+    }
+  },
+  "thuoc.151.26": {
+    "question": "Thuốc đối vận hoàn toàn opioid là:",
+    "options": {
+      "A": "Butorphanol",
+      "B": "Levallorphan",
+      "C": "Naloxone",
+      "D": "Neostigmine",
+      "E": "Edrophonium"
+    }
+  },
+  "thuoc.151.27": {
+    "question": "Etomidate:",
+    "options": {
+      "A": "Có tác dụng chống co giật",
+      "B": "Phóng thích histamin",
+      "C": "Có tính chất giảm đau",
+      "D": "Có tác dụng chống nôn",
+      "E": "Tăng áp lực nội nhãn"
+    }
+  },
+  "thuoc.151.28": {
+    "question": "Thuốc mê nào bị hủy bởi vôi khô thành CO?",
+    "options": {
+      "A": "Ether",
+      "B": "Halothane",
+      "C": "Isoflurane",
+      "D": "Sevoflurane"
+    }
+  },
+  "thuoc.151.29": {
+    "question": "Rocuronium:",
+    "options": {
+      "A": "Thuốc block hạch thần kinh",
+      "B": "Liều 4×ED₉₅ gây phóng thích đáng kể histamine",
+      "C": "Có thể cho tiêm bắp",
+      "D": "Thải trừ bởi thận",
+      "E": "Không thích hợp truyền liên tục"
+    }
+  },
+  "thuoc.151.30": {
+    "question": "Thuốc làm giãn phế quản nhiều nhất nên sử dụng tốt cho bệnh nhân suyễn:",
+    "options": {
+      "A": "Halothane",
+      "B": "Isoflurane",
+      "C": "Sevoflurane",
+      "D": "Desflurane"
+    }
+  },
+  "thuoc.151.31": {
+    "question": "Desflurane:",
+    "options": {
+      "A": "Hòa tan cao trong lipid",
+      "B": "Có MAC 6% khi dùng với O₂",
+      "C": "Hòa tan cao trong nước",
+      "D": "Không kích thích đường hô hấp"
+    }
+  },
+  "thuoc.151.32": {
+    "question": "Thuốc làm dãn mạch vành nhưng không ảnh hưởng đến sức co cơ tim trên bệnh nhân TMCT:",
+    "options": {
+      "A": "Halothane",
+      "B": "Isoflurane",
+      "C": "Sevoflurane",
+      "D": "N₂O"
+    }
+  },
+  "thuoc.151.33": {
+    "question": "Một bệnh nhân được lên chương trình cho thủ thuật cấp cứu có tiền căn lạm dụng heroin. Vấn đề cần dự báo trước trong giai đoạn chu phẫu là:",
+    "options": {
+      "A": "Chậm trống dạ dày",
+      "B": "Hiện diện của phình đại thất trái",
+      "C": "Bệnh đa dây thần kinh vận động – cảm giác tiến triển",
+      "D": "Giảm nhu cầu thuốc mê",
+      "E": "Tăng nhạy cảm với catecholamines"
+    }
+  },
+  "thuoc.151.34": {
+    "question": "Cho một liều nhỏ thuốc dẫn cơ không khử cực 3 phút trước khi cho liều succinylcholine để đặt nội khí quản:",
+    "options": {
+      "A": "Đòi hỏi tăng liều succinylcholine",
+      "B": "Sẽ không phòng ngừa tăng áp lực nội sọ",
+      "C": "Hữu ích trong phòng ngừa loạn nhịp tim",
+      "D": "Thời gian hồi phục block thần kinh cơ tăng gấp đôi",
+      "E": "Cho phép đặt nội khí quản nhanh hơn"
+    }
+  },
+  "thuoc.151.35": {
+    "question": "Một thuốc được cho bolus đường tĩnh mạch. Khoảng bao nhiêu % thuốc còn lại sau 4 bán thải?",
+    "options": {
+      "A": "1%",
+      "B": "4%",
+      "C": "6%",
+      "D": "10%",
+      "E": "12%"
+    }
+  },
+  "thuoc.151.36": {
+    "question": "Flecainide là:",
+    "options": {
+      "A": "Thuốc chống loạn nhịp nhóm IC",
+      "B": "Giống lidocain",
+      "C": "Thuốc dẫn cơ",
+      "D": "Thuốc lựa chọn cho những phản ứng gây tê tại chỗ",
+      "E": "Chỉ dùng đường uống"
+    }
+  },
+  "thuoc.151.37": {
+    "question": "Cho thuốc anticholinesterase sẽ:",
+    "options": {
+      "A": "Kéo dài tất cả block thần kinh cơ",
+      "B": "Luôn hóa giải các thuốc dẫn cơ không khử cực",
+      "C": "Rút ngắn block thuốc dẫn cơ khử cực",
+      "D": "Hóa giải thuốc dẫn cơ không khử cực nếu nồng độ huyết tương thấp",
+      "E": "Hóa giải tác dụng của thuốc dẫn cơ khử cực nếu chỉ liệt một phần"
+    }
+  },
+  "thuoc.151.38": {
+    "question": "Dự kiến thay đổi hệ tim mạch sau khi cho ketamine:",
+    "options": {
+      "A": "Tăng huyết áp tâm trương, huyết áp tâm thu bình thường",
+      "B": "Tăng huyết áp tâm trương và huyết áp tâm thu",
+      "C": "Giảm huyết áp tâm trương và huyết áp tâm thu",
+      "D": "Giảm huyết áp tâm trương, tăng huyết áp tâm thu",
+      "E": "Không thay đổi huyết áp"
+    }
+  },
+  "thuoc.151.39": {
+    "question": "Test nhạy nhất để xác định đủ phục hồi từ block thần kinh cơ là:",
+    "options": {
+      "A": "Nhấc đầu lên 5 giây",
+      "B": "Nắm tay trong 5 giây",
+      "C": "Lực hít vào",
+      "D": "đáp ứng rõ với kích thước bùng đôi",
+      "E": "đáp ứng rõ với chuỗi 4"
+    }
+  },
     "thuoc.145.1": {
         "question": "Thời gian để khởi mê và tỉnh mê của các thuốc mê hô hấp theo thứ tự từ nhanh đến chậm",
         "options": {
