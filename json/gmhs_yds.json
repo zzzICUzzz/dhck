@@ -1,4 +1,1446 @@
 {
+    
+    "thuoc.145.1": {
+        "question": "Thời gian để khởi mê và tỉnh mê của các thuốc mê hô hấp theo thứ tự từ nhanh đến chậm",
+        "options": {
+          "A": "N2O – Desflurane – Sevoflurane – Halothane",
+          "B": "N2O – Sevoflurane – Halothane – Desflurane",
+          "C": "N2O – Desflurane – Halothane – Sevoflurane",
+          "D": "N2O – Sevoflurane – Desflurane – Halothane"
+        }
+      },
+      "thuoc.145.2": {
+        "question": "Sự thủy phân bởi men cholinesterase huyết tương là đường thải trừ chủ yếu của tất cả các thuốc sau, ngoại trừ",
+        "options": {
+          "A": "Succinylcholine",
+          "B": "Mivacurium",
+          "C": "Remifentanil",
+          "D": "Procaine",
+          "E": "Chloroprocaine"
+        }
+      },
+      "thuoc.145.3": {
+        "question": "Không phải yếu tố làm tăng nồng độ thuốc mê trong khi hít vào",
+        "options": {
+          "A": "Tăng nồng độ % khí mê ở bình bốc hơi",
+          "B": "Tăng thể tích khí mới trên lưu lượng kế",
+          "C": "Tăng hấp thu thuốc mê của ống thở máy gây mê",
+          "D": "Tăng thể tích vòng thở"
+        }
+      },
+      "thuoc.145.4": {
+        "question": "Phát biểu nào sau đây về thuốc block thần kinh cơ (không khử cực) không đúng",
+        "options": {
+          "A": "Hạ thân nhiệt giúp kéo dài thời gian tác dụng của rocuronium và vecuronium, trừ atracurium và cis-atracurium",
+          "B": "Thời gian tiềm phục của dẫn cơ không khử cực có thể nhanh bằng cách tiêm tĩnh mạch nhanh",
+          "C": "Sự khác biệt trong thời gian tiềm phục của vecuronium và mivacurium phụ thuộc vào tưới máu của các nhóm cơ khác nhau",
+          "D": "Thời gian tiềm phục của thuốc block thần kinh cơ ở trẻ em ngắn hơn so với người lớn",
+          "E": "Thời gian tác dụng của rocuronium và cisatracurium tăng khi truyền magnesium tĩnh mạch"
+        }
+      },
+      "thuoc.145.5": {
+        "question": "Các yếu tố sau làm tốc độ khởi mê bằng thuốc mê hô hấp nhanh, ngoại trừ",
+        "options": {
+          "A": "Tăng thông khí phế nang",
+          "B": "Giảm cung lượng tim",
+          "C": "Tăng nồng độ thuốc mê trong khí hít vào",
+          "D": "Tăng lưu lượng máu phổi"
+        }
+      },
+      "thuoc.145.6": {
+        "question": "Thuốc dẫn cơ không khử cực nào sau đây nên tránh dùng ở bệnh nhân suy thận mạn",
+        "options": {
+          "A": "Rocuronium",
+          "B": "Mivacurium",
+          "C": "Vecuronium",
+          "D": "Pancuronium",
+          "E": "Cis-atracurium"
+        }
+      },
+      "thuoc.145.7": {
+        "question": "Những phát biểu nào về suy gan không đúng",
+        "options": {
+          "A": "Cảm ứng men cytochrome P450 xảy ra giai đoạn đầu suy gan do rượu",
+          "B": "Thải trừ theo cơ chế Hoffmann không ảnh hưởng bởi suy gan",
+          "C": "Bệnh nhân suy gan cần liều cao thuốc dẫn cơ để đạt mức độ block tương tự bệnh nhân bình thường",
+          "D": "Liều dẫn cơ không khử cực Aminosteroid nên giảm ở những bệnh nhân suy gan giai đoạn cuối",
+          "E": "Thời gian bán thải của Tracrium (atracurium) chậm hơn đáng kể ở bệnh nhân suy gan trung bình"
+        }
+      },
+      "thuoc.145.8": {
+        "question": "Mất cân bằng điện giải trong máu nào sau đây không làm tăng block thần kinh cơ",
+        "options": {
+          "A": "Hạ kali",
+          "B": "Tăng calci",
+          "C": "Tăng magnesium",
+          "D": "Hạ calci",
+          "E": "Tăng natri"
+        }
+      },
+      "thuoc.145.9": {
+        "question": "Để giảm nồng độ khí mê trong phế nang giúp bệnh nhân tỉnh mê nhanh thì thực hiện các cách sau, ngoại trừ",
+        "options": {
+          "A": "Tắt thuốc mê trên bình bốc hơi",
+          "B": "Giúp thở nông và chậm",
+          "C": "Tăng lưu lượng khí mới",
+          "D": "Tăng thông khí phế nang"
+        }
+      },
+      "thuoc.145.10": {
+        "question": "Những tình trạng nào sau đây không chống chỉ định liên quan đến Succinylcholine",
+        "options": {
+          "A": "Chảy máu dưới màng nhện",
+          "B": "Cấy ghép tim",
+          "C": "Nhiễm trùng huyết",
+          "D": "Sốc Dibucain 20",
+          "E": "Phẫu thuật tật lác mắt"
+        }
+      },
+      "thuoc.145.11": {
+        "question": "Phần trăm thuốc chuyển hóa ở gan theo thứ tự tăng từ ít đến nhiều",
+        "options": {
+          "A": "Halothane – Isoflurane – Sevoflurane",
+          "B": "Halothane – Sevoflurane – Isoflurane",
+          "C": "Sevoflurane – Isoflurane – Halothane",
+          "D": "Sevoflurane – Halothane – Isoflurane"
+        }
+      },
+      "thuoc.145.12": {
+        "question": "Trong số các thuốc block thần kinh cơ, kể đúng thứ tự khả năng phóng thích histamine từ lớn nhất đến nhỏ nhất",
+        "options": {
+          "A": "Succinylcholine, rapacuronium, mivacurium, cis-atracurium",
+          "B": "Cis-atracurium, mivacurium, rapacuronium, succinylcholine",
+          "C": "Rapacuronium, succinylcholine, cis-atracurium, mivacurium",
+          "D": "Succinylcholine, rocuronium, mivacurium, cis-atracurium",
+          "E": "Succinylcholine, mivacurium, rapacuronium, cis-atracurium"
+        }
+      },
+      "thuoc.145.13": {
+        "question": "Thuốc có cấu trúc giống atropine nên khi chích bệnh nhân mạch nhanh và dãn đồng tử",
+        "options": {
+          "A": "Sufentanil",
+          "B": "Fentanyl",
+          "C": "Meperidin",
+          "D": "Morphin"
+        }
+      },
+      "thuoc.145.14": {
+        "question": "Một nạn nhân bị bỏng có thể cho an toàn thuốc succinylcholine khi",
+        "options": {
+          "A": "Bỏng chưa đến 2 ngày",
+          "B": "Dùng trước liều thấp rocuronium",
+          "C": "Bệnh nhân nhỏ hơn 6 tháng tuổi",
+          "D": "Tổng diện tích bỏng nhỏ hơn 40%",
+          "E": "Succinylcholine luôn chống chỉ định ở bệnh nhân bỏng"
+        }
+      },
+      "thuoc.145.15": {
+        "question": "Khi dùng thuốc mê hô hấp đơn độc để phẫu thuật được cân duy trì nồng độ thuốc mê khoảng",
+        "options": {
+          "A": "1–1,5 MAC",
+          "B": "1,5–2 MAC",
+          "C": "2–2,5 MAC",
+          "D": "2,5–3 MAC"
+        }
+      },
+      "thuoc.145.16": {
+        "question": "Tác dụng phụ của thuốc hóa giải dẫn cơ neostigmine và glycopyrrolate bao gồm tất cả những triệu chứng sau, ngoại trừ",
+        "options": {
+          "A": "Co thắt phế quản",
+          "B": "Buồn ngủ",
+          "C": "Nhịp tim chậm",
+          "D": "Đau bụng",
+          "E": "Bí tiểu"
+        }
+      },
+      "thuoc.145.17": {
+        "question": "Yếu tố nào sau đây làm tăng MAC của thuốc mê hô hấp",
+        "options": {
+          "A": "Tiền mê",
+          "B": "Trẻ em",
+          "C": "Có thai",
+          "D": "Tụt huyết áp"
+        }
+      },
+      "thuoc.145.18": {
+        "question": "Phát biểu nào sau đây đúng về succinylcholine",
+        "options": {
+          "A": "Succinylcholine không ảnh hưởng đến gắn kết thụ thể acetylcholine tiền synap",
+          "B": "Succinylcholine tác dụng rất ngắn vì được chuyển hóa tại nơi tiếp hợp thần kinh cơ",
+          "C": "Succinylcholine được chuyển hóa thành succinylmonocholine không hoạt tính",
+          "D": "Succinylcholine là đối vận của hai thụ thể muscarinic và nicotinic acetylcholine",
+          "E": "Succinylcholine tác dụng rất ngắn vì chỉ gắn với thụ thể một lần trước khi bị chuyển hóa"
+        }
+      },
+      "thuoc.145.19": {
+        "question": "Khi duy trì mê bằng hỗn hợp 0,5% isoflurane và 55% N₂O, tương đương với bao nhiêu MAC của khí mê",
+        "options": {
+          "A": "0,5 MAC",
+          "B": "1 MAC",
+          "C": "2 MAC",
+          "D": "2,5 MAC"
+        }
+      },
+      "thuoc.145.20": {
+        "question": "Thuốc nào sau đây không có tính chất hủy phó giao cảm",
+        "options": {
+          "A": "Pilocarpine",
+          "B": "Ipratropium bromide",
+          "C": "Atropine",
+          "D": "Scopolamine",
+          "E": "Pancuronium"
+        }
+      },
+      "thuoc.145.21": {
+        "question": "MAC với O₂ của sevoflurane là",
+        "options": {
+          "A": "0,7",
+          "B": "1,3",
+          "C": "2,0",
+          "D": "6,0"
+        }
+      },
+      "thuoc.145.22": {
+        "question": "Phát biểu nào về thụ thể opioid không đúng",
+        "options": {
+          "A": "Chủ vận ở thụ thể μ2 gây ức chế hô hấp",
+          "B": "Naloxone đảo ngược tác dụng opioid ở tất cả thụ thể opioid",
+          "C": "Opioids chọn lọc thụ thể σ có thể tránh tác dụng lên hệ thần kinh không mong muốn",
+          "D": "Giảm đau qua thụ thể κ chủ yếu xảy ra ở tủy sống",
+          "E": "Nhịp tim chậm có thể là kết quả chủ vận thụ thể μ1"
+        }
+      },
+      "thuoc.145.23": {
+        "question": "Ngưỡng an toàn khi sử dụng thuốc mê bốc hơi phối hợp với N₂O hoặc opioids là",
+        "options": {
+          "A": "0,2–0,4 MAC",
+          "B": "0,5–0,6 MAC",
+          "C": "0,5–1 MAC",
+          "D": "1,5–2 MAC"
+        }
+      },
+      "thuoc.145.24": {
+        "question": "Thứ tự đúng của các opioids sau đây liên quan đến đặc tính ưa lipid, từ nhiều đến ít",
+        "options": {
+          "A": "Morphine – Remifentanil – Alfentanil – Sufentanil",
+          "B": "Sufentanil – Fentanyl – Alfentanil – Morphine",
+          "C": "Remifentanil – Alfentanil – Fentanyl – Sufentanil",
+          "D": "Sufentanil – Remifentanil – Alfentanil – Fentanyl",
+          "E": "Sufentanil – Morphine – Fentanyl – Remifentanil"
+        }
+      },
+    "gmcs.274.1": {
+    "question": "Triệu chứng nào không phải của suy giáp (M)",
+    "options": {
+      "A": "Da khô lạnh",
+      "B": "Đờ đẫn",
+      "C": "Mất cân",
+      "D": "Rụng tóc",
+      "E": "Lồi mắt"
+    }
+  },
+  "gmcs.274.2": {
+    "question": "Ở người cao tuổi, câu nào sau đây sai (S)",
+    "options": {
+      "A": "Giảm độ đàn hồi thành ngực",
+      "B": "Dung tích sống giảm dần theo tuổi",
+      "C": "Thể tích đóng thấp hơn thể tích cặn chức năng",
+      "D": "PaO2 thấp hơn người trẻ"
+    }
+  },
+  "gmcs.274.3": {
+    "question": "So với người trẻ, người già (M)",
+    "options": {
+      "A": "Đáp ứng tốt hơn với thuốc kích thích",
+      "B": "Có nhiều khối mỡ",
+      "C": "Có nhiều nước theo tỉ lệ",
+      "D": "Có nhiều albumin hơn",
+      "E": "Có giảm chức năng thận"
+    }
+  },
+  "gmcs.274.4": {
+    "question": "Ở người cao tuổi (S)",
+    "options": {
+      "A": "Cấm làm phẫu thuật về trong ngày",
+      "B": "Gây tê tuỷ sống có ưu thế hơn gây mê",
+      "C": "Hạ thân nhiệt xảy ra nhanh chóng",
+      "D": "MAC của thuốc mê Halogen không thay đổi",
+      "E": "Cần tăng gấp hai liều thuốc phiện"
+    }
+  },
+  "gmcs.274.5": {
+    "question": "Sinh lý của người cao tuổi (M)",
+    "options": {
+      "A": "Thường tăng huyết áp tâm thu",
+      "B": "Đáp ứng hô hấp với CO2 bình thường",
+      "C": "PaO2 thấp hơn người trẻ",
+      "D": "Phản xạ đường hô hấp trên bị hư hại",
+      "E": "Nhu cầu thuốc giảm đau sau mổ tăng"
+    }
+  },
+  "gmcs.274.6": {
+    "question": "Ở người cao tuổi (M)",
+    "options": {
+      "A": "Gây tê ngoài màng cứng khó thực hiện hơn",
+      "B": "Nhức đầu sau gây tê tuỷ sống nhiều hơn",
+      "C": "Sự sưởi ấm bệnh nhân chậm hơn",
+      "D": "Các thuốc AINS có thể dùng nhưng phải giảm liều",
+      "E": "Cấm dùng phương pháp giảm đau do bệnh nhân tự kiểm soát"
+    }
+  },
+  "gmcs.274.7": {
+    "question": "Những thay đổi trên hệ hô hấp của người cao tuổi (M)",
+    "options": {
+      "A": "Giảm tính đàn hồi của phổi và lồng ngực",
+      "B": "PaO2 giảm",
+      "C": "Tăng đáp ứng với tình trạng thiếu oxy và tăng thán khí",
+      "D": "Rối loạn nuốt"
+    }
+  },
+  "gmcs.274.8": {
+    "question": "Dấu chỉ điểm đặt NKQ khó ở BN béo phì bệnh lý (S)",
+    "options": {
+      "A": "Độ Mallampati",
+      "B": "Vòng cổ",
+      "C": "Hạn chế di động cột sống cổ",
+      "D": "Lệch khớp thái dương – hàm",
+      "E": "Trọng lượng cơ thể"
+    }
+  },
+  "gmcs.274.9": {
+    "question": "Ở người béo phì (S)",
+    "options": {
+      "A": "Cho thở oxygen qua mặt nạ với áp lực dương không lợi ích gì",
+      "B": "Khi không cho thở oxy sớm qua mặt nạ, thiếu oxy máu xuất hiện…",
+      "C": "Tất cả BN béo phì cần cho thở oxy sớm qua mặt nạ + CPAP",
+      "D": "Cho thở oxy liều cao cải thiện PaO2 khi khởi mê",
+      "E": "Thiếu oxy máu sớm chỉ do giảm thể tích cặn chức năng"
+    }
+  },
+  "gmcs.274.10": {
+    "question": "Khi tính liều thuốc mê tĩnh mạch cho BN béo phì, các thuốc nào phải tính… (M)",
+    "options": {
+      "A": "Thiopental",
+      "B": "Propofol",
+      "C": "Midazolam",
+      "D": "Atracurium"
+    }
+  },
+  "gmcs.274.11": {
+    "question": "Đặc điểm sinh lý BN béo phì (S)",
+    "options": {
+      "A": "Tích tụ mỡ thành ngực – cơ hoành – bụng làm giảm độ đàn hồi ngực, hô hấp…",
+      "B": "Tăng dung tích cặn chức năng (FRC), dung tích sống (VC) và tổng dung…",
+      "C": "BN béo phì khi được gây mê sẽ dung nạp kém với tình trạng thiếu oxy nhanh khi dẫn mê cho dù có cung cấp oxy trước",
+      "D": "Tăng tiêu thụ oxy và giảm tạo CO2"
+    }
+  },
+  "gmcs.274.12": {
+    "question": "Gây tê vùng trên BN béo phì, chọn câu sai (S)",
+    "options": {
+      "A": "Thay thế hữu ích cho gây mê trong trường hợp đặt NKQ khó",
+      "B": "Khó nhận biết điểm mốc giải phẫu hoặc tuyến",
+      "C": "Sử dụng kim dài hơn và gây tê ở tư thế ngồi khi gây tê TKTW",
+      "D": "Khuyến khích gây tê dưới hướng dẫn siêu âm"
+    }
+  },
+  "gmcs.274.13": {
+    "question": "Liên quan đến gây mê cho BN làm MRI (M)",
+    "options": {
+      "A": "Tất cả vật dụng bằng sắt phải được đặt bên ngoài phòng đặt máy MRI",
+      "B": "Phải hạn chế sử dụng thuốc mê Halogen vì nguyên tử Halogen làm ảnh hưởng chất lượng hình ảnh",
+      "C": "Máy tạo nhịp vĩnh viễn là chống chỉ định gây mê MRI",
+      "D": "BN phải nằm yên trong suốt thời gian làm MRI"
+    }
+  },
+  "gmcs.274.14": {
+    "question": "Liên quan đến BN gây mê làm MRI (M)",
+    "options": {
+      "A": "Có thể thực hiện gây mê và đặt NKQ ngay bên trong phòng máy MRI",
+      "B": "Chỉ mang vào bên trong phòng MRI các thiết bị tương hợp với môi trường",
+      "C": "Khi xảy ra ngưng tim trong quá trình làm MRI, tiến hành hồi sinh tim phổi ngay trong phòng máy MRI",
+      "D": "Các dây thở, dây truyền phải đủ dài"
+    }
+  },
+  "gmcs.274.15": {
+    "question": "Liên quan đến việc lựa chọn thuốc gây mê cho BN gây mê ngoài phòng mổ (M)",
+    "options": {
+      "A": "Phối hợp Midazolam và Fentanyl có tác dụng an thần trung bình, ức chế hô hấp phải giảm liều, không chích lập lại",
+      "B": "Propofol phù hợp cho an thần và gây mê",
+      "C": "Dexmedetomidine có tác dụng an thần, giảm đau",
+      "D": "Không được dùng thuốc mê hô hấp"
+    }
+  },
+  "gmcs.274.16": {
+    "question": "Giảm lượng nước tiểu khi chấn thương nặng có thể xảy ra do (M)",
+    "options": {
+      "A": "Chảy máu",
+      "B": "Tăng hoạt tính của ADH",
+      "C": "Giảm hoạt tính của Aldosterone",
+      "D": "Tăng nồng độ Catecholamine lưu hành",
+      "E": "Tăng tiết Corticoide"
+    }
+  },
+  "gmcs.274.17": {
+    "question": "Liên quan đến suy thận (M)",
+    "options": {
+      "A": "Tắc nghẽn niệu quản gây suy thận trước thận",
+      "B": "Suy thận trước thận gây Natri niệu cao (> 20mmol/L)",
+      "C": "Suy thận trước thận gây độ thẩm thấu nước tiểu cao (> 500mosm/L)",
+      "D": "Thuốc kháng viêm không steroids làm tăng lưu lượng máu cầu thận",
+      "E": "BN có tăng Creatinin trước mổ, có tăng nguy cơ bị suy thận sau mổ"
+    }
+  },
+  "gmcs.274.18": {
+    "question": "Tiểu ít xảy ra trong giai đoạn chu phẫu là do (M)",
+    "options": {
+      "A": "Phóng thích hormone chống bài niệu ADH",
+      "B": "Kích thích sự phóng thích Aldosterone",
+      "C": "Tác dụng của khoang thứ ba",
+      "D": "Tác dụng đặc hiệu của thuốc mê lên các ống thận",
+      "E": "Tăng đường huyết"
+    }
+  },
+  "gmcs.274.19": {
+    "question": "Trong phẫu thuật mạch máu lớn, cách tốt nhất để giảm nguy cơ suy thận khi … bình thường (S)",
+    "options": {
+      "A": "Cung lượng tim",
+      "B": "Áp lực tĩnh mạch trung tâm",
+      "C": "Huyết áp động mạch trung bình",
+      "D": "Thể tích nước tiểu",
+      "E": "Lưu lượng máu thận"
+    }
+  },
+  "gmcs.274.20": {
+    "question": "BN bị suy thận mạn thường có các tình trạng sau đây (M)",
+    "options": {
+      "A": "Có khuynh hướng dễ chảy máu",
+      "B": "Thiếu máu với hồng cầu to",
+      "C": "Cao huyết áp",
+      "D": "Lách to",
+      "E": "Con tetany"
+    }
+  },
+  "gmcs.274.21": {
+    "question": "BUN không phải là xét nghiệm tin cậy để đánh giá chức năng thận vì BUN có thể thay đổi khi (M)",
+    "options": {
+      "A": "Xuất huyết tiêu hóa",
+      "B": "Mất nước",
+      "C": "Ăn quá nhiều đạm",
+      "D": "Bệnh gan giai đoạn cuối",
+      "E": "Loại bỏ các acid amin chủ yếu ra khỏi chế độ ăn"
+    }
+  },
+  "gmcs.274.22": {
+    "question": "Liên quan đến suy gan, chọn câu đúng (M)",
+    "options": {
+      "A": "Tăng đường huyết nghiêm trọng",
+      "B": "Ammoniac máu tăng",
+      "C": "Tiêu hóa và hấp thu mỡ kém",
+      "D": "Áp lực keo của huyết tương sẽ tăng",
+      "E": "Tăng cơ hội bị tắc tĩnh mạch"
+    }
+  },
+  "gmcs.274.23": {
+    "question": "Chức năng gan (M)",
+    "options": {
+      "A": "Bài tiết mật",
+      "B": "Dự trữ Vitamine C",
+      "C": "Dự trữ Glycogen",
+      "D": "Tổng hợp yếu tố đông máu",
+      "E": "Tổng hợp Globuline miễn dịch",
+      "F": "Khử độc các chất hóa học từ ngoài cơ thể (tác dụng thuốc, hóa chất)"
+    }
+  },
+  "gmcs.274.24": {
+    "question": "Các xét nghiệm tình suy tế bào gan (M)",
+    "options": {
+      "A": "Đo Albumine máu",
+      "B": "Đo Taux de Prothrombine",
+      "C": "Đo hoạt tính của Aspartate Aminotransferase",
+      "D": "Đo Hct",
+      "E": "Đo hoạt tính của Phosphatase Alkaline"
+    }
+  },
+  "gmcs.274.25": {
+    "question": "BN có bệnh gan nặng được mổ chương trình để làm cầu nối cửa – chủ – tĩnh mạch cửa. Yêu cầu về gây mê nào sau đây đúng (S)",
+    "options": {
+      "A": "Vecuronium là thuốc dãn cơ được chọn",
+      "B": "Thận trọng khi dùng Succinylcholin vì tác dụng có thể kéo dài",
+      "C": "Tránh dùng Fentanyl để giảm đau",
+      "D": "Tránh dùng tất cả thuốc mê hô hấp kể cả Isoflurane",
+      "E": "Giảm liều khởi mê của Thiopental"
+    }
+  },
+  "gmcs.274.26": {
+    "question": "Các thuốc nào có thể dùng an toàn cho BN xơ gan không phải giảm liều (M)",
+    "options": {
+      "A": "Morphine",
+      "B": "Remifentanil",
+      "C": "Các thuốc Benzodiazepine",
+      "D": "Atracurium",
+      "E": "Halothane"
+    }
+  },
+  "gmcs.274.27": {
+    "question": "Có thể thực hiện các phẫu thuật sau đây dưới gây mê về trong ngày (M)",
+    "options": {
+      "A": "Mổ cườm mắt dưới gây tê cạnh nhãn cầu",
+      "B": "Mổ thoát vị ổ người lớn",
+      "C": "Điều trị thoát vị rốn ở trẻ em sơ sinh",
+      "D": "Thay khớp gối",
+      "E": "Các tĩnh mạch hiển"
+    }
+  },
+  "gmcs.274.28": {
+    "question": "Gây mê về trong ngày là chống chỉ định ở các BN (M)",
+    "options": {
+      "A": "ASA2",
+      "B": "Bị béo phì bệnh lý kết hợp với các rối loạn tim hay hô hấp",
+      "C": "Nghiện thuốc hay nghiện rượu",
+      "D": "BN sống 1 mình",
+      "E": "Ở BN tiểu đường ngay cả khi tình trạng tiểu đường ổn định với điều trị"
+    }
+  },
+  "gmcs.274.29": {
+    "question": "Các điều kiện cần thiết để một phẫu thuật có thể thực hiện dưới gây mê về trong ngày, chọn câu sai (S)",
+    "options": {
+      "A": "Có nguy cơ chảy máu thấp",
+      "B": "Không gây ảnh hưởng trên các chức năng sinh tồn",
+      "C": "Thời gian mổ ngắn (dưới 1 giờ)",
+      "D": "Không gây ra các tác dụng thứ phát (buồn nôn, ói)"
+    }
+  },
+  "gmcs.274.30": {
+    "question": "Các thay đổi chức năng tim mạch kết hợp với tình trạng cường giáp bao gồm (M)",
+    "options": {
+      "A": "Tăng kháng lực mạch máu hệ thống",
+      "B": "Nhịp tim nhanh",
+      "C": "Giảm phân suất phụt",
+      "D": "Giảm cung lượng tim",
+      "E": "Tăng thể tích máu lưu hành"
+    }
+  },
+    "de.1516.1": {
+    "question": "Các tính chất của thuốc mê tĩnh mạch lý tưởng, chọn câu sai:",
+    "options": {
+      "A": "Sử dụng dễ dàng và không gây dị ứng.",
+      "B": "Thuốc không ảnh hưởng nhiều đến huyết động.",
+      "C": "Thuốc có tác dụng nhanh và kéo dài.",
+      "D": "Thuốc dung nạp tốt đường tĩnh mạch.",
+      "E": "Tất cả các câu trên đều sai."
+    }
+  },
+  "de.1516.2": {
+    "question": "Theo phân độ Mallampati, chọn câu sai:",
+    "options": {
+      "A": "Độ I: nhìn thấy khẩu cái cứng, khẩu cái mềm, toàn bộ lưỡi gà, thành sau họng, trụ trước và trụ sau amidan.",
+      "B": "Độ II: nhìn thấy khẩu cái cứng, khẩu cái mềm, một phần lưỡi gà và thành sau họng.",
+      "C": "Độ III: chỉ nhìn thấy khẩu cái cứng.",
+      "D": "Độ I, II: ít khả năng đặt nội khí quản khó.",
+      "E": "Độ III, IV nhiều khả năng đặt nội khí quản khó."
+    }
+  },
+  "de.1516.3": {
+    "question": "Thứ tự tê của các dây thần kinh ngoại biên, chọn câu đúng:",
+    "options": {
+      "A": "Liệt vận động > mất cảm giác tự thân > mất cảm giác đau, nhiệt > mất cảm giác xúc giác, áp lực > ức chế giao cảm.",
+      "B": "Ức chế giao cảm > mất cảm giác xúc giác, áp lực > mất cảm giác tự thân > mất cảm giác đau, nhiệt > liệt vận động.",
+      "C": "Ức chế giao cảm > mất cảm giác đau nhiệt > mất cảm giác tự thân > mất cảm giác xúc giác, áp lực > liệt vận động.",
+      "D": "Mất cảm giác xúc giác, áp lực > mất cảm giác đau > ức chế giao cảm > liệt vận động > mất cảm giác tự thân.",
+      "E": "Mất cảm giác đau nhiệt > ức chế giao cảm > liệt vận động > mất cảm giác tự thân > mất cảm giác xúc giác, áp lực."
+    }
+  },
+  "de.1516.4": {
+    "question": "Các đặc tính của thuốc tê, chọn câu sai:",
+    "options": {
+      "A": "Thuốc tê thế chỗ của hóa chất trung gian adenosin.",
+      "B": "Thời gian để tác dụng trung bình 5–10 phút.",
+      "C": "Thời gian tác dụng phụ thuộc: nồng độ, có pha Adrenalin.",
+      "D": "Nồng độ thuốc tê: mỗi thuốc tê có nồng độ tác dụng và độc tính khác nhau.",
+      "E": "Tất cả các câu trên đều sai."
+    }
+  },
+  "de.1516.5": {
+    "question": "Một số lý do cần trì hoãn phẫu thuật, chọn câu sai:",
+    "options": {
+      "A": "Viêm hô hấp trên cấp.",
+      "B": "Nhịn ăn chưa đủ thời gian trên sản phụ được chẩn đoán nhau bong non.",
+      "C": "Bệnh nhân chưa hồi sức đầy đủ.",
+      "D": "Bệnh đi kèm chưa kiểm soát tốt.",
+      "E": "Bệnh nhân chưa đồng ý phẫu thuật."
+    }
+  },
+  "de.1516.6": {
+    "question": "Khai thác tiền sử bệnh nhân trước mổ, chọn câu đúng:",
+    "options": {
+      "A": "Vô cảm trước đó.",
+      "B": "Bệnh nội khoa đi kèm.",
+      "C": "Dị ứng.",
+      "D": "Hút thuốc, uống rượu.",
+      "E": "Tất cả đều đúng."
+    }
+  },
+  "de.1516.7": {
+    "question": "Các cận lâm sàng thường qui cho bệnh nhân trước mổ, ngoại trừ:",
+    "options": {
+      "A": "Công thức máu.",
+      "B": "Nhóm máu.",
+      "C": "Đo chức năng hô hấp.",
+      "D": "aPTT, PT.",
+      "E": "Tiểu cầu."
+    }
+  },
+  "de.1516.8": {
+    "question": "Bệnh nhân nam 20 tuổi được chẩn đoán viêm ruột thừa cấp. Qua thăm khám tiền mê bệnh nhân khỏe mạnh, không mắc các bệnh kèm theo. Theo ASA:",
+    "options": {
+      "A": "I.",
+      "B": "II.",
+      "C": "III.",
+      "D": "IE.",
+      "E": "IIE."
+    }
+  },
+  "de.1516.9": {
+    "question": "Chuẩn bị tâm lý cho bệnh nhân trước mổ:",
+    "options": {
+      "A": "Cung cấp thông tin cuộc mổ.",
+      "B": "Trao đổi và giải đáp thắc mắc của bệnh nhân.",
+      "C": "Phải có sự đồng thuận của bệnh nhân.",
+      "D": "Nếu bệnh nhân quá lo lắng, có thể hỗ trợ thêm thuốc an thần.",
+      "E": "Tất cả câu trên đều đúng."
+    }
+  },
+  "de.1516.10": {
+    "question": "Giải đoạn khởi mê, chọn câu sai:",
+    "options": {
+      "A": "Được bắt đầu là khi đưa thuốc mê vào cơ thể bệnh nhân.",
+      "B": "Giai đoạn này ngắn nên thường ít tai biến.",
+      "C": "Hạn chế kích thích trong giai đoạn này.",
+      "D": "Mục đích làm cho bệnh nhân đạt độ mê giảm đau, giãn cơ, thích hợp đến đặt các phương tiện hỗ trợ hoặc kiểm soát hô hấp.",
+      "E": "Ở bệnh nhi, thường khởi phát mê bằng đường hô hấp."
+    }
+  },
+  "de.1516.11": {
+    "question": "Đánh giá bệnh nhân theo ASA II:",
+    "options": {
+      "A": "Bệnh nhân khỏe mạnh, không có bệnh kèm theo.",
+      "B": "Bệnh nhân mắc bệnh nhẹ, không ảnh hưởng đến chức năng các cơ quan.",
+      "C": "Bệnh nhân mắc bệnh nặng thường xuyên đe dọa tính mạng.",
+      "D": "Bệnh nhân mắc bệnh có kèm các yếu tố tiên lượng đặt NKQ khó.",
+      "E": "Bệnh nhân có bệnh nặng làm ảnh hưởng đến chức năng các cơ quan."
+    }
+  },
+  "de.1516.12": {
+    "question": "Một bệnh nhân được chẩn đoán sỏi kẹt cổ túi mật gây đau, có tiền căn cao huyết áp điều trị thuốc hằng ngày, hiện tại huyết áp được duy trì ổn định. Đánh giá bệnh nhân này theo ASA:",
+    "options": {
+      "A": "II.",
+      "B": "III.",
+      "C": "IV.",
+      "D": "II E.",
+      "E": "III E."
+    }
+  },
+  "de.1516.13": {
+    "question": "Mục đích của việc chuẩn bị bệnh nhân trước mổ:",
+    "options": {
+      "A": "Trấn an bệnh nhân.",
+      "B": "Đánh giá toàn diện bệnh nhân và bệnh cần mổ.",
+      "C": "Quyết định mổ hay không mổ.",
+      "D": "Quyết định mổ hay trì hoãn mổ.",
+      "E": "Cả bốn câu trên đều đúng."
+    }
+  },
+  "de.1516.14": {
+    "question": "Mục đích của việc sử dụng thuốc tiền mê trước khi khởi mê:",
+    "options": {
+      "A": "Giảm lo lắng và làm cho bệnh nhân ngủ.",
+      "B": "Giảm lo lắng và giảm đau tốt trong những giai đoạn tiếp theo.",
+      "C": "Giảm lo lắng và chống nôn ói.",
+      "D": "Giảm lo lắng và gây quên.",
+      "E": "Giảm lo lắng và ổn định huyết động."
+    }
+  },
+  "de.1516.15": {
+    "question": "Xử trí suy hô hấp do quá liều thuốc giảm đau họ morphine, lựa chọn nào sau đây là đúng:",
+    "options": {
+      "A": "N-acetylcysteine.",
+      "B": "Flumazenil.",
+      "C": "Naloxone.",
+      "D": "Neostigmine.",
+      "E": "Atropine."
+    }
+  },
+  "de.1516.16": {
+    "question": "Có thể phẫu thuật an toàn ở:",
+    "options": {
+      "A": "Thời gian tiền mê.",
+      "B": "Thời gian khởi mê.",
+      "C": "Thời gian duy trì mê.",
+      "D": "Thời kỳ giảm đau.",
+      "E": "Thời kỳ mê sáng."
+    }
+  },
+  "de.1516.17": {
+    "question": "Đau kéo dài hơn 3 hay 6 tháng hay đau kéo dài hơn thời gian lành vết thương mong đợi ở mê liên quan là loại đau nào sau đây:",
+    "options": {
+      "A": "Đau cấp.",
+      "B": "Đau nông.",
+      "C": "Đau tạng.",
+      "D": "Đau mãn.",
+      "E": "Đau do nguyên nhân thần kinh."
+    }
+  },
+  "de.1516.18": {
+    "question": "Thang điểm đau được sử dụng để đánh giá, chọn câu đúng:",
+    "options": {
+      "A": "Chất lượng đau.",
+      "B": "Cường độ đau.",
+      "C": "Vị trí đau.",
+      "D": "Kiểu đau.",
+      "E": "Ảnh hưởng của đau."
+    }
+  },
+  "de.1516.19": {
+    "question": "Thuốc mê tĩnh mạch:",
+    "options": {
+      "A": "Thuốc mê chỉ dùng duy nhất qua đường tĩnh mạch.",
+      "B": "Có thể dùng qua đường tĩnh mạch hoặc đường tiêm bắp.",
+      "C": "Có thể dùng qua đường hô hấp.",
+      "D": "Không phải là thuốc an thần hay thuốc ngủ.",
+      "E": "Tất cả các câu trên đều đúng."
+    }
+  },
+  "de.1516.20": {
+    "question": "Gây mê nội khí quản:",
+    "options": {
+      "A": "Chỉ dùng với thuốc mê qua đường hô hấp.",
+      "B": "Có thể dùng với thuốc mê qua đường hô hấp hay đường tĩnh mạch.",
+      "C": "Không phải đặt nội khí quản.",
+      "D": "Người bệnh không thể dùng được máy thở.",
+      "E": "Không phải đặt ống thông Foley."
+    }
+  },
+  "de.1516.21": {
+    "question": "Với soda bắt buộc phải có trong phương pháp gây mê:",
+    "options": {
+      "A": "Phương pháp gây mê nhỏ giọt.",
+      "B": "Phương pháp thổi.",
+      "C": "Thể nửa kín trong hệ thống đường vòng.",
+      "D": "Hệ thống không thở lại với van một chiều.",
+      "E": "Thể nửa hở trong hệ thống đường vòng với lưu lượng khí cao."
+    }
+  },
+  "de.1516.22": {
+    "question": "Phương pháp gây tê:",
+    "options": {
+      "A": "Là phương pháp vô cảm toàn thể.",
+      "B": "Khác phương pháp gây mê là người bệnh còn ý thức.",
+      "C": "Khác phương pháp gây mê là không làm mất hết cảm giác.",
+      "D": "Ít nguy hiểm hơn phương pháp gây mê.",
+      "E": "Khác phương pháp gây mê là làm mất hết cảm giác toàn thân."
+    }
+  },
+  "de.1516.23": {
+    "question": "Theo phác đồ điều trị đau của tổ chức y tế thế giới, đau bậc 3 được điều trị bằng:",
+    "options": {
+      "A": "Acetaminophen + Opioids.",
+      "B": "NSAID + Opioids.",
+      "C": "Acetaminophen + NSAID.",
+      "D": "Opioids + non Opioids.",
+      "E": "Opioids + thuốc hỗ trợ."
+    }
+  },
+  "de.1516.24": {
+    "question": "Bệnh nhân nam 45 tuổi, phẫu thuật cấp cứu viêm phúc mạc toàn thể do thủng dạ dày tá tràng, lựa chọn giảm đau nào sau đây là phù hợp cho bệnh nhân:",
+    "options": {
+      "A": "Acetaminophen + Opioids.",
+      "B": "Ketorolac + Opioids.",
+      "C": "Mobic + Opioids.",
+      "D": "Acetaminophen + Ketorolac.",
+      "E": "Acetaminophen + Mobic."
+    }
+  },
+  "de.1516.25": {
+    "question": "Phát biểu về phòng hồi tỉnh chọn câu đúng:",
+    "options": {
+      "A": "Nên đặt gần phòng mổ.",
+      "B": "Có thể theo dõi tất cả các BN cùng một lúc.",
+      "C": "Tỷ lệ giường của phòng hồi tỉnh: phòng mổ theo tỉ lệ 1,5/1.",
+      "D": "Mỗi giường bệnh nên đủ ánh sáng và không gian để các máy móc hồi sức.",
+      "E": "Tất cả đều đúng."
+    }
+  },
+  "de.1516.26": {
+    "question": "Theo tiêu chuẩn chăm sóc sau mổ của ASA:",
+    "options": {
+      "A": "BN gây tê vùng, tiền mê không cần theo dõi sau mổ.",
+      "B": "BN không cần theo dõi trong quá trình vận chuyển ra phòng hồi tỉnh.",
+      "C": "Phải có ghi nhận bàn giao giữa nhân viên gây mê và nhân viên phòng hồi tỉnh.",
+      "D": "Nhân viên phòng mổ là người chịu trách nhiệm cho BN chuyển khỏi phòng hồi tỉnh lên khoa điều trị.",
+      "E": "Tất cả các câu đều đúng."
+    }
+  },
+  "de.1516.27": {
+    "question": "Tiêu chuẩn rút ống nội khí quản bao gồm:",
+    "options": {
+      "A": "Huyết động ổn định.",
+      "B": "Hóa giải dẫn cơ đầy đủ.",
+      "C": "Hô hấp ổn định.",
+      "D": "Tất cả các câu đều đúng.",
+      "E": "Tất cả các câu trên đều sai."
+    }
+  },
+  "de.1516.28": {
+    "question": "Các yếu tố thuận lợi làm hạ thân nhiệt BN, ngoại trừ:",
+    "options": {
+      "A": "Thời gian mổ dài.",
+      "B": "Nhiệt độ phòng mổ thấp.",
+      "C": "Phơi bày phẫu trường rộng.",
+      "D": "Không sưởi ấm dịch.",
+      "E": "Đắp chăn, sưởi đèn."
+    }
+  },
+  "de.1516.29": {
+    "question": "Tiêu chuẩn rời khỏi phòng hồi tỉnh bao gồm, ngoại trừ:",
+    "options": {
+      "A": "Tỉnh táo hoàn toàn.",
+      "B": "Dấu hiệu sinh tồn ổn định ít nhất 15–30 phút.",
+      "C": "Khả năng bảo vệ đường thở tốt.",
+      "D": "BN ăn uống lại bình thường.",
+      "E": "Có khả năng gọi khi cần giúp đỡ."
+    }
+  },
+  "de.1516.30": {
+    "question": "William T.G.Morton là:",
+    "options": {
+      "A": "Bác sỹ chuyên ngành sản khoa.",
+      "B": "Bác sỹ chuyên ngành nha khoa.",
+      "C": "Người đầu tiên sử dụng Ether.",
+      "D": "Dùng N₂O để nhổ răng.",
+      "E": "Tất cả các câu trên đều sai."
+    }
+  },
+  "de.1516.31": {
+    "question": "Chloroform được tìm thời bởi:",
+    "options": {
+      "A": "John Snow.",
+      "B": "Crawford W. Long.",
+      "C": "William T.G. Morton.",
+      "D": "James Young Simpson.",
+      "E": "Horace Wells."
+    }
+  },
+  "de.1516.32": {
+    "question": "Morphin được phát hiện vào năm:",
+    "options": {
+      "A": "1804.",
+      "B": "1845.",
+      "C": "1854.",
+      "D": "1871.",
+      "E": "1877."
+    }
+  },
+  "de.1516.33": {
+    "question": "Nhiệm vụ của khoa GMHS:",
+    "options": {
+      "A": "Khám trước gây mê.",
+      "B": "Gây mê tê can thiệp cần thiết.",
+      "C": "Theo dõi sau gây mê.",
+      "D": "Các đơn vị sẵn sàng tích cực.",
+      "E": "Các câu trên đều đúng."
+    }
+  },
+  "de.1516.34": {
+    "question": "Nguyên nhân hàng đầu gây tử vong ở bệnh nhân ASA I:",
+    "options": {
+      "A": "Nhồi máu cơ tim cấp.",
+      "B": "Ức chế hô hấp sau gây mê.",
+      "C": "Chảy máu sau mổ.",
+      "D": "Nhiễm trùng sau mổ.",
+      "E": "Tất cả các nguyên nhân trên."
+    }
+  },
+  "de.1516.35": {
+    "question": "Khoa gây mê hồi sức:",
+    "options": {
+      "A": "Là nơi đào tạo sinh viên y khoa.",
+      "B": "Là nơi làm việc của nhiều chuyên khoa.",
+      "C": "Là nơi đào tạo sau đại học chuyên khoa GMHS.",
+      "D": "Tất cả các câu trên đều đúng.",
+      "E": "Tất cả các câu trên đều sai."
+    }
+  },
+  "de.1516.36": {
+    "question": "Để đánh giá đau cho trẻ nhỏ, bảng điểm nào sau đây là phù hợp chọn câu đúng:",
+    "options": {
+      "A": "Thang điểm đo mô tả bằng lời (verbal descriptor scale).",
+      "B": "Thang đo số (verbal numeric rating scale).",
+      "C": "Thang đo nhìn (VAS: visual analog scale).",
+      "D": "Thang đo hình tượng (faces pain rating scale).",
+      "E": "Bộ câu hỏi đau McGill."
+    }
+  },
+  "de.1516.37": {
+    "question": "Trong nguyên tắc điều trị đau, điều nào sau đây cần quan tâm đầu tiên:",
+    "options": {
+      "A": "Điều trị dựa vào mục tiêu của bệnh nhân.",
+      "B": "Tiếp cận đa mô thức là cần thiết.",
+      "C": "Người bệnh phải tin tưởng hiệu quả của phương pháp điều trị.",
+      "D": "Phải kiểm soát và ngăn ngừa tác dụng của thuốc.",
+      "E": "Điều trị đau khi đau đã xuất hiện."
+    }
+  },
+  "de.1516.38": {
+    "question": "Các phương pháp dự phòng nôn ói hậu phẫu:",
+    "options": {
+      "A": "Nhịn uống nước.",
+      "B": "Bù đủ dịch trước và trong mổ.",
+      "C": "Châm cứu.",
+      "D": "Thuốc: ondansetron, dexamethasone.",
+      "E": "Các câu trên đều đúng."
+    }
+  },
+  "de.1516.39": {
+    "question": "Hệ thống gây mê hô hấp không thở lại (hở hoàn toàn), chọn câu sai:",
+    "options": {
+      "A": "Có lưu lượng khí thở vào cao.",
+      "B": "Bệnh nhân hít lại phần lớn hơi đã thở ra.",
+      "C": "Điển hình của hệ thống này là ống thở hay mặt nạ thở.",
+      "D": "Hiện nay ít sử dụng.",
+      "E": "Nhược điểm là ô nhiễm môi trường."
+    }
+  },
+  "de.1516.40": {
+    "question": "Thứ tự độ mê từ nông đến sâu là:",
+    "options": {
+      "A": "Thời kỳ giảm đau > thời kỳ phẫu thuật > thời kỳ kích động > thời kỳ ngộ độc.",
+      "B": "Thời kỳ kích động > thời kỳ giảm đau > thời kỳ phẫu thuật > thời kỳ ngộ độc.",
+      "C": "Thời kỳ kích động > thời kỳ phẫu thuật > thời kỳ giảm đau > thời kỳ ngộ độc.",
+      "D": "Thời kỳ giảm đau > thời kỳ kích động > thời kỳ phẫu thuật > thời kỳ ngộ độc.",
+      "E": "Thời kỳ kích động > thời kỳ ngộ độc > thời kỳ phẫu thuật > thời kỳ phẫu thuật."
+    }
+  },
+  "de.1516.41": {
+    "question": "Thuốc dãn cơ Rocuronium, chọn câu đúng:",
+    "options": {
+      "A": "Phóng thích histamine, ổn định tim mạch.",
+      "B": "Thời gian tiêm phục hồi tùy thuộc liều.",
+      "C": "Chất chuyển hóa ở dạng hoạt động, đào thải chủ yếu qua phân.",
+      "D": "Thuốc dãn cơ có tác dụng dài.",
+      "E": "Thuốc tự hủy theo chu kỳ Hofmann, không cần dự trữ lạnh."
+    }
+  },
+  "de.1516.42": {
+    "question": "Thuốc mê hô hấp Sevoflurane, chọn câu sai:",
+    "options": {
+      "A": "Khởi mê và tỉnh mê nhanh.",
+      "B": "Không bền trong vôi soda, chuyển hóa chất A gây độc thận.",
+      "C": "Không gây cướp máu mạch vành, nên được lựa chọn cho bệnh nhân có bệnh lý tim mạch.",
+      "D": "Thuốc có mùi cay, không thích hợp cho trẻ nhỏ.",
+      "E": "Thuốc có mùi trái cây chín."
+    }
+  },
+  "de.1516.43": {
+    "question": "Tác dụng của Isoflurane, chọn câu đúng:",
+    "options": {
+      "A": "Tăng lưu lượng máu não, áp lực nội sọ và nhu cầu oxy của não.",
+      "B": "Gây dãn mạch vành và cướp máu mạch vành.",
+      "C": "Không gây ức chế hô hấp ngay cả khi dùng liều cao.",
+      "D": "Không ảnh hưởng cơ tử cung, dùng tốt trong gây mê sản khoa.",
+      "E": "Không bền trong vôi soda, chuyển hóa tạo chất A gây độc thận."
+    }
+  },
+  "de.1516.44": {
+    "question": "Thuốc mê hô hấp:",
+    "options": {
+      "A": "Tác dụng của thuốc tùy thuộc nồng độ thuốc trong phổi.",
+      "B": "Thuốc được phân thối theo thứ tự: não, tim, gan, thận > mô mỡ > cơ vân và da.",
+      "C": "Thuốc được hấp thu và đào thải qua đường hô hấp.",
+      "D": "Thuốc mê hô hấp được chuyển hóa tại gan ít.",
+      "E": "Là thuốc lựa chọn để khởi mê nhờ tác dụng nhanh khởi mê tĩnh mạch, duy trì bằng mê hô hấp."
+    }
+  },
+  "de.1516.45": {
+    "question": "Các tính chất của thuốc mê tĩnh mạch lý tưởng, chọn câu sai:",
+    "options": {
+      "A": "Sử dụng dễ dàng và không gây dị ứng.",
+      "B": "Thuốc không ảnh hưởng mạch vành.",
+      "C": "Thuốc có tác dụng nhanh và kéo dài.",
+      "D": "Thuốc dung nạp tốt đường tĩnh mạch.",
+      "E": "Thuốc có thời gian bắt đầu tác dụng nhanh."
+    }
+  },
+  "de.1516.46": {
+    "question": "Theo Guedel và Gillespie có bao nhiêu mức độ mê:",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4.",
+      "E": "5."
+    }
+  },
+  "de.1516.47": {
+    "question": "Gây mê tĩnh mạch, chọn câu sai:",
+    "options": {
+      "A": "Dùng thuốc mê qua đường tĩnh mạch.",
+      "B": "Có thể phối hợp với thuốc giảm đau, dẫn cơ tùy nhu cầu phẫu thuật.",
+      "C": "Bệnh nhân có thể được kiểm soát hô hấp bằng các dụng cụ đường thở.",
+      "D": "Gây ô nhiễm môi trường.",
+      "E": "Hiện nay ít sử dụng."
+    }
+  },
+  "de.1516.48": {
+    "question": "Chọn lựa một phương pháp vô cảm dựa vào:",
+    "options": {
+      "A": "Tình trạng của bệnh nhân.",
+      "B": "Tính chất của cuộc phẫu thuật.",
+      "C": "Phương tiện hiện có.",
+      "D": "Tình hình nhân sự: nhóm phẫu thuật và gây mê.",
+      "E": "Tất cả đều đúng."
+    }
+  },
+    "de.1314.1": {
+    "question": "Theo Guedel và Gillespie có bao nhiêu mức độ mê",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    }
+  },
+  "de.1314.2": {
+    "question": "Thứ tự độ mê từ nông đến sâu là:",
+    "options": {
+      "A": "Thời kỳ giảm đau > thời kỳ phẫu thuật > thời kỳ kích động > thời kỳ ngộ độc",
+      "B": "Thời kỳ kích động > thời kỳ giảm đau > thời kỳ phẫu thuật > thời kỳ ngộ độc",
+      "C": "Thời kỳ kích động > thời kỳ phẫu thuật > thời kỳ giảm đau > thời kỳ ngộ độc",
+      "D": "Thời kỳ giảm đau > thời kỳ kích động > thời kỳ phẫu thuật > thời kỳ ngộ độc",
+      "E": "Thời kỳ kích động > thời kỳ ngộ độc > thời kỳ phẫu thuật > thời kỳ phẫu thuật"
+    }
+  },
+  "de.1314.3": {
+    "question": "Mục đích của tiền mê là:",
+    "options": {
+      "A": "An tâm, giảm lo lắng",
+      "B": "Giảm phản xạ bất lợi",
+      "C": "Giảm tai biến",
+      "D": "Giảm thuốc mê tác dụng",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "de.1314.4": {
+    "question": "Giai đoạn khởi mê chọn câu sai:",
+    "options": {
+      "A": "Được bắt đầu là khi đưa thuốc mê vào cơ thể bệnh nhân",
+      "B": "Giai đoạn này ngắn nên thường ít tai biến",
+      "C": "Hạn chế kích thích trong giai đoạn này",
+      "D": "Mục đích làm cho bệnh nhân đạt độ mê giảm đau, giãn cơ, thích hợp để đặt các phương tiện hỗ trợ hoặc kiểm soát hô hấp",
+      "E": "Ở bệnh nhi, thường khởi phát mê bằng đường hô hấp"
+    }
+  },
+  "de.1314.5": {
+    "question": "Hệ thống gây mê hô hấp không thở lại (hở hoàn toàn) chọn câu sai:",
+    "options": {
+      "A": "Có lưu lượng khí thở vào cao",
+      "B": "Bệnh nhân hít lại phần lớn hơi đã thở ra",
+      "C": "Điển hình của hệ thống này là ống thở hay mặt nạ thở",
+      "D": "Hiện nay ít sử dụng",
+      "E": "Nhược điểm là ô nhiễm môi trường"
+    }
+  },
+  "de.1314.6": {
+    "question": "Các ưu điểm của hệ thống gây mê hô hấp thở lại hoàn toàn, ngoại trừ:",
+    "options": {
+      "A": "Không làm ô nhiễm môi trường",
+      "B": "Tiết kiệm khí gây mê",
+      "C": "Ít gây nhược thân",
+      "D": "Ít gây cháy nổ",
+      "E": "Gây mất thân nhiệt"
+    }
+  },
+  "de.1314.7": {
+    "question": "Gây mê tĩnh mạch, chọn câu sai:",
+    "options": {
+      "A": "Dùng thuốc mê qua đường tĩnh mạch",
+      "B": "Có thể phối hợp với thuốc giảm đau, dẫn cơ tùy nhu cầu phẫu thuật",
+      "C": "Bệnh nhân có thể được kiểm soát hô hấp bằng các dụng cụ đường thở",
+      "D": "Gây ô nhiễm môi trường",
+      "E": "Hiện nay ít sử dụng"
+    }
+  },
+  "de.1314.8": {
+    "question": "Gây mê bề mặt, chọn câu sai:",
+    "options": {
+      "A": "Áp dụng cho niêm mạc và da mỏng",
+      "B": "Thuốc tê chỉ thấm đến độ sâu dưới 5mm",
+      "C": "Sử dụng bằng cách xịt vào vùng định mê",
+      "D": "Sử dụng bằng cách tẩm bông thuốc tê lên vùng định mê",
+      "E": "Thường sử dụng thuốc tê nồng độ thấp"
+    }
+  },
+  "de.1314.9": {
+    "question": "Khi gây tê từng lớp để mổ, chọn câu sai:",
+    "options": {
+      "A": "Lưỡi dao bao giờ cũng đi trước mũi kim",
+      "B": "Mổ vùng nào thì gây tê vùng đó",
+      "C": "Tê đi từ nông đến sâu",
+      "D": "Nên tôn trọng thời gian thuốc tê ngấm và phát huy tác dụng",
+      "E": "Câu C và D đúng"
+    }
+  },
+  "de.1314.10": {
+    "question": "Lựa chọn một phương pháp vô cảm:",
+    "options": {
+      "A": "Dựa vào yếu tố bệnh nhân như: các bệnh kèm theo, dị ứng",
+      "B": "Dựa vào yếu tố phẫu thuật như: thời gian, vị trí phẫu thuật",
+      "C": "Dựa vào yếu tố hoàn cảnh hiện có như: nhân sự, máy móc, thuốc men",
+      "D": "Không nên ép buộc một phương pháp vô cảm mà bệnh nhân không muốn",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "de.1314.11": {
+    "question": "Đau, chọn câu sai:",
+    "options": {
+      "A": "Là cảm xúc, cảm giác không thoải mái với tổn thương",
+      "B": "Theo thời gian xuất hiện ta có đau nhanh và chậm",
+      "C": "Điều trị đau đa mô thức theo bậc thang điều trị của WHO",
+      "D": "Đau sau phẫu thuật là một dạng đau cấp",
+      "E": "Điều trị đau được bắt đầu khi đau chưa xuất hiện"
+    }
+  },
+  "de.1314.12": {
+    "question": "Đánh giá đau bệnh nhân nên dựa theo:",
+    "options": {
+      "A": "Dấu hiệu sinh tồn",
+      "B": "Các thang điểm đánh giá đau",
+      "C": "Trò chuyện cùng bệnh nhân",
+      "D": "Quan sát bệnh nhân",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "de.1314.13": {
+    "question": "Yếu tố nào sau đây không ảnh hưởng đến mức độ đau của bệnh nhân:",
+    "options": {
+      "A": "Cân nặng",
+      "B": "Giới tính",
+      "C": "Tâm lý",
+      "D": "Vị trí phẫu thuật",
+      "E": "Nhân lực"
+    }
+  },
+  "de.1314.14": {
+    "question": "Thuốc giảm đau nào sau đây thuộc nhóm opioids?",
+    "options": {
+      "A": "Paracetamol",
+      "B": "Ketorolac",
+      "C": "Efferalgan Codein",
+      "D": "Ibuprofen",
+      "E": "Tất cả đều sai"
+    }
+  },
+  "de.1314.15": {
+    "question": "Đau, chọn câu sai:",
+    "options": {
+      "A": "Đau là sự trải nghiệm không thoải mái với tổn thương",
+      "B": "Được coi là dấu hiệu sinh tồn thứ 5",
+      "C": "Gồm 2 loại là đau cấp và đau mạn",
+      "D": "Ảnh hưởng đến tất cả các cơ quan trong cơ thể",
+      "E": "Điều trị đau sau phẫu thuật luôn có Morphine"
+    }
+  },
+  "de.1314.16": {
+    "question": "Đau sau phẫu thuật có ảnh hưởng đến các cơ quan ngoại trừ:",
+    "options": {
+      "A": "Chậm lành vết thương",
+      "B": "Xẹp phổi",
+      "C": "Táo bón",
+      "D": "Tăng đường huyết",
+      "E": "Mất ngủ"
+    }
+  },
+  "de.1314.17": {
+    "question": "Đau sau phẫu thuật:",
+    "options": {
+      "A": "Là đau cấp có thể trở thành đau mạn nếu không điều trị tốt",
+      "B": "Dự phòng tăng đau sau phẫu thuật đặc biệt là phẫu lớn",
+      "C": "Phương pháp điều trị hiệu quả là phương pháp đa mô thức",
+      "D": "Tăng nguy cơ thuyên tắc mạch nếu không kiểm soát đau tốt",
+      "E": "Tất cả đều đúng"
+    }
+  },
+
+  "de.1314.24": {
+    "question": "Phẫu thuật cấp cứu là:",
+    "options": {
+      "A": "Có thời gian để chuẩn bị bệnh nhân trước mổ một cách chu đáo",
+      "B": "Có thời gian để đưa bệnh nhân về trạng thái tốt nhất",
+      "C": "Bệnh nhân cần phải được giải quyết phẫu thuật trong thời gian ngắn",
+      "D": "Cần phải truyền máu trước khi mổ"
+    }
+  },
+  "de.1314.25": {
+    "question": "Theo ASA, bệnh nhân mắc một bệnh nhẹ, chưa ảnh hưởng đến chức năng các cơ quan trong cơ thể, được đánh giá nguy cơ:",
+    "options": {
+      "A": "ASA I",
+      "B": "ASA II",
+      "C": "ASA III",
+      "D": "ASA IV",
+      "E": "ASA V"
+    }
+  },
+  "de.1314.26": {
+    "question": "Bệnh nhân khỏe mạnh được chỉ định mổ cấp cứu với chẩn đoán viêm túi mật cấp, theo ASA được đánh giá nguy cơ:",
+    "options": {
+      "A": "ASA IE",
+      "B": "ASA I",
+      "C": "ASA II",
+      "D": "ASA IIIE",
+      "E": "ASA III"
+    }
+  },
+  "de.1314.27": {
+    "question": "Cần chuẩn bị bệnh nhân trước mổ tốt nhằm:",
+    "options": {
+      "A": "Để phòng các tai biến xảy ra trong quá trình mổ và sau mổ",
+      "B": "Hạn chế các tai biến xảy ra trong quá trình mổ và sau mổ",
+      "C": "Xử trí các tai biến xảy ra trong quá trình mổ và sau mổ",
+      "D": "Câu A, B đúng",
+      "E": "Câu A, B, C đúng"
+    }
+  },
+  "de.1314.28": {
+    "question": "Chỉ định truyền máu trong thiếu máu mạn tính:",
+    "options": {
+      "A": "Huyết áp tâm trương <50 mmHg",
+      "B": "Hb <8g/dl",
+      "C": "Hb >8g/dl",
+      "D": "Huyết áp tâm thu <90 mmHg",
+      "E": "Tất cả các câu trên đều đúng"
+    }
+  },
+  "de.1314.29": {
+    "question": "Thuốc hạ huyết áp thuốc nhóm ức chế men chuyển:",
+    "options": {
+      "A": "Tiếp tục dùng đến ngày mổ",
+      "B": "Chuyển thuốc dạng chích vào ngày mổ",
+      "C": "Ngưng 7 ngày trước mổ",
+      "D": "Ngưng 1 ngày trước mổ",
+      "E": "Ngưng 2 ngày trước mổ"
+    }
+  },
+  "de.1314.30": {
+    "question": "Mục đích của thuốc tiền mê:",
+    "options": {
+      "A": "An thần",
+      "B": "Giảm lo lắng",
+      "C": "Gây quên",
+      "D": "Câu A, C đúng",
+      "E": "Câu A, B, C đúng"
+    }
+  },
+  "de.1314.31": {
+    "question": "Đêm trước mổ, thường dùng thuốc an thần bằng",
+    "options": {
+      "A": "Đường uống",
+      "B": "Truyền tĩnh mạch",
+      "C": "Tiêm tĩnh mạch",
+      "D": "Tiêm bắp",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "de.1314.32": {
+    "question": "Cần phải nhịn ăn trước mổ vì:",
+    "options": {
+      "A": "Bệnh nhân suy dinh dưỡng khi mổ sẽ chậm lành vết mổ",
+      "B": "Hạn chế ăn uống sau mổ",
+      "C": "Sau mổ phải nuôi bằng đường truyền",
+      "D": "Tất cả đều sai",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "de.1314.33": {
+    "question": "Chỉ định truyền máu trong mất máu cấp:",
+    "options": {
+      "A": "Mất máu >500ml",
+      "B": "Máu mất 20%",
+      "C": "Không cần truyền dịch, chỉ cần bù bằng dung dịch keo",
+      "D": "Không cần truyền khi phẫu thuật cấp cứu vì làm chậm thời gian phẫu thuật",
+      "E": "Tất cả đều sai"
+    }
+  },
+  "de.1314.34": {
+    "question": "Thuốc an thần nào sau đây vừa có tác dụng an thần vừa có tác dụng giảm đau:",
+    "options": {
+      "A": "Midazolam",
+      "B": "Diazepam",
+      "C": "Loaepam",
+      "D": "Flumazenil",
+      "E": "Dexmedetomidine"
+    }
+  },
+  "de.1314.35": {
+    "question": "Tác dụng không mong muốn khi dùng thuốc á phiện:",
+    "options": {
+      "A": "Ngứa",
+      "B": "Gây nghiện",
+      "C": "Ức chế hô hấp",
+      "D": "Ức chế phản xạ ho",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "de.1314.36": {
+    "question": "Thuốc mê tĩnh mạch nào vừa có tác dụng ngây ngủ vừa có tác dụng giảm đau:",
+    "options": {
+      "A": "Propofol",
+      "B": "Thiopental",
+      "C": "Ketamin",
+      "D": "Etomidate",
+      "E": "Midazolam"
+    }
+  },
+  "de.1314.37": {
+    "question": "Thuốc dẫn cơ nào sau đây không thuộc nhóm giãn cơ không khử cực:",
+    "options": {
+      "A": "Pancuronium",
+      "B": "Rocuronium",
+      "C": "Vecuronium",
+      "D": "Suxamethonium",
+      "E": "Atracurium"
+    }
+  },
+  "de.1314.38": {
+    "question": "Thuốc dẫn cơ nào sau đây được lựa cho bệnh nhân suy gan, thận:",
+    "options": {
+      "A": "Pancuronium",
+      "B": "Rocuronium",
+      "C": "Vecuronium",
+      "D": "Suxamethonium",
+      "E": "Atracurium"
+    }
+  },
+  "de.1314.39": {
+    "question": "Thuốc tê nào sau đây gây tai biến tim mạch nhiều nhất:",
+    "options": {
+      "A": "Lidocain",
+      "B": "Bupivacain",
+      "C": "Ropivacain",
+      "D": "Mepivacain",
+      "E": "Prilocain"
+    }
+  },
+  "de.1314.40": {
+    "question": "Thuốc nào sau đây để hóa giải thuốc giãn cơ tồn dư:",
+    "options": {
+      "A": "Neostigmine",
+      "B": "Naloxon",
+      "C": "Flumazenil",
+      "D": "Tất cả đều đúng",
+      "E": "Tất cả đều sai"
+    }
+  },
+  "de.1314.41": {
+    "question": "Thời gian nhịn ăn uống trước mổ:",
+    "options": {
+      "A": "Đối với thức ăn đặc là 4-6 giờ",
+      "B": "Đối với thức ăn lỏng là 4-6 giờ",
+      "C": "Đối với nước lọc là 4-6 giờ",
+      "D": "Tất cả đều phải nhịn từ 4-6 giờ",
+      "E": "Không cần phải nhịn tất cả các loại thức ăn"
+    }
+  },
+  "de.1314.42": {
+    "question": "Phát biểu về phòng hồi tỉnh chọn câu đúng:",
+    "options": {
+      "A": "Nên đặt gần phòng mổ",
+      "B": "Có thể theo dõi tất cả các bệnh nhân cùng một lúc",
+      "C": "Tỷ lệ giường của phòng hồi tỉnh : phòng mổ theo tỉ lệ 1,5/1",
+      "D": "Mỗi giường bệnh nên đủ ánh sáng và không gian để các máy móc hồi sức",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "de.1314.43": {
+    "question": "Chăm sóc bệnh nhân gây tê, chọn câu sai:",
+    "options": {
+      "A": "Những bệnh nhân tiền mê sâu sau gây tê cũng nên được cung cấp oxy",
+      "B": "Mức độ cảm giác, vận động nên được ghi nhận sau gây tê để theo thời gian giảm mức độ tê",
+      "C": "Chú ý tắt các điểm tê để đề phòng tổn thương thần kinh do chỗ không cử động, mất cảm giác",
+      "D": "HA nên được theo dõi sát sau gây tê tuỷ sống, gây tê ngoài màng cứng",
+      "E": "Luôn luôn đặt thông tiểu cho bệnh nhân khi gây tê tuỷ sống"
+    }
+  },
+  "de.1314.44": {
+    "question": "Tiêu chuẩn rút ống nội khí quản bao gồm:",
+    "options": {
+      "A": "Huyết động ổn định",
+      "B": "Hóa giải dãn cơ đầy đủ",
+      "C": "Hô hấp ổn định",
+      "D": "Tỉnh hoàn toàn",
+      "E": "Tất cả các câu đều đúng"
+    }
+  },
+  "de.1314.45": {
+    "question": "Nguyên nhân thường gặp trong gây mê:",
+    "options": {
+      "A": "Rối loạn huyết động",
+      "B": "Đột quỵ",
+      "C": "Hạ thân nhiệt",
+      "D": "Tăng đường huyết",
+      "E": "Tồn đọng thuốc mê"
+    }
+  },
+  "de.1314.46": {
+    "question": "Các phương pháp dự phòng nôn ói hậu phẫu:",
+    "options": {
+      "A": "Nhịn uống nước",
+      "B": "Bù đủ dịch trước và trong mổ",
+      "C": "Châm cứu",
+      "D": "Thuốc: ondansetron, dexamethasone",
+      "E": "Các câu trên đều đúng"
+    }
+  },
+  "de.1314.47": {
+    "question": "Các yếu tố thuận lợi làm hạ thân nhiệt bệnh nhân, ngoại trừ:",
+    "options": {
+      "A": "Thời gian mổ dài",
+      "B": "Nhiệt độ phòng mổ thấp",
+      "C": "Phơi bày phẫu trường",
+      "D": "Không sưởi ấm dịch",
+      "E": "Đắp chăn, sưởi đèn"
+    }
+  },
+  "de.1314.48": {
+    "question": "Tiêu chuẩn rời khỏi phòng hồi tỉnh bao gồm, ngoại trừ:",
+    "options": {
+      "A": "Tỉnh táo hoàn toàn",
+      "B": "Dấu hiệu sinh tồn ổn định ít nhất 15-30 phút",
+      "C": "Khả năng bảo vệ đường thở tốt",
+      "D": "Bệnh nhân ăn uống lại bình thường",
+      "E": "Có khả năng gọi khi cần giúp đỡ"
+    }
+  },
+  "de.1314.49": {
+    "question": "Để bảo đảm an toàn vệ sinh khuẩn, cần phải:",
+    "options": {
+      "A": "Hạn chế số người có mặt trong phòng mổ",
+      "B": "Hạn chế mở cửa phòng mổ khi đang mổ",
+      "C": "Bắt buộc phải mang khẩu trang khi vào phòng mổ",
+      "D": "Tất cả các câu trên đều sai",
+      "E": "Tất cả các câu trên đều đúng"
+    }
+  },
+  "de.1314.50": {
+    "question": "Khoa gây mê hồi sức có nhiệm vụ:",
+    "options": {
+      "A": "Khám trước gây mê để chuẩn bị bệnh nhân trước mổ",
+      "B": "Thực hiện vô cảm toàn thân, vô cảm vùng cho bệnh nhân",
+      "C": "Theo dõi chăm sóc bệnh nhân sau gây mê tại các phòng hồi tỉnh và chăm sóc tích cực",
+      "D": "Điều trị đau",
+      "E": "Tất cả các ý trên đều đúng"
+    }
+  },
     "90000": {
         "question": "Thành phần nào sau đây được quy cho là khoảng chết của hệ thống vòng:",
         "options": {
