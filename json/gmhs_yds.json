@@ -1,4 +1,2739 @@
 {
+  "gmhs.116.39": {
+    "question": "Sự làm trống dạ dày bị kéo dài ở các tình huống sau đây (M)",
+    "options": {
+      "A": "Tiểu đường kiểm soát kém",
+      "B": "Sử dụng các thuốc opioids",
+      "C": "Sử dụng thuốc metoclopramide",
+      "D": "Tăng áp lực ổ bụng (có thai, béo phì) gây trào ngược thụ động",
+      "E": "Chấn thương sọ não"
+    }
+  },
+  "gmhs.116.40": {
+    "question": "EtCO₂ cao, cần nghĩ đến các chẩn đoán nào sau đây (M)",
+    "options": {
+      "A": "Hạ thân nhiệt",
+      "B": "Hấp thu khí CO₂ trong PT nội soi có bơm khí CO₂",
+      "C": "Tái tưới máu do mổ kẹp động mạch chủ",
+      "D": "Vôi hút CO₂ bị bão hòa",
+      "E": "Tất cả các câu trên đều đúng"
+    }
+  },
+  "gmhs.116.41": {
+    "question": "Thiếu oxy máu được định nghĩa khi áp lực riêng phần oxy trong máu động mạch nhỏ hơn ____ mmHg khi thở không khí trong phòng",
+    "options": {
+      "A": "50",
+      "B": "60",
+      "C": "70",
+      "D": "80",
+      "E": "100"
+    }
+  },
+  "gmhs.116.42": {
+    "question": "Hút thuốc lá là yếu tố nguy cơ độc lập mà trường hợp nào sau đây xảy ra trong khi xử trí đường thở",
+    "options": {
+      "A": "Mất bão hòa oxygen",
+      "B": "Bão hòa oxygen trước mổ thấp",
+      "C": "Co thắt phế quản",
+      "D": "Chấn thương răng",
+      "E": "Nút nhầy"
+    }
+  },
+  "gmhs.116.43": {
+    "question": "So với người không hút thuốc lá, người hút thuốc có tăng tỉ lệ",
+    "options": {
+      "A": "Tất cả biến chứng phổi",
+      "B": "Những biến chứng nhiễm trùng phổi",
+      "C": "Nhập ICU sau phẫu thuật",
+      "D": "Thông khí cơ học kéo dài sau phẫu thuật",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "gmhs.116.44": {
+    "question": "Tình trạng cung cấp oxygen cho mô (oxygenation) được đánh giá qua (M)",
+    "options": {
+      "A": "Máy đo độ bão hòa oxy qua mạch (pulse oximetry)",
+      "B": "Thán đồ (capnogramme)",
+      "C": "Màu sắc da, niêm mạc",
+      "D": "Khí máu động mạch",
+      "E": "Sự đồng bộ của thở ngực – bụng"
+    }
+  },
+  "gmhs.116.45": {
+    "question": "Liên quan đến sự đo độ bão hòa oxygen qua mạch máu, câu nào sau đây đúng (M)",
+    "options": {
+      "A": "Máy đo độ bão hòa oxy qua mạch này có thể cho biết muộn về sự trao đổi khí không đủ",
+      "B": "SpO₂ chỉ đo chính xác trong khoảng bão hòa oxy 80 → 95%",
+      "C": "Giảm tưới máu mô, cử động, sơn móng tay (màu xanh) có thể làm sai lệch kết quả đo SpO₂",
+      "D": "Máy pulse oximeter đo được 4 loại hemoglobin: hemoglobin, oxyhemoglobine, carboxyhemoglobine, methemoglobine",
+      "E": "Máy pulse oximeter đo kém chính xác ở người bệnh dùng thuốc co mạch"
+    }
+  },
+  "gmhs.116.46": {
+    "question": "Valve có chức năng hạn chế giao hỗn hợp khí nghèo oxy có tên là (S)",
+    "options": {
+      "A": "Fail-safe valves",
+      "B": "Pressure regulators",
+      "C": "APL valve",
+      "D": "Valve một chiều",
+      "E": "Second stage oxygen regulator"
+    }
+  },
+  "gmhs.116.47": {
+    "question": "Oxy khẩn (M)",
+    "options": {
+      "A": "Cung cấp oxy 100%",
+      "B": "Áp lực cao 45–55 psi",
+      "C": "Tốc độ dòng khí 40–60 l/phút",
+      "D": "Có thể gây tổn thương phổi do áp lực",
+      "E": "Luồng khí oxy đi ngang qua bình bốc hơi"
+    }
+  },
+  "gmhs.116.48": {
+    "question": "Theo Hiệp hội BS gây mê Mỹ về xử trí đường hô hấp khó, hành động nào cần cân nhắc sau khi cố gắng đặt NKQ không thành công?",
+    "options": {
+      "A": "Kêu gọi sự giúp đỡ",
+      "B": "Quay trở lại thông khí tự nhiên",
+      "C": "Để bệnh nhân tỉnh lại",
+      "D": "Đặt mask thanh quản",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "gmhs.116.49": {
+    "question": "Yếu tố nguy cơ hít dịch dạ dày trong mổ bao gồm các yếu tố sau, ngoại trừ",
+    "options": {
+      "A": "Phẫu thuật cấp cứu",
+      "B": "Tắc ruột",
+      "C": "Nữ giới",
+      "D": "Béo phì",
+      "E": "Chấn thương đầu"
+    }
+  },
+  "gmhs.116.50": {
+    "question": "Cơ chế có thể gây thiếu oxy trong gây mê bao gồm tất cả điều sau, trừ",
+    "options": {
+      "A": "Giảm thông khí",
+      "B": "Tăng thông khí",
+      "C": "Tăng FRC",
+      "D": "Nằm ngửa",
+      "E": "Tăng áp lực đường thở"
+    }
+  },
+  "gmhs.116.51": {
+    "question": "Hệ thống Mapleson nào sau đây không có bóng dự trữ (S)",
+    "options": {
+      "A": "Mapleson A",
+      "B": "Mapleson B",
+      "C": "Mapleson C",
+      "D": "Mapleson D",
+      "E": "Mapleson E"
+    }
+  },
+  "gmhs.116.52": {
+    "question": "Mức PaCO₂ máu động mạch (PaCO₂)",
+    "options": {
+      "A": "Chỉ phụ thuộc thông khí phút",
+      "B": "Độc lập với sản xuất CO₂",
+      "C": "Không phụ thuộc vào thông khí khoảng chết",
+      "D": "Thay đổi trực tiếp theo sản xuất CO₂ và nghịch đảo với thông khí phút",
+      "E": "Giảm khi thông khí khoảng chết tăng"
+    }
+  },
+  "gmhs.116.53": {
+    "question": "Phổi bình thường trong tư thế đứng",
+    "options": {
+      "A": "Lưu lượng máu lớn nhất ở đỉnh",
+      "B": "Thông khí lớn nhất ở đỉnh",
+      "C": "Tỉ lệ thông khí/tưới máu (V/Q) ở đỉnh cao hơn",
+      "D": "Thông khí không thay đổi",
+      "E": "PaO₂ thấp hơn ở đỉnh phổi so với đáy"
+    }
+  },
+  "gmhs.116.54": {
+    "question": "Sự vận chuyển carbon dioxide bao gồm tất cả phần sau, trừ",
+    "options": {
+      "A": "Nước",
+      "B": "Bicarbonate ion",
+      "C": "Carbonic anhydrase",
+      "D": "Hemoglobin",
+      "E": "Carboxyhemoglobin"
+    }
+  },
+  "gmhs.116.55": {
+    "question": "Khi đo huyết áp xâm lấn, để zero transducer tương ứng vị trí nào trên cơ thể khi nằm ngửa? (M)",
+    "options": {
+      "A": "Ngang đường nách sau",
+      "B": "Ngang đường nách giữa",
+      "C": "Tương ứng vị trí nhĩ phải",
+      "D": "Ngang đường nách trước"
+    }
+  },
+  "gmhs.116.56": {
+    "question": "Trên người khỏe mạnh, không bệnh tim mạch, CVP tương ứng với áp lực nào (S)",
+    "options": {
+      "A": "Áp lực cuối tâm trương thất phải",
+      "B": "Áp lực cuối tâm trương thất trái",
+      "C": "Cả 2 đều đúng",
+      "D": "Cả 2 đều sai"
+    }
+  },
+  "gmhs.116.57": {
+    "question": "Chất chỉ thị có trong hấp thu carbon dioxide là",
+    "options": {
+      "A": "Methylene blue",
+      "B": "Ethyl violet",
+      "C": "Bromthymol blue",
+      "D": "Phenolphthalein",
+      "E": "Cresol purple"
+    }
+  },
+  "gmhs.116.58": {
+    "question": "Xem dạng sóng capnograph có thể phát hiện tất cả tình huống sau, TRỪ",
+    "options": {
+      "A": "Ngắt kết nối nguồn oxy",
+      "B": "Tình trạng bạc màu của chất hấp thụ CO₂",
+      "C": "Thuyên tắc phổi",
+      "D": "Khò khè",
+      "E": "Ống thực quản"
+    }
+  },
+  "gmhs.116.59": {
+    "question": "Thành phần chính theo trọng lượng riêng trong chất hấp thu CO₂ là",
+    "options": {
+      "A": "Barium hydroxide",
+      "B": "Calcium hydroxide",
+      "C": "pH indicator",
+      "D": "Potassium hydroxide",
+      "E": "Sodium hydroxide"
+    }
+  },
+  "gmhs.116.60": {
+    "question": "Sự hình thành carbon monoxide trong chất hấp thu CO₂ được tạo điều kiện bởi tất cả hợp chất sau, trừ",
+    "options": {
+      "A": "Desflurane",
+      "B": "Potassium hydroxide",
+      "C": "Sodium hydroxide",
+      "D": "Water"
+    }
+  },
+  "gmhs.116.61": {
+    "question": "Phát biểu nào sau đây về hít dịch dạ dày đúng",
+    "options": {
+      "A": "Hít dịch dạ dày có thể dẫn đến hội chứng Mendelson",
+      "B": "Nếu đặt NKQ, thông khí nên bắt đầu ngay để bảo vệ",
+      "C": "Nên dùng kháng sinh phòng ngừa",
+      "D": "Nên dùng corticosteroids",
+      "E": "Không có lợi ích dùng thuốc phòng ngừa để kiểm soát thể tích và acid dạ dày"
+    }
+  },
+  "gmhs.116.62": {
+    "question": "Áp lực mao mạch phổi bít (PAWP) tương ứng với áp lực nào (M)",
+    "options": {
+      "A": "Áp lực động mạch phổi",
+      "B": "Áp lực tĩnh mạch phổi",
+      "C": "Áp lực nhĩ trái",
+      "D": "Áp lực cuối tâm trương thất trái"
+    }
+  },
+  "gmhs.116.63": {
+    "question": "SvO₂ của cơ quan nào thấp nhất (tiêu thụ oxy nhiều nhất)? (S)",
+    "options": {
+      "A": "Thận",
+      "B": "Não",
+      "C": "Gan",
+      "D": "Tim"
+    }
+  },
+  "gmhs.116.64": {
+    "question": "Khoảng chết giải phẫu bắt đầu ở miệng và/hoặc mũi và kết thúc ở",
+    "options": {
+      "A": "Phế quản thuỳ",
+      "B": "Tiểu phế quản hô hấp",
+      "C": "Tiểu phế quản tận",
+      "D": "Ống phế nang"
+    }
+  },
+  "gmhs.116.65": {
+    "question": "Đặt NKQ ngược dòng là kĩ thuật hữu ích cho đường thở khó, ngoại trừ",
+    "options": {
+      "A": "Cứng hàm",
+      "B": "Cứng khớp hàm dưới",
+      "C": "Bệnh nhân béo phì có râu",
+      "D": "Cứng khớp đốt sống cổ",
+      "E": "Chấn thương hàm"
+    }
+  },
+  "gmhs.116.66": {
+    "question": "Trường hợp nào không nên dùng mask thanh quản?",
+    "options": {
+      "A": "Thông khí cấp cứu khi đặt NKQ thất bại",
+      "B": "Trợ giúp đặt NKQ",
+      "C": "Bảo vệ chống lại hít dịch dạ dày",
+      "D": "Phòng ngừa thay đổi tối thiểu huyết áp và tần số tim",
+      "E": "Trợ giúp nội soi phế quản bằng ống quang học"
+    }
+  },
+  "gmhs.116.67": {
+    "question": "Phân bố thông khí ở phổi ở bệnh nhân thở tự nhiên",
+    "options": {
+      "A": "Đỉnh phổi lớn nhất",
+      "B": "Vùng giữa phổi lớn nhất",
+      "C": "Vùng đáy lớn nhất",
+      "D": "2/3 trên của phổi lớn nhất",
+      "E": "Phân bố đều"
+    }
+  },
+  "gmhs.116.68": {
+    "question": "Mask thanh quản",
+    "options": {
+      "A": "Bảo vệ chống hít dịch dạ dày và NKQ",
+      "B": "Dùng phòng ngừa tắc đường thở trong gây mê",
+      "C": "Cho phép thông khí áp lực dương",
+      "D": "Cần linh hoạt cho soi thanh quản bằng ống quang học",
+      "E": "Dễ đặt khi có trợ giúp ép sụn nhẫn"
+    }
+  },
+  "gmhs.116.69": {
+    "question": "Loại phẫu thuật nào không liên kết với tăng nguy cơ thức tỉnh trong gây mê",
+    "options": {
+      "A": "Phẫu thuật tim",
+      "B": "Phẫu thuật chấn thương",
+      "C": "Phẫu thuật chỉnh hình",
+      "D": "Phẫu thuật sản khoa",
+      "E": "Tất cả đều liên quan"
+    }
+  },
+  "gmhs.116.70": {
+    "question": "Tất cả điều sau thường thấy trong ngộ độc CO, trừ",
+    "options": {
+      "A": "Seizures and coma",
+      "B": "Lactic acidosis",
+      "C": "Mất bão hòa pulse oximetry",
+      "D": "Carboxyhemoglobin",
+      "E": "PaO₂ bình thường"
+    }
+  },
+  "gmhs.116.71": {
+    "question": "End-tidal CO₂ tăng do",
+    "options": {
+      "A": "Cho bicarbonate",
+      "B": "Rò rỉ xung quanh cuff NKQ",
+      "C": "Tụt huyết áp",
+      "D": "Ngừng tim",
+      "E": "Thuyên tắc khí trong tim"
+    }
+  },
+  "gmhs.116.72": {
+    "question": "Bệnh nhân có tiền căn thức tỉnh trong gây mê theo dõi với BIS đáng tin cậy nhất khi gây mê với",
+    "options": {
+      "A": "Oxygen + liều cao fentanyl",
+      "B": "Ketamine",
+      "C": "Nitrous oxide",
+      "D": "Xenon",
+      "E": "Propofol"
+    }
+  },
+  "gmhs.116.73": {
+    "question": "Pulse oximeters",
+    "options": {
+      "A": "Dựa trên nguyên tắc Bernoulli",
+      "B": "Không thể phân biệt methemoglobin từ oxyhemoglobin",
+      "C": "Có thể phân biệt methemoglobin từ oxyhemoglobin",
+      "D": "Dùng bước sóng của ánh sáng đỏ"
+    }
+  },
+  "gmhs.116.74": {
+    "question": "Ống nội khí quản 2 nòng được gây mê cho bệnh nhân nặng sau",
+    "options": {
+      "A": "Hen phế quản",
+      "B": "Ho ra máu",
+      "C": "Khí phế thũng",
+      "D": "Suy tim",
+      "E": "Hẹp khí quản"
+    }
+  },
+  "gmhs.116.1": {
+    "question": "Thở oxy 100% ở áp lực khí quyển gây ra",
+    "options": {
+      "A": "Đau sau xương ức",
+      "B": "Tổn thương phổi",
+      "C": "Rối loạn thính giác",
+      "D": "Xẹp phổi",
+      "E": "Co giật"
+    }
+  },
+  "gmhs.116.2": {
+    "question": "Thở ra khi thanh môn đóng kín",
+    "options": {
+      "A": "Làm tăng áp lực khí quản",
+      "B": "Không gây thay đổi tần số tim",
+      "C": "Cung lượng tim thất phải tăng",
+      "D": "Cung lượng tim thất trái lúc đầu tăng, sau giảm",
+      "E": "Huyết áp tâm thu lúc đầu giảm, sau tăng"
+    }
+  },
+  "gmhs.116.3": {
+    "question": "Tăng thông khí quá mức gây ra",
+    "options": {
+      "A": "Tăng PaCO₂",
+      "B": "Giảm nồng độ ion calci trong máu",
+      "C": "Thiếu oxy máu",
+      "D": "Giảm PaO₂",
+      "E": "Tăng pH máu động mạch"
+    }
+  },
+  "gmhs.116.4": {
+    "question": "Thành phần nào sau đây được quy cho là khoảng chết của hệ thống vòng",
+    "options": {
+      "A": "Bình hấp thu CO₂",
+      "B": "Túi thở (dự trữ)",
+      "C": "Chiều dài ống từ van một chiều đến ống chữ Y",
+      "D": "Khoảng cách ống chữ Y đến tiểu phế quản tận",
+      "E": "Tất cả câu trên"
+    }
+  },
+  "gmhs.116.5": {
+    "question": "Nguyên nhân thiếu oxy máu động mạch sau mổ",
+    "options": {
+      "A": "Giảm thể tích thường lưu",
+      "B": "Tư thế",
+      "C": "Nồng độ oxygen trong khí hít vào",
+      "D": "Ứ động CO₂",
+      "E": "Đau"
+    }
+  },
+  "gmhs.116.6": {
+    "question": "Điều nào sau đây ít gây thiếu oxy sau mổ",
+    "options": {
+      "A": "Cho opioid quá mức trong mổ",
+      "B": "Phù phổi áp lực âm",
+      "C": "Hạ thân nhiệt",
+      "D": "Hạ huyết áp",
+      "E": "Đau sau phẫu thuật lồng ngực"
+    }
+  },
+  "gmhs.116.7": {
+    "question": "Sức chứa oxygen của máu là",
+    "options": {
+      "A": "Lượng oxy tối đa được kết hợp trong 100 ml máu",
+      "B": "Tỷ lệ giữa sự lấy oxy tại mô và sử dụng oxy tại mô",
+      "C": "Độc lập với nồng độ hemoglobin trong máu",
+      "D": "Lượng oxy hòa tan trong máu",
+      "E": "Bình thường là 15 ml trong 100 ml máu động mạch"
+    }
+  },
+  "gmhs.116.8": {
+    "question": "Phần nào sau đây xác định áp suất bay hơi của thuốc mê",
+    "options": {
+      "A": "Thể tích chất lỏng trong bình chứa (vd., bình bốc hơi)",
+      "B": "Nhiệt độ",
+      "C": "Áp suất khí quyển",
+      "D": "Diện tích bề mặt chất lỏng trong bình chứa",
+      "E": "Nhiều hơn một câu đúng"
+    }
+  },
+  "gmhs.116.9": {
+    "question": "Bệnh nhân gây mê ở tư thế nằm nghiêng",
+    "options": {
+      "A": "Phổi bên dưới được thông khí tốt hơn phổi bên trên",
+      "B": "Phổi bên dưới được thông khí kém hơn phổi bên trên",
+      "C": "Phổi bên dưới được tưới máu tốt hơn phổi bên trên",
+      "D": "Phổi bên dưới được tưới máu kém hơn phổi bên trên"
+    }
+  },
+  "gmhs.116.10": {
+    "question": "Phát biểu nào sau đây về valve oxy khẩn sai?",
+    "options": {
+      "A": "Sử dụng valve oxy khẩn có thể gây chấn thương áp lực, đặc biệt với máy gây mê thế hệ cũ",
+      "B": "Valve oxy khẩn luôn cấp khí ra 50 psi",
+      "C": "Sử dụng valve oxy khẩn có thể pha loãng thuốc mê khí khi hít vào",
+      "D": "Valve oxy khẩn có thể dùng trong một số trường hợp thông khí phụt",
+      "E": "Tất cả phát biểu trên đều đúng"
+    }
+  },
+  "gmhs.116.11": {
+    "question": "Nếu thêm oxygen vào khí hít vào để tăng áp lực phần của oxy từ 150 mmHg lên 450 mmHg",
+    "options": {
+      "A": "Oxy hòa tan trong máu tăng khoảng 3 lần",
+      "B": "Lượng oxygen trong máu tăng khoảng 3 lần",
+      "C": "PaN₂ sẽ không thay đổi",
+      "D": "PaO₂ sẽ tăng khoảng 3 lần",
+      "E": "Ngừa ứ thán khí"
+    }
+  },
+  "gmhs.116.12": {
+    "question": "Phần nào sau đây ít gây chấn thương do áp lực",
+    "options": {
+      "A": "Sử dụng valve oxy khẩn trong thì hít vào với một số máy thông khí cơ học",
+      "B": "Đóng valve APL khi chuyển từ thông khí cơ học sang tự nhiên",
+      "C": "Tắc phân thở ra của vòng thở",
+      "D": "Sử dụng thông khí phụt trong phẫu thuật thanh quản",
+      "E": "Van xả thông gió không hoàn toàn"
+    }
+  },
+  "gmhs.116.13": {
+    "question": "Dấu chỉ điểm tốt nhất của đặt NKQ khó trên bệnh nhân béo phì",
+    "options": {
+      "A": "Độ Mallampati",
+      "B": "Vòng cổ",
+      "C": "Hạn chế cử động cột sống cổ",
+      "D": "Bệnh khớp thái dương–hàm",
+      "E": "Trọng lượng cơ thể"
+    }
+  },
+  "gmhs.116.14": {
+    "question": "Tất cả yếu tố sau đây đều ảnh hưởng đến tỉ lệ lưu lượng khí qua lưu lượng kế, ngoại trừ",
+    "options": {
+      "A": "Tính chất vật lý của khí",
+      "B": "Sự khác biệt áp suất qua ống hẹp",
+      "C": "Chiều dài ống lưu lượng kế",
+      "D": "Kích thước lỗ trong ống",
+      "E": "Áp suất xung quanh"
+    }
+  },
+  "gmhs.116.15": {
+    "question": "Vị trí đo nhiệt độ nào sau đây ít phản ánh nhiệt độ não trong hạ thân nhiệt do ngừng tuần hoàn",
+    "options": {
+      "A": "Trực tràng",
+      "B": "Mũi hầu",
+      "C": "Động mạch phổi",
+      "D": "Thực quản",
+      "E": "Tất cả vị trí trên đều phản ánh chính xác nhiệt độ não"
+    }
+  },
+  "gmhs.116.16": {
+    "question": "Nồng độ oxy hít vào bằng mũi với lưu lượng 6 l/phút, xấp xỉ",
+    "options": {
+      "A": "30%",
+      "B": "45%",
+      "C": "60%",
+      "D": "75%",
+      "E": "90%"
+    }
+  },
+  "gmhs.116.17": {
+    "question": "Các biểu hiện lâm sàng nào dự báo đường thở khó",
+    "options": {
+      "A": "Không thể mở miệng lớn",
+      "B": "Cột sống cổ di động kém",
+      "C": "Răng hô",
+      "D": "Cổ ngắn và bạnh",
+      "E": "Có răng giả"
+    }
+  },
+  "gmhs.116.18": {
+    "question": "Khi khám miệng để đánh giá đường thở khó, cần đánh giá",
+    "options": {
+      "A": "Phân độ Mallampati",
+      "B": "Lưỡi lớn",
+      "C": "Sẹo co rút quanh miệng, cứng khớp thái dương–hàm",
+      "D": "Tình trạng vệ sinh răng miệng",
+      "E": "Phì đại amidan"
+    }
+  },
+  "gmhs.116.19": {
+    "question": "Sau khi khởi mê và đặt NKQ 3 lần thất bại, cần thực hiện",
+    "options": {
+      "A": "Gọi người đến giúp",
+      "B": "Chích thêm succinylcholine 1 mg/kg cho lần 4",
+      "C": "Cho bệnh nhân tự thở lại",
+      "D": "Thông khí qua mặt nạ với oxy 100%",
+      "E": "Đặt mặt nạ thanh quản nếu mask không hiệu quả"
+    }
+  },
+  "gmhs.116.20": {
+    "question": "Capnometry ít có lợi để theo dõi tình huống nào",
+    "options": {
+      "A": "Tuột ống nội khí quản",
+      "B": "Tắc đường thở hoàn toàn",
+      "C": "Đặt ống nội phế quản",
+      "D": "Tăng thân nhiệt ác tính",
+      "E": "Đặt ống vào thực quản"
+    }
+  },
+  "gmhs.116.21": {
+    "question": "Hợp chất nào gây độc được sinh ra khi khí desflurane qua bình hấp thụ soda khô",
+    "options": {
+      "A": "Cyanide",
+      "B": "Carbon monoxide",
+      "C": "Compound A",
+      "D": "Dichloroacetylene",
+      "E": "Không hợp chất nào trên"
+    }
+  },
+  "gmhs.116.22": {
+    "question": "Yếu tố làm tăng nồng độ % desflurane bởi bình bốc hơi",
+    "options": {
+      "A": "Giảm nhiệt độ",
+      "B": "Tăng nhiệt độ",
+      "C": "Giảm áp suất bay hơi",
+      "D": "Giảm độ cao",
+      "E": "Tăng độ cao"
+    }
+  },
+  "gmhs.116.23": {
+    "question": "Tỷ lệ đặt NKQ thất bại hoặc không có khả năng đặt",
+    "options": {
+      "A": "0.5–1%",
+      "B": "1–4%",
+      "C": "4–8%",
+      "D": "8–15%",
+      "E": "Lớn hơn 15%"
+    }
+  },
+  "gmhs.116.24": {
+    "question": "Có thể khai thông đường thở bằng các phương pháp nào",
+    "options": {
+      "A": "Nghiệm pháp Sellick",
+      "B": "Ngửa cổ",
+      "C": "Xoay đầu sang một bên",
+      "D": "Nâng hàm",
+      "E": "Nghiệm pháp BURP"
+    }
+  },
+  "gmhs.116.25": {
+    "question": "Định nghĩa Mallampati độ III",
+    "options": {
+      "A": "Thấy màng trụ, màng hầu mềm và lưỡi gà",
+      "B": "Chỉ thấy màng hầu mềm",
+      "C": "Không thấy màng hầu mềm",
+      "D": "Có thể thấy màng trụ, màng hầu mềm nhưng lưỡi gà che khuất",
+      "E": "Tất cả câu trên đều sai"
+    }
+  },
+  "gmhs.116.26": {
+    "question": "Phân loại Mallampati chú ý tư thế khám bệnh nhân",
+    "options": {
+      "A": "Nằm ngửa, mở miệng tối đa, thè lưỡi ra và phát âm",
+      "B": "Tư thế Fowler, mở miệng tối đa, thè lưỡi ra không phát âm",
+      "C": "Ngồi, mở miệng, lưỡi vị trí trung gian, không phát âm",
+      "D": "Ngồi, mở miệng tối đa, lưỡi lè ra ngoài, không phát âm",
+      "E": "Ngồi, mở miệng tối đa, lưỡi lè ra ngoài, phát âm"
+    }
+  },
+  "gmhs.116.27": {
+    "question": "Yếu tố ảnh hưởng lớn nhất trên kháng lực vòng thở",
+    "options": {
+      "A": "Van một chiều",
+      "B": "Bình hấp thu CO₂",
+      "C": "Ống chữ Y",
+      "D": "Ống nội khí quản",
+      "E": "Không yếu tố nào"
+    }
+  },
+  "gmhs.116.28": {
+    "question": "Yếu tố dự báo khó đặt mặt nạ thanh quản",
+    "options": {
+      "A": "Béo phì (BMI > 26 kg/m²)",
+      "B": "Mở miệng < 2,5 cm",
+      "C": "Góc ngửa cổ < 90°",
+      "D": "Khối u vùng hầu",
+      "E": "Mất răng"
+    }
+  },
+  "gmhs.116.29": {
+    "question": "Yếu tố dự báo khó mở khí quản cấp cứu",
+    "options": {
+      "A": "Khối u vùng trước cổ",
+      "B": "Khí quản lệch sang một bên",
+      "C": "Khoảng cách sụn giáp–cằm < 6,5 cm",
+      "D": "Sẹo co rút vùng cổ",
+      "E": "Râu quai nón"
+    }
+  },
+  "gmhs.116.30": {
+    "question": "Diễn tiến thiếu oxy máu trong 10 phút đầu đặt NKQ phải giả định là thực quản trừ khi",
+    "options": {
+      "A": "Ống nhìn thấy qua dây thanh âm, sóng capno bình thường",
+      "B": "Nghe âm phổi đều hai bên",
+      "C": "Thấy ngực lên xuống khi thông khí tay",
+      "D": "Không có âm thở trên dạ dày",
+      "E": "Không câu nào đúng"
+    }
+  },
+  "gmhs.116.31": {
+    "question": "Yếu tố nguy cơ hít dịch dạ dày, trừ",
+    "options": {
+      "A": "Phẫu thuật cấp cứu",
+      "B": "Phân loại ASA cao",
+      "C": "Tắc ruột non",
+      "D": "Béo phì",
+      "E": "BS gây mê thiếu kinh nghiệm"
+    }
+  },
+  "gmhs.116.32": {
+    "question": "Định nghĩa đường thở khó theo ASA",
+    "options": {
+      "A": "Mask không duy trì SpO₂ > 90%",
+      "B": "Mask có thể duy trì SpO₂ > 90%",
+      "C": "Thất bại NKQ bình thường 3 lần hoặc > 10 phút",
+      "D": "A và B đúng",
+      "E": "A và C đúng"
+    }
+  },
+  "gmhs.116.33": {
+    "question": "Không có thán đồ ở bệnh nhân thở máy có thể là",
+    "options": {
+      "A": "NKQ vào thực quản",
+      "B": "Máy đang chuẩn hóa",
+      "C": "Tuột dây hút khí",
+      "D": "Ngừng tim",
+      "E": "Co thắt phế quản"
+    }
+  },
+  "gmhs.116.34": {
+    "question": "EtCO₂ thấp, nghĩ đến chẩn đoán nào",
+    "options": {
+      "A": "Giảm cung lượng tim",
+      "B": "Thuyên tắc khí",
+      "C": "Thuyên tắc mỡ",
+      "D": "Tăng thân nhiệt ác tính",
+      "E": "Hít lại khí thở ra"
+    }
+  },
+  "gmhs.116.35": {
+    "question": "Khi co thắt phế quản xảy ra trong gây mê",
+    "options": {
+      "A": "Đường dốc thân đồ phản ánh mức độ tắc nghẽn",
+      "B": "EtCO₂ là chỉ điểm trung thực PaCO₂",
+      "C": "Áp lực bơm khí máy thở tăng",
+      "D": "Không ran rít không loại trừ co thắt",
+      "E": "Phải chụp X-quang phổi ngay"
+    }
+  },
+  "gmhs.116.36": {
+    "question": "Sellick’s maneuver có thể dùng để",
+    "options": {
+      "A": "Giảm căng dạ dày khi mask",
+      "B": "Giảm nôn trớ tự động",
+      "C": "Cải thiện tầm nhìn soi thanh quản",
+      "D": "Bịt thực quản khi ép vào C6",
+      "E": "Tất cả đều đúng"
+    }
+  },
+  "gmhs.116.37": {
+    "question": "Áp lực cuff tối đa khuyến cáo",
+    "options": {
+      "A": "5–15 mmHg",
+      "B": "15–25 mmHg",
+      "C": "25–35 mmHg",
+      "D": "35–45 mmHg",
+      "E": "45–55 mmHg"
+    }
+  },
+  "gmhs.116.38": {
+    "question": "Chuẩn bị bệnh nhân trước mổ",
+    "options": {
+      "A": "Nhịn ăn để giảm thể tích dịch dạ dày, giảm nguy cơ hít",
+      "B": "Dịch (nước, trái cây không bã, trà) ra khỏi dạ dày sau 2 h",
+      "C": "Sữa bò là thực phẩm đặc, cần 6 h để rỗng dạ dày",
+      "D": "Cho ăn no trước gây tê để tránh ngất đói"
+    }
+  },
+  "thuoc.104.51": {
+    "question": "liều khởi mê của propofol cho TE là",
+    "options": {
+      "A": "1,25-1,5mg/kg",
+      "B": "1,5-2,5",
+      "C": "2-3",
+      "D": "3-3,5"
+    }
+  },
+  "thuoc.104.52": {
+    "question": "Liều khởi mê của propofol cho người già là",
+    "options": {
+      "A": "1,25mg/kg",
+      "B": "1,25mg/kg và thêm 10mg",
+      "C": "1,25mg/kg và thêm 10mg khi bn đã mất ý thức",
+      "D": "1,25mg/kg và thêm mỗi lần 10mg cho đến khi bn mất ý thức"
+    }
+  },
+  "thuoc.104.53": {
+    "question": "để tránh bị nhiễm khuẩn, tgian dùng propofol sau khi mở nắp lọ thuốc là",
+    "options": {
+      "A": "≤ 2h",
+      "B": "≤ 4h",
+      "C": "≤ 6h",
+      "D": "≤ 8h"
+    }
+  },
+  "thuoc.104.54": {
+    "question": "để hạn chế tác dụng hạ HA khi khởi mê của propofol nên",
+    "options": {
+      "A": "Pha loãng thuốc với NaCl 0,9% trước khi chích",
+      "B": "Pha thuốc với lidocaine trước khi chích",
+      "C": "Giảm liều thuốc khởi mê",
+      "D": "Chích propofol chậm"
+    }
+  },
+  "thuoc.104.55": {
+    "question": "các biện pháp sau nhằm hạn chế VK xâm nhập và phát triển trong dd thuốc propofol, ngoại trừ",
+    "options": {
+      "A": "Sát trùng bằng cồn cổ ống thuốc hay nắp cao su của lọ thuốc",
+      "B": "Thêm vào dd propofol thành phần EDTA",
+      "C": "sử dụng thuốc ngay sau khi mở nắp",
+      "D": "Dùng bơm tiêm sạch để rút và bảo quản thuốc"
+    }
+  },
+  "thuoc.104.56": {
+    "question": "để làm giảm bớt cảm giác đau nơi chích khi chích propofol các kĩ thuật sau được áp dụng, ngoại trừ",
+    "options": {
+      "A": "Tiền mê với fentanyl trước khi chích propofol",
+      "B": "Chích liều nhỏ lidocaine (10mg) trước khi chích propofol",
+      "C": "Pha lidocaine chung với lidocaine (1mg1%) rồi chích",
+      "D": "Pha loãng thuốc với NaCl 0,9% trước khi chích"
+    }
+  },
+  "thuoc.104.57": {
+    "question": "khi truyền liên tục để duy trì mê, propofol tác dụng trên hô hấp như thế nào",
+    "options": {
+      "A": "Tăng tần số thở",
+      "B": "Tăng thể tích khí lưu thông",
+      "C": "Tăng nhạy cảm với thiếu oxy",
+      "D": "Tăng nhạy cảm với thừa CO₂"
+    }
+  },
+  "thuoc.104.58": {
+    "question": "",
+    "options": {}
+  },
+  "thuoc.104.59": {
+    "question": "liều khởi mê bằng đường TM của ketamine",
+    "options": {
+      "A": "1-2mg/kg",
+      "B": "2-3",
+      "C": "3-5",
+      "D": "5-10"
+    }
+  },
+  "thuoc.104.60": {
+    "question": "khi sử dụng ketamine thì tác dụng gây ảo giác và ác mộng xảy ra cho bệnh nhân ở giai đoạn nào",
+    "options": {
+      "A": "Tiền mê",
+      "B": "Khởi mê",
+      "C": "Duy trì mê",
+      "D": "Tỉnh mê"
+    }
+  },
+  "thuoc.104.1": {
+    "question": "Thời gian để khởi mê và tỉnh mê của các thuốc mê hô hấp theo thứ tự từ nhanh đến chậm:",
+    "options": {
+      "a": "N2O – Desflurane – Sevoflurane – Halothane",
+      "b": "N2O – Sevoflurane – Halothane – Desflurane",
+      "c": "N2O – Desflurane – Halothane – Sevoflurane",
+      "d": "N2O – Sevoflurane – Desflurane – Halothane"
+    }
+  },
+  "thuoc.104.2": {
+    "question": "Không phải yếu tố làm tăng nồng độ thuốc mê trong khí hít vào:",
+    "options": {
+      "a": "Tăng nồng độ % khí mê ở bình bốc hơi",
+      "b": "Tăng thể tích khí mới trên lưu lượng kế",
+      "c": "Tăng hấp thu thuốc mê của ống thở máy gây mê",
+      "d": "Tăng thể tích vòng thở"
+    }
+  },
+  "thuoc.104.3": {
+    "question": "Các yếu tố sau làm tốc độ khởi mê bằng thuốc mê hô hấp nhanh, ngoại trừ:",
+    "options": {
+      "a": "Tăng thông khí phế nang",
+      "b": "Giảm cung lượng tim",
+      "c": "Tăng nồng độ thuốc mê trong khí hít vào",
+      "d": "Tăng lưu lượng máu phổi"
+    }
+  },
+  "thuoc.104.4": {
+    "question": "Để giảm nồng độ khí mê trong phế nang giúp bệnh nhân tỉnh mê nhanh thì thực hiện các cách sau, ngoại trừ:",
+    "options": {
+      "a": "Tắt thuốc mê trên bình bốc hơi",
+      "b": "Giúp thở nông và chậm",
+      "c": "Tăng lưu lượng khí mới lên",
+      "d": "Tăng thông khí phế nang"
+    }
+  },
+  "thuoc.104.5": {
+    "question": "Phần trăm thuốc chuyển hóa ở gan theo thứ tự tăng từ ít đến nhiều:",
+    "options": {
+      "a": "Halothane – Isoflurane – Sevoflurane",
+      "b": "Halothane – Sevoflurane – Isoflurane",
+      "c": "Sevoflurane – Isoflurane – Halothane",
+      "d": "Sevoflurane – Halothane – Isoflurane"
+    }
+  },
+  "thuoc.104.6": {
+    "question": "Khi dùng thuốc mê hô hấp đơn độc để phẫu thuật được cân bằng, nồng độ thuốc mê duy trì khoảng:",
+    "options": {
+      "a": "1–1,5 MAC",
+      "b": "1,5–2 MAC",
+      "c": "2–2,5 MAC",
+      "d": "2,5–3 MAC"
+    }
+  },
+  "thuoc.104.7": {
+    "question": "Yếu tố nào sau đây làm tăng MAC của thuốc mê hô hấp:",
+    "options": {
+      "a": "Tiền mê",
+      "b": "Trẻ em",
+      "c": "Có thai",
+      "d": "Tụt huyết áp"
+    }
+  },
+  "thuoc.104.8": {
+    "question": "Khi duy trì mê bằng hỗn hợp 0,5% isoflurane và 55% N2O, tương đương với bao nhiêu MAC của thuốc mê tác dụng:",
+    "options": {
+      "a": "0,5 MAC",
+      "b": "1 MAC",
+      "c": "2 MAC",
+      "d": "2,5 MAC"
+    }
+  },
+  "thuoc.104.9": {
+    "question": "MAC với O₂ của sevoflurane là:",
+    "options": {
+      "a": "0,7",
+      "b": "1,3",
+      "c": "2",
+      "d": "6"
+    }
+  },
+  "thuoc.104.10": {
+    "question": "Ngưỡng an toàn khi sử dụng thuốc mê bốc hơi phối hợp với N₂O hay thuốc phiện là:",
+    "options": {
+      "a": "0,2–0,4 MAC",
+      "b": "0,5–0,6 MAC",
+      "c": "0,5–1 MAC",
+      "d": "1,5–2 MAC"
+    }
+  },
+  "thuoc.104.11": {
+    "question": "Bình bốc hơi của thuốc mê nào được đặt trong vòng của hệ gây mê đường vòng:",
+    "options": {
+      "a": "Ether",
+      "b": "Halothane",
+      "c": "Desflurane",
+      "d": "Sevoflurane"
+    }
+  },
+  "thuoc.104.12": {
+    "question": "Thuốc mê nào có tính giảm đau:",
+    "options": {
+      "a": "Sevoflurane",
+      "b": "Halothane",
+      "c": "Desflurane",
+      "d": "N₂O"
+    }
+  },
+  "thuoc.104.13": {
+    "question": "Thuốc mê nào bị hủy bởi vôi khô thành CO:",
+    "options": {
+      "a": "Ether",
+      "b": "Halothane",
+      "c": "Isoflurane",
+      "d": "Sevoflurane"
+    }
+  },
+  "thuoc.104.14": {
+    "question": "Thuốc làm dãn phế quản nhiều nhất, nên sử dụng tốt cho bệnh nhân suyễn:",
+    "options": {
+      "a": "Halothane",
+      "b": "Isoflurane",
+      "c": "Sevoflurane",
+      "d": "Desflurane"
+    }
+  },
+  "thuoc.104.15": {
+    "question": "Thuốc làm dãn mạch vành nhưng không ảnh hưởng đến sức co cơ tim trên bệnh nhân TMCT:",
+    "options": {
+      "a": "Halothane",
+      "b": "Isoflurane",
+      "c": "Sevoflurane",
+      "d": "N₂O"
+    }
+  },
+  "thuoc.104.16": {
+    "question": "Sắp xếp theo thứ tự giảm dần về độ mạnh của các thuốc mê bốc hơi thường dùng:",
+    "options": {
+      "a": "Sevoflurane – Halothane – Isoflurane",
+      "b": "Sevoflurane – Isoflurane – Halothane",
+      "c": "Halothane – Isoflurane – Sevoflurane",
+      "d": "Halothane – Sevoflurane – Isoflurane"
+    }
+  },
+  "thuoc.104.17": {
+    "question": "Thuốc có cấu trúc giống atropine nên khi chích vào bệnh nhân gây mạch nhanh và dãn đồng tử:",
+    "options": {
+      "a": "Sufentanil",
+      "b": "Fentanyl",
+      "c": "Meperidine",
+      "d": "Morphine"
+    }
+  },
+  "thuoc.104.18": {
+    "question": "Thuốc có tác dụng giảm đau và shh kéo dài vài ngày trên bệnh nhân thận:",
+    "options": {
+      "a": "Sufentanil",
+      "b": "Fentanyl",
+      "c": "Meperidine",
+      "d": "Morphine"
+    }
+  },
+  "thuoc.104.19": {
+    "question": "Thuốc có tác dụng miếng dán giảm đau cho bệnh nhân ung thư:",
+    "options": {
+      "a": "Alfentanil",
+      "b": "Fentanyl",
+      "c": "Meperidine",
+      "d": "Morphine"
+    }
+  },
+  "thuoc.104.20": {
+    "question": "Liều dùng đường TM để điều trị lạnh rung của meperidine:",
+    "options": {
+      "a": "10–25 mg",
+      "b": "25–50 mg",
+      "c": "50–75 mg",
+      "d": "75–100 mg"
+    }
+  },
+  "thuoc.104.21": {
+    "question": "Thứ tự đúng, độ giảm đau giảm dần của các thuốc giảm đau họ á phiện:",
+    "options": {
+      "a": "Fentanyl – Sufentanil – Meperidine – Morphine",
+      "b": "Fen – Sufen – Mor – Mepe",
+      "c": "Sufen – Fen – Mepe – Mor",
+      "d": "Sufen – Fen – Mor – Mepe"
+    }
+  },
+  "thuoc.104.22": {
+    "question": "Liều của fentanyl dùng để ngăn ngừa tăng huyết áp khi đặt nội khí quản:",
+    "options": {
+      "a": "5–10 mcg",
+      "b": "10–25 mcg",
+      "c": "25–50 mcg",
+      "d": "50–100 mcg"
+    }
+  },
+  "thuoc.104.23": {
+    "question": "Ý lệnh cho truyền fentanyl TM BTTĐ 100 mcg/h pha thuốc nồng độ 0,001%: tốc độ truyền trên máy là bao nhiêu?",
+    "options": {
+      "a": "1 ml/h",
+      "b": "5 ml/h",
+      "c": "10 ml/h",
+      "d": "100 ml/h"
+    }
+  },
+  "thuoc.104.24": {
+    "question": "Liều trong 1 h của fentanyl dùng duy trì trong gây mê cân bằng là:",
+    "options": {
+      "a": "0,5–2,5 mcg/kg",
+      "b": "1–3 mcg/kg",
+      "c": "3–5 mcg/kg",
+      "d": "5–10 mcg/kg"
+    }
+  },
+  "thuoc.104.25": {
+    "question": "Liều của sufentanil dùng để ngăn ngừa tăng huyết áp khi đặt nội khí quản là:",
+    "options": {
+      "a": "0,1–0,3 mcg/kg",
+      "b": "0,3–1 mcg/kg",
+      "c": "1–2 mcg/kg",
+      "d": "3–5 mcg/kg"
+    }
+  },
+  "thuoc.104.26": {
+    "question": "Dung dịch pha để TTm, BTTĐ của sufentanil có hàm lượng 1 mcg/ml, vậy nồng độ % của thuốc là:",
+    "options": {
+      "a": "0,1%",
+      "b": "0,01%",
+      "c": "0,001%",
+      "d": "0,0001%"
+    }
+  },
+  "thuoc.104.27": {
+    "question": "Thuốc dùng để điều trị shh do quá liều thuốc phiện:",
+    "options": {
+      "a": "Anoxone",
+      "b": "Kaloxone",
+      "c": "Lanoxone",
+      "d": "Naloxone"
+    }
+  },
+  "thuoc.104.28": {
+    "question": "Trong 1 ngày một người lớn nếu sử dụng bao nhiêu paracetamol thì bị ngộ độc:",
+    "options": {
+      "a": "5–10 g",
+      "b": "10–15 g",
+      "c": "15–20 g",
+      "d": "20–25 g"
+    }
+  },
+  "thuoc.104.29": {
+    "question": "Bệnh nhân sốt cao: sau khi uống thuốc para bao lâu sẽ hạ sốt:",
+    "options": {
+      "a": "5–10 phút",
+      "b": "10–20 phút",
+      "c": "20–30 phút",
+      "d": "30–60 phút"
+    }
+  },
+  "thuoc.104.30": {
+    "question": "Khi bị ngộ độc paracetamol thì dùng thuốc gì để giải độc:",
+    "options": {
+      "a": "Acetylcholine",
+      "b": "Acetylcystein",
+      "c": "Acetylcafein",
+      "d": "Acetyl tricin"
+    }
+  },
+  "thuoc.104.31": {
+    "question": "Liều tối đa mỗi ngày ở người lớn của paracetamol là:",
+    "options": {
+      "a": "2 g",
+      "b": "4 g",
+      "c": "6 g",
+      "d": "8 g"
+    }
+  },
+  "thuoc.104.32": {
+    "question": "Những bệnh nhân thường tăng nguy cơ bị viêm gan hoại tử do sử dụng paracetamol, ngoại trừ:",
+    "options": {
+      "a": "Thiếu glucagon",
+      "b": "Bệnh lý glucose",
+      "c": "Nhịn đói",
+      "d": "Uống rượu"
+    }
+  },
+  "thuoc.104.33": {
+    "question": "Bệnh nhân phải ngưng aspirin trước mổ bao nhiêu ngày để ngăn ngừa chảy máu:",
+    "options": {
+      "a": "1–4 ngày",
+      "b": "4–6 ngày",
+      "c": "8–10 ngày",
+      "d": "10–14 ngày"
+    }
+  },
+  "thuoc.104.34": {
+    "question": "Một bé trai 10 kg bị nhiễm siêu vi gây đau họng, sổ mũi và sốt 39,5 °C; bạn chọn paracetamol nào cho bé:",
+    "options": {
+      "a": "Gói màu hồng 80 mg",
+      "b": "Gói màu xanh dương 150 mg",
+      "c": "Gói màu vàng 250 mg",
+      "d": "Viên sủi 500 mg"
+    }
+  },
+  "thuoc.104.35": {
+    "question": "So với paracetamol thì aspirin có thêm tác dụng nào:",
+    "options": {
+      "a": "Kháng viêm",
+      "b": "Giảm đau",
+      "c": "Hạ sốt",
+      "d": "Kháng đông"
+    }
+  },
+  "thuoc.104.36": {
+    "question": "Thuốc giảm đau kháng viêm nonsteroid gây kéo dài thời gian đông máu là do:",
+    "options": {
+      "a": "Gây tăng kết dính tiểu cầu",
+      "b": "Ức chế kết dính tiểu cầu",
+      "c": "Giảm sinh tiểu cầu",
+      "d": "Hủy tiểu cầu"
+    }
+  },
+  "thuoc.104.37": {
+    "question": "Không phải tác dụng phụ trên dạ dày của thuốc giảm đau kháng viêm nonsteroid:",
+    "options": {
+      "a": "Tắc dạ dày",
+      "b": "Chảy máu dạ dày",
+      "c": "Thủng dạ dày",
+      "d": "Viêm dạ dày"
+    }
+  },
+  "thuoc.104.38": {
+    "question": "Không phải tác dụng phụ của thuốc giảm đau kháng viêm nonsteroid:",
+    "options": {
+      "a": "Viêm dạ dày",
+      "b": "Rối loạn đông máu",
+      "c": "Độc tính trên thận",
+      "d": "Độc tính trên gan"
+    }
+  },
+  "thuoc.104.39": {
+    "question": "Thuốc nonsteroid được dùng đường TM có tính hòa tan cao, tác dụng giảm đau như thuốc phiện:",
+    "options": {
+      "a": "Ibuprofen",
+      "b": "Diclofenac",
+      "c": "Ketoprofen",
+      "d": "Ketorolac"
+    }
+  },
+  "thuoc.104.40": {
+    "question": "Chọn thuốc tốt nhất để khởi mê đặt mask thanh quản cho bn mổ dẫn TM không có bệnh kèm theo:",
+    "options": {
+      "a": "Thiopental",
+      "b": "Propofol",
+      "c": "Etomidate",
+      "d": "Ketamine"
+    }
+  },
+  "thuoc.104.41": {
+    "question": "Thuốc nào không nên dùng để khởi mê cho bệnh nhân bị suyễn:",
+    "options": {
+      "a": "Thiopental",
+      "b": "Propofol",
+      "c": "Etomidate",
+      "d": "Midazolam"
+    }
+  },
+  "thuoc.104.42": {
+    "question": "Thuốc nào không nên dùng để duy trì mê TM cho bn có nguy cơ suy tuyến thượng thận:",
+    "options": {
+      "a": "Thiopental",
+      "b": "Propofol",
+      "c": "Etomidate",
+      "d": "Ketamine"
+    }
+  },
+  "thuoc.104.43": {
+    "question": "Thuốc gây tăng ALNS để gây mê cho bn có chỉ định mổ sọ não:",
+    "options": {
+      "a": "Thiopental",
+      "b": "Etomidate",
+      "c": "Midazolam",
+      "d": "Ketamine"
+    }
+  },
+  "thuoc.104.44": {
+    "question": "Thứ tự gây tụt huyết áp từ nhiều đến ít của các thuốc mê TM:",
+    "options": {
+      "a": "Propofol – Thiopental – Etomidate – Ketamine",
+      "b": "Propofol – Etomidate – Thiopental – Ketamine",
+      "c": "Thiopental – Propofol – Etomidate – Ketamine",
+      "d": "Thiopental – Etomidate – Propofol – Ketamine"
+    }
+  },
+  "thuoc.104.45": {
+    "question": "Có 1 lọ Thiopental 1 g, để pha thành dung dịch 5% (thể tích nước cất) cần dung bao nhiêu ml:",
+    "options": {
+      "a": "20 ml",
+      "b": "30 ml",
+      "c": "40 ml",
+      "d": "50 ml"
+    }
+  },
+  "thuoc.104.46": {
+    "question": "Tác dụng gây mê như thế nào khi sử dụng Thiopental cho người béo phì so với người gầy:",
+    "options": {
+      "a": "Gây ngủ chậm hơn và tỉnh mê chậm hơn",
+      "b": "Gây ngủ chậm hơn và tỉnh mê nhanh hơn",
+      "c": "Gây ngủ nhanh hơn và tỉnh mê chậm hơn",
+      "d": "Gây ngủ nhanh hơn và tỉnh mê nhanh hơn"
+    }
+  },
+  "thuoc.104.47": {
+    "question": "Liều khởi mê Etomidate cho người lớn là:",
+    "options": {
+      "a": "0,1–0,2 mg/kg",
+      "b": "0,2–0,3 mg/kg",
+      "c": "0,3–0,4 mg/kg",
+      "d": "0,4–0,5 mg/kg"
+    }
+  },
+  "thuoc.104.48": {
+    "question": "Thời gian tác dụng của Etomidate sau liều khởi mê là:",
+    "options": {
+      "a": "2–5 phút",
+      "b": "5–10 phút",
+      "c": "7–12 phút",
+      "d": "10–15 phút"
+    }
+  },
+  "thuoc.104.49": {
+    "question": "Không phải tác dụng phụ của Etomidate:",
+    "options": {
+      "a": "Rung cơ",
+      "b": "Lạnh rung",
+      "c": "Nôn ói",
+      "d": "Nói sảng"
+    }
+  },
+  "thuoc.104.50": {
+    "question": "Liều khởi mê của Propofol cho trẻ em là:",
+    "options": {
+      "a": "1,25–2 mg/kg",
+      "b": "1,5–2,5 mg/kg",
+      "c": "2–2,5 mg/kg",
+      "d": "3–3,5 mg/kg"
+    }
+  },
+  "thuoc.158.158": {
+    "question": "Tỉ lệ % lignocaine dùng trong gây tê tủy sống",
+    "options": {
+      "a": "0.5%",
+      "b": "1%",
+      "c": "2%",
+      "d": "5%"
+    }
+  },
+  "thuoc.158.159": {
+    "question": "Cơ chế tác dụng của thuốc tê là do chúng tác động trên kênh Na⁺ ở",
+    "options": {
+      "a": "Trạng thái hoạt hóa",
+      "b": "Trạng thái bất hoạt",
+      "c": "Trạng thái nghỉ",
+      "d": "Bất kỳ trạng thái nào"
+    }
+  },
+  "thuoc.158.160": {
+    "question": "Adrenaline phối hợp với lignocaine kéo dài thời gian tác dụng và giảm hấp thu vào máu ở tỉ lệ",
+    "options": {
+      "a": "1:50 000",
+      "b": "1:100 000",
+      "c": "1:200 000",
+      "d": "1:500 000"
+    }
+  },
+  "thuoc.158.161": {
+    "question": "Phát biểu đúng về bupivacain",
+    "options": {
+      "a": "Sử dụng tiêm tĩnh mạch cùng với lignocaine",
+      "b": "Độc tính cho tim hơn lignocaine",
+      "c": "Chống chỉ định cho phụ nữ mang thai",
+      "d": "Tất cả đều đúng"
+    }
+  },
+  "thuoc.158.162": {
+    "question": "Khi dùng tubocurarine, cơ nào sau đây dẫn ra đầu tiên",
+    "options": {
+      "a": "Hô hấp",
+      "b": "Ngón tay",
+      "c": "Tứ chi",
+      "d": "Đầu và cổ"
+    }
+  },
+  "thuoc.158.163": {
+    "question": "Thuốc nào sau đây có tác dụng chống co thắt và cũng có thể dùng trong xử trí co giật do quá liều thuốc tê",
+    "options": {
+      "a": "Baclofen",
+      "b": "Dantrolene",
+      "c": "Diazepam",
+      "d": "Tizanidine"
+    }
+  },
+  "thuoc.158.164": {
+    "question": "Thuốc dẫn cơ nào sau đây gây đau khi tiêm",
+    "options": {
+      "a": "Succinylcholine",
+      "b": "Vecuronium",
+      "c": "Rocuronium",
+      "d": "Pancuronium"
+    }
+  },
+  "thuoc.158.165": {
+    "question": "Cis-atracurium thích hợp hơn atracurium, bởi vì",
+    "options": {
+      "a": "Thời gian khởi phát nhanh",
+      "b": "Ít gây phóng thích histamine",
+      "c": "Thời gian tác dụng ngắn",
+      "d": "Ít ức chế cơ tim"
+    }
+  },
+  "thuoc.158.166": {
+    "question": "Co cứng cơ gây ra bởi opioids là do tác dụng chủ vận trên receptor nào",
+    "options": {
+      "a": "Mu",
+      "b": "Kappa",
+      "c": "Delta",
+      "d": "Sigma"
+    }
+  },
+  "thuoc.158.167": {
+    "question": "Cho succinylcholine ở bệnh nhân liệt hai chi dưới dẫn đến rối loạn nhịp tim và ngưng tim, nguyên nhân chủ yếu là do",
+    "options": {
+      "a": "Tăng calcemia",
+      "b": "Tăng kalemia",
+      "c": "Shock phản vệ",
+      "d": "Tăng magnesemia"
+    }
+  },
+  "thuoc.158.168": {
+    "question": "Thuốc dẫn cơ lựa chọn cho bệnh nhân suy gan",
+    "options": {
+      "a": "Atracurium",
+      "b": "Pipecuronium",
+      "c": "Rocuronium",
+      "d": "Vecuronium"
+    }
+  },
+  "thuoc.158.169": {
+    "question": "Thuốc dẫn cơ không khử cực có tác dụng ngắn nhất",
+    "options": {
+      "a": "Succinylcholine",
+      "b": "Rapacuronium",
+      "c": "Atracurium",
+      "d": "Pancuronium"
+    }
+  },
+  "thuoc.158.170": {
+    "question": "Thuốc dẫn cơ nào lựa chọn cho bệnh nhân suy gan và thận",
+    "options": {
+      "a": "Cis-atracurium",
+      "b": "Vecuronium",
+      "c": "Rocuronium",
+      "d": "Rapacuronium"
+    }
+  },
+  "thuoc.158.171": {
+    "question": "Thuốc dẫn cơ không khử cực nào có tác dụng nhanh dùng để thay thế succinylcholine khi đặt nội khí quản",
+    "options": {
+      "a": "Rocuronium",
+      "b": "Pancuronium",
+      "c": "Doxacurium",
+      "d": "Pipecuronium"
+    }
+  },
+  "thuoc.158.172": {
+    "question": "Nhịp tim chậm thường gặp sau khi tiêm",
+    "options": {
+      "a": "Midazolam",
+      "b": "Succinylcholine",
+      "c": "Dopamine",
+      "d": "Isoprenaline"
+    }
+  },
+  "thuoc.158.173": {
+    "question": "Tất cả thuốc sau có thể làm nặng thêm bệnh nhược cơ, trừ",
+    "options": {
+      "a": "Azathioprine",
+      "b": "d-Tubocurarine",
+      "c": "Tetracycline",
+      "d": "Aminoglycoside"
+    }
+  },
+  "thuoc.158.174": {
+    "question": "Những thuốc sau đây gây độc cho gan",
+    "options": {
+      "a": "Chloroform",
+      "b": "Ether (diethyl)",
+      "c": "N₂O",
+      "d": "Halothane",
+      "e": "Enflurane"
+    }
+  },
+  "thuoc.158.175": {
+    "question": "Thuốc dẫn cơ nào sau đây không cần hóa giải bằng neostigmine ở cuối cuộc mổ",
+    "options": {
+      "a": "d-Tubocurarine",
+      "b": "Doxacurium",
+      "c": "Pipecuronium",
+      "d": "Mivacurium"
+    }
+  },
+  "thuoc.158.176": {
+    "question": "Thuốc kháng sinh nào sau đây làm nổi bật block thần kinh cơ do pancuronium",
+    "options": {
+      "a": "Streptomycin",
+      "b": "Erythromycin",
+      "c": "Penicillin G",
+      "d": "Chloramphenicol"
+    }
+  },
+  "thuoc.158.177": {
+    "question": "Một trong những phát biểu sau đây về succinylcholine đúng",
+    "options": {
+      "a": "Có thể gây tử vong do tăng kali máu",
+      "b": "Thời gian tác dụng kéo dài",
+      "c": "Lựa chọn trong tiêu cơ vận không do chấn thương",
+      "d": "Dùng được cho bệnh nhân chấn thương tủy sống có liệt chi"
+    }
+  },
+  "thuoc.158.178": {
+    "question": "Thuốc nào sau đây đã gây tăng kali máu dẫn đến ngưng tim ở bệnh nhân có bệnh rối loạn thần kinh",
+    "options": {
+      "a": "Baclofen",
+      "b": "Dantrolene",
+      "c": "Succinylcholine",
+      "d": "Tubocurarine"
+    }
+  },
+  "thuoc.158.179": {
+    "question": "Thuốc nào sau đây có hiệu quả trong điều trị tăng thân nhiệt ác tính",
+    "options": {
+      "a": "Baclofen",
+      "b": "Dantrolene",
+      "c": "Succinylcholine",
+      "d": "Vecuronium"
+    }
+  },
+  "thuoc.158.180": {
+    "question": "Suxamethonium",
+    "options": {
+      "a": "Thuốc dẫn cơ không khử cực",
+      "b": "Thuốc dẫn cơ khử cực",
+      "c": "Tác dụng trực tiếp trên cơ",
+      "d": "Tất cả đều đúng"
+    }
+  },
+  "thuoc.158.181": {
+    "question": "Thuốc dẫn cơ có tác dụng ngắn nhất",
+    "options": {
+      "a": "Gallamine",
+      "b": "Pancuronium",
+      "c": "Succinylcholine",
+      "d": "d-TC"
+    }
+  },
+  "thuoc.158.182": {
+    "question": "Thuốc dẫn cơ không khử cực có tác dụng kéo dài",
+    "options": {
+      "a": "Succinylcholine",
+      "b": "Mivacurium",
+      "c": "Pancuronium",
+      "d": "Phenylephrine"
+    }
+  },
+  "thuoc.158.183": {
+    "question": "Trong trường hợp co cứng, thuốc nào không được sử dụng",
+    "options": {
+      "a": "Diazepam",
+      "b": "Baclofen",
+      "c": "Tizanidine",
+      "d": "Amitriptyline"
+    }
+  },
+  "thuoc.158.184": {
+    "question": "The enzyme pseudocholinesterase tác động trên",
+    "options": {
+      "a": "Decamethonium",
+      "b": "Tubocurarine",
+      "c": "Gallamine",
+      "d": "Suxamethonium"
+    }
+  },
+  "thuoc.158.185": {
+    "question": "Thải trừ Hoffman được thấy với",
+    "options": {
+      "a": "Atracurium",
+      "b": "Vecuronium",
+      "c": "Pancuronium"
+    }
+  },
+  "thuoc.158.186": {
+    "question": "Thuốc dẫn cơ nào sau đây không có ảnh hưởng tim mạch ở liều lâm sàng",
+    "options": {
+      "a": "Pancuronium",
+      "b": "Vecuronium",
+      "c": "Atracurium",
+      "d": "Pipecuronium"
+    }
+  },
+  "thuoc.158.187": {
+    "question": "\"MAC\" của desflurane là",
+    "options": {
+      "a": "1.15",
+      "b": "2",
+      "c": "4",
+      "d": "6"
+    }
+  },
+  "thuoc.158.188": {
+    "question": "Tăng thân nhiệt ác tính là biến chứng hiếm gặp khi sử dụng thuốc mê sau",
+    "options": {
+      "a": "Ketamine",
+      "b": "Thiopentone sodium",
+      "c": "Halothane",
+      "d": "Ether"
+    }
+  },
+  "thuoc.158.189": {
+    "question": "Gây mê phân ly (dissociative anesthesia) gây ra do",
+    "options": {
+      "a": "Ketamine",
+      "b": "Fentanyl",
+      "c": "Propofol",
+      "d": "a và b đúng"
+    }
+  },
+  "thuoc.158.190": {
+    "question": "Thuốc nào sau đây được xem là có hiệu quả trong điều trị lạnh run sau mổ",
+    "options": {
+      "a": "Ondansetron",
+      "b": "Diclofenac sodium",
+      "c": "Pethidine",
+      "d": "Paracetamol"
+    }
+  },
+  "thuoc.158.191": {
+    "question": "Thuốc nào sau đây có tác dụng dẫn cơ kém",
+    "options": {
+      "a": "Ether",
+      "b": "Nitrous oxide",
+      "c": "Halothane",
+      "d": "Isoflurane"
+    }
+  },
+  "thuoc.158.192": {
+    "question": "Thuốc lựa chọn cho phẫu thuật về trong ngày",
+    "options": {
+      "a": "Ketamine",
+      "b": "Propofol",
+      "c": "Methohexitone",
+      "d": "Thiopentone sodium"
+    }
+  },
+  "thuoc.158.193": {
+    "question": "Thuốc nào sau đây thường dùng để khởi mê",
+    "options": {
+      "a": "Thiopentone sodium",
+      "b": "Methohexitone sodium",
+      "c": "Propofol",
+      "d": "Etomidate"
+    }
+  },
+  "thuoc.158.194": {
+    "question": "Tất cả thuốc sau thuộc nhóm halogen, trừ",
+    "options": {
+      "a": "Halothane",
+      "b": "Propofol",
+      "c": "Enflurane",
+      "d": "Isoflurane"
+    }
+  },
+  "thuoc.158.195": {
+    "question": "Trong tăng áp lực nội sọ, thuốc mê được lựa chọn",
+    "options": {
+      "a": "Enflurane",
+      "b": "Isoflurane",
+      "c": "Ketamine",
+      "d": "Thiopentone sodium"
+    }
+  },
+  "thuoc.158.196": {
+    "question": "Thuốc gây mê nào chống chỉ định ở bệnh nhân động kinh",
+    "options": {
+      "a": "Isoflurane",
+      "b": "Enflurane",
+      "c": "Halothane",
+      "d": "Ether"
+    }
+  },
+  "thuoc.158.197": {
+    "question": "Bệnh nhân mắc bệnh gan, thuốc mê được lựa chọn",
+    "options": {
+      "a": "Halothane",
+      "b": "Ether",
+      "c": "Isoflurane",
+      "d": "Tất cả đều sai"
+    }
+  },
+  "thuoc.158.198": {
+    "question": "Thuốc nào sau đây không có tác dụng giảm đau",
+    "options": {
+      "a": "Ether",
+      "b": "Ketamine",
+      "c": "Halothane",
+      "d": "Morphine"
+    }
+  },
+  "thuoc.158.199": {
+    "question": "Ketamine nên tránh dùng trong",
+    "options": {
+      "a": "Tăng áp lực nội sọ",
+      "b": "Có thai",
+      "c": "Shock giảm thể tích",
+      "d": "Suyễn"
+    }
+  },
+  "thuoc.158.200": {
+    "question": "Thời gian khuyến cáo cho kháng sinh phòng ngừa",
+    "options": {
+      "a": "30 phút trước khi gây mê",
+      "b": "15 phút sau khi bắt đầu phẫu thuật",
+      "c": "Ở thời điểm khởi mê",
+      "d": "Ở thời điểm rạch da"
+    }
+  },
+  "thuoc.158.115": {
+    "question": "Tác dụng của các thuốc ức chế bơm proton ở dạ dày (M)",
+    "options": {
+      "A": "Làm giảm rõ rệt khối lượng dịch vị",
+      "B": "Ức chế bài tiết pepsin",
+      "C": "Ức chế bài tiết HCL",
+      "D": "Hầu như không ảnh hưởng tới khối lượng dịch vị, sự bài tiết pepsin và yếu tố nội tại của dạ dày"
+    }
+  },
+  "thuoc.158.116": {
+    "question": "Liên quan đến thuốc giảm đau nhóm kháng viêm không steroids (M)",
+    "options": {
+      "A": "Tác dụng bằng cách ức chế men COX 1 và COX 2 làm ngừng tổng hợp prostaglandine",
+      "B": "Tác dụng ức chế kết tập tiểu cầu của Aspirine là có hồi phục",
+      "C": "Thuốc có thể gây suy thận nếu dùng cho người bệnh bị giảm thể tích tuần hoàn (sốc, phẫu thuật mất máu nhiều)",
+      "D": "Gây loét dạ dày, xuất huyết tiêu hóa không lệ thuộc vào đường dùng thuốc"
+    }
+  },
+  "thuoc.158.117": {
+    "question": "Liên quan đến thuốc giảm đau nhóm kháng viêm không steroids (M)",
+    "options": {
+      "A": "Không được dùng aspirin cho trẻ em trai < 12 tuổi bị sốt cao do nhiễm siêu vi vì gây hội chứng Reye’s",
+      "B": "Dùng giảm đau sau mổ cho các phẫu thuật chấn thương, viêm",
+      "C": "Indomethacine gây đóng sớm ống động mạch ở thai nhi",
+      "D": "Phối hợp thuốc kháng viêm không steroid với thuốc phiện trong giai đoạn chu phẫu có thể cải thiện tác dụng giảm đau và làm giảm tác dụng"
+    }
+  },
+  "thuoc.158.118": {
+    "question": "Dobutamine",
+    "options": {
+      "A": "Là chất đồng vận α-adrenoceptor",
+      "B": "Có tác dụng chủ yếu β1-adrenoceptor",
+      "C": "Gây giảm lưu lượng máu thận",
+      "D": "Liên kết với tăng tần số tim",
+      "E": "Là một catecholamine tự nhiên"
+    }
+  },
+  "thuoc.158.119": {
+    "question": "Milrinone",
+    "options": {
+      "A": "Là catecholamine được dùng cho điều trị suy tim sung huyết",
+      "B": "Là thuốc chống loạn nhịp",
+      "C": "Gây dãn mạch ngoại vi",
+      "D": "Ức chế men Na+,K+-ATPase",
+      "E": "Có thời gian bán hủy kéo dài hơn inamrinone"
+    }
+  },
+  "thuoc.158.120": {
+    "question": "Thuốc liên kết với độc tính phổi",
+    "options": {
+      "A": "doxorubicin",
+      "B": "bleomycin",
+      "C": "vincristine",
+      "D": "methotrexate",
+      "E": "l-asparaginase"
+    }
+  },
+  "thuoc.158.121": {
+    "question": "Thuốc nào sau đây đối vận với β-adrenoceptor",
+    "options": {
+      "A": "Isoproterenol",
+      "B": "Dobutamine",
+      "C": "Nadolol",
+      "D": "Albuterol",
+      "E": "Ritodrine"
+    }
+  },
+  "thuoc.158.122": {
+    "question": "Thuốc nào sau đây có thể dùng đường tĩnh mạch để điều trị băng huyết sau sinh?",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Prostaglandin F2α",
+      "C": "Methylergonovine",
+      "D": "Progesterone",
+      "E": "Prostaglandin E2"
+    }
+  },
+  "thuoc.158.123": {
+    "question": "Xử trí ngộ độc thuốc tê bao gồm (M)",
+    "options": {
+      "A": "Suxamethonium",
+      "B": "β-blockers",
+      "C": "Thuốc co mạch",
+      "D": "Tăng thông khí",
+      "E": "bretylium"
+    }
+  },
+  "thuoc.158.124": {
+    "question": "Sumatriptan (M)",
+    "options": {
+      "A": "Có đặc tính chống nôn",
+      "B": "Đối vận 5-hydroxytryptamine (5-HT)",
+      "C": "Điều trị bệnh migraine",
+      "D": "Không qua hàng rào máu não",
+      "E": "Có thể gây loạn nhịp"
+    }
+  },
+  "thuoc.158.125": {
+    "question": "MAC giảm trong những tình huống sau (M)",
+    "options": {
+      "A": "Hạ thân nhiệt",
+      "B": "Giới nữ",
+      "C": "Nghiện rượu",
+      "D": "Gây mê kéo dài",
+      "E": "Suy giáp"
+    }
+  },
+  "thuoc.158.126": {
+    "question": "Lớn tuổi liên kết với",
+    "options": {
+      "A": "Tăng MAC (nồng độ phế nang tối thiểu)",
+      "B": "Đề kháng thuốc dẫn cơ không khử cực",
+      "C": "Giảm dung tích cặn chức năng",
+      "D": "Nhạy với Morphine",
+      "E": "Giảm chức năng thần kinh tự động"
+    }
+  },
+  "thuoc.158.127": {
+    "question": "Điều trị tiền sản giật với magnesium sulphate liên kết với:",
+    "options": {
+      "A": "Giảm cung lượng tim",
+      "B": "Co giật dạng động kinh",
+      "C": "Giảm co tử cung",
+      "D": "Tăng tiềm lực thuốc dẫn cơ khử cực",
+      "E": "Tăng tiềm lực thuốc dẫn cơ không khử cực"
+    }
+  },
+  "thuoc.158.128": {
+    "question": "Tramadol hydrochloride:",
+    "options": {
+      "A": "Gây giãn đồng tử",
+      "B": "Có tác dụng kháng thụ thể đau mà bị block hoàn toàn bởi Naloxone",
+      "C": "Có ái lực lớn với thụ thể μ hơn Morphine",
+      "D": "Vị trí tác dụng ở ngoại vi",
+      "E": "Tác dụng làm giảm nồng độ synaptic của serotonin noradrenaline"
+    }
+  },
+  "thuoc.158.129": {
+    "question": "Những thuốc sau đây gây độc tính thận:",
+    "options": {
+      "A": "aminoglycosides",
+      "B": "isoflurane",
+      "C": "non-steroidal anti-inflammatory drugs (NSAIDs)",
+      "D": "Thuốc ức chế men chuyển",
+      "E": "Thuốc cản quang"
+    }
+  },
+  "thuoc.158.130": {
+    "question": "Diamorphine:",
+    "options": {
+      "A": "Là opioid tự nhiên",
+      "B": "Hòa tan trong lipid hơn morphine",
+      "C": "Có ái lực cao hơn morphine với thụ thể opioid",
+      "D": "Hấp thu tốt sau tiêm dưới da",
+      "E": "Được chuyển thành mono-acetyl morphin"
+    }
+  },
+  "thuoc.158.131": {
+    "question": "Prostaglandin có những tác dụng sau:",
+    "options": {
+      "A": "Dẫn cơ phế quản (PGE2 relaxes)",
+      "B": "Ức chế bài tiết dạ dày ruột",
+      "C": "Dẫn cơ tử cung",
+      "D": "Co cơ phế quản (PGF2α contracts)",
+      "E": "Sốt"
+    }
+  },
+  "thuoc.158.132": {
+    "question": "Rocuronium",
+    "options": {
+      "A": "Mạnh hơn vecuronium",
+      "B": "Có liên quan hóa học với vecuronium",
+      "C": "Liều thích hợp đặt nội khí quản tốt 60–90 s",
+      "D": "Thời gian bán hủy dài hơn vecuronium",
+      "E": "Có thể chuyển hóa chủ động"
+    }
+  },
+  "thuoc.158.133": {
+    "question": "Đối với ketamine",
+    "options": {
+      "A": "Được chuyển hóa thành Norketamine bất hoạt",
+      "B": "Ít hơn 5% được bài tiết trong nước tiểu dạng không thay đổi",
+      "C": "Đau khi tiêm tĩnh mạch",
+      "D": "Có tác dụng dẫn mạch máu não",
+      "E": "Giảm ngưỡng co giật ở bệnh nhân động kinh"
+    }
+  },
+  "thuoc.158.134": {
+    "question": "Liên quan đến Midazolam",
+    "options": {
+      "A": "Dung dịch tiêm có pH acid",
+      "B": "Dung dịch tiêm chứa trong propylene glycol",
+      "C": "Hòa tan cao trong lipid ở pH sinh lý",
+      "D": "Khoảng 50% bài tiết không thay đổi trong nước tiểu",
+      "E": "Nó trải qua sự kết hợp để sản xuất các hợp chất có hoạt tính dược lý"
+    }
+  },
+  "thuoc.158.135": {
+    "question": "Hiện tượng nào sau đây không phải tác dụng của opioid ở liều lâm sàng",
+    "options": {
+      "A": "Co sợi cơ âm tính",
+      "B": "Phóng thích histamin",
+      "C": "Cơn đau quặn mật",
+      "D": "Dẫn mạch",
+      "E": "Chậm trống dạ dày"
+    }
+  },
+  "thuoc.158.136": {
+    "question": "Opioids nào sau đây ít gây tăng áp lực đường mật?",
+    "options": {
+      "A": "Morphine",
+      "B": "Fentanyl",
+      "C": "Meperidine",
+      "D": "Pentazocine",
+      "E": "Buprenorphine"
+    }
+  },
+  "thuoc.158.137": {
+    "question": "Liều tối đa lignocaine có adrenaline cho gây tê tiêm thấm là:",
+    "options": {
+      "A": "3 mg/kg",
+      "B": "5 mg/kg",
+      "C": "7 mg/kg",
+      "D": "10 mg/kg"
+    }
+  },
+  "thuoc.158.138": {
+    "question": "Ngộ độc Bupivacaine được điều trị với:",
+    "options": {
+      "A": "Esmolol",
+      "B": "Sotalol",
+      "C": "Lignocaine",
+      "D": "Procaine",
+      "E": "Diazepam"
+    }
+  },
+  "thuoc.158.139": {
+    "question": "Thuốc gây tê phối hợp với thuốc co mạch chống chỉ định",
+    "options": {
+      "A": "Block ngón",
+      "B": "Block tủy sống",
+      "C": "Block ngoài màng cứng",
+      "D": "Gây tê vùng"
+    }
+  },
+  "thuoc.158.140": {
+    "question": "Methemoglobin máu gây ra bởi",
+    "options": {
+      "A": "Prilocaine",
+      "B": "Ropivacaine",
+      "C": "Bupivacaine",
+      "D": "Procaine"
+    }
+  },
+  "thuoc.158.141": {
+    "question": "Thuốc tê đầu tiên được sử dụng trong lâm sàng",
+    "options": {
+      "A": "Bupivacaine",
+      "B": "Procaine",
+      "C": "Lidocaine",
+      "D": "Cocaine"
+    }
+  },
+  "thuoc.158.142": {
+    "question": "Đường nào sau đây thuốc tê được hấp thu tối đa",
+    "options": {
+      "A": "Gian sườn",
+      "B": "Ngoài màng cứng",
+      "C": "Cánh tay",
+      "D": "Cùng đuôi"
+    }
+  },
+  "thuoc.158.143": {
+    "question": "Thuốc tê nào sau đây làm tăng huyết áp thay vì có khuynh hướng gây ra hạ huyết áp",
+    "options": {
+      "A": "Cocaine"
+    }
+  },
+  "thuoc.158.144": {
+    "question": "Thuốc tê có thời gian tác dụng kéo dài nhất",
+    "options": {
+      "A": "Procaine",
+      "B": "Chlorprocaine",
+      "C": "Lignocaine",
+      "D": "Dibucaine"
+    }
+  },
+  "thuoc.158.145": {
+    "question": "Mức tê tuỷ sống phụ thuộc vào:",
+    "options": {
+      "A": "Thể tích thuốc",
+      "B": "Tỉ trọng của thuốc",
+      "C": "Tư thế bệnh nhân",
+      "D": "Tất cả câu trên"
+    }
+  },
+  "thuoc.158.146": {
+    "question": "Tác dụng phụ quan trọng nhất khi cho liều lớn thuốc tê nhóm amide là",
+    "options": {
+      "A": "Co thắt phế quản",
+      "B": "Tổn thương gan",
+      "C": "Suy thận",
+      "D": "Co giật"
+    }
+  },
+  "thuoc.158.147": {
+    "question": "Mức tê trong tê tuỷ sống:",
+    "options": {
+      "A": "Block giao cảm thấp hơn mức block cảm giác",
+      "B": "Block giao cảm cao hơn mức block cảm giác",
+      "C": "Block vận động cao hơn mức block cảm giác",
+      "D": "Mức block giao cảm, vận động và cảm giác đều như nhau"
+    }
+  },
+  "thuoc.158.148": {
+    "question": "Thời gian gây tê tuỷ sống phụ thuộc vào các yếu tố sau, trừ",
+    "options": {
+      "A": "Thuốc tê được dùng",
+      "B": "Nồng độ thuốc tê",
+      "C": "Tư thế bệnh nhân",
+      "D": "Có cho thêm adrenaline vào thuốc tê hay không"
+    }
+  },
+  "thuoc.158.149": {
+    "question": "Tất cả về bupivacaine đều đúng, trừ:",
+    "options": {
+      "A": "Ít độc tính cho tim hơn lignocaine",
+      "B": "Liều lượng tăng với adrenaline",
+      "C": "Có tác dụng kéo dài",
+      "D": "Không thể cho đường tĩnh mạch"
+    }
+  },
+  "thuoc.158.150": {
+    "question": "Tất cả thuốc sau đây đều gây dãn mạch, trừ",
+    "options": {
+      "A": "Procaine",
+      "B": "Lidocaine",
+      "C": "Cocaine",
+      "D": "Chlorprocaine"
+    }
+  },
+  "thuoc.158.151": {
+    "question": "Thuốc tê gây độc cho tim:",
+    "options": {
+      "A": "Procaine",
+      "B": "Bupivacaine",
+      "C": "Prilocaine",
+      "D": "Tetracaine"
+    }
+  },
+  "thuoc.158.152": {
+    "question": "Thuốc tê nào sau đây thuộc nhóm ester",
+    "options": {
+      "A": "Procaine",
+      "B": "Bupivacaine",
+      "C": "Lignocaine",
+      "D": "Mepivacaine"
+    }
+  },
+  "thuoc.158.153": {
+    "question": "Bệnh nhân nhận liều gây độc của thuốc tê i.v., sẽ có biểu hiện",
+    "options": {
+      "A": "Tăng tiết nước bọt quá mức",
+      "B": "Dãn đồng tử và tiêu chảy",
+      "C": "Liệt hô hấp",
+      "D": "Co giật và hôn mê"
+    }
+  },
+  "thuoc.158.154": {
+    "question": "Những phát biểu sau đây về bupivacaine đúng, trừ",
+    "options": {
+      "A": "Đừng bao giờ tiêm vào tĩnh mạch",
+      "B": "Độc tính cho tim hơn lignocaine",
+      "C": "0.5% hiệu quả cho block cảm giác",
+      "D": "Gây methemoglobinemia"
+    }
+  },
+  "thuoc.158.155": {
+    "question": "Thuốc phối hợp với thuốc tê làm tăng tốc độ khởi phát",
+    "options": {
+      "A": "Methylparaben",
+      "B": "Bicarbonate",
+      "C": "Fentanyl",
+      "D": "Adrenaline"
+    }
+  },
+  "thuoc.158.156": {
+    "question": "Epinephrine phối hợp với lignocaine để gây tê thần kinh ngoại vi sẽ",
+    "options": {
+      "A": "Làm tăng nguy cơ co giật",
+      "B": "Làm tăng thời gian tác dụng của thuốc tê",
+      "C": "A và B đúng",
+      "D": "Tất cả đều sai"
+    }
+  },
+  "thuoc.158.157": {
+    "question": "Nhức đầu sau thủng màng cứng là do",
+    "options": {
+      "A": "Rò rỉ dịch não tủy",
+      "B": "Kim nhỏ",
+      "C": "Tác dụng gây độc của thuốc",
+      "D": "tổn thương rễ thần kinh"
+    }
+  },
+  "thuoc.158.80": {
+    "question": "Để tránh bị nhiễm khuẩn, thời gian dùng propofol sau khi mở nắp lọ thuốc là",
+    "options": {
+      "A": "≤2h",
+      "B": "≤4h",
+      "C": "≤6h",
+      "D": "≤8h"
+    }
+  },
+  "thuoc.158.81": {
+    "question": "Để hạn chế tác dụng hạ huyết áp khi khởi mê của propofol nên",
+    "options": {
+      "A": "Pha loãng thuốc với NaCl 0,9% trước khi chích",
+      "B": "Pha thuốc với lidocaine trước khi chích",
+      "C": "Giảm liều thuốc khởi mê",
+      "D": "Chích propofol chậm"
+    }
+  },
+  "thuoc.158.82": {
+    "question": "Các biện pháp sau nhằm hạn chế vi khuẩn xâm nhập và phát triển trong dung dịch propofol, ngoại trừ",
+    "options": {
+      "A": "Sát trùng cổ ống thuốc hoặc nắp cao su bằng cồn",
+      "B": "Thêm EDTA vào dung dịch propofol",
+      "C": "Sử dụng thuốc ngay sau khi mở nắp",
+      "D": "Dùng bơm tiêm sạch để rút và bảo quản thuốc"
+    }
+  },
+  "thuoc.158.83": {
+    "question": "Để giảm bớt cảm giác đau khi chích propofol, các kỹ thuật sau được áp dụng, ngoại trừ",
+    "options": {
+      "A": "Tiền mê với fentanyl trước khi chích propofol",
+      "B": "Chích liều nhỏ lidocaine (10 mg) trước khi chích propofol",
+      "C": "Pha lidocaine chung với lidocaine (1 mg/1%) rồi chích",
+      "D": "Pha loãng thuốc với NaCl 0,9% trước khi chích"
+    }
+  },
+  "thuoc.158.84": {
+    "question": "Khi truyền liên tục để duy trì mê, propofol tác dụng trên hô hấp như thế nào",
+    "options": {
+      "A": "Tăng tần số thở",
+      "B": "Tăng thể tích khí lưu thông",
+      "C": "Tăng nhạy cảm với thiếu oxy",
+      "D": "Tăng nhạy cảm với thừa CO₂"
+    }
+  },
+  "thuoc.158.85": {
+    "question": "Liều khởi mê bằng đường TM của ketamine",
+    "options": {
+      "A": "1–2 mg/kg",
+      "B": "2–3 mg/kg",
+      "C": "3–5 mg/kg",
+      "D": "5–10 mg/kg"
+    }
+  },
+  "thuoc.158.86": {
+    "question": "Khi sử dụng ketamine thì tác dụng gây ảo giác và ác mộng xảy ra cho bệnh nhân ở giai đoạn nào",
+    "options": {
+      "A": "Tiền mê",
+      "B": "Khởi mê",
+      "C": "Duy trì mê",
+      "D": "Tỉnh mê"
+    }
+  },
+  "thuoc.158.87": {
+    "question": "Thuốc dùng an toàn cho bệnh nhân xơ gan mà không cần giảm liều",
+    "options": {
+      "A": "Morphin",
+      "B": "Remifentanil",
+      "C": "Các thuốc benzodiazepine",
+      "D": "Atracurium",
+      "E": "Halothane"
+    }
+  },
+  "thuoc.158.88": {
+    "question": "Thời gian bán hủy phụ thuộc bối cảnh (context sensitive half time) là gì",
+    "options": {
+      "A": "Thời gian cần thiết để [nồng độ thuốc trong huyết tương giảm 50% kể từ khi đạt cân bằng giữa các khoang]",
+      "B": "Thời gian cần thiết để nồng độ thuốc trong huyết tương giảm 50% kể từ khi ngưng truyền thuốc",
+      "C": "Là thời gian để giảm nồng độ thuốc tại vị trí tác dụng từ khi ngưng truyền đến khi đạt nồng độ hiệu lực",
+      "D": "Tất cả các câu trên đều sai"
+    }
+  },
+  "thuoc.158.89": {
+    "question": "Những bất lợi khi gây mê chỉ dùng fentanyl liều cao làm thuốc duy nhất",
+    "options": {
+      "A": "Huyết động không ổn định và ức chế hệ tim mạch",
+      "B": "Giảm thông khí do co cứng cơ thành ngực",
+      "C": "Cần thông khí sau phẫu thuật kéo dài hơn",
+      "D": "Gây quên kéo dài hơn",
+      "E": "Gây tăng đau sau mổ"
+    }
+  },
+  "thuoc.158.90": {
+    "question": "Thứ tự độ nhanh khi khởi mê và tỉnh mê",
+    "options": {
+      "A": "Desflurane > N₂O > sevoflurane > isoflurane > enflurane > halothane",
+      "B": "N₂O > sevoflurane > desflurane > isoflurane > enflurane > halothane",
+      "C": "N₂O > desflurane > enflurane > sevoflurane > isoflurane > halothane",
+      "D": "N₂O > desflurane > sevoflurane > isoflurane > enflurane > halothane",
+      "E": "N₂O > enflurane > desflurane > sevoflurane > isoflurane > halothane"
+    }
+  },
+  "thuoc.158.91": {
+    "question": "Nồng độ phế nang tối thiểu MAC",
+    "options": {
+      "A": "Thai kỳ làm giảm MAC",
+      "B": "MAC của nhiều thuốc mê hô hấp đồng thời là tác dụng cộng",
+      "C": "MAC tăng trên bệnh nhân suy giáp",
+      "D": "MAC ở bệnh nhân 80 tuổi chỉ khoảng ¾ so với bệnh nhân trẻ",
+      "E": "MAC giảm khi bệnh nhân bị hạ thân nhiệt"
+    }
+  },
+  "thuoc.158.92": {
+    "question": "Nồng độ phế nang tối thiểu MAC liên quan đến",
+    "options": {
+      "A": "Độ mê liên quan đến áp lực riêng phần trong não hơn là nồng độ % trong phế nang",
+      "B": "MAC có thể đo được qua khí thở ra của người bệnh",
+      "C": "Các thuốc mê ít tan trong mỡ có MAC thấp và mạnh",
+      "D": "MAC tăng trên bệnh nhân nghiện rượu"
+    }
+  },
+  "thuoc.158.93": {
+    "question": "Sevoflurane",
+    "options": {
+      "A": "Có thể tạo dẫn cơ đủ để đặt NKQ ở trẻ em sau khởi mê đường hô hấp",
+      "B": "Giảm tiêu thụ O₂ cơ tim, giảm sức co mạch vành",
+      "C": "5% được chuyển hóa tại gan tạo ion fluor độc cho thận",
+      "D": "Có nhiều bằng chứng rõ ràng về độc tính trên thận ở người"
+    }
+  },
+  "thuoc.158.94": {
+    "question": "Isoflurane",
+    "options": {
+      "A": "Gây tụt huyết áp tỉ lệ với nồng độ do giãn mạch ngoại vi",
+      "B": "Dãn phế quản mạnh hơn halothane",
+      "C": "Adrenaline gây loạn nhịp tim tương tự sevoflurane",
+      "D": "Ức chế hô hấp, thường gây thở nhanh"
+    }
+  },
+  "thuoc.158.95": {
+    "question": "Halothane",
+    "options": {
+      "A": "Thường gây nhịp tim nhanh",
+      "B": "Gây viêm gan do chuyển hóa tạo chất kháng thể chống gan",
+      "C": "Gây độc gan khi thiếu oxy mô",
+      "D": "Có thể dùng kèm adrenaline >1,5 mcg/kg"
+    }
+  },
+  "thuoc.158.96": {
+    "question": "MAC của các thuốc mê hô hấp (% trong O₂)",
+    "options": {
+      "A": "MAC isoflurane = 1,15%",
+      "B": "MAC isoflurane = 0,75%",
+      "C": "MAC sevoflurane = 2,05%",
+      "D": "MAC sevoflurane = 0,75%"
+    }
+  },
+  "thuoc.158.97": {
+    "question": "Tình trạng co cứng cơ do opioids gây ra",
+    "options": {
+      "A": "Không xảy ra với morphine 0,2 mg/kg",
+      "B": "Chỉ xảy ra khi không dùng thuốc dẫn cơ",
+      "C": "Giảm bằng cách thêm N₂O",
+      "D": "Giảm bằng naloxone",
+      "E": "Tất cả các câu trên đều đúng"
+    }
+  },
+  "thuoc.158.98": {
+    "question": "Đặc tính giúp fentanyl khởi phát nhanh, tác dụng ngắn",
+    "options": {
+      "A": "Hòa tan trong mỡ cao",
+      "B": "Ion hóa cao",
+      "C": "Trọng lượng phân tử nhỏ",
+      "D": "Gắn protein không đáng kể",
+      "E": "pKa trung tính"
+    }
+  },
+  "thuoc.158.99": {
+    "question": "Remifentanil có thời gian tác dụng ngắn hơn so với các opioids khác là do",
+    "options": {
+      "A": "Chuyển hóa bởi esterase huyết tương",
+      "B": "Thẩm thấu nhanh vào mô",
+      "C": "Gắn protein yếu",
+      "D": "pKa thấp",
+      "E": "Trọng lượng phân tử nhỏ"
+    }
+  },
+  "thuoc.158.100": {
+    "question": "Meperidine",
+    "options": {
+      "A": "Ít ức chế hô hấp cùng liều giảm đau so với opioids khác",
+      "B": "Có tác dụng gây tê trực tiếp",
+      "C": "Gây nhịp tim nhanh giống atropine",
+      "D": "IMAO làm giảm chuyển hóa thành normeperidine"
+    }
+  },
+  "thuoc.158.101": {
+    "question": "Liên quan đến tai biến khi dùng thuốc tê",
+    "options": {
+      "A": "Triệu chứng thần kinh luôn xảy ra trước tim mạch với lidocaine",
+      "B": "Dị ứng nhóm amide thường hơn nhóm ester",
+      "C": "Dùng 40 ml lidocaine 2% tiêm dưới da làm tăng ngộ độc",
+      "D": "Độc tính hệ thống không tùy thuộc vùng chích",
+      "E": "Pha adrenaline giảm thời gian tiềm phục"
+    }
+  },
+  "thuoc.158.102": {
+    "question": "Thuốc mê TM ưu tiên khởi mê cho chấn thương sọ não không mất thể tích tuần hoàn",
+    "options": {
+      "A": "Thiopental, Propofol",
+      "B": "Thiopental, Etomidate",
+      "C": "Propofol, Etomidate",
+      "D": "Etomidate, Ketamine",
+      "E": "Propofol, Ketamine"
+    }
+  },
+  "thuoc.158.103": {
+    "question": "Thuốc kháng vận của morphine",
+    "options": {
+      "A": "Clonidine",
+      "B": "N-acetyl cysteine",
+      "C": "Flumazenil",
+      "D": "Naloxone",
+      "E": "Xanh Methylene"
+    }
+  },
+  "thuoc.158.104": {
+    "question": "Ketamine",
+    "options": {
+      "A": "Được khuyên dùng khi huyết động không ổn định",
+      "B": "Liều khởi mê 3 mg/kg TM",
+      "C": "Hoạt động như giao cảm gián tiếp trung ương",
+      "D": "Làm giảm lưu lượng máu não",
+      "E": "Không có tác dụng dẫn mạch"
+    }
+  },
+  "thuoc.158.105": {
+    "question": "Atracurium",
+    "options": {
+      "A": "Bảo quản ở 4 °C",
+      "B": "Chọn cho suy gan suy thận",
+      "C": "Không gây phóng thích histamine",
+      "D": "Không tác dụng khi hạ thân nhiệt"
+    }
+  },
+  "thuoc.158.106": {
+    "question": "Rocuronium",
+    "options": {
+      "A": "Liều 0,6 mg/kg cho phép đặt NKQ sau 60 giây",
+      "B": "Dùng cho suy thận kéo dài tác dụng",
+      "C": "Gây phóng thích histamine"
+    }
+  },
+  "thuoc.158.107": {
+    "question": "Thuốc dẫn cơ nào không an toàn khi dùng cho bệnh nhân phong trước đó 1 tuần",
+    "options": {
+      "A": "Rocuronium",
+      "B": "Succinylcholine",
+      "C": "Vecuronium",
+      "D": "Atracurium"
+    }
+  },
+  "thuoc.158.108": {
+    "question": "Ketamine gây",
+    "options": {
+      "A": "Ảo giác, ác mộng khi tỉnh mê",
+      "B": "Không thay đổi huyết áp, mạch",
+      "C": "Dãn phế quản tốt",
+      "D": "Liều thấp ngừa tăng đau"
+    }
+  },
+  "thuoc.158.109": {
+    "question": "Etomidate",
+    "options": {
+      "A": "Không tác dụng trên baroreflex",
+      "B": "Tăng lưu lượng máu não",
+      "C": "Liều khởi mê 0,1–0,3 mg/kg",
+      "D": "Kích thích tuyến thượng thận"
+    }
+  },
+  "thuoc.158.110": {
+    "question": "Propofol",
+    "options": {
+      "A": "Phù hợp gây mê ngày viện",
+      "B": "Không ức chế hô hấp",
+      "C": "Có tính chống ói",
+      "D": "Hội chứng truyền propofol hiếm, do truyền liều cao kéo dài"
+    }
+  },
+  "thuoc.158.111": {
+    "question": "Propofol (tiếp)",
+    "options": {
+      "A": "Liều thấp gây an thần và quên",
+      "B": "Liều cao gây EEG burst-suppression",
+      "C": "Gây tụt HA nặng ở người thiếu thể tích tuần hoàn",
+      "D": "Liều cho trẻ em thấp hơn người lớn"
+    }
+  },
+  "thuoc.158.112": {
+    "question": "Thiopental",
+    "options": {
+      "A": "Gây đau khi chích TM",
+      "B": "Gây tụt HA và giảm cung lượng tim",
+      "C": "Chống động kinh",
+      "D": "Liều cao gây EEG đăng điện"
+    }
+  },
+  "thuoc.158.113": {
+    "question": "Thuốc mê TM nào gây đau khi chích TM",
+    "options": {
+      "A": "Etomidate",
+      "B": "Thiopental",
+      "C": "Ketamine",
+      "D": "Propofol"
+    }
+  },
+  "thuoc.158.114": {
+    "question": "Paracetamol",
+    "options": {
+      "A": "Là thuốc giảm đau nhóm 3 theo WHO",
+      "B": "Chống chỉ định cho thai phụ",
+      "C": "Kết hợp với tramadol và codeine để tăng tác dụng giảm đau",
+      "D": "Dùng TM thời gian tiềm phục ngắn hơn đường uống"
+    }
+  },
+  "thuoc.158.39": {
+    "question": "Amiodarone",
+    "options": {
+      "A": "Hội chứng Wolff-Parkinson-White",
+      "B": "Cường giáp",
+      "C": "Đau thắt ngực",
+      "D": "Hoạt động điện tim vô mạch",
+      "E": "Nhịp nhanh thất"
+    }
+  },
+  "thuoc.158.40": {
+    "question": "Điều trị ngộ độc thuốc tê",
+    "options": {
+      "A": "Mỡ nhũ tương 20%",
+      "B": "Có tính acid",
+      "C": "Giá trị năng lượng cao",
+      "D": "Có độ thẩm thấu cao",
+      "E": "Kích thước hạt trong nhũ tương là 0.5 mm"
+    }
+  },
+  "thuoc.158.41": {
+    "question": "Intralipid",
+    "options": {
+      "A": "Liều bolus là 1.5 ml/kg",
+      "B": "Truyền nên bắt đầu ở tốc độ 2.5 ml/kg/min",
+      "C": "Ép ngực hiệu quả giúp điều trị tốt hơn",
+      "D": "Giảm huyết áp là chỉ định ngưng truyền",
+      "E": "Liều tối đa 8 ml/kg được khuyến cáo"
+    }
+  },
+  "thuoc.158.42": {
+    "question": "Thuốc phối hợp trong gây tê trục thần kinh (tê tuỷ sống)",
+    "options": {
+      "A": "Tần suất ngứa cao nhất với sufentanil",
+      "B": "Epinephrine cho cùng với Bupivacaine làm tăng thời gian tác dụng",
+      "C": "Phenylephrine có thể gây triệu chứng thần kinh tạm thời",
+      "D": "Clonidine có thể gây hạ huyết áp nếu cho ngoài màng cứng đoạn ngực",
+      "E": "Sodium bicarbonate có hiệu quả làm tăng thời gian tiêm phục với lidocaine và mepivacaine hơn bupivacaine hay ropivacaine"
+    }
+  },
+  "thuoc.158.43": {
+    "question": "Epinephrine",
+    "options": {
+      "A": "Có thể làm giảm nồng độ đỉnh trong máu",
+      "B": "Cho block đáng tin cậy",
+      "C": "Tăng cường giảm đau và gây tê",
+      "D": "Chỉ dùng cho tác dụng co mạch",
+      "E": "Ở liều thấp kích thích cả hai thụ thể alpha1 và alpha2"
+    }
+  },
+  "thuoc.158.45": {
+    "question": "Sắp xếp theo thứ tự giảm dần về độ mạnh của các thuốc mê bốc hơi thường dùng",
+    "options": {
+      "A": "Sevo – halo – Iso",
+      "B": "Sevo – iso – halo",
+      "C": "Halothane – iso – sevo",
+      "D": "Halo – sevo – iso"
+    }
+  },
+  "thuoc.158.46": {
+    "question": "Thuốc có tác dụng giảm đau và sinh hấp hô hấp kéo dài vài ngày trên bệnh nhân thận",
+    "options": {
+      "A": "Sufentanil",
+      "B": "Fentanyl",
+      "C": "Meperidine",
+      "D": "Morphine"
+    }
+  },
+  "thuoc.158.47": {
+    "question": "Thuốc có tác dụng miếng dán giảm đau cho bệnh nhân ung thư",
+    "options": {
+      "A": "Alfentanil",
+      "B": "Fentanyl"
+    }
+  },
+  "thuoc.158.48": {
+    "question": "Liều dùng đường tĩnh mạch để điều trị lạnh run của meperidine",
+    "options": {
+      "A": "10-25 mg",
+      "B": "25-50 mg",
+      "C": "50-75 mg",
+      "D": "75-100 mg"
+    }
+  },
+  "thuoc.158.49": {
+    "question": "Thứ tự đúng, độ giảm đau giảm dần của các thuốc giảm đau họ á phiện",
+    "options": {
+      "A": "Fentanyl – sufentanil – meperidine – morphine",
+      "B": "Fen – sufen – mor – mepe",
+      "C": "Sufen – fen – mepe – mor",
+      "D": "Sufen – fen – mor – mepe"
+    }
+  },
+  "thuoc.158.50": {
+    "question": "Liều của fentanyl dùng để ngăn ngừa tăng huyết áp khi đặt NKQ",
+    "options": {
+      "A": "5-10 mcg",
+      "B": "10-25 mcg",
+      "C": "25-50 mcg",
+      "D": "50-100 mcg"
+    }
+  },
+  "thuoc.158.51": {
+    "question": "Y lệnh cho truyền fentanyl TM BTĐ 100 mcg/h pha thuốc nồng độ 0,001%. Vậy tốc độ truyền trên máy là bao nhiêu?",
+    "options": {
+      "A": "1 ml/h",
+      "B": "5 ml/h",
+      "C": "10 ml/h",
+      "D": "100 ml/h"
+    }
+  },
+  "thuoc.158.52": {
+    "question": "Liều trong 1h của fentanyl dùng duy trì trong gây mê cân bằng",
+    "options": {
+      "A": "0,5-2,5 mcg/kg",
+      "B": "1-3 mcg/kg",
+      "C": "3-5 mcg/kg",
+      "D": "5-10 mcg/kg"
+    }
+  },
+  "thuoc.158.53": {
+    "question": "Liều của sufentanil dùng để ngăn ngừa tăng huyết áp khi đặt NKQ",
+    "options": {
+      "A": "0,1-0,3 mcg/kg",
+      "B": "0,3-1 mcg/kg",
+      "C": "1-2 mcg/kg",
+      "D": "3-5 mcg/kg"
+    }
+  },
+  "thuoc.158.54": {
+    "question": "Dung dịch pha để TTm, BTĐ của sufentanil có hàm lượng 1 mcg/ml, vậy nồng độ % của thuốc là",
+    "options": {
+      "A": "0,1%",
+      "B": "0,01%",
+      "C": "0,001%",
+      "D": "0,0001%"
+    }
+  },
+  "thuoc.158.55": {
+    "question": "Thuốc dùng để điều trị suy hô hấp do quá liều thuốc phiện",
+    "options": {
+      "A": "Anoxone",
+      "B": "Kaloxone",
+      "C": "Lanoxone",
+      "D": "Naloxone"
+    }
+  },
+  "thuoc.158.56": {
+    "question": "Trong 1 ngày một người lớn nếu sử dụng bao nhiêu paracetamol thì bị ngộ độc",
+    "options": {
+      "A": "5-10 g",
+      "B": "10-15 g",
+      "C": "15-20 g",
+      "D": "20-25 g"
+    }
+  },
+  "thuoc.158.57": {
+    "question": "Sau khi uống paracetamol, bao lâu bệnh nhân mới hạ sốt",
+    "options": {
+      "A": "5-10 phút",
+      "B": "10-20 phút",
+      "C": "20-30 phút",
+      "D": "30-60 phút"
+    }
+  },
+  "thuoc.158.58": {
+    "question": "Khi bị ngộ độc paracetamol thì dùng thuốc gì để giải độc",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "Acetylcystein",
+      "C": "Acetylcafein",
+      "D": "Acetyl tricin"
+    }
+  },
+  "thuoc.158.59": {
+    "question": "Liều tối đa/ngày ở người lớn của paracetamol là",
+    "options": {
+      "A": "2 g",
+      "B": "4 g",
+      "C": "6 g",
+      "D": "8 g"
+    }
+  },
+  "thuoc.158.60": {
+    "question": "Những bệnh nhân thường tăng nguy cơ viêm gan hoại tử do sd para, ngoại trừ",
+    "options": {
+      "A": "Thiếu glucagon",
+      "B": "Glucose-6-phosphatase deficiency",
+      "C": "Nhịn đói",
+      "D": "Uống rượu"
+    }
+  },
+  "thuoc.158.61": {
+    "question": "Một bé trai 10kg bị nhiễm siêu vi gây đau họng sổ mũi và sốt 39,5°C. Vậy bạn chọn paracetamol nào cho bé uống",
+    "options": {
+      "A": "Gói màu hồng 80 mg",
+      "B": "Gói màu xanh dương 150 mg",
+      "C": "Gói màu vàng 250 mg",
+      "D": "Viên sủi 500 mg"
+    }
+  },
+  "thuoc.158.62": {
+    "question": "So với paracetamol thì aspirin có thêm tác dụng nào",
+    "options": {
+      "A": "Kháng viêm",
+      "B": "Giảm đau",
+      "C": "Hạ sốt",
+      "D": "Kháng đông"
+    }
+  },
+  "thuoc.158.63": {
+    "question": "Thuốc giảm đau kháng viêm non-steroid gây kéo dài thời gian đông máu là do",
+    "options": {
+      "A": "Gây tăng kết dính tiểu cầu",
+      "B": "Ức chế kết dính tiểu cầu",
+      "C": "Giảm sinh tiểu cầu",
+      "D": "Hủy tiểu cầu"
+    }
+  },
+  "thuoc.158.64": {
+    "question": "Không phải tác dụng phụ trên dạ dày của NSAIDs",
+    "options": {
+      "A": "Tắc dạ dày",
+      "B": "Chảy máu dạ dày",
+      "C": "Thủng dạ dày",
+      "D": "Viêm dạ dày"
+    }
+  },
+  "thuoc.158.65": {
+    "question": "Không phải tác dụng phụ của NSAIDs",
+    "options": {
+      "A": "Viêm dạ dày",
+      "B": "Rối loạn đông máu",
+      "C": "Độc tính trên thận",
+      "D": "Độc tính trên gan"
+    }
+  },
+  "thuoc.158.66": {
+    "question": "Thuốc non-steroid dùng đường tĩnh mạch có tính hòa tan cao tác dụng giảm đau như thuốc phiện",
+    "options": {
+      "A": "Ibuprofen",
+      "B": "Diclofenac",
+      "C": "Ketoprofen",
+      "D": "Ketorolac"
+    }
+  },
+  "thuoc.158.67": {
+    "question": "Chọn thuốc tốt nhất để khởi mê đặt mask thanh quản cho bn mổ dẫn TM tính không có bệnh kèm theo",
+    "options": {
+      "A": "Thiopental",
+      "B": "Propofol",
+      "C": "Etomidate",
+      "D": "Ketamine"
+    }
+  },
+  "thuoc.158.68": {
+    "question": "Thuốc nào không nên dùng để khởi mê cho bn bị suyễn",
+    "options": {
+      "A": "Thiopental",
+      "B": "Propofol",
+      "C": "Etomidate",
+      "D": "Midazolam"
+    }
+  },
+  "thuoc.158.69": {
+    "question": "Thuốc nào không nên dùng để duy trì mê đường TM cho bn có nguy cơ suy tuyến thượng thận",
+    "options": {
+      "A": "Thiopental",
+      "B": "Propofol",
+      "C": "Etomidate",
+      "D": "Ketamine"
+    }
+  },
+  "thuoc.158.70": {
+    "question": "Thuốc gây tăng ALNS để gây mê cho bn có chỉ định mổ sọ não",
+    "options": {
+      "A": "Thiopental",
+      "B": "Etomidat",
+      "C": "Midazolam",
+      "D": "Ketamine"
+    }
+  },
+  "thuoc.158.71": {
+    "question": "Thứ tự gây tụt huyết áp từ nhiều đến ít của các thuốc mê TM",
+    "options": {
+      "A": "Propofol – thiopental – etomidate – ketamine",
+      "B": "Propofol – etomidate – thiopental – ketamine",
+      "C": "Thiopental – propofol – etomidate – ketamine",
+      "D": "Thiopental – etomidate – propofol – ketamine"
+    }
+  },
+  "thuoc.158.72": {
+    "question": "Ta có 1 lọ thiopental 1g, để pha thành dd 5% thể tích nước cất cần dung là",
+    "options": {
+      "A": "20 ml",
+      "B": "30 ml",
+      "C": "40 ml",
+      "D": "50 ml"
+    }
+  },
+  "thuoc.158.73": {
+    "question": "Tác dụng gây mê khi sử dụng thiopental cho người béo phì so với người gầy",
+    "options": {
+      "A": "Gây ngủ chậm hơn và tỉnh mê chậm hơn",
+      "B": "Gây ngủ chậm hơn và tỉnh mê nhanh hơn",
+      "C": "Gây ngủ nhanh hơn và tỉnh mê chậm hơn",
+      "D": "Gây ngủ nhanh hơn và tỉnh mê nhanh hơn"
+    }
+  },
+  "thuoc.158.74": {
+    "question": "Liều khởi mê etomidate cho người lớn",
+    "options": {
+      "A": "0,1-0,2 mg/kg",
+      "B": "0,2-0,3 mg/kg",
+      "C": "0,3-0,4 mg/kg"
+    }
+  },
+  "thuoc.158.75": {
+    "question": "Thời gian tác dụng của etomidate sau liều khởi mê là",
+    "options": {
+      "A": "2-5 phút",
+      "B": "5-10 phút",
+      "C": "7-12 phút",
+      "D": "10-15 phút"
+    }
+  },
+  "thuoc.158.76": {
+    "question": "Không phải tác dụng phụ của etomidate",
+    "options": {
+      "A": "Rung cơ",
+      "B": "Lạnh run",
+      "C": "Nôn ói",
+      "D": "Nói lắp"
+    }
+  },
+  "thuoc.158.77": {
+    "question": "Physostigmine",
+    "options": {
+      "A": "Có thể dùng để điều trị hội chứng kháng anticholinergic trung ương",
+      "B": "Không qua hàng rào máu não",
+      "C": "Ít hiệu quả hơn neostigmine trong điều trị mê sảng",
+      "D": "Là thuốc lựa chọn để hóa giải tác dụng an thần của benzodiazepine",
+      "E": "Thường gây khô miệng khó chịu"
+    }
+  },
+  "thuoc.158.78": {
+    "question": "Liều khởi mê của propofol cho trẻ em là",
+    "options": {
+      "A": "1,25-1,5 mg/kg",
+      "B": "1,5-2,5 mg/kg",
+      "C": "2-3 mg/kg",
+      "D": "3-3,5 mg/kg"
+    }},
     "thuoc.151.14": {
     "question": "Naloxone không là lựa chọn thích hợp để đối vận lại tác dụng nào của opioid?",
     "options": {
