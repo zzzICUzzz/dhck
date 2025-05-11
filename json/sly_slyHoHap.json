@@ -1,0 +1,992 @@
+{
+  "sly.3.1": {
+    "question": "Áp màng phổi của một người bình thường ngay trước hít vào trong điều kiện nghỉ ngơi khoảng -5 cm H2O. Khi người này hít vào, áp suất màng phổi (cm H2O) sẽ có giá trị nào sau đây?",
+    "options": {
+      "A": "+3 cm H2O",
+      "B": "+7 cm H2O",
+      "C": "-3 cm H2O",
+      "D": "-7 cm H2O"
+    }
+  },
+  "sly.3.2": {
+    "question": "Một bệnh nhân phù phổi cấp, tiền căn lao phổi cũ, diện tích bề mặt phế nang bệnh nhân này bị phá hủy còn 50% và phù phổi dẫn đến tăng gấp đôi khoảng cách màng phế nang mao mạch, khả năng khuếch tán của O2 của người này thay đổi thế nào so với bình thường?",
+    "options": {
+      "A": "Giảm 25%",
+      "B": "Giảm 50%",
+      "C": "Giảm 75%",
+      "D": "Giảm 100%"
+    }
+  },
+  "sly.3.3": {
+    "question": "Trong 1 kì thi, các thí sinh thi xem ai có thể thổi ra mạnh nhất. Cơ nào có hiệu quả nhất để thực hiện động tác thổi ra?",
+    "options": {
+      "A": "Cơ liên sườn trong",
+      "B": "Cơ liên sườn ngoài",
+      "C": "Cơ thẳng bụng",
+      "D": "Cơ ức đòn chũm"
+    }
+  },
+  "sly.3.4": {
+    "question": "Một vận động viên leo núi lên đến độ cao 3000m và thở khí trời, áp suất khí quyển tại đây là 520 mmHg. Phần áp riêng phần của oxy trong khí hít vào của bệnh nhân này gần với giá trị nào sau đây nhất?",
+    "options": {
+      "A": "90 mmHg",
+      "B": "110 mmHg",
+      "C": "130 mmHg",
+      "D": "150 mmHg"
+    }
+  },
+  "sly.3.5": {
+    "question": "Sau khi trao đổi khí, pO2 tại máu động mạch chủ thấp hơn pO2 tại máu mao mạch phổi do nguyên nhân nào?",
+    "options": {
+      "A": "Pha trộn máu từ tĩnh mạch phế quản",
+      "B": "Bất xứng giữa thông khí – tưới máu tại phổi",
+      "C": "Cơ tim trực tiếp sử dụng O2 trong máu động mạch chủ",
+      "D": "Nhu mô phổi sử dụng O2 sau khi trao đổi khí"
+    }
+  },
+  "sly.3.6": {
+    "question": "Đối với đường cong phân ly Hb-O2 bình thường, mối tương quan giữa PaO2 và SaO2 nào là hợp lý nhất?",
+    "options": {
+      "A": "PaO2 = 132 mmHg, SaO2 = 98%",
+      "B": "PaO2 = 80 mmHg, SaO2 = 92%",
+      "C": "PaO2 = 60 mmHg, SaO2 = 90%",
+      "D": "PaO2 = 40 mmHg, SaO2 = 60%"
+    }
+  },
+  "sly.3.7": {
+    "question": "Máu tĩnh mạch trộn có đặc điểm nào sau đây?",
+    "options": {
+      "A": "Là máu lấy từ nhĩ phải",
+      "B": "Hematocrit cao hơn máu động mạch",
+      "C": "Độ bão hòa oxy = 48%",
+      "D": "pH cao hơn máu động mạch"
+    }
+  },
+  "sly.3.8": {
+    "question": "Một người đàn ông được cứu thoát ra khỏi một đám cháy. Khi đến bệnh viện, người này đang hôn mê, môi đỏ. Bệnh nhân được cho làm khí máu động mạch, theo anh/chị PaO2 và CaO2 của bệnh nhân này nhiều khả năng sẽ thay đổi như thế nào?",
+    "options": {
+      "A": "PaO2 giảm, CaO2 bình thường",
+      "B": "PaO2 bình thường, CaO2 giảm",
+      "C": "PaO2 giảm, CaO2 giảm",
+      "D": "PaO2 tăng, CaO2 bình thường"
+    }
+  },
+  "sly.3.9": {
+    "question": "Khi so sánh huyết động của tuần hoàn phổi với huyết động của tuần hoàn hệ thống thì tuần hoàn phổi có:",
+    "options": {
+      "A": "Lưu lượng cao hơn, kháng lực thấp hơn, áp suất động mạch cao hơn",
+      "B": "Lưu lượng thấp hơn, kháng lực cao hơn, áp suất động mạch thấp hơn",
+      "C": "Lưu lượng tương đương, kháng lực thấp hơn, áp suất động mạch thấp hơn",
+      "D": "Lưu lượng tương đương, kháng lực thấp hơn, áp suất động mạch tương đương"
+    }
+  },
+  "sly.3.10": {
+    "question": "Tuần hoàn phổi có đặc điểm nào sau đây?",
+    "options": {
+      "A": "Động mạch phổi chứa máu giàu oxy",
+      "B": "Là một thành phần của tuần hoàn hệ thống",
+      "C": "Chức năng chính là nơi thực hiện trao đổi khí",
+      "D": "Áp lực của động mạch phổi tương đương với động mạch chủ"
+    }
+  },
+  "sly.3.11": {
+    "question": "Câu nào sau đây ĐÚNG khi nói về các thể tích và dung tích của phổi ở một người bình thường? (TLC: tổng dung lượng phổi, VC: dung tích sống, FRC: dung tích khí cặn cơ năng, TV: thể tích lưu thông)",
+    "options": {
+      "A": "TLC > VC > TV > FRC",
+      "B": "TLC > VC > FRC > TV",
+      "C": "TLC > FRC > TV > VC",
+      "D": "TLC > TV > FRC > VC"
+    }
+  },
+  "sly.3.12": {
+    "question": "Một nhóm vận động viên lao núi lên cao, tại đây áp suất khí quyển giảm một nửa, thì giá trị nào dưới đây tăng?",
+    "options": {
+      "A": "Thông khí phế nang",
+      "B": "Áp suất hơi nước phế nang",
+      "C": "PO2 động mạch",
+      "D": "Nồng độ H+ trong máu động mạch"
+    }
+  },
+  "sly.3.13": {
+    "question": "Điều nào sau đây KHÔNG xảy ra khi hít vào?",
+    "options": {
+      "A": "Xương sườn di chuyển lên trên",
+      "B": "Cơ hoành nâng lên",
+      "C": "Tăng đường kính trước-sau của lồng ngực",
+      "D": "Tăng đường kính kinh ngang của lồng ngực"
+    }
+  },
+  "sly.3.14": {
+    "question": "Trong quá trình hít vào bình thường, áp suất phế nang như thế nào so với áp suất khí quyển?",
+    "options": {
+      "A": "Áp suất phế nang lớn hơn áp suất khí quyển đầu thì hít vào",
+      "B": "Áp suất phế nang lớn hơn áp suất khí quyển cuối thì hít vào",
+      "C": "Áp suất phế nang nhỏ hơn áp suất khí quyển cuối thì hít vào",
+      "D": "Áp suất phế nang bằng áp suất khí quyển cuối thì hít vào"
+    }
+  },
+  "sly.3.15": {
+    "question": "Trong quá trình thở ra bình thường, áp suất phế nang như thế nào so với áp suất khí quyển?",
+    "options": {
+      "A": "Áp suất phế nang lớn hơn áp suất khí quyển đầu thì thở ra",
+      "B": "Áp suất phế nang nhỏ hơn áp suất khí quyển đầu thì thở ra",
+      "C": "Áp suất phế nang nhỏ hơn áp suất khí quyển cuối thì thở ra",
+      "D": "Áp suất phế nang bằng áp suất khí quyển cuối thì thở ra"
+    }
+  },
+  "sly.3.16": {
+    "question": "Một sinh viên y khoa 23 tuổi có phân áp oxy và carbon dioxide máu động mạch lần lượt là 95 mmHg và 40 mmHg; phân áp oxy và carbon dioxide máu tĩnh mạch trộn lần lượt là 40 mmHg và 45 mmHg. Một số phế nang của sinh viên này không được thông khí tốt do tắc nghẽn bởi đàm nhớt. Phần áp oxy và carbon dioxide (mmHg) của các phế nang này là bao nhiêu?",
+    "options": {
+      "A": "CO2: 40 mmHg; O2: 95 mmHg",
+      "B": "CO2: 40 mmHg; O2: 40 mmHg",
+      "C": "CO2: 45 mmHg; O2: 40 mmHg",
+      "D": "CO2: 50 mmHg; O2: 50 mmHg"
+    }
+  },
+  "sly.3.17": {
+    "question": "Điều nào sau đây đúng khi so sánh tỉ lệ các dạng vận chuyển CO2 trong máu?",
+    "options": {
+      "A": "Dạng hòa tan > dạng ion bicarbonate > dạng carbaminohemoglobin",
+      "B": "Dạng hòa tan > dạng carbaminohemoglobin > dạng ion bicarbonate",
+      "C": "Dạng ion bicarbonate > dạng hòa tan > dạng carbaminohemoglobin",
+      "D": "Dạng bicarbonate > dạng carbaminohemoglobin > dạng hòa tan"
+    }
+  },
+  "sly.3.18": {
+    "question": "Oxy và CO2 được trao đổi qua màng phế nang mao mạch theo cơ chế nào?",
+    "options": {
+      "A": "Vận chuyển tích cực",
+      "B": "Trao đổi với khí ni tơ",
+      "C": "Khuyếch tán theo nồng độ",
+      "D": "Thẩm thấu"
+    }
+  },
+  "sly.3.19": {
+    "question": "Hóa thụ thể ngoại vi của oxy ở thể cảnh và thể đại động mạch tăng phát xung thần kinh để đáp ứng với?",
+    "options": {
+      "A": "Giảm nồng độ oxy máu",
+      "B": "Giảm phân áp oxy máu",
+      "C": "Giảm nồng độ ion hydro máu",
+      "D": "Giảm lượng hemoglobin bão hòa oxy"
+    }
+  },
+  "sly.3.20": {
+    "question": "Một người đàn ông khỏe mạnh, 45 tuổi, đang đọc báo. Các cơ nào sau đây được sử dụng khi người này thở bình thường?",
+    "options": {
+      "A": "Cơ hoành và cơ liên sườn ngoài",
+      "B": "Cơ hoành và cơ liên sườn trong",
+      "C": "Cơ liên sườn trong và cơ thẳng bụng",
+      "D": "Cơ liên sườn ngoài và cơ thẳng bụng"
+    }
+  },
+  "sly.3.21": {
+    "question": "Các vùng cảm ứng hóa học của hệ hô hấp gồm những vùng nào?",
+    "options": {
+      "A": "Vùng trung ương ở mặt bụng cuống não",
+      "B": "Vùng ngoại biên gồm xoang cảnh, cung động mạch",
+      "C": "Thể cảnh và thể động mạch chủ có thụ thể nhạy cảm với nồng độ O2 máu",
+      "D": "Vùng cảm ứng hóa học trung ương gồm hai loại tế bào I và II"
+    }
+  },
+  "sly.3.22": {
+    "question": "Nếu PaO2 là 100 mmHg, nồng độ Hb máu là 10 g/dL và 50% hemoglobin bão hòa oxy, lượng oxy chứa trong 100 ml máu xấp xỉ bao nhiêu?",
+    "options": {
+      "A": "3.8 mL",
+      "B": "5.9 mL",
+      "C": "7.3 mL",
+      "D": "10.7 mL"
+    }
+  },
+  "sly.3.23": {
+    "question": "CO2 được vận chuyển trong máu dưới các dạng nào sau đây, NGOẠI TRỪ?",
+    "options": {
+      "A": "Dưới dạng bicarbonate",
+      "B": "Hòa tan trong máu",
+      "C": "Gắn với nhóm amin trong protein",
+      "D": "Gắn vòng imidazole của glutamate"
+    }
+  },
+  "sly.3.24": {
+    "question": "Chất hoạt diện (surfactant) giúp ngăn ngừa xẹp phế nang qua cơ chế nào?",
+    "options": {
+      "A": "Làm ẩm không khí trước khi đưa vào",
+      "B": "Can thiệp vào sự gắn kết giữa các phân tử nước, làm giảm sức căng bề mặt lớp dịch phế nang",
+      "C": "Bảo vệ bề mặt phế nang tránh mất nước và biến đổi môi trường",
+      "D": "Hạn chế thay đổi pH lớp dịch phế nang qua cơ chế đệm bicarbonate"
+    }
+  },
+  "sly.3.25": {
+    "question": "Câu nào sau đây đúng với áp suất âm trong màng phổi?",
+    "options": {
+      "A": "Hạn chế phổi đi theo lồng ngực khi thở ra",
+      "B": "Hạn chế máu về tim trong thì hít vào, giảm hao phí công hô hấp",
+      "C": "Giúp xứng hợp giữa thông khí và tưới máu",
+      "D": "Giảm kháng lực đường dẫn khí"
+    }
+  },
+  "sly.3.26": {
+    "question": "Câu nào sau đây đúng với áp suất phế nang?",
+    "options": {
+      "A": "Trong kì hít vào bình thường là +1 đến +3 mmHg",
+      "B": "Trong kì hít vào gắng sức là +60 đến +100 mmHg",
+      "C": "Trong kì thở ra bình thường là +3 đến +6 mmHg",
+      "D": "Trong kì thở ra gắng sức là +150 đến +200 mmHg"
+    }
+  },
+  "sly.3.27": {
+    "question": "Một sinh viên y khoa 23 tuổi có phân áp oxy và carbon dioxide máu động mạch lần lượt là 95 mmHg và 40 mmHg; phân áp oxy và carbon dioxide máu tĩnh mạch trộn lần lượt là 40 mmHg và 45 mmHg. Một số phế nang của sinh viên này không được tưới máu do tắc mạch. Phần áp oxy và carbon dioxide (mmHg) của các phế nang này là bao nhiêu?",
+    "options": {
+      "A": "CO2: 0 mmHg; O2: 110 mmHg",
+      "B": "CO2: 0 mmHg; O2: 40 mmHg",
+      "D": "CO2: 40 mmHg; O2: 40 mmHg",
+      "E": "CO2: 60 mmHg; O2: 40 mmHg"
+    }
+  },
+  "sly.3.28": {
+    "question": "PaO2 có thể bình thường mặc dù mô thiếu oxy, điều này có thể do?",
+    "options": {
+      "A": "Giảm áp suất khí quyển",
+      "B": "Sốc tuần hoàn nặng",
+      "C": "Giảm khả năng khuếch tán qua màng phế nang mao mạch",
+      "D": "Ngộ độc cyanua"
+    }
+  },
+  "sly.3.29": {
+    "question": "Kích thích hô hấp mạnh nhất ở một người khỏe mạnh là?",
+    "options": {
+      "A": "Giảm oxy mô",
+      "B": "Giảm oxy máu",
+      "C": "Tăng carbon dioxide",
+      "D": "pH toan"
+    }
+  },
+  "sly.3.30": {
+    "question": "Khi đứng thẳng, từ đỉnh phổi xuống đáy phổi:",
+    "options": {
+      "A": "pCO2 ở đỉnh phổi cao hơn đáy phổi",
+      "B": "PO2 ở đỉnh phổi cao hơn đáy phổi",
+      "C": "V/Q không đổi",
+      "D": "Thông khí tăng khi đi từ đáy phổi lên đỉnh phổi"
+    }
+  },
+  "sly.3.31": {
+    "question": "Với đường cong phân ly Hb-O2 bình thường, mối liên quan chính xác nhất là:",
+    "options": {
+      "A": "PaO2 = 130 mmHg, SaO2 = 95%",
+      "B": "PaO2 = 60 mmHg, SaO2 = 90%",
+      "C": "PaO2 = 40 mmHg, SaO2 = 60%",
+      "D": "PaO2 = 20 mmHg, SaO2 = 50%"
+    }
+  },
+  "sly.3.32": {
+    "question": "Khi máu đi qua mao mạch hệ thống:",
+    "options": {
+      "A": "pH tăng",
+      "B": "HCO3- di chuyển từ hồng cầu vào huyết tương",
+      "C": "Nồng độ Cl- trong hồng cầu giảm",
+      "D": "Đường cong phân ly oxy lệch trái"
+    }
+  },
+  "sly.3.33": {
+    "question": "Với hệ hô hấp bình thường, điều nào sau đây KHÔNG ĐÚNG:",
+    "options": {
+      "A": "Oxy qua màng phế nang mao mạch theo cơ chế khuếch tán thụ động",
+      "B": "Khoảng chết tăng lên khi hít vào",
+      "C": "Khi nghỉ, tốc độ thông khí phế nang nhiều hơn tốc độ tưới máu mao mạch",
+      "D": "Tỷ số V/Q ở đỉnh phổi cao hơn đáy phổi khi đứng thẳng"
+    }
+  },
+  "sly.3.34": {
+    "question": "Thông khí tăng trong trường hợp nào sau đây?",
+    "options": {
+      "A": "Bệnh thận mạn",
+      "B": "Bicarbonate huyết tương tăng",
+      "C": "Ngủ sâu (giai đoạn Non-REM)",
+      "D": "pH dịch não tủy tăng"
+    }
+  },
+  "sly.3.35": {
+    "question": "Công hô hấp tăng trong các trường hợp sau, NGOẠI TRỪ:",
+    "options": {
+      "A": "Suất đàn hồi phổi tăng",
+      "B": "Vận động",
+      "C": "Tần số hô hấp tăng nhưng thông khí phút không đổi",
+      "D": "Ở tư thế nằm"
+    }
+  },
+  "sly.3.36": {
+    "question": "Khoảng chết sinh lý có đặc điểm nào sau đây?",
+    "options": {
+      "A": "Làm bão hòa hơi nước trong khí hít vào trước khi đến phế nang",
+      "B": "Loại bỏ tất cả các hạt trong khí vào trước khi đến phế nang",
+      "C": "Giảm khi nồng độ catecholamine trong máu tăng",
+      "D": "Giảm khi hít sâu"
+    }
+  },
+  "sly.3.37": {
+    "question": "Một sinh viên y khoa 25 tuổi chạy bộ 10 Km, các cơ nào sau đây sinh viên này sử dụng trong quá trình thở ra?",
+    "options": {
+      "A": "Cơ liên sườn ngoài và cơ thẳng bụng",
+      "B": "Cơ liên sườn ngoài và cơ ức đòn chũm",
+      "C": "Cơ liên sườn trong và cơ ức đòn chũm",
+      "D": "Cơ liên sườn trong và cơ thẳng bụng"
+    }
+  },
+  "sly.3.38": {
+    "question": "Một người có khoảng chết là 200 ml, dung tích cặn cơ năng là 3 L, thể tích lưu thông là 700 ml, thể tích dự trữ thở ra 1.5 L, tổng dung lượng phổi là 8 L, tần số hô hấp 15 lần/phút. Thông khí phế nang người này là bao nhiêu?",
+    "options": {
+      "A": "4.5 L/phút",
+      "B": "6.0 L/phút",
+      "C": "7.5 L/phút",
+      "D": "9.0 L/phút"
+    }
+  },
+  "sly.3.39": {
+    "question": "Khi hít vào, cơ hoành hạ xuống sẽ dẫn đến kết quả:",
+    "options": {
+      "A": "Tăng áp suất khoang màng phổi",
+      "B": "Tăng thể tích ổ bụng",
+      "C": "Giảm áp suất lồng ngực",
+      "D": "Giảm thể tích máu về tim"
+    }
+  },
+  "sly.3.40": {
+    "question": "Hô hấp kỳ không thể đo được thông số nào sau đây?",
+    "options": {
+      "A": "Dung tích sống",
+      "B": "Dung tích hít vào",
+      "C": "Dung tích thở ra",
+      "D": "Tổng dung lượng phổi"
+    }
+  },
+  "sly.3.41": {
+    "question": "Hai người X và Y có thể tích lưu thông và khoảng chết sinh lý giống nhau, cùng thở với tần số giống nhau. Nếu người X hít thở sâu hơn (tăng gấp đôi thể tích khí hít vào) và thở chậm hơn (giảm một nửa tần số), người Y hít thở nông hơn (giảm một nửa thể tích khí hít vào) và thở nhanh hơn (tăng gấp đôi tần số). Điều nào sau đây mô tả thông khí phút và thông khí phế nang của hai người này?",
+    "options": {
+      "A": "Thông khí phút X = Y; Thông khí phế nang X < Y",
+      "B": "Thông khí phút X = Y; Thông khí phế nang X > Y",
+      "C": "Thông khí phút X > Y; Thông khí phế nang X = Y",
+      "D": "Thông khí phút X > Y; Thông khí phế nang X < Y"
+    }
+  },
+  "sly.3.42": {
+    "question": "Một trẻ sặc kẹo đường kích thước 1–1,5 cm vào đường thở gây tắc nghẽn phế quản trái. Điều nào sau đây mô tả thay đổi xảy ra?",
+    "options": {
+      "A": "Phân áp CO2 phế nang trái tăng; Phân áp O2 phế nang trái tăng; Phân áp O2 động mạch chủ không đổi",
+      "B": "Phân áp CO2 phế nang trái tăng; Phân áp O2 phế nang trái không đổi; Phân áp O2 động mạch chủ tăng",
+      "C": "Phân áp CO2 phế nang trái tăng; Phân áp O2 phế nang trái giảm; Phân áp O2 động mạch chủ giảm",
+      "D": "Phân áp CO2 phế nang trái giảm; Phân áp O2 phế nang trái tăng; Phân áp O2 động mạch chủ tăng"
+    }
+  },
+  "sly.3.43": {
+    "question": "Một bệnh nhân nam được gây mê tự thở, sau đó thở máy 15 phút với cùng thể tích lưu thông nhưng tăng gấp đôi tần số và FiO2 = 60%. Sau khi ngưng thở máy, bệnh nhân ngưng thở vài phút. Cơ chế chính của hiện tượng này là gì?",
+    "options": {
+      "A": "Tăng PO2 động mạch ức chế thụ thể hóa học ngoại biên",
+      "B": "Tăng PO2 động mạch ức chế thụ thể hóa học trung ương",
+      "C": "Giảm pCO2 động mạch ức chế thụ thể hóa học trung ương",
+      "D": "Giảm pCO2 động mạch ức chế thụ thể hóa học ngoại biên"
+    }
+  },
+  "sly.3.44": {
+    "question": "Kháng lực đường dẫn khí lớn nhất ở đâu?",
+    "options": {
+      "A": "Thanh quản",
+      "B": "Khí quản và phế quản lớn",
+      "C": "Các phế quản trung bình",
+      "D": "Các phế quản nhỏ < 2 μm"
+    }
+  },
+  "sly.3.45": {
+    "question": "Áp suất khoang màng phổi dương trong trường hợp nào?",
+    "options": {
+      "A": "Hít vào bình thường",
+      "B": "Hít vào gắng sức",
+      "C": "Thở ra bình thường",
+      "D": "Thở ra gắng sức"
+    }
+  },
+  "sly.3.46": {
+    "question": "Một bệnh nhân ARDS được thở máy với FiO2 = 60%. Kết quả khí máu động mạch: PaO2 = 90 mmHg, PaCO2 = 25 mmHg. Điều nào phù hợp với tình trạng bệnh?",
+    "options": {
+      "A": "Bệnh nhân có bất thường trao đổi khí",
+      "B": "Bệnh nhân có khả năng chuyển chở oxy 20 mL/100 mL máu",
+      "C": "Bệnh nhân cần tăng tần số thở",
+      "D": "Bệnh nhân cần giảm FiO2"
+    }
+  },
+  "sly.3.47": {
+    "question": "Hemoglobin giảm ái lực với oxy khi pH máu giảm là hiệu quả nào?",
+    "options": {
+      "A": "Bohr",
+      "B": "Boyle",
+      "C": "Haldane",
+      "D": "Hawthorne"
+    }
+  },
+  "sly.3.48": {
+    "question": "Thụ thể J nằm ở đâu?",
+    "options": {
+      "A": "Biểu mô phế quản",
+      "B": "Mô kẽ phổi",
+      "C": "Phế nang",
+      "D": "Thành ngực"
+    }
+  },
+  "sly.3.49": {
+    "question": "Hiệu quả Bohr: oxy được phóng thích nhiều hơn khi?",
+    "options": {
+      "A": "pH thấp (toan), tăng ái lực hemoglobin-oxy",
+      "B": "pH thấp (toan), giảm ái lực hemoglobin-oxy",
+      "C": "pH thấp (toan), giảm ái lực hemoglobin-oxy",
+      "D": "pH cao (kiềm), tăng ái lực hemoglobin-oxy"
+    }
+  },
+  "sly.3.50": {
+    "question": "Đơn vị hô hấp gồm những cấu trúc nào trong hình dưới đây?",
+    "options": {
+      "A": "B + C",
+      "B": "D + E",
+      "C": "A + B + C",
+      "D": "C + D + E"
+    }
+  },
+  "sly.3.51": {
+    "question": "Khi thở ra gắng sức, cơ co chủ động là cơ nào sau đây?",
+    "options": {
+      "A": "Cơ ức đòn chũm",
+      "B": "Cơ hoành",
+      "C": "Cơ thành bụng trước",
+      "D": "Cơ liên sườn ngoài"
+    }
+  },
+  "sly.3.52": {
+    "question": "Về mặt cơ học hô hấp, các câu sau đây đều đúng, NGOẠI TRỪ:",
+    "options": {
+      "A": "Bó vỏ sống điều khiển cơ hô hấp một cách tự ý",
+      "B": "Bó bụng bên điều khiển cơ hô hấp một cách tự động",
+      "C": "Cơ liên sườn trong là các cơ hít vào gắng sức",
+      "D": "Cơ ức đòn chũm là nhóm cơ hít vào gắng sức"
+    }
+  },
+  "sly.3.53": {
+    "question": "Câu nào sau đây đúng với đường dẫn khí?",
+    "options": {
+      "A": "Được chia thành 20 đến 23 thế hệ",
+      "B": "Được hệ giao cảm điều khiển trực tiếp là duy nhất",
+      "C": "Nở ra trong thì thở ra",
+      "D": "Kháng lực bình thường chủ yếu do đường dẫn khí nhỏ"
+    }
+  },
+  "sly.3.54": {
+    "question": "Đường dẫn khí thuần túy dẫn khí chấm dứt ở cuối cấu trúc nào?",
+    "options": {
+      "A": "Tiểu phế quản",
+      "B": "Tiểu phế quản tận cùng",
+      "C": "Tiểu phế quản hô hấp",
+      "D": "Ống phế nang"
+    }
+  },
+  "sly.3.55": {
+    "question": "Về hệ thống máu đến phổi, các câu sau đây đều đúng, NGOẠI TRỪ:",
+    "options": {
+      "A": "Chủ yếu là máu đen từ tâm thất phải",
+      "B": "Trao đổi khí biến máu tĩnh mạch phổi thành máu động mạch phổi",
+      "C": "Sau trao đổi khí, về tim trái bằng tĩnh mạch phổi",
+      "D": "Máu đỏ xuất phát từ động mạch chủ đến nuôi phế quản lớn và mô phổi"
+    }
+  },
+  "sly.3.56": {
+    "question": "Trong quá trình hô hấp bình thường, khi cơ hít vào thư giãn, phổi đang ở thể tích nào?",
+    "options": {
+      "A": "Thể tích khí lưu thông",
+      "B": "Thể tích khí cặn",
+      "C": "Dung tích hít vào",
+      "D": "Dung tích cặn cơ năng"
+    }
+  },
+  "sly.3.57": {
+    "question": "Câu nào sau đây đúng với cơ liên sườn ngoài?",
+    "options": {
+      "A": "Cơ hít vào bình thường",
+      "B": "Cơ thở ra bình thường",
+      "C": "Cơ thở ra gắng sức",
+      "D": "Cơ hít vào gắng sức"
+    }
+  },
+  "sly.3.58": {
+    "question": "Vào cuối kỳ thở ra, ở một người bình thường, áp lực khí trong phế nang (PA) và áp suất trong màng phổi (Ppl) lần lượt là bao nhiêu?",
+    "options": {
+      "A": "+1 mmHg; -6 mmHg",
+      "B": "-1 mmHg; -6 mmHg",
+      "C": "0 mmHg; -1.5 mmHg",
+      "D": "0 mmHg; -2.5 mmHg"
+    }
+  },
+  "sly.3.59": {
+    "question": "Dung tích cặn cơ năng trong hình dưới đây là:",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "B + C",
+      "D": "C + D"
+    }
+  },
+  "sly.3.60": {
+    "question": "Áp suất âm trong màng phổi sẽ âm nhất khi thể tích phổi ở mức nào?",
+    "options": {
+      "A": "Dung tích khí cặn",
+      "B": "Dung tích sống",
+      "C": "Thể tích cuối kỳ khí lưu thông",
+      "D": "Dung tích dự trữ thở ra"
+    }
+  },
+  "sly.3.61": {
+    "question": "Giảm chất hoạt diện sẽ đưa đến hậu quả nào?",
+    "options": {
+      "A": "Giảm sức căng bề mặt phế nang",
+      "B": "Giảm suất đàn hồi của phổi",
+      "C": "Giảm công hô hấp",
+      "D": "Giảm dịch phù trong phế nang"
+    }
+  },
+  "sly.3.62": {
+    "question": "Câu nào sau đây đúng với thông khí phút?",
+    "options": {
+      "A": "Là tích số của khí lưu thông và khoảng chết",
+      "B": "Là tích số của khí lưu thông và tần số thở/phút",
+      "C": "Là thông khí phế nang trừ cho khoảng chết",
+      "D": "Là thương số của khí lưu thông và tần số thở/phút"
+    }
+  },
+  "sly.3.63": {
+    "question": "Khi các cơ hô hấp giãn nghỉ, phổi đang ở thể tích nào?",
+    "options": {
+      "A": "Thể tích cặn",
+      "B": "Thể tích khí dự trữ thở ra",
+      "C": "Dung tích cặn cơ năng",
+      "D": "Tổng dung lượng phổi"
+    }
+  },
+  "sly.3.64": {
+    "question": "Tổng dung lượng phổi là tổng của các thể tích nào sau đây?",
+    "options": {
+      "A": "Khí cặn và khí cặn cơ năng",
+      "B": "Khí lưu thông và khí cặn cơ năng",
+      "C": "Dung tích sống và khí cặn",
+      "D": "Dung tích sống và khí dự trữ thở ra"
+    }
+  },
+  "sly.3.65": {
+    "question": "Áp suất trong màng phổi âm nhất khi thể tích phổi ở mức nào?",
+    "options": {
+      "A": "Khi cặn cơ năng",
+      "B": "Cuối kỳ khí lưu thông",
+      "C": "Đầu kỳ khí lưu thông",
+      "D": "Dung tích sống"
+    }
+  },
+  "sly.3.66": {
+    "question": "Câu nào sau đây đúng với dung tích cặn cơ năng?",
+    "options": {
+      "A": "Lượng thở ra sau hít vào gắng sức",
+      "B": "Lượng thở ra sau hít vào bình thường",
+      "C": "Lượng còn lại sau thở ra bình thường",
+      "D": "Lượng khí còn lại sau thở ra gắng sức"
+    }
+  },
+  "sly.3.67": {
+    "question": "Yếu tố nào sau đây có thể làm giảm thông khí phế nang nhưng không làm thay đổi thông khí phút?",
+    "options": {
+      "A": "Giảm tần số hô hấp, thể tích khí lưu thông không đổi",
+      "B": "Giảm tần số hô hấp, tăng thể tích khí lưu thông",
+      "C": "Tăng tần số hô hấp, giảm thể tích khí lưu thông",
+      "D": "Tăng tần số hô hấp, thể tích khí lưu thông không đổi"
+    }
+  },
+  "sly.3.68": {
+    "question": "Một sinh viên rất lo lắng khi thực tập Sinh lý nên tăng tốc độ thông khí phế nang, nếu chuyển hóa không đổi thì điều nào đúng?",
+    "options": {
+      "A": "PaCO2 tăng",
+      "B": "PaCO2 giảm",
+      "C": "V/Q = 0",
+      "D": "V/Q = vô cực"
+    }
+  },
+  "sly.3.69": {
+    "question": "Câu nào sau đây cho những trị số đúng của áp suất phần các khí trong phế nang tính bằng mmHg?",
+    "options": {
+      "A": "pO2 = 46, pCO2 = 40, pH2O = 47",
+      "B": "pO2 = 100, pCO2 = 46, pH2O = 47",
+      "C": "pO2 = 95, pCO2 = 46, pH2O = 47",
+      "D": "pO2 = 100, pCO2 = 40, pH2O = 47"
+    }
+  },
+  "sly.3.70": {
+    "question": "Khả năng khuếch tán của oxy qua màng phế nang mao mạch (mL/phút/mmHg) bằng bao nhiêu?",
+    "options": {
+      "A": "2,1",
+      "B": "21",
+      "C": "1,2",
+      "D": "12"
+    }
+  },
+  "sly.3.71": {
+    "question": "Vận tốc khuếch tán qua màng của một loại khí chịu các yếu tố ảnh hưởng nào sau đây?",
+    "options": {
+      "A": "Tỉ lệ nghịch với khuynh áp khí",
+      "B": "Tỉ lệ nghịch với diện tích khuếch tán",
+      "C": "Tỉ lệ thuận với độ hòa tan của chất khí",
+      "D": "Tỉ lệ thuận với khoảng khuếch tán"
+    }
+  },
+  "sly.3.72": {
+    "question": "Phần trăm hemoglobin bão hòa với oxy sẽ tăng trong điều kiện nào?",
+    "options": {
+      "A": "PaCO2 tăng",
+      "B": "Nhiệt độ tăng",
+      "C": "PaO2 tăng",
+      "D": "pH giảm"
+    }
+  },
+  "sly.3.73": {
+    "question": "Đường cong phân ly oxy-hemoglobin chuyển từ vị trí A sang B trong tình trạng nào sau đây?",
+    "options": {
+      "A": "CO2 thấp",
+      "B": "pH thấp",
+      "C": "Thân nhiệt thấp",
+      "D": "2,3-DPG thấp"
+    }
+  },
+  "sly.3.74": {
+    "question": "Đường cong phân ly oxy-hemoglobin chuyển từ vị trí A sang B tương ứng với tình trạng nào sau đây?",
+    "options": {
+      "A": "Tăng ái lực của hemoglobin với O2",
+      "B": "Giảm ái lực của hemoglobin với O2",
+      "C": "Tăng khả năng chuyển chở O2 của hemoglobin",
+      "D": "Giảm khả năng chuyển chở O2 của hemoglobin"
+    }
+  },
+  "sly.3.75": {
+    "question": "Thương số thông khí-tưới máu (V̇A/Q̇) của toàn bộ phổi ở người bình thường vào khoảng?",
+    "options": {
+      "A": "1.2",
+      "B": "1.0",
+      "C": "0.8",
+      "D": "0.6"
+    }
+  },
+  "sly.3.76": {
+    "question": "Ở điều kiện bình thường, khi nghỉ ngơi, lượng O2 cơ thể tiêu thụ trong 1 phút khoảng:",
+    "options": {
+      "A": "100–150 mL",
+      "B": "200–250 mL",
+      "C": "300–350 mL",
+      "D": "400–450 mL"
+    }
+  },
+  "sly.3.77": {
+    "question": "Hình dưới là đường cong phân ly oxy-hemoglobin của 3 người A, B, C. Điều nào đúng khi nói về ái lực của hemoglobin với O2 trên 3 người này?",
+    "options": {
+      "A": "P50_A = P50_B",
+      "B": "P50_A = P50_C",
+      "C": "P50_A > P50_C",
+      "D": "P50_B > P50_C"
+    }
+  },
+  "sly.3.78": {
+    "question": "Tại phòng cấp cứu, một bệnh nhân suy hô hấp được thở oxy qua cannula 5 L/phút, FiO2 ≃ 40%. Phân áp riêng phần của O2 trong khí hít vào gần với giá trị nào?",
+    "options": {
+      "A": "240 mmHg",
+      "B": "270 mmHg",
+      "C": "300 mmHg",
+      "D": "330 mmHg"
+    }
+  },
+  "sly.3.79": {
+    "question": "Máu tĩnh mạch trộn ở phần đầu mao mạch phổi có các phân áp khí (mmHg) bằng bao nhiêu?",
+    "options": {
+      "A": "pO2 = 40, pCO2 = 40",
+      "B": "pO2 = 40, pCO2 = 46",
+      "C": "pO2 = 46, pCO2 = 40",
+      "D": "pO2 = 46, pCO2 = 46"
+    }
+  },
+  "sly.3.80": {
+    "question": "Bệnh nhân thuyên tắc phổi hoàn toàn tắc mạch phổi trái sẽ ảnh hưởng đến tỉ lệ V̇A/Q̇ của phổi trái như thế nào?",
+    "options": {
+      "A": "V̇A/Q̇ tiến đến 0",
+      "B": "V̇A/Q̇ tiến đến vô cực",
+      "C": "V̇A/Q̇ tiến đến 1",
+      "D": "V̇A/Q̇ không đổi"
+    }
+  },
+  "sly.3.81": {
+    "question": "Lượng O2 trong máu (ctO2) được tính bằng công thức nào?",
+    "options": {
+      "A": "(tHb × FO2Hb × 1,39) + (pO2 × 0,03)",
+      "B": "(tHb × FO2Hb × 1,39) + (pO2 × 0,003)",
+      "C": "(tHb × SO2 × 1,39) + (pO2 × 0,03)",
+      "D": "(tHb × FO2Hb × 1,39) + (pO2 × 0,3)"
+    }
+  },
+  "sly.3.82": {
+    "question": "Sau khi đi qua mô, bình thường máu động mạch giao cho mô bao nhiêu phần lượng O2 chuyển chở?",
+    "options": {
+      "A": "1/4",
+      "B": "1/3",
+      "C": "3/4",
+      "D": "1/2"
+    }
+  },
+  "sly.3.83": {
+    "question": "Phân áp O2 ở gian dịch mô bình thường bằng bao nhiêu?",
+    "options": {
+      "A": "38 mmHg",
+      "B": "40 mmHg",
+      "C": "42 mmHg",
+      "D": "44 mmHg"
+    }
+  },
+  "sly.3.84": {
+    "question": "Carbonic anhydrase xúc tác phản ứng nào sau đây?",
+    "options": {
+      "A": "Kết hợp giữa nước và CO2",
+      "B": "Phân ly H2CO3 thành HCO3⁻ và H⁺",
+      "C": "Kết hợp giữa HCO3⁻ và H⁺",
+      "D": "Kết hợp giữa CO2 và hemoglobin"
+    }
+  },
+  "sly.3.85": {
+    "question": "Về việc chuyển chở CO2, các câu sau đây đều đúng NGOẠI TRỪ:",
+    "options": {
+      "A": "Có dạng CO2 kết hợp với hemoglobin trong hồng cầu",
+      "B": "CO2 nhanh chóng chuyển thành HCO3⁻ trong huyết tương",
+      "C": "Ion Cl⁻ khuếch tán vào hồng cầu",
+      "D": "CO2 kết hợp với protein huyết tương tạo hợp chất carbamine"
+    }
+  },
+  "sly.3.86": {
+    "question": "Khi PCO2 trong máu tĩnh mạch tăng, máu tĩnh mạch sẽ bị ảnh hưởng như thế nào?",
+    "options": {
+      "A": "Nồng độ HCO3⁻ trong máu giảm",
+      "B": "Nồng độ H⁺ trong hồng cầu giảm",
+      "C": "Thể tích hồng cầu tăng",
+      "D": "Ái lực của hemoglobin với oxy tăng"
+    }
+  },
+  "sly.3.87": {
+    "question": "Kháng trở mao mạch phổi:",
+    "options": {
+      "A": "Khi hít vào tối đa lớn hơn khi thở ra tối đa",
+      "B": "Bằng khoảng 1/10 tuần hoàn hệ thống",
+      "C": "Giảm ở vùng thông khí kém",
+      "D": "Không bị ảnh hưởng bởi hệ thần kinh giao cảm"
+    }
+  },
+  "sly.3.88": {
+    "question": "So sánh các áp suất tại vùng 2 trong phổi:",
+    "options": {
+      "A": "PA > Pv > Pa",
+      "B": "Pa > Pv > PA",
+      "C": "Pv > Pa > PA",
+      "D": "Pa > PA > Pv"
+    }
+  },
+  "sly.3.89": {
+    "question": "Co mạch phổi xảy ra trong các trường hợp sau NGOẠI TRỪ:",
+    "options": {
+      "A": "Giảm oxy máu",
+      "B": "Tác động của các sợi thần kinh tiền hạch",
+      "C": "Độ cao",
+      "D": "Kiềm máu"
+    }
+  },
+  "sly.3.90": {
+    "question": "Hoạt động của cơ quan cảm ứng hóa học trung ương tăng khi nào?",
+    "options": {
+      "A": "PaCO2 máu động mạch tăng",
+      "B": "PaCO2 máu động mạch giảm",
+      "C": "HCO3⁻ máu động mạch tăng",
+      "D": "pH dịch não tủy tăng"
+    }
+  },
+  "sly.3.91": {
+    "question": "Điều hòa hô hấp chủ yếu qua trung gian cấu trúc nào?",
+    "options": {
+      "A": "Cảm thụ quan hóa học trung ương",
+      "B": "Trung tâm hô hấp",
+      "C": "Thể cảnh và thể đại động mạch",
+      "D": "Trung tâm kích thích hô hấp"
+    }
+  },
+  "sly.3.92": {
+    "question": "Neuron chính điều hòa hô hấp thực hiện quá trình:",
+    "options": {
+      "A": "Gửi xung động đều đặn đến cơ hít vào khi thở bình thường",
+      "B": "Gửi xung động đều đặn đến cơ thở ra khi thở bình thường",
+      "C": "Không bị ảnh hưởng bởi kích thích thụ thể đau",
+      "D": "Không bị ảnh hưởng bởi xung động từ vỏ não"
+    }
+  },
+  "sly.3.93": {
+    "question": "Thụ thể hóa học ở hành tủy (medulla) bị kích thích trực tiếp bởi:",
+    "options": {
+      "A": "CO2 trong máu",
+      "B": "H⁺ trong máu",
+      "C": "H⁺ trong dịch não tủy từ CO2 máu",
+      "D": "Tăng PCO2 trong máu động mạch"
+    }
+  },
+  "sly.3.94": {
+    "question": "Bệnh nhân ung thư tuyến mang tai kèm tổn thương dây thần kinh thiệt hầu, phản xạ hô hấp nào có thể bị ảnh hưởng?",
+    "options": {
+      "A": "Phản xạ Hering–Breuer",
+      "B": "Phản xạ kích thích đường dẫn khí",
+      "C": "Phản xạ của thụ thể hóa học ở thể đại động mạch",
+      "D": "Phản xạ của thụ thể hóa học ở thể cảnh"
+    }
+  },
+  "sly.3.95": {
+    "question": "Vùng hít vào có đặc điểm nào sau đây?",
+    "options": {
+      "A": "Chịu sự chi phối của vùng kích thích hô hấp",
+      "B": "Là nhóm tế bào thần kinh nằm vùng bụng hành não",
+      "C": "Là vùng cơ bản để gây hô hấp bình thường",
+      "D": "Nhận xung động từ cảm thụ quan hóa học qua dây XI và X"
+    }
+  },
+  "sly.3.96": {
+    "question": "Chất kích thích hô hấp mạnh nhất là chất nào?",
+    "options": {
+      "A": "Bicarbonate (HCO3⁻)",
+      "B": "Hydrogen ion (H⁺)",
+      "C": "Carbon dioxide (CO2)",
+      "D": "Carbonic acid (H2CO3)"
+    }
+  },
+  "sly.3.97": {
+    "question": "Quá trình giãn phế quản được điều hòa qua thụ thể nào?",
+    "options": {
+      "A": "α1",
+      "B": "α2",
+      "C": "β1",
+      "D": "β2"
+    }
+  },
+  "sly.3.98": {
+    "question": "Kích thích thụ thể J sẽ dẫn đến:",
+    "options": {
+      "A": "Tăng tần số thở",
+      "B": "Giảm tần số thở",
+      "C": "Ngưng thở sau đó tăng tần số",
+      "D": "Giảm tần số thở sau đó tăng tần số"
+    }
+  },
+  "sly.3.99": {
+    "question": "Bệnh nhân phù phổi cấp, tiền căn lao cũ, diện tích bề mặt phế nang chỉ còn 50% và khoảng cách màng phế nang-mao mạch tăng gấp đôi. Khả năng khuếch tán O2 thay đổi thế nào?",
+    "options": {
+      "A": "Giảm 25%",
+      "B": "Giảm 50%",
+      "C": "Giảm 75%",
+      "D": "Giảm 100%"
+    }
+  },
+  "sly.3.100": {
+    "question": "Trong 1 kì thi xem ai thổi ra mạnh nhất, cơ nào hiệu quả nhất cho động tác thổi ra?",
+    "options": {
+      "A": "Cơ liên sườn trong",
+      "B": "Cơ liên sườn ngoài",
+      "C": "Cơ thẳng bụng",
+      "D": "Cơ ức đòn chũm"
+    }
+  },
+  "sly.3.101": {
+    "question": "Cơ nào tham gia vào thở ra bình thường?",
+    "options": {
+      "A": "Cơ liên sườn trong",
+      "B": "Cơ thẳng bụng",
+      "C": "Cơ cánh mũi",
+      "D": "Không cơ nào tham gia"
+    }
+  },
+  "sly.3.102": {
+    "question": "Sự chênh lệch áp suất để làm nở phổi gọi là:",
+    "options": {
+      "A": "Áp suất phế nang",
+      "B": "Áp suất mở đường dẫn khí",
+      "C": "Áp suất xuyên ngực",
+      "D": "Áp suất xuyên phổi"
+    }
+  },
+  "sly.3.103": {
+    "question": "Yếu tố nào sau đây KHÔNG làm tăng thông khí phút?",
+    "options": {
+      "A": "Tăng pH máu động mạch",
+      "B": "Tăng áp suất riêng phần CO2 động mạch",
+      "C": "Tăng áp suất phế nang CO2",
+      "D": "Vận động"
+    }
+  },
+  "sly.3.104": {
+    "question": "Sau thở ra bình thường, khi cố gắng thở ra tối đa thêm một thể tích, thể tích này gọi là:",
+    "options": {
+      "A": "Thể tích cặn cơ năng",
+      "B": "Thể tích dự trữ thở ra",
+      "C": "Dung tích cặn",
+      "D": "Dung tích cặn cơ năng"
+    }
+  },
+  "sly.3.105": {
+    "question": "Với cùng thông khí phút 6 L/phút, kiểu thở nào cho thông khí phế nang tốt nhất?",
+    "options": {
+      "A": "10 nhịp/phút, TV 600 mL",
+      "B": "15 nhịp/phút, TV 400 mL",
+      "C": "20 nhịp/phút, TV 300 mL",
+      "D": "–"
+    }
+  },
+  "sly.3.106": {
+    "question": "Cơ nào dưới đây tham gia vào thở ra bình thường?",
+    "options": {
+      "A": "Cơ liên sườn trong",
+      "B": "Cơ thẳng bụng",
+      "C": "Cơ cánh mũi",
+      "D": "Không cơ nào tham gia"
+    }
+  },
+  "sly.3.107": {
+    "question": "Chất hoạt diện có những tác dụng sau đây NGOẠI TRỪ:",
+    "options": {
+      "A": "Giảm sức căng bề mặt phế nang",
+      "B": "Giảm co thắt cơ trơn đường dẫn khí",
+      "C": "Giảm công hô hấp",
+      "D": "Giảm dịch phù trong phế nang"
+    }
+  },
+  "sly.3.108": {
+    "question": "Một bé trai 10 tuổi đặt túi nilon kín lên miệng rồi hít vào … cơ chế nào giải thích tăng tần số thở?",
+    "options": {
+      "A": "Tăng pO2 phế nang",
+      "B": "Tăng pCO2 phế nang",
+      "C": "Giảm pCO2 động mạch",
+      "D": "Giảm pO2 động mạch"
+    }
+  },
+  "sly.3.109": {
+    "question": "Nhịp hô hấp cơ bản được tạo ra tại vùng của não?",
+    "options": {
+      "A": "Vùng dưới đồi",
+      "B": "Hệ thống lưới hoạt hóa",
+      "C": "Hành tuỷ",
+      "D": "Tủy cổ"
+    }
+  },
+  "sly.3.110": {
+    "question": "Thành phần chủ yếu của surfactant là gì?",
+    "options": {
+      "A": "Dipalmitoyl phosphatidyl choline",
+      "B": "Phosphatidylglycerol",
+      "C": "Surfactant protein A & D",
+      "D": "Phosphatidyl glycerine"
+    }
+  }
+}

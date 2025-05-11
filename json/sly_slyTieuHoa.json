@@ -1,0 +1,902 @@
+{
+  "sly.5.1": {
+    "question": "Đến cuối bữa ăn, thức ăn trong dạ dày được sắp xếp như thế nào?",
+    "options": {
+      "A": "Thức ăn vào trước nằm ở hang vị, thức ăn vào sau nằm ở thân dạ dày",
+      "B": "Thức ăn vào trước nằm ở giữa, thức ăn vào sau nằm ở sát thành dạ dày",
+      "C": "Thức ăn vào sau nằm ở giữa, thức ăn vào trước nằm ở sát thành dạ dày",
+      "D": "Thức ăn vào trước hay sau đều trộn lẫn với nhau"
+    }
+  },
+  "sly.5.2": {
+    "question": "HCl và yếu tố nội tại được tiết ra từ đâu?",
+    "options": {
+      "A": "Tế bào chính",
+      "B": "Tế bào cổ tuyến",
+      "C": "Tế bào thành",
+      "D": "Tế bào G"
+    }
+  },
+  "sly.5.3": {
+    "question": "Hàng rào bảo vệ niêm mạc dạ dày được cấu tạo bởi thành phần nào?",
+    "options": {
+      "A": "HCO₃⁻ và yếu tố nội tại",
+      "B": "HCO₃⁻ và chất nhầy",
+      "C": "Chất nhầy và yếu tố nội tại",
+      "D": "Yếu tố nội tại và prostaglandin E2"
+    }
+  },
+  "sly.5.4": {
+    "question": "Các enzyme tiêu hóa của dạ dày là gì?",
+    "options": {
+      "A": "Lipase, sucrose, lactase",
+      "B": "Pepsin, lipase, gelatinase",
+      "C": "Trypsin, pepsin, sucrose",
+      "D": "Chymotrypsin, lactase, lipase"
+    }
+  },
+  "sly.5.5": {
+    "question": "Trung tâm ói nằm ở đâu?",
+    "options": {
+      "A": "Thân não",
+      "B": "Hành não",
+      "C": "Sàn não thất 4",
+      "D": "Cầu não"
+    }
+  },
+  "sly.5.6": {
+    "question": "Các câu sau đây đều đúng với sự bài tiết các chất điện giải của nước bọt?",
+    "options": {
+      "A": "Na⁺ được tái hấp thu thụ động khi đi qua ống dẫn",
+      "B": "K⁺ được tế bào ống dẫn bài tiết thụ động",
+      "C": "Cl⁻ được tái hấp thu chủ động khi đi qua ống dẫn",
+      "D": "HCO₃⁻ được tế bào ống dẫn bài tiết chủ động"
+    }
+  },
+  "sly.5.7": {
+    "question": "Quá trình trung hòa acid dạ dày tại tá tràng không liên quan đến các sự bài tiết của các tuyến nào dưới đây?",
+    "options": {
+      "A": "Dịch tuỵ",
+      "B": "Dịch mật",
+      "C": "Dịch tiết từ các tuyến tại ruột",
+      "D": "Dịch nước bọt"
+    }
+  },
+  "sly.5.8": {
+    "question": "Tiêu chảy thẩm thấu:",
+    "options": {
+      "A": "Là sự tăng áp suất thẩm thấu phân",
+      "B": "Là kết quả của quá trình tăng tiết ở những tế bào tuyến",
+      "C": "Là kết quả của giảm hấp thu Na⁺",
+      "D": "Do nhiễm độc tố vi khuẩn"
+    }
+  },
+  "sly.5.9": {
+    "question": "Hệ thần kinh ruột có đặc tính nào sau đây?",
+    "options": {
+      "A": "Các neuron cảm giác nhận cảm là những sợi ly tâm",
+      "B": "Hoạt động kiểu phản xạ đường dài",
+      "C": "Chứa các dây thần kinh phó giao cảm phân phối cho thực quản, dạ dày và tuỵ",
+      "D": "Là những đám rối thần kinh cơ và đám rối thần kinh dưới niêm mạc"
+    }
+  },
+  "sly.5.10": {
+    "question": "Yếu tố chính giúp acid dạ dày được trung hòa khi xuống tá tràng là?",
+    "options": {
+      "A": "Bicarbonate được bài tiết từ tuỵ",
+      "B": "Bicarbonate được bài tiết từ tá tràng",
+      "C": "Bicarbonate được bài tiết từ gan",
+      "D": "Bicarbonate trong dịch mật"
+    }
+  },
+  "sly.5.11": {
+    "question": "Hệ thần kinh ruột có đặc tính nào sau đây?",
+    "options": {
+      "A": "Các neuron cảm giác nhận cảm là những sợi ly tâm",
+      "B": "Hoạt động kiểu phản xạ đường dài",
+      "C": "Chứa các dây thần kinh phó giao cảm phân phối cho thực quản, dạ dày và tuỵ",
+      "D": "Là những đám rối thần kinh cơ và đám rối thần kinh dưới niêm mạc"
+    }
+  },
+  "sly.5.12": {
+    "question": "Hệ thần kinh ruột có tất cả các đặc tính sau đây NGOẠI TRỪ:",
+    "options": {
+      "A": "Có cùng số lượng neuron với tuỷ sống",
+      "B": "Hoạt động theo kiểu phản xạ",
+      "C": "Có các neuron cảm giác nhận cảm những thay đổi hóa học, cơ học và áp suất thẩm thấu của hệ tiêu hóa",
+      "D": "Chứa các dây thần kinh phó giao cảm phân phối cho thực quản, dạ dày và tuyến tuỵ"
+    }
+  },
+  "sly.5.13": {
+    "question": "Câu nào sau đây mô tả đúng nhất đối với hệ thần kinh phó giao cảm phân phối cho hệ tiêu hóa?",
+    "options": {
+      "A": "Norepinephrine là chất trung gian thần kinh có tác dụng kích thích",
+      "B": "Làm tăng hoạt động co thắt của cơ tiêu hóa",
+      "C": "Chỉ gồm các dây thần kinh vận động",
+      "D": "Làm giảm bài tiết dịch tiêu hóa"
+    }
+  },
+  "sly.5.14": {
+    "question": "Câu nào sau đây mô tả đúng nhất đối với hệ thần kinh tự chủ phân phối cho hệ tiêu hóa?",
+    "options": {
+      "A": "Epinephrin là chất trung gian thần kinh có tác dụng kích thích",
+      "B": "Acetylcholine là chất trung gian thần kinh có tác dụng ức chế",
+      "C": "Epinephrin làm tăng hoạt động co thắt của cơ tiêu hóa",
+      "D": "Acetylcholine làm tăng bài tiết dịch tiêu hóa"
+    }
+  },
+  "sly.5.15": {
+    "question": "Câu nào đúng với sóng chậm?",
+    "options": {
+      "A": "Là những dao động của điện thế màng tế bào cơ trơn",
+      "B": "Là những co thắt có tác dụng đẩy thức ăn dọc theo thành ruột",
+      "C": "Tần số 9 lần/phút trong dạ dày",
+      "D": "Là do acetylcholine kích thích trực tiếp tế bào cơ trơn"
+    }
+  },
+  "sly.5.16": {
+    "question": "Câu nào sau đây đúng nhất với cơ tiêu hóa?",
+    "options": {
+      "A": "Toàn bộ là cơ trơn",
+      "B": "Xung động lan truyền từ tế bào cơ này sang tế bào cơ khác qua liên kết khe",
+      "C": "Hoạt động điện biểu hiện chủ yếu bằng những sóng nhọn",
+      "D": "Hoạt động nhào trộn thức ăn do cơ vòng lẫn cơ dọc phụ trách"
+    }
+  },
+  "sly.5.17": {
+    "question": "Cơ co thắt nào sau đây KHÔNG có nhiệm vụ ngăn ngừa sự trào ngược từ phần dưới lên phần trên của ống cơ tiêu hóa?",
+    "options": {
+      "A": "Cơ thắt thực quản dưới",
+      "B": "Cơ thắt môn vị",
+      "C": "Cơ thắt hồi manh tràng",
+      "D": "Cơ thắt hậu môn"
+    }
+  },
+  "sly.5.18": {
+    "question": "Đặc tính nào sau đây đúng về cấu tạo của ruột non?",
+    "options": {
+      "A": "Ruột non là một đoạn ống tiêu hóa dài khoảng 5m, bao xung quanh ruột già",
+      "B": "Ruột non xếp gọn trong ổ bụng bởi những cuộn tròn",
+      "C": "Niêm mạc ruột non có những nếp gấp, nhung mao, vi nhung mao",
+      "D": "Bờ bàn chải của niêm mạc ruột non làm tăng diện tích hấp thu lên 5 lần"
+    }
+  },
+  "sly.5.19": {
+    "question": "Sóng cơ thắt lưu động có tất cả những đặc tính sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Đó là những giai đoạn tăng hoạt động co thắt rất mạnh",
+      "B": "Chỉ xảy ra giữa các bữa ăn",
+      "C": "Chỉ xảy ra ở ruột non",
+      "D": "Cần có hệ thần kinh ruột để điều khiển sự di chuyển"
+    }
+  },
+  "sly.5.20": {
+    "question": "Một bệnh nhân 60 tuổi nhập viện vì nuốt khó 2 tháng nay, được chụp Xquang có uống barium cho kết quả:\n- LES không dãn hoàn toàn khi nuốt\n- Áp lực LES khi nghỉ tăng\n- Không có nhu động 1/3 dưới thực quản\nTheo em, bệnh nhân này bị tình trạng nào dưới đây?",
+    "options": {
+      "A": "Trào ngược dạ dày thực quản",
+      "B": "Cơ thắt tâm vị (Achalasia)",
+      "C": "Hirschsprung",
+      "D": "Xuất hiện sóng nhu động thứ phát"
+    }
+  },
+  "sly.5.21": {
+    "question": "Khi không có hoạt động nuốt, áp suất cao nhất trong lòng cấu trúc nào sau đây?",
+    "options": {
+      "A": "Hầu",
+      "B": "Thân thực quản",
+      "C": "Cơ vòng thực quản dưới",
+      "D": "Dạ dày"
+    }
+  },
+  "sly.5.22": {
+    "question": "Niêm mạc hấp thu của ruột non có những đặc tính sau, NGOẠI TRỪ:",
+    "options": {
+      "A": "Có những nếp gấp",
+      "B": "Có những nhung mao",
+      "C": "Có những vi nhung mao",
+      "D": "Diện tích vào khoảng 100 m²"
+    }
+  },
+  "sly.5.23": {
+    "question": "Sự bài tiết của chất nào sau đây KHÔNG phụ thuộc vào secretin?",
+    "options": {
+      "A": "Nước bọt",
+      "B": "Dịch ruột",
+      "C": "Dịch tuỵ",
+      "D": "Dịch mật"
+    }
+  },
+  "sly.5.24": {
+    "question": "Giảm trương lực của cơ thắt thực quản dưới là yếu tố nguy cơ để mắc bệnh nào sau đây?",
+    "options": {
+      "A": "Cơ thắt thực quản lan toả",
+      "B": "Cơ thắt tâm vị",
+      "C": "Trào ngược dạ dày – thực quản",
+      "D": "Rối loạn vận động thực quản không đặc hiệu"
+    }
+  },
+  "sly.5.25": {
+    "question": "Sự hấp thu Canxi xảy ra chủ yếu ở đâu?",
+    "options": {
+      "A": "Tá tràng và hỗng tràng",
+      "B": "Hỗng tràng và hồi tràng",
+      "C": "Hồi tràng và manh tràng",
+      "D": "Kết tràng phải"
+    }
+  },
+  "sly.5.26": {
+    "question": "Câu nào sau đây KHÔNG đúng với chất nhầy?",
+    "options": {
+      "A": "Chỉ được bài tiết ở dạ dày và ruột non",
+      "B": "Giúp bôi trơn thức ăn",
+      "C": "Bảo vệ niêm mạc của ống tiêu hóa",
+      "D": "Bản chất là một protein"
+    }
+  },
+  "sly.5.27": {
+    "question": "Kết hợp nào đúng với các chất nội tiết - cận tiết của hệ tiêu hóa?",
+    "options": {
+      "A": "Cholecystokinin – ức chế bài tiết mật",
+      "B": "Secretin – ức chế bài tiết dịch tuỵ",
+      "C": "Somatostatin – ức chế bài tiết HCl",
+      "D": "Histamin – ức chế bài tiết HCl"
+    }
+  },
+  "sly.5.28": {
+    "question": "Câu nào không đúng với hoạt động tiêu hóa các chất dinh dưỡng?",
+    "options": {
+      "A": "Carbohydrate được tiêu hóa thành glucose, fructose, galactose để hấp thu",
+      "B": "Lipid được tiêu hóa bởi men bài xuất từ gan",
+      "C": "Lipid được nhũ tương thành các hạt micelle thuận tiện cho tiêu hóa",
+      "D": "Protein phải được tiêu hóa thành acid amin trước khi được hấp thu"
+    }
+  },
+  "sly.5.29": {
+    "question": "Câu nào sau đây đúng với nhu động nguyên phát ở thực quản?",
+    "options": {
+      "A": "Là sự tiếp tục của nhu động hầu",
+      "B": "Không xảy ra nếu cắt dây X",
+      "C": "Khởi sinh do căng thành thực quản",
+      "D": "Không giãn cơ thắt thực quản dưới"
+    }
+  },
+  "sly.5.30": {
+    "question": "Nước bọt gồm các thành phần sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "HCO₃⁻",
+      "B": "K⁺",
+      "C": "Glucose",
+      "D": "Amylase"
+    }
+  },
+  "sly.5.31": {
+    "question": "Câu nào sau đây đúng với amylase nước bọt?",
+    "options": {
+      "A": "Được bài tiết trong một dung dịch có thành phần ion giống dịch ngoại bào",
+      "B": "Hoạt động mạnh nhất trong khoảng pH từ 1.3 – 4.0",
+      "C": "Khởi đầu sự tiêu hóa của axit béo trong miệng",
+      "D": "Được bài tiết khi nồng độ gastrin trong máu tăng cao"
+    }
+  },
+  "sly.5.32": {
+    "question": "Các câu sau đây đều đúng với sự bài tiết các chất điện giải của nước bọt, NGOẠI TRỪ:",
+    "options": {
+      "A": "Na⁺ được tái hấp thu chủ động khi đi qua ống dẫn",
+      "B": "K⁺ được tế bào ống dẫn bài tiết chủ động",
+      "C": "Cl⁻ được tái hấp thu thụ động khi đi qua ống dẫn",
+      "D": "HCO₃⁻ được tế bào ống dẫn bài tiết thụ động"
+    }
+  },
+  "sly.5.33": {
+    "question": "Hoạt động nào sau đây KHÔNG tham gia vào cử động nuốt?",
+    "options": {
+      "A": "Cơ thắt thực quản trên",
+      "B": "Vòm khẩu mềm được kéo lên để bịt đường thông với mũi",
+      "C": "Các nếp khẩu hầu được kéo vào trong tạo thành khe để thức ăn bắt đi qua",
+      "D": "Thanh quản được kéo xuống để thức ăn đẩy lên lỗ thanh quản"
+    }
+  },
+  "sly.5.34": {
+    "question": "Câu nào sau đây KHÔNG đúng đối với vai trò của nước bọt?",
+    "options": {
+      "A": "Ngừa sâu răng",
+      "B": "Tiêu hóa peptit",
+      "C": "Bôi trơn thức ăn",
+      "D": "Hòa tan các chất hóa học tạo vị giác"
+    }
+  },
+  "sly.5.35": {
+    "question": "Một sinh viên ăn sáng món bánh mì thịt, theo em bánh mì được tiêu hóa như thế nào?",
+    "options": {
+      "A": "Tiêu hóa xảy ra chủ yếu tại dạ dày",
+      "B": "Được tiêu hóa ở miệng trong điều kiện pH = 2.0",
+      "C": "Cắt thành disaccharides do amylase",
+      "D": "Hấp thu dưới dạng glucose, fructose"
+    }
+  },
+  "sly.5.36": {
+    "question": "Cơ thắt thực quản dưới chịu ảnh hưởng của các yếu tố sau đây NGOẠI TRỪ:",
+    "options": {
+      "A": "Áp suất trong ổ bụng",
+      "B": "Thần kinh phó giao cảm",
+      "C": "Thần kinh giao cảm",
+      "D": "Cholecystokinin"
+    }
+  },
+  "sly.5.37": {
+    "question": "Câu nào đúng với thực quản?",
+    "options": {
+      "A": "Cơ thắt thực quản trên chịu sự điều khiển tự ý",
+      "B": "Chỉ có hoạt động cơ học",
+      "C": "Khi cơ thắt thực quản dưới giãn ra không đủ sẽ gây bệnh trào ngược",
+      "D": "Cử động nuốt ở giai đoạn thực quản lúc đầu là tự ý sau mang tính tự động"
+    }
+  },
+  "sly.5.38": {
+    "question": "Một chức năng quan trọng của niêm mạc dạ dày là bài tiết chất nào?",
+    "options": {
+      "A": "Cholecystokinin",
+      "B": "Enterokinase",
+      "C": "Yếu tố nội tại",
+      "D": "Trypsinogen"
+    }
+  },
+  "sly.5.39": {
+    "question": "Ở người bình thường phản xạ ruột–dạ dày xảy ra trong tất cả các trường hợp sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Tăng áp suất trong tá tràng",
+      "B": "Dưỡng trấp ưu trương trong tá tràng",
+      "C": "Dưỡng trấp axit trong tá tràng",
+      "D": "Dịch tuỵ kiềm trong tá tràng"
+    }
+  },
+  "sly.5.40": {
+    "question": "Tế bào thành bài tiết chất nào sau đây?",
+    "options": {
+      "A": "Gastrin",
+      "B": "Cholecystokinin",
+      "C": "Yếu tố nội tại",
+      "D": "Histamine"
+    }
+  },
+  "sly.5.41": {
+    "question": "Câu nào sau đây đúng với tốc độ thoát thức ăn ra khỏi dạ dày?",
+    "options": {
+      "A": "Nhanh hơn khi dưỡng trấp làm căng thành tá tràng nhiều hơn",
+      "B": "Giảm khi dưỡng trấp ra khỏi dạ dày chứa nhiều lipid",
+      "C": "Tăng khi có bài tiết cholecystokinin",
+      "D": "Giảm khi có sự bài tiết của gastrin"
+    }
+  },
+  "sly.5.42": {
+    "question": "Chất nào sau đây ức chế sự co bóp của dạ dày?",
+    "options": {
+      "A": "Acetylcholin",
+      "B": "Gastrin",
+      "C": "Secretin",
+      "D": "Pepsin"
+    }
+  },
+  "sly.5.43": {
+    "question": "Sự tống thoát thức ăn khỏi dạ dày chịu ảnh hưởng của tất cả các yếu tố sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Carbohydrate trong dạ dày",
+      "B": "Bài tiết gastrin trong dạ dày",
+      "C": "Nồng độ thẩm thấu của chất chứa trong tá tràng",
+      "D": "Độ axit của dưỡng trấp khi vào đến đoạn tá tràng"
+    }
+  },
+  "sly.5.44": {
+    "question": "Câu nào sau đây đúng với hậu quả của sự axit hóa tá tràng?",
+    "options": {
+      "A": "Giảm bài tiết bicarbonate của tuỵ",
+      "B": "Tăng bài tiết HCl của dạ dày",
+      "C": "Giảm tống thoát thức ăn khỏi dạ dày",
+      "D": "Tăng co thắt túi mật"
+    }
+  },
+  "sly.5.45": {
+    "question": "Các câu sau đều đúng với sự bài tiết HCl của dạ dày, NGOẠI TRỪ:",
+    "options": {
+      "A": "Có sử dụng CO₂",
+      "B": "Bị ức chế bởi các thuốc kháng histamin",
+      "C": "Cần sự chuyên chở chủ động của H⁺",
+      "D": "Xảy ra tại tế bào chính"
+    }
+  },
+  "sly.5.46": {
+    "question": "Các câu sau đều đúng với sự bài tiết của dạ dày, NGOẠI TRỪ:",
+    "options": {
+      "A": "Yếu tố nội tại bài tiết bởi tế bào thành",
+      "B": "Trypsinogen bài tiết bởi tế bào chính",
+      "C": "HCl được bài tiết bởi tế bào thành",
+      "D": "Gastrin được bài tiết bởi tế bào G"
+    }
+  },
+  "sly.5.47": {
+    "question": "Hiện tượng nào xảy ra trong giai đoạn dạ dày của sự bài tiết HCl?",
+    "options": {
+      "A": "Máu đi ra khỏi dạ dày có pH kiềm",
+      "B": "Căng thành dạ dày ức chế tiết gastrin",
+      "C": "Axit ức chế sự bài tiết acetylcholin",
+      "D": "Sản phẩm tiêu hóa của protein kích thích sự bài tiết histamin"
+    }
+  },
+  "sly.5.48": {
+    "question": "Chất nào sau đây có vai trò quan trọng hơn cả trong sự điều hòa bài tiết HCl của dạ dày?",
+    "options": {
+      "A": "Secretin",
+      "B": "Cholecystokinin",
+      "C": "Gastrin",
+      "D": "Motilin"
+    }
+  },
+  "sly.5.49": {
+    "question": "Các câu sau đều đúng với sự bài tiết HCl của dạ dày, NGOẠI TRỪ:",
+    "options": {
+      "A": "Các mảnh peptide tác dụng trực tiếp lên tế bào G, làm tăng bài tiết HCl",
+      "B": "Histamine làm tăng tác dụng của acetylcholine và gastrin trên bài tiết HCl",
+      "C": "Axit khi được bài tiết ra nhiều sẽ ức chế ngược trở lại sự bài tiết acid",
+      "D": "Atropine là chất kháng đối giao cảm nên cũng có tác dụng tăng bài tiết HCl"
+    }
+  },
+  "sly.5.50": {
+    "question": "Hormone nào sau đây kích thích tế bào thành dạ dày bài tiết HCl?",
+    "options": {
+      "A": "Gastrin",
+      "B": "Motilin",
+      "C": "Secretin",
+      "D": "Cholecystokinin"
+    }
+  },
+  "sly.5.51": {
+    "question": "Hoạt động nào sau đây làm giảm sự bài tiết HCl của dạ dày?",
+    "options": {
+      "A": "Ngửi thấy mùi thức ăn",
+      "B": "Kích thích dây X",
+      "C": "Tiết somatostatin do thần kinh ruột",
+      "D": "Căng thành dạ dày"
+    }
+  },
+  "sly.5.52": {
+    "question": "Cắt dây X sẽ ảnh hưởng nhiều nhất đến giai đoạn nào của sự bài tiết HCl của dạ dày?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    }
+  },
+  "sly.5.53": {
+    "question": "Chất nào sau đây là kích thích quan trọng nhất gây bài tiết HCl trong giai đoạn tâm linh?",
+    "options": {
+      "A": "Gastrin",
+      "B": "Secretin",
+      "C": "Somatostatin",
+      "D": "Acetylcholine"
+    }
+  },
+  "sly.5.54": {
+    "question": "Một trong những câu nào sau đây KHÔNG ĐÚNG đối với sự bài tiết của dạ dày?",
+    "options": {
+      "A": "Tế bào thành bài tiết cả HCl và yếu tố nội tại",
+      "B": "Sự bài tiết gastrin bị ức chế bởi somatostatin",
+      "C": "Giữa các bữa ăn dạ dày không có sự bài tiết dịch vị",
+      "D": "Sự bài tiết HCl giảm do các thuốc ức chế hoạt động của bơm H⁺–K⁺ ATPase"
+    }
+  },
+  "sly.5.55": {
+    "question": "Sự hiện diện của dưỡng trấp trong ruột non sẽ kéo theo các sự kiện sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Làm chậm thoát dưỡng trấp ra khỏi dạ dày",
+      "B": "Giảm bài tiết pepsinogen của dạ dày",
+      "C": "Tăng cử động nhào trộn của ruột non",
+      "D": "Bài tiết bicarbonate do tuyến tuỵ"
+    }
+  },
+  "sly.5.56": {
+    "question": "Dùng thuốc chống acid thường xuyên, làm pH dạ dày vào khoảng 7, ảnh hưởng lên nồng độ gastrin như thế nào?",
+    "options": {
+      "A": "Giảm",
+      "B": "Tăng",
+      "C": "Tăng rồi giảm",
+      "D": "Không thay đổi"
+    }
+  },
+  "sly.5.57": {
+    "question": "Nhu động ruột non có đặc tính nào sau đây?",
+    "options": {
+      "A": "Tăng khi kích thích hệ giao cảm",
+      "B": "Xảy ra khi thành ruột bị căng",
+      "C": "Niêm mạc ruột non tăng bài tiết dịch trước khi nhu động xảy ra",
+      "D": "Đẩy thức ăn với vận tốc 10 cm/phút"
+    }
+  },
+  "sly.5.58": {
+    "question": "Câu nào sau đây đúng với nhu động của ruột non?",
+    "options": {
+      "A": "Cơ dọc và cơ vòng đều co thắt",
+      "B": "Co dọc và cơ chéo đều co thắt",
+      "C": "Cơ dọc co thắt, cơ vòng giãn",
+      "D": "Cơ dọc giãn, cơ vòng co thắt"
+    }
+  },
+  "sly.5.59": {
+    "question": "Hoạt động cơ học của ruột non bị kích thích bởi tất cả các chất sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Cholecystokinin",
+      "B": "Secretin",
+      "C": "Gastrin",
+      "D": "Motilin"
+    }
+  },
+  "sly.5.60": {
+    "question": "Câu nào sau đây đúng với cholecystokinin?",
+    "options": {
+      "A": "Là một enzyme thủy phân protein của tuyến tuỵ",
+      "B": "Do niêm mạc tá tràng bài tiết khi bị kích thích bởi mỡ",
+      "C": "Làm tăng thoát thức ăn ra khỏi dạ dày",
+      "D": "Kích thích bài tiết HCO₃⁻ dịch tuỵ"
+    }
+  },
+  "sly.5.61": {
+    "question": "Tế bào ống dẫn của tuỵ tạng bài tiết chất nào sau đây?",
+    "options": {
+      "A": "Trypsin",
+      "B": "NaHCO₃",
+      "C": "Lipase",
+      "D": "Amylase"
+    }
+  },
+  "sly.5.62": {
+    "question": "Các chất sau đều kích thích bài tiết dịch tuỵ ngoại tiết, NGOẠI TRỪ:",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "Cholecystokinin",
+      "C": "Histamine",
+      "D": "Secretin"
+    }
+  },
+  "sly.5.63": {
+    "question": "Chất nào sau đây là chất ngoại tiết của tuyến tuỵ?",
+    "options": {
+      "A": "Lipase",
+      "B": "Somatostatin",
+      "C": "Glucagon",
+      "D": "Pepsin"
+    }
+  },
+  "sly.5.64": {
+    "question": "Các câu sau đây đều đúng với sự bài tiết của tuyến tuỵ ngoại tiết, NGOẠI TRỪ:",
+    "options": {
+      "A": "Dịch giàu bicarbonate được bài tiết bởi tế bào biểu mô ống dẫn dưới tác dụng của secretin",
+      "B": "Men được bài tiết bởi tế bào nang tuyến dưới tác dụng của cholecystokinin",
+      "C": "Dịch tuỵ đã được bài tiết trước khi thức ăn vào đến ruột",
+      "D": ""
+    }
+  },
+  "sly.5.65": {
+    "question": "Tất cả các câu sau đây đều đúng đối với dịch tuỵ bình thường của người, NGOẠI TRỪ:",
+    "options": {
+      "A": "pH kiềm",
+      "B": "Chứa pepsin",
+      "C": "Trên 1000 mL được bài tiết mỗi ngày",
+      "D": "Các men tiêu hóa protein được bài tiết ở dưới dạng tiền men"
+    }
+  },
+  "sly.5.66": {
+    "question": "Sau khi được bài tiết vào tá tràng trypsinogen được đổi thành dạng hoạt động trypsin bởi chất nào sau đây?",
+    "options": {
+      "A": "Enterokinase",
+      "B": "Procarboxypolypeptidase",
+      "C": "Lipase tụy",
+      "D": "pH kiềm"
+    }
+  },
+  "sly.5.67": {
+    "question": "Chất nào sau đây KHÔNG làm tăng sự bài tiết của tuyến tụy ngoại tiết?",
+    "options": {
+      "A": "Secretin",
+      "B": "Cholecystokinin",
+      "C": "Gastrin",
+      "D": "Epinephrine"
+    }
+  },
+  "sly.5.68": {
+    "question": "Bệnh nhân bị tắc mật lâu ngày do khối u đầu tụy thường có nguy cơ kém hấp thu vitamin nào sau đây?",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Vitamin B1",
+      "C": "Vitamin B12",
+      "D": "Vitamin D"
+    }
+  },
+  "sly.5.69": {
+    "question": "Câu nào đúng với secretin?",
+    "options": {
+      "A": "Căn bản",
+      "B": "Tâm linh",
+      "C": "Dạ dày",
+      "D": "Ruột"
+    }
+  },
+  "sly.5.70": {
+    "question": "Chất nào sau đây có vai trò điều hòa bài tiết enzyme của tuyến tụy?",
+    "options": {
+      "A": "Secretin",
+      "B": "Histamine",
+      "C": "Cholecystokinin",
+      "D": "GRP (Gastrin–releasing peptide)"
+    }
+  },
+  "sly.5.71": {
+    "question": "Chất nào sau đây kích thích gây phóng thích secretin?",
+    "options": {
+      "A": "Sản phẩm tiêu hóa protein",
+      "B": "Histamine",
+      "C": "Somatostatin",
+      "D": "HCl"
+    }
+  },
+  "sly.5.72": {
+    "question": "Một hoạt động của hệ tiêu hóa KHÔNG được điều hòa là:",
+    "options": {
+      "A": "Hấp thu glucose vào biểu mô ruột non",
+      "B": "Bài tiết HCl của dịch vị",
+      "C": "Tống thoát thức ăn khỏi dạ dày",
+      "D": "Bài tiết men của dịch tuỵ"
+    }
+  },
+  "sly.5.73": {
+    "question": "Bờ bàn chải của ruột non hỗ trợ cho quá trình tiêu hóa và hấp thu thức ăn bằng tất cả các cách sau, NGOẠI TRỪ:",
+    "options": {
+      "A": "Làm tăng vận chuyển dưỡng trấp trong ruột",
+      "B": "Tăng diện tích tiếp xúc của ruột",
+      "C": "Cung cấp men tiêu hóa",
+      "D": "Cung cấp các hệ thống chuyển chở đặc biệt"
+    }
+  },
+  "sly.5.74": {
+    "question": "Câu nào sau đây đúng với carbohydrate trong thức ăn?",
+    "options": {
+      "A": "Sự tiêu hóa xảy ra chủ yếu tại dạ dày",
+      "B": "Được tiêu hóa ở miệng trong điều kiện pH = 2.0",
+      "C": "Cắt thành disaccharides do amylase",
+      "D": "Hấp thu dạng duy nhất là glucose"
+    }
+  },
+  "sly.5.75": {
+    "question": "Câu nào sau đây đúng với carbohydrate trong thức ăn?",
+    "options": {
+      "A": "Chuyển chở đến gan theo tĩnh mạch cửa dưới dạng monosaccharide",
+      "B": "Tiêu hóa nhanh chóng bởi enzyme enterokinase ở tá tràng",
+      "C": "Vận chuyển bằng cơ chế đồng vận chuyển với Na+ vào mạch bạch huyết",
+      "D": "Hấp thu qua niêm mạc ruột khi pH dưới 3.0"
+    }
+  },
+  "sly.5.76": {
+    "question": "Sự co túi mật được điều khiển bởi hormone nào sau đây?",
+    "options": {
+      "A": "Enterogastrone",
+      "B": "Cholecystokinin",
+      "C": "Gastrin",
+      "D": "Secretin"
+    }
+  },
+  "sly.5.77": {
+    "question": "Mật KHÔNG chứa chất nào sau đây?",
+    "options": {
+      "A": "Cholesterol",
+      "B": "Muối vô cơ",
+      "C": "Lipase",
+      "D": "Bilirubin"
+    }
+  },
+  "sly.5.78": {
+    "question": "Câu nào sau đây đúng với sự co thắt túi mật?",
+    "options": {
+      "A": "Bị ức chế bởi bữa ăn giàu lipid",
+      "B": "Bị ức chế bởi sự hiện diện của amino acid trong tá tràng",
+      "C": "Bị kích thích bởi cholecystokinin",
+      "D": "Xảy ra đồng thời với sự co thắt cơ vòng Oddi"
+    }
+  },
+  "sly.5.79": {
+    "question": "Hệ thống chuyên chở chủ động phụ thuộc Na+ cần cho sự hấp thu ở ruột non của các chất sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Amino acid",
+      "B": "Fructose",
+      "C": "Vitamin C",
+      "D": "Glucose"
+    }
+  },
+  "sly.5.80": {
+    "question": "Sự hấp thu glucose ở bờ bàn chải ruột non tùy thuộc vào sự hiện diện của chất nào sau đây?",
+    "options": {
+      "A": "pH kiềm trong lòng ruột",
+      "B": "Insulin",
+      "C": "Na+ trong lòng ruột",
+      "D": "H+ trong lòng ruột"
+    }
+  },
+  "sly.5.81": {
+    "question": "Sự thủy phân protein ở ruột non là do men nào sau đây?",
+    "options": {
+      "A": "Trypsin",
+      "B": "Secretin",
+      "C": "Cholecystokinin",
+      "D": "Pepsin"
+    }
+  },
+  "sly.5.82": {
+    "question": "Các men sau đây đều xúc tác sự thủy phân protein, NGOẠI TRỪ:",
+    "options": {
+      "A": "Carboxypolypeptidase",
+      "B": "Chymotrypsin",
+      "C": "Amylase",
+      "D": "Trypsin"
+    }
+  },
+  "sly.5.83": {
+    "question": "Sự thành lập micelle cần thiết cho sự hấp thu của chất nào sau đây?",
+    "options": {
+      "A": "Muối mật",
+      "B": "Cholesterol",
+      "C": "Rượu",
+      "D": "Vitamin B"
+    }
+  },
+  "sly.5.84": {
+    "question": "Tất cả những hiện tượng sau đây đều có thể xảy ra ở con vật bị cột ống dẫn mật, NGOẠI TRỪ:",
+    "options": {
+      "A": "Giảm hấp thu vitamin K",
+      "B": "Giảm hấp thu monoglyceride",
+      "C": "Giảm hấp thu axit béo tự do",
+      "D": "Giảm hấp thu amino acid"
+    }
+  },
+  "sly.5.85": {
+    "question": "Acid mật bao gồm tất cả các chất sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Acid cholic",
+      "B": "Acid chenodeoxycholic",
+      "C": "Acid lithocholic",
+      "D": "Acid uric"
+    }
+  },
+  "sly.5.86": {
+    "question": "Muối mật có nguồn gốc từ chất nào sau đây?",
+    "options": {
+      "A": "Hemoglobin",
+      "B": "Glycerol",
+      "C": "Cholesterol",
+      "D": "Sắc tố mật"
+    }
+  },
+  "sly.5.87": {
+    "question": "Sản phẩm tiêu hóa của mỡ được vận chuyển qua bờ bàn chải của niêm mạc ruột non bằng cơ chế nào sau đây?",
+    "options": {
+      "A": "Khuếch tán",
+      "B": "Khuếch tán hỗ trợ",
+      "C": "Đồng vận chuyển với Na+",
+      "D": "Thẩm thấu"
+    }
+  },
+  "sly.5.88": {
+    "question": "Mỡ đi ra khỏi tế bào biểu mô niêm mạc ruột non và vào các mạch bạch huyết dưới dạng nào sau đây?",
+    "options": {
+      "A": "Monoglycerides",
+      "B": "Triglycerides",
+      "C": "Chylomicrons",
+      "D": "Axit béo tự do"
+    }
+  },
+  "sly.5.89": {
+    "question": "Câu nào sau đây đúng với sự hấp thu nước trong ống tiêu hóa?",
+    "options": {
+      "A": "Phần lớn nước được hấp thu có nguồn gốc từ các chất dịch uống vào",
+      "B": "Ruột non và ruột già có khả năng hấp thu nước giống nhau",
+      "C": "Cân bằng thẩm thấu của dưỡng trấp xảy ra tại dạ dày",
+      "D": "Sự hấp thu nước phụ thuộc sự hấp thu các chất điện giải và chất dinh dưỡng"
+    }
+  },
+  "sly.5.90": {
+    "question": "Triglycerit nội sinh được chuyển hóa trong tế bào biểu mô niêm mạc ruột non như thế nào?",
+    "options": {
+      "A": "Thủy phân thành 2-monoglycerit và axit béo tự do",
+      "B": "Nhập vào chylomicron và sau đó được xuất bào",
+      "C": "Nhập vào micelles cùng với muối mật",
+      "D": "Thủy phân thành glycerol và axit béo"
+    }
+  },
+  "sly.5.91": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với mật?",
+    "options": {
+      "A": "Chứa muối mật và sắc tố mật",
+      "B": "Có tác dụng nhũ tương hóa lipid",
+      "C": "Sự tái hấp thu muối mật ở ruột làm tăng sự bài tiết mật",
+      "D": "Muối mật tạo ra từ hemoglobin"
+    }
+  },
+  "sly.5.92": {
+    "question": "Câu nào đúng với muối mật?",
+    "options": {
+      "A": "Tổng hợp trong gan từ cholesterol",
+      "B": "Không được tái hấp thu sau bữa ăn",
+      "C": "Là những chất kết hợp của axit mật với axit glucuronic",
+      "D": "Nhiệm vụ chủ yếu là trung hòa axit hydrochloric của dạ dày"
+    }
+  },
+  "sly.5.93": {
+    "question": "Tất cả các câu sau đây đều đúng đối với cholecystokinin, NGOẠI TRỪ:",
+    "options": {
+      "A": "Được phóng thích khi mỡ kích thích niêm mạc ruột non",
+      "B": "Tăng sự bài tiết men của tụy",
+      "C": "Làm co cơ thắt Oddi",
+      "D": "Ức chế sự thoát thức ăn khỏi dạ dày"
+    }
+  },
+  "sly.5.94": {
+    "question": "Câu nào sau đây đúng với gan?",
+    "options": {
+      "A": "Muối mật được bài tiết bởi tế bào ống dẫn mật",
+      "B": "Gan tham gia vào việc điều hòa lượng đường huyết",
+      "C": "Gan là nơi duy nhất tổng hợp các axit amin “cần thiết”",
+      "D": "Các vitamin được gan dự trữ bao gồm vitamin A, D, E và K"
+    }
+  },
+  "sly.5.95": {
+    "question": "Muối mật cần cho sự hấp thu chất nào sau đây?",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Protein",
+      "C": "Carbohydrate",
+      "D": "Calcium"
+    }
+  },
+  "sly.5.96": {
+    "question": "Muối mật làm tăng sự hấp thu mỡ là do khả năng thực hiện những điều sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Giảm sức căng bề mặt của hạt lipid",
+      "B": "Vận chuyển lipid đến bờ bàn chải niêm mạc ruột",
+      "C": "Nhũ tương hóa mỡ",
+      "D": "Kích thích sự tiêu hóa tiếp theo của lipid trong tế bào biểu mô ruột"
+    }
+  },
+  "sly.5.97": {
+    "question": "Sự hấp thu vitamin C cần chất nào sau đây?",
+    "options": {
+      "A": "Yếu tố nội tại",
+      "B": "H+",
+      "C": "Amylase tụy",
+      "D": "Na+"
+    }
+  },
+  "sly.5.98": {
+    "question": "Các câu sau đều đúng đối với sự bài tiết mật của gan, NGOẠI TRỪ:",
+    "options": {
+      "A": "Mật được đưa xuống tá tràng khi ăn do adrenalin gây co thắt túi mật",
+      "B": "Sự bài tiết mật giúp thải cholesterol",
+      "C": "Sỏi mật được hình thành là do sự mất cân bằng trong quá trình cô đặc mật",
+      "D": "Nếu bị tắc mật phần sẽ nhạt màu"
+    }
+  },
+  "sly.5.99": {
+    "question": "Gan dự trữ các chất sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Máu",
+      "B": "Calcium",
+      "C": "Vitamin B12",
+      "D": "Sắt"
+    }
+  },
+  "sly.5.100": {
+    "question": "Khi tắc ống dẫn mật sẽ gây vàng da. Triệu chứng vàng da này là do tăng chất nào trong huyết tương?",
+    "options": {
+      "A": "Biliverdin",
+      "B": "Bilirubin",
+      "C": "Hemoglobin",
+      "D": "Stercobilin"
+    }
+  }
+}

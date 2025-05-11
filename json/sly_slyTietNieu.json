@@ -1,0 +1,902 @@
+{
+  "sly.4.1": {
+    "question": "Vị trí số (1) ở hình bên dưới là cấu trúc nào sau đây?",
+    "options": {
+      "A": "Cầu thận",
+      "B": "Ranh giới vỏ tuỷ",
+      "C": "Phức hợp cận cầu thận",
+      "D": "Ống thận"
+    }
+  },
+  "sly.4.2": {
+    "question": "Vị trí số (4) ở hình bên dưới là cấu trúc nào sau đây?",
+    "options": {
+      "A": "Tế bào có chân",
+      "B": "Màng đáy",
+      "C": "Nội mô mạch máu",
+      "D": "Cửa sổ nội mô"
+    }
+  },
+  "sly.4.3": {
+    "question": "Xem hình ở câu 2 và cho biết cấu trúc nào tích điện âm mạnh nhất trên màng lọc cầu thận?",
+    "options": {
+      "A": "(1)",
+      "B": "(2)",
+      "C": "(3)",
+      "D": "(4)"
+    }
+  },
+  "sly.4.4": {
+    "question": "Hãy cho biết cấu trúc được khoanh tròn trong hình bên dưới có vai trò gì trong đơn vị nephron?",
+    "options": {
+      "A": "Giới hạn nên khoang Bowman",
+      "B": "Giới hạn kích thước các lỗ lọc",
+      "C": "Tạo ra áp suất siêu lọc",
+      "D": "Thực bào các vi sinh vật"
+    }
+  },
+  "sly.4.5": {
+    "question": "Hãy cho biết hình bên dưới mô tả hoạt động sinh lý nào sau đây?",
+    "options": {
+      "A": "Hiện tượng khuếch tán",
+      "B": "Hiện tượng thẩm thấu",
+      "C": "Hiện tượng siêu lọc",
+      "D": "Hiện tượng tái hấp thu"
+    }
+  },
+  "sly.4.6": {
+    "question": "Tế bào biểu mô của vùng nào sau đây biệt hóa thành các tế bào vết đặc trong phức hợp cận tiểu cầu?",
+    "options": {
+      "A": "Cầu thận",
+      "B": "Ống lượn gần",
+      "C": "Ống lượn xa",
+      "D": "Quai Henle"
+    }
+  },
+  "sly.4.7": {
+    "question": "Cấu trúc nào dưới đây quyết định chính yếu sự chọn lọc kích thước các phân tử đi qua màng lọc cầu thận?",
+    "options": {
+      "A": "Lớp nội mô mao mạch cầu thận",
+      "B": "Lớp màng đáy",
+      "C": "Lớp tế bào biểu mô có chân",
+      "D": "Lớp biểu mô thành khoang Bowman"
+    }
+  },
+  "sly.4.8": {
+    "question": "Sự phân loại các giai đoạn bệnh thận mạn (CKD) theo KDIGO 2012 dựa trên yếu tố nào sau đây?",
+    "options": {
+      "A": "Mức độ tiểu đạm",
+      "B": "Mức độ tiểu máu",
+      "C": "Độ lọc cầu thận GFR",
+      "D": "Mức độ tăng huyết áp"
+    }
+  },
+  "sly.4.9": {
+    "question": "Thành phần nào sau đây đóng vai trò chính yếu trong sự điều hòa ngược cầu ống?",
+    "options": {
+      "A": "Tế bào biểu mô có chân",
+      "B": "Phức hợp cận cầu thận",
+      "C": "Tiểu động mạch ra",
+      "D": "Mao mạch quanh ống"
+    }
+  },
+  "sly.4.10": {
+    "question": "Nhược điểm chính của các phương pháp ước đoán độ lọc cầu thận (GFR) từ creatinine huyết thanh là gì?",
+    "options": {
+      "A": "Creatinine được bài tiết thêm một lượng nhỏ tại ống thận",
+      "B": "Phương pháp định lượng creatinine huyết thanh phức tạp",
+      "C": "Nồng độ creatinine huyết thanh thay đổi nhiều theo bữa ăn",
+      "D": "Nồng độ creatinine huyết thanh thay đổi theo khối lượng cơ bắp"
+    }
+  },
+  "sly.4.11": {
+    "question": "Hội chứng thận hư có thể đưa đến sự xuất hiện của albumin trong nước tiểu là do điều nào sau đây?",
+    "options": {
+      "A": "Tăng lượng albumin đi qua các lỗ lọc bị dãn rộng tại cầu thận",
+      "B": "Giảm tái hấp thu albumin tại ống lượn gần",
+      "C": "Tăng bài tiết albumin tại ống lượn xa và ống góp",
+      "D": "Tăng áp lực lọc tại cầu thận đẩy albumin qua các lỗ lọc nhiều hơn"
+    }
+  },
+  "sly.4.12": {
+    "question": "Trên người bình thường, dịch sau khi lọc qua cầu thận có thể chứa thành phần nào dưới đây?",
+    "options": {
+      "A": "Glucose",
+      "B": "Albumin",
+      "C": "Hồng cầu",
+      "D": "Bạch cầu"
+    }
+  },
+  "sly.4.13": {
+    "question": "Chọn câu đúng khi nói về độ lọc cầu thận (GFR)?",
+    "options": {
+      "A": "GFR là kết quả của 2 quá trình tái hấp thu và bài tiết tại ống thận",
+      "B": "GFR được ước đoán từ hệ số thanh lọc của các chất đánh dấu cầu thận",
+      "C": "Creatinine là tiêu chuẩn vàng trong ước đoán GFR",
+      "D": "Có vai trò hàng đầu trong đánh giá suy thận cấp tính"
+    }
+  },
+  "sly.4.14": {
+    "question": "Đối tượng nào sau đây không nên sử dụng creatinine huyết thanh trong đánh giá độ lọc cầu thận?",
+    "options": {
+      "A": "Bệnh nhân viêm cầu thận",
+      "B": "Người bị đoạn chi",
+      "C": "Phụ nữ đang hành kinh",
+      "D": "Bệnh nhân đái tháo đường"
+    }
+  },
+  "sly.4.15": {
+    "question": "Chất nào sau đây có hệ số thanh lọc (Clearance) bằng đúng độ lọc cầu thận (Glomerular filtration rate)?",
+    "options": {
+      "A": "Inulin",
+      "B": "Creatinin",
+      "C": "Ure",
+      "D": "PAH"
+    }
+  },
+  "sly.4.16": {
+    "question": "Những yếu tố nào sau đây có xu hướng làm giảm độ lọc cầu thận (GFR), NGOẠI TRỪ:",
+    "options": {
+      "A": "Tăng nồng độ albumin huyết tương",
+      "B": "Co tiểu động mạch đến",
+      "C": "Tăng huyết áp",
+      "D": "Hai thận ứ nước do tắc nghẽn"
+    }
+  },
+  "sly.4.17": {
+    "question": "Cấu trúc tế bào nào sau đây KHÔNG ĐÚNG đối với nephron?",
+    "options": {
+      "A": "Tế bào biểu mô cầu thận là những tế bào có chân bám vào màng đáy",
+      "B": "Tế bào biểu mô ống lượn gần có bờ bàn chải tạo bởi các vi nhung mao",
+      "C": "Tế bào biểu mô đoạn dày quai Henle có liên kết chặt giữa các tế bào",
+      "D": "Tế bào biểu mô ống lượn xa có cấu tạo bờ bàn chải như ở ống lượn gần"
+    }
+  },
+  "sly.4.18": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với vị trí của các nephron?",
+    "options": {
+      "A": "Cầu thận, ống lượn gần và ống lượn xa nằm trong vùng vỏ thận",
+      "B": "Các quai Henle thọc sâu vào vùng tủy thận",
+      "C": "Một số nephron nằm ở vùng cận tủy",
+      "D": "Một số ít nephron nằm hoàn toàn trong vùng tủy thận"
+    }
+  },
+  "sly.4.19": {
+    "question": "Hệ mạch máu của mỗi nephron bao gồm các phần sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Tiểu động mạch vào",
+      "B": "Mao mạch dinh dưỡng cầu thận",
+      "C": "Tiểu động mạch ra",
+      "D": "Mao mạch quanh ống"
+    }
+  },
+  "sly.4.20": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với màng lọc cầu thận?",
+    "options": {
+      "A": "Trên bề mặt tế bào nội mô mao mạch cầu thận có những khe hở",
+      "B": "Lớp màng đáy có chứa các phân tử protein tích điện âm",
+      "C": "Lớp tế bào biểu mô có chân tạo nên các lỗ lọc hẹp nhất trên màng lọc",
+      "D": "Toàn bộ protein trong huyết tương đều không đi qua màng lọc được"
+    }
+  },
+  "sly.4.21": {
+    "question": "Độ lọc cầu thận giảm trong các trường hợp sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Áp suất động mạch hệ thống giảm",
+      "B": "Áp suất keo của huyết tương tăng",
+      "C": "Giãn tiểu động mạch vào",
+      "D": "Áp suất khoang Bowman tăng"
+    }
+  },
+  "sly.4.22": {
+    "question": "Giảm sức cản của tiểu động mạch vào cầu thận sẽ làm giảm yếu tố nào sau đây?",
+    "options": {
+      "A": "Dòng huyết tương qua thận",
+      "B": "Tỷ lệ lọc",
+      "C": "Độ lọc cầu thận",
+      "D": "Tất cả đều sai"
+    }
+  },
+  "sly.4.23": {
+    "question": "Độ lọc cầu thận sẽ tăng trong điều kiện nào sau đây?",
+    "options": {
+      "A": "Thể tích máu tuần hoàn giảm",
+      "B": "Sức cản tiểu động mạch vào tăng",
+      "C": "Áp suất trong động mạch thận tăng",
+      "D": "Tiểu động mạch vào co lại"
+    }
+  },
+  "sly.4.24": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với cơ chế tự điều hòa độ lọc cầu thận?",
+    "options": {
+      "A": "Được thực hiện thông qua phức hợp cận cầu thận",
+      "B": "Còn gọi là cơ chế điều hòa ngược cầu ống",
+      "C": "Độ lọc cầu thận giảm sẽ kích thích cơ trơn tiểu động mạch vào giãn ra",
+      "D": "Co tiểu động mạch ra làm giảm độ lọc cầu thận"
+    }
+  },
+  "sly.4.25": {
+    "question": "Ở người bình thường, nồng độ glucose trong huyết tương vào khoảng 100 mg/dl. Biết rằng độ lọc cầu thận dao động quanh giá trị 120 ml/phút. Glucose được lọc tự do qua màng lọc cầu thận. Hãy cho biết lượng lọc của glucose (filtered load) vào khoảng bao nhiêu là hợp lý?",
+    "options": {
+      "A": "12 mg/phút",
+      "B": "30 mg/phút",
+      "C": "60 mg/phút",
+      "D": "120 mg/phút"
+    }
+  },
+  "sly.4.26": {
+    "question": "Hệ số thanh lọc (clearance) của một chất là chỉ số dùng để đánh giá quá trình nào sau đây?",
+    "options": {
+      "A": "Lọc tại cầu thận",
+      "B": "Tái hấp thu tại ống thận",
+      "C": "Bài tiết tại ống thận",
+      "D": "Bài xuất một chất ra nước tiểu"
+    }
+  },
+  "sly.4.27": {
+    "question": "Chất nào sau đây có hệ số thanh lọc (clearance) thấp hơn so với độ lọc cầu thận (GFR)?",
+    "options": {
+      "A": "Inulin",
+      "B": "Creatinine",
+      "C": "Glucose",
+      "D": "Ion H⁺"
+    }
+  },
+  "sly.4.28": {
+    "question": "Chất nào sau đây được xem là tiêu chuẩn vàng của một chất “đánh dấu cầu thận”?",
+    "options": {
+      "A": "PAH",
+      "B": "Inulin",
+      "C": "Creatinine",
+      "D": "Ure"
+    }
+  },
+  "sly.4.29": {
+    "question": "Một chất được lọc hoàn toàn qua cầu thận, được bài tiết hoàn toàn tại ống thận, nhưng không được tái hấp thu hay chuyển hóa tại các nephron thì thích hợp để đánh giá chỉ số nào?",
+    "options": {
+      "A": "Lưu lượng nước tiểu bài xuất",
+      "B": "Độ lọc cầu thận (GFR)",
+      "C": "Lưu lượng máu qua hai thận",
+      "D": "Ngưỡng thận đối với glucose"
+    }
+  },
+  "sly.4.30": {
+    "question": "Đối với một người trưởng thành có sinh hoạt bình thường, lượng creatinine được lọc qua thận thấp nhất vào thời điểm nào trong ngày?",
+    "options": {
+      "A": "Buổi trưa",
+      "B": "Sau khi tập thể thao",
+      "C": "Trong lúc ngủ",
+      "D": "Luôn ở mức cố định trong ngày"
+    }
+  },
+  "sly.4.31": {
+    "question": "Thể tích huyết tương mà thận lọc sạch một chất nào đó trong một đơn vị thời gian gọi là gì?",
+    "options": {
+      "A": "Khả năng tái hấp thu của một chất",
+      "B": "Độ lọc cầu thận của một chất",
+      "C": "Hệ số thanh lọc của một chất",
+      "D": "Ngưỡng thận đối với một chất"
+    }
+  },
+  "sly.4.32": {
+    "question": "Tiêu chuẩn nào sau đây của một chất dùng trong ước đoán độ lọc cầu thận (GFR) là KHÔNG hợp lý?",
+    "options": {
+      "A": "Lọc hoàn toàn qua cầu thận",
+      "B": "Không được tái hấp thu bởi ống thận",
+      "C": "Được bài tiết lượng nhỏ ở ống thận",
+      "D": "Không gắn với các protein"
+    }
+  },
+  "sly.4.33": {
+    "question": "Nồng độ huyết tương của một chất là 0.125 mg/ml; nồng độ trong nước tiểu của chất đó là 25 mg/ml; thể tích nước tiểu là 1 ml/phút; thì hệ số thanh lọc của chất này là bao nhiêu?",
+    "options": {
+      "A": "50 ml/phút",
+      "B": "125 ml/phút",
+      "C": "150 ml/phút",
+      "D": "200 ml/phút"
+    }
+  },
+  "sly.4.34": {
+    "question": "Một bệnh nhân có nồng độ creatinine nước tiểu 196 mg/ml; nồng độ creatinine huyết tương 1.4 mg/ml; và thể tích nước tiểu là 1 ml/phút. Vậy hệ số thanh lọc của creatinine là bao nhiêu?",
+    "options": {
+      "A": "100 ml/phút",
+      "B": "140 ml/phút",
+      "C": "196 ml/phút",
+      "D": "274 ml/phút"
+    }
+  },
+  "sly.4.35": {
+    "question": "Một chất được lọc tự do, nhưng lại có hệ số thanh lọc nhỏ hơn hệ số thanh lọc của inulin là do nguyên nhân nào sau đây?",
+    "options": {
+      "A": "Có tái hấp thu chất đó tại ống thận",
+      "B": "Có bài tiết chất đó tại ống thận",
+      "C": "Chất đó gắn với protein ống thận",
+      "D": "Chất đó được bài tiết tại ống lượn gần nhiều hơn tại ống lượn xa"
+    }
+  },
+  "sly.4.36": {
+    "question": "Chỉ số nào sau đây KHÔNG thể đánh giá được từ hệ số thanh lọc của một chất trong huyết tương?",
+    "options": {
+      "A": "Độ lọc cầu thận",
+      "B": "Lưu lượng huyết tương qua thận",
+      "C": "Lưu lượng máu qua thận",
+      "D": "Áp lực lọc qua cầu thận"
+    }
+  },
+  "sly.4.37": {
+    "question": "Tiêu chuẩn nào sau đây của một chất dùng để đánh giá lưu lượng huyết tương có hiệu quả qua thận là KHÔNG hợp lý?",
+    "options": {
+      "A": "Lọc hoàn toàn qua cầu thận",
+      "B": "Được bài tiết hoàn toàn bởi ống thận",
+      "C": "Được tái hấp thu bởi ống thận",
+      "D": "Không độc đối với cơ thể"
+    }
+  },
+  "sly.4.38": {
+    "question": "Nếu một chất có trong động mạch thận, nhưng hoàn toàn không có trong tĩnh mạch thận là do nguyên nhân nào sau đây?",
+    "options": {
+      "A": "Hệ số thanh lọc của chất đó bằng với độ lọc cầu thận (GFR)",
+      "B": "Một chất có hệ số thanh lọc thấp hơn GFR phải được tái hấp thu bởi ống thận",
+      "C": "GFR giảm khi áp suất trong tiểu động mạch vào tăng",
+      "D": "Dịch lọc qua cầu thận có thành phần giống hệt như trong huyết tương"
+    }
+  },
+  "sly.4.39": {
+    "question": "Một chất được lọc tự do, không được tái hấp thu, không được bài tiết, có nồng độ trong máu động mạch thận là 12 mg/ml, nồng độ trong máu tĩnh mạch thận là 9 mg/ml. Hãy cho biết tỷ lệ lọc của thận là vào khoảng bao nhiêu?",
+    "options": {
+      "A": "0.25",
+      "B": "0.33",
+      "C": "0.55",
+      "D": "0.75"
+    }
+  },
+  "sly.4.40": {
+    "question": "Trong 1 giờ, 54 ml nước tiểu được lấy từ một bệnh nhân, nồng độ PAH trong huyết tương của người này là 0.02 mg/ml và nồng độ PAH trong nước tiểu là 14 mg/ml, vậy dòng huyết tương có hiệu quả của thận (ERPF) là bao nhiêu?",
+    "options": {
+      "A": "70 ml/phút",
+      "B": "270 ml/phút",
+      "C": "378 ml/phút",
+      "D": "630 ml/phút"
+    }
+  },
+  "sly.4.41": {
+    "question": "Chọn câu đúng khi nói về độ lọc cầu thận (GFR)?",
+    "options": {
+      "A": "Phụ thuộc chủ yếu vào áp suất keo trong dịch lọc",
+      "B": "Một chất có hệ số thanh lọc thấp hơn GFR phải được tái hấp thu bởi ống thận",
+      "C": "GFR giảm khi áp suất trong tiểu động mạch vào tăng",
+      "D": "Dịch lọc qua cầu thận có thành phần giống hệt như trong huyết tương"
+    }
+  },
+  "sly.4.42": {
+    "question": "Hệ số thanh lọc của creatinine tăng lên trong trường hợp nào sau đây?",
+    "options": {
+      "A": "Giãn tiểu động mạch vào",
+      "B": "Giãn tiểu động mạch ra",
+      "C": "Co tiểu động mạch ra",
+      "D": "A và C đều đúng"
+    }
+  },
+  "sly.4.43": {
+    "question": "Các giá trị sau đây được đo trên một bệnh nhân:\n- K⁺ huyết tương: 5 mEq/L\n- K⁺ nước tiểu: 50 mEq/L\n- Thể tích nước tiểu: 180 ml/2 giờ\nHãy cho biết hệ số thanh lọc của ion K⁺ vào khoảng bao nhiêu?",
+    "options": {
+      "A": "5 ml/phút",
+      "B": "15 ml/phút",
+      "C": "150 ml/phút",
+      "D": "180 ml/phút"
+    }
+  },
+  "sly.4.44": {
+    "question": "Cùng bệnh nhân ở câu 43, biết rằng hệ số thanh lọc của creatinine là 80 ml/phút. Hãy cho biết điều gì đã xảy ra với ion K⁺ trong hệ thống ống thận?",
+    "options": {
+      "A": "K⁺ được bài tiết thêm",
+      "B": "K⁺ được tái hấp thu",
+      "C": "Mức bài tiết K⁺ cao hơn creatinine",
+      "D": "Mức bài tiết K⁺ thấp hơn creatinine"
+    }
+  },
+  "sly.4.45": {
+    "question": "Trường hợp nào sau đây có thể tích nước tiểu tạo ra ít hơn bình thường?",
+    "options": {
+      "A": "Đái tháo đường",
+      "B": "Đái tháo nhạt",
+      "C": "Hạ huyết áp",
+      "D": "Tăng độ lọc cầu thận"
+    }
+  },
+  "sly.4.46": {
+    "question": "Khi độ lọc cầu thận suy giảm, nồng độ huyết tương của chất nào sau đây sẽ tăng cao?",
+    "options": {
+      "A": "Glucose",
+      "B": "Albumin",
+      "C": "Creatinine",
+      "D": "Ion Na⁺"
+    }
+  },
+  "sly.4.47": {
+    "question": "Chọn câu đúng đối với hệ số thanh lọc (clearance) của những chất được lọc tự do qua cầu thận, được tái hấp thu một phần nhưng không được bài tiết tại ống thận?",
+    "options": {
+      "A": "Bằng đúng độ lọc cầu thận (GFR)",
+      "B": "Thấp hơn hệ số thanh lọc glucose",
+      "C": "Cao hơn hệ số thanh lọc của PAH",
+      "D": "Thấp hơn hệ số thanh lọc creatinine"
+    }
+  },
+  "sly.4.48": {
+    "question": "Trường hợp nào sau đây có thể dẫn đến giảm độ lọc cầu thận?",
+    "options": {
+      "A": "Tăng huyết áp",
+      "B": "Tắc niệu quản do sỏi",
+      "C": "Giãn tiểu động mạch vào",
+      "D": "Tăng cung lượng tim"
+    }
+  },
+  "sly.4.49": {
+    "question": "Hệ số thanh lọc của PAH được dùng để ước lượng chỉ số nào?",
+    "options": {
+      "A": "Độ lọc cầu thận (GFR)",
+      "B": "Lưu lượng huyết tương qua thận (RPF)",
+      "C": "Khả năng vận chuyển tối đa của ống thận (Tm)",
+      "D": "Ngưỡng thận của PAH"
+    }
+  },
+  "sly.4.50": {
+    "question": "Câu nào sau đây đúng khi nói về các phương pháp đánh giá chức năng thận?",
+    "options": {
+      "A": "Hệ số thanh lọc của PAH dùng để ước đoán tỷ lệ lọc",
+      "B": "Hệ số thanh lọc của inulin dùng để ước đoán lưu lượng máu qua thận",
+      "C": "Hệ số thanh lọc của creatinine dùng để ước đoán độ lọc cầu thận",
+      "D": "Hệ số thanh lọc của glucose dùng để ước đoán ngưỡng tái hấp thu của thận"
+    }
+  },
+  "sly.4.51": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG khi nói về ống lượn gần?",
+    "options": {
+      "A": "Tái hấp thu ion Na⁺ trong dịch lọc",
+      "B": "Bài tiết ion H⁺ vào dịch ống",
+      "C": "Có chứa các tế bào vết đặc",
+      "D": "Có các kênh SGLT trên biểu mô"
+    }
+  },
+  "sly.4.52": {
+    "question": "Các câu sau đây đều đúng với chức năng điều hòa nội môi của thận, NGOẠI TRỪ:",
+    "options": {
+      "A": "Điều hòa thành phần các chất điện giải trong huyết tương",
+      "B": "Điều hòa áp suất thẩm thấu của dịch ngoại bào",
+      "C": "Điều hòa thăng bằng toan kiềm của dịch cơ thể",
+      "D": "Điều hòa số lượng tiểu cầu lưu hành trong máu"
+    }
+  },
+  "sly.4.53": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với áp suất thẩm thấu của huyết tương?",
+    "options": {
+      "A": "Chủ yếu là do nồng độ của ion Na⁺ quyết định",
+      "B": "Hormon ADH giữ nước, làm giảm áp suất thẩm thấu",
+      "C": "Glucose và ure không tham gia tạo áp suất thẩm thấu",
+      "D": "Cảm giác khát xuất hiện khi các tế bào mất nước"
+    }
+  },
+  "sly.4.54": {
+    "question": "Các yếu tố sau đây đều góp phần quan trọng vào điều hòa thể tích máu và dịch ngoại bào, NGOẠI TRỪ:",
+    "options": {
+      "A": "Phản xạ thể tích: khi thể tích máu tăng, thể tích nước tiểu tăng",
+      "B": "Yếu tố lợi niệu natri tâm nhĩ (ANP) làm tăng bài tiết Na⁺ tại ống lượn xa",
+      "C": "ADH làm tăng tái hấp thu nước tại ống góp",
+      "D": "Aldosterone làm tăng tái hấp thu Na⁺ tại ống lượn xa"
+    }
+  },
+  "sly.4.55": {
+    "question": "Nồng độ kali huyết tương tăng khi tăng chất nào sau đây?",
+    "options": {
+      "A": "Renin",
+      "B": "Aldosterone",
+      "C": "ADH",
+      "D": "ANP"
+    }
+  },
+  "sly.4.56": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với sự bài tiết ion H⁺?",
+    "options": {
+      "A": "Theo cơ chế vận chuyển tích cực thứ phát ở ống lượn gần",
+      "B": "Theo cơ chế vận chuyển tích cực nguyên phát ở ống lượn xa và ống góp",
+      "C": "Nồng độ ion H⁺ có đặc cao làm tăng độ pH của dịch ống",
+      "D": "Khi độ pH của dịch ống đạt tới 4.5 thì sự bài tiết ion H⁺ dừng lại"
+    }
+  },
+  "sly.4.57": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với sự điều hòa thăng bằng toan kiềm huyết tương bởi thận?",
+    "options": {
+      "A": "Khi bị toan huyết, thận tăng bài tiết ion H⁺",
+      "B": "Khi bị kiềm huyết, thận tăng tái hấp thu ion bicarbonate",
+      "C": "Các ion bicarbonate thừa bị loại qua nước tiểu kéo theo ion Na⁺",
+      "D": "Hai hệ đệm ion H⁺ chủ yếu trong dịch ống là hệ phosphate và hệ NH₃"
+    }
+  },
+  "sly.4.58": {
+    "question": "Câu nào sau đây đúng với enzyme renin?",
+    "options": {
+      "A": "Được bài tiết bởi các tế bào biểu mô cầu thận",
+      "B": "Sự bài tiết renin dẫn tới mất Na⁺ qua nước tiểu",
+      "C": "Renin kích thích trực tiếp sự bài tiết aldosterone",
+      "D": "Giảm áp suất máu trong động mạch thận kích thích bài tiết renin"
+    }
+  },
+  "sly.4.59": {
+    "question": "Angiotensin II có các tác dụng sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Co các tiểu động mạch ngoại biên gây tăng huyết áp",
+      "B": "Kích thích lớp cầu vỏ thượng thận bài tiết aldosterone",
+      "C": "Ức chế sự bài tiết hormon ADH từ tuyến yên",
+      "D": "Gây co tiểu động mạch ra tại các đơn vị cầu thận"
+    }
+  },
+  "sly.4.60": {
+    "question": "Erythropoietine là hormon có vai trò kích thích sản sinh các tế bào hồng cầu trưởng thành từ tủy đỏ xương. Nơi nào sau đây trong cơ thể tiết ra hormon này?",
+    "options": {
+      "A": "Lách",
+      "B": "Tuyến ức",
+      "C": "Gan",
+      "D": "Thận"
+    }
+  },
+  "sly.4.61": {
+    "question": "Vị trí nào trong hệ thống ống thận tái hấp thu muối NaCl phụ thuộc vào hormon aldosterone?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Ống lượn xa",
+      "C": "Cành lên quai Henle",
+      "D": "Cành xuống quai Henle"
+    }
+  },
+  "sly.4.62": {
+    "question": "Điều nào sau đây đúng với chức năng nội tiết của thận?",
+    "options": {
+      "A": "Tạo nước tiểu",
+      "B": "Điều hòa nồng độ điện giải trong máu",
+      "C": "Tiết erythropoietin kích thích tuỷ xương tạo máu",
+      "E": "Điều hòa pH máu"
+    }
+  },
+  "sly.4.63": {
+    "question": "Chức năng chính của quai Henle tại các nephron cận tuỷ là gì?",
+    "options": {
+      "A": "Tái hấp thu muối",
+      "B": "Duy trì sự ưu trương tại tuỷ thận",
+      "C": "Cô đặc nước tiểu",
+      "D": "Đào thải muối ra khỏi cơ thể"
+    }
+  },
+  "sly.4.64": {
+    "question": "Vị trí nào tái hấp thu nước và muối nhiều nhất trong hệ thống ống thận?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Ống lượn xa",
+      "C": "Quai Henle",
+      "D": "Ống góp"
+    }
+  },
+  "sly.4.65": {
+    "question": "Angiotensinogen được tiết ra từ cơ quan nào dưới đây?",
+    "options": {
+      "A": "Cầu thận",
+      "B": "Quai Henle",
+      "C": "Tế bào gan",
+      "D": "Phức hợp cận tiểu cầu"
+    }
+  },
+  "sly.4.66": {
+    "question": "Đái tháo nhạt là bệnh lý được gây nên do rối loạn bài tiết hormon nào sau đây?",
+    "options": {
+      "A": "Insulin",
+      "B": "Aldosterone",
+      "C": "ADH",
+      "D": "Angiotensin II"
+    }
+  },
+  "sly.4.67": {
+    "question": "Sự tái hấp thu glucose ở ống lượn gần chịu sự chi phối của hormon nào sau đây?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Vasopressin",
+      "C": "Erythropoietin",
+      "D": "Tất cả đều sai"
+    }
+  },
+  "sly.4.68": {
+    "question": "Erythropoietin tiết ra từ thận có vai trò gì trong cơ thể?",
+    "options": {
+      "A": "Kích thích tuỷ xương tạo bạch cầu",
+      "B": "Kích thích tuỷ xương tạo tiểu cầu",
+      "C": "Kích thích tuỷ xương tạo hồng cầu",
+      "D": "Kích thích gan sản sinh các yếu tố đông máu"
+    }
+  },
+  "sly.4.69": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với các chất được tái hấp thu và bài tiết bởi hệ thống ống thận ở người bình thường?",
+    "options": {
+      "A": "Những chất được tái hấp thu hoàn toàn như glucose, protein, lipid",
+      "B": "Những chất được tái hấp thu theo nhu cầu như vitamin, ure",
+      "C": "Những chất được bài tiết tích cực như H⁺",
+      "D": "Những chất được bài tiết theo nhu cầu như các điện giải dư thừa"
+    }
+  },
+  "sly.4.70": {
+    "question": "Ion Na⁺ được tái hấp thu ở đoạn ống lượn gần theo các cơ chế sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Na⁺ được vận chuyển tích cực thứ phát ở bờ màng đáy",
+      "B": "Na⁺ được khuếch tán thụ động ở bờ lòng ống",
+      "C": "Lòng ống có nồng độ Na⁺ cao so với trong tế bào tạo nên gradient nồng độ",
+      "D": "Các protein mang ở bờ bàn chải có thể đồng vận chuyển Na⁺ và các chất khác"
+    }
+  },
+  "sly.4.71": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với sự tái hấp thu glucose ở ống lượn gần?",
+    "options": {
+      "A": "Glucose đồng vận chuyển với Na⁺ từ lòng ống vào tế bào biểu mô ống",
+      "B": "Glucose được tái hấp thu qua cơ chế vận chuyển tích cực thứ phát",
+      "C": "Nếu đường huyết dưới ngưỡng thận, glucose được tái hấp thu hoàn toàn",
+      "D": "Nếu đường huyết trên ngưỡng thận, ống thận sẽ bài tiết thêm glucose"
+    }
+  },
+  "sly.4.72": {
+    "question": "Điều nào sau đây KHÔNG ĐÚNG khi nói về sự khác biệt trong hoạt động giữa tế bào biểu mô cầu thận và tế bào biểu mô ống thận?",
+    "options": {
+      "A": "Tế bào biểu mô ống thận có khả năng tái sinh mạnh",
+      "B": "Tế bào biểu mô ống thận rất nhạy cảm với tình trạng giảm tưới máu",
+      "C": "Hoạt động của tế bào biểu mô ống thận cần cung cấp nhiều năng lượng",
+      "D": "Hoạt động lọc của cầu thận có tính chọn lọc cao so với hoạt động tái hấp thu"
+    }
+  },
+  "sly.4.73": {
+    "question": "Sự tái hấp thu protein ở ống lượn gần là do cơ chế nào sau đây?",
+    "options": {
+      "A": "Khuếch tán",
+      "B": "Vận chuyển tích cực nguyên phát",
+      "C": "Vận chuyển tích cực thứ phát",
+      "D": "Ẩm bào"
+    }
+  },
+  "sly.4.74": {
+    "question": "Khi có sự hiện diện của hormon ADH, phần dịch lọc được tái hấp thu nhiều nhất tại nơi nào sau đây trong hệ thống ống thận?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Quai Henle",
+      "C": "Ống lượn xa",
+      "D": "Ống góp vỏ"
+    }
+  },
+  "sly.4.75": {
+    "question": "Câu nào sau đây đúng với sự tái hấp thu ion Na⁺ trong hệ thống ống thận, NGOẠI TRỪ:",
+    "options": {
+      "A": "Na⁺ trong dịch lọc được tái hấp thu chủ yếu ở ống lượn gần",
+      "B": "Một phần Na⁺ trong dịch lọc được tái hấp thu ở ống lượn xa",
+      "C": "Sự tái hấp thu Na⁺ ở quai Henle phụ thuộc vào aldosterone",
+      "D": "Sự tái hấp thu Na⁺ diễn ra theo cơ chế tích cực thứ phát tại bờ lòng ống"
+    }
+  },
+  "sly.4.76": {
+    "question": "Nguyên nhân nào sau đây làm tăng sự tái hấp thu ion Na⁺ trong hệ thống ống thận?",
+    "options": {
+      "A": "Kích thích thần kinh giao cảm thận",
+      "B": "Tăng tiết hormon ANP (atrial natriuretic peptide)",
+      "C": "Tăng tiết hormon ADH",
+      "D": "Tăng tiết mineralocorticoid từ vỏ thượng thận"
+    }
+  },
+  "sly.4.77": {
+    "question": "Phần nào sau đây của ống thận KHÔNG tái hấp thu Na⁺ bằng cơ chế vận chuyển tích cực?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Cành xuống của quai Henle",
+      "C": "Cành lên của quai Henle",
+      "D": "Ống lượn xa"
+    }
+  },
+  "sly.4.78": {
+    "question": "Aldosterone làm giảm sự bài xuất của chất nào sau đây ra nước tiểu?",
+    "options": {
+      "A": "Mg²⁺",
+      "B": "H⁺",
+      "C": "Na⁺",
+      "D": "K⁺"
+    }
+  },
+  "sly.4.79": {
+    "question": "Lượng K⁺ được bài xuất bởi thận giảm trong điều kiện nào sau đây?",
+    "options": {
+      "A": "Thượng thận tăng bài tiết aldosterone",
+      "B": "Chế độ ăn nhiều trái cây",
+      "C": "Tăng angiotensin II trong máu",
+      "D": "Giảm độ lọc cầu thận"
+    }
+  },
+  "sly.4.80": {
+    "question": "Tổn thương tế bào biểu mô tại đoạn nào sau đây của ống thận sẽ dẫn đến tăng nồng độ K⁺ trong máu?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Cành xuống của quai Henle",
+      "C": "Cành lên của quai Henle",
+      "D": "Ống lượn xa"
+    }
+  },
+  "sly.4.81": {
+    "question": "Một trong những biến chứng của hoại tử ống thận cấp là tăng K⁺ máu. Cơ chế nào giải thích sự tăng K⁺ ở các bệnh nhân này?",
+    "options": {
+      "A": "Giảm tiết aldosterone từ vỏ thượng thận",
+      "B": "Giảm độ lọc cầu thận",
+      "C": "Hoại tử tế bào biểu mô ống lượn xa",
+      "D": "B và C đúng"
+    }
+  },
+  "sly.4.82": {
+    "question": "Câu nào sau đây đúng với hoạt động của aldosterone tại tế bào biểu mô ống thận?",
+    "options": {
+      "A": "Tác dụng chủ yếu trên ống lượn gần",
+      "B": "Kích thích tế bào tạo AMP vòng",
+      "C": "Làm tăng bài tiết ion K⁺",
+      "D": "Làm tăng tái hấp thu H⁺"
+    }
+  },
+  "sly.4.83": {
+    "question": "Tất cả các yếu tố sau đây đều làm tăng sự tái hấp thu bicarbonate ở ống thận, NGOẠI TRỪ:",
+    "options": {
+      "A": "Tăng bài tiết aldosterone",
+      "B": "Tăng nồng độ CO₂ máu",
+      "C": "Giảm bài tiết H⁺",
+      "D": "Toan hóa máu"
+    }
+  },
+  "sly.4.84": {
+    "question": "So sánh hoạt động giữa ống lượn xa và ống lượn gần của nephron, câu nào sau đây SAI?",
+    "options": {
+      "A": "Ống lượn xa chịu tác động của aldosterone nhiều hơn ống lượn gần",
+      "B": "Ống lượn xa bài tiết H⁺ yếu hơn ống lượn gần",
+      "C": "Ống lượn xa bài tiết K⁺ nhiều hơn ống lượn gần",
+      "D": "Ống lượn xa chịu tác động của ADH nhiều hơn ống lượn gần"
+    }
+  },
+  "sly.4.85": {
+    "question": "Aldosterone tác dụng mạnh nhất ở đoạn nào trong nephron?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Cành xuống của quai Henle",
+      "C": "Cành lên của quai Henle",
+      "D": "Ống góp"
+    }
+  },
+  "sly.4.86": {
+    "question": "Câu nào sau đây đúng với tác dụng của ADH trên thận?",
+    "options": {
+      "A": "Làm tăng độ lọc cầu thận",
+      "B": "Làm tăng tái hấp thu Na⁺",
+      "C": "Tăng tính thấm của ống góp với nước",
+      "D": "Làm tăng bài tiết K⁺"
+    }
+  },
+  "sly.4.87": {
+    "question": "Lượng nước tiểu bài xuất ra bàng quang chiếm tỷ lệ bao nhiêu so với lượng dịch lọc qua cầu thận hàng ngày?",
+    "options": {
+      "A": "1%",
+      "B": "2%",
+      "C": "5%",
+      "D": "10%"
+    }
+  },
+  "sly.4.88": {
+    "question": "Trong hội chứng SIADH, nồng độ Na⁺ huyết tương sẽ thay đổi như thế nào?",
+    "options": {
+      "A": "Giảm thấp do tác dụng pha loãng của nước",
+      "B": "Giảm thấp do ADH ức chế sự tái hấp thu Na⁺ tại ống thận",
+      "C": "Không thay đổi do ADH không ảnh hưởng đến tái hấp thu Na⁺",
+      "D": "Tăng cao do ADH kích thích tái hấp thu Na⁺"
+    }
+  },
+  "sly.4.89": {
+    "question": "Thể tích nước tiểu tăng lên trong các trường hợp sau, NGOẠI TRỪ:",
+    "options": {
+      "A": "Uống nước nhiều",
+      "B": "Bệnh đái tháo nhạt",
+      "C": "Bệnh đái tháo đường",
+      "D": "Huyết áp hạ thấp"
+    }
+  },
+  "sly.4.90": {
+    "question": "Hormon ADH tăng bài tiết trong các trường hợp sau, NGOẠI TRỪ:",
+    "options": {
+      "A": "Mất nước do nôn ói",
+      "B": "Xuất huyết nặng",
+      "C": "Giảm áp suất thẩm thấu máu",
+      "D": "Tiêu chảy"
+    }
+  },
+  "sly.4.91": {
+    "question": "Hầu hết lượng glucose lọc qua cầu thận được tái hấp thu tại vị trí nào?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Quai Henle",
+      "C": "Ống lượn xa",
+      "D": "Ống góp"
+    }
+  },
+  "sly.4.92": {
+    "question": "Trên một bệnh nhân, nồng độ glucose huyết tương lúc đói là 150 mg/dl; GFR ≈ 100 ml/phút; ngưỡng tái hấp thu glucose tại ống lượn gần là 180 mg/dl. Hãy cho biết lượng bài xuất glucose ra nước tiểu vào khoảng bao nhiêu?",
+    "options": {
+      "A": "15 mg/phút",
+      "B": "30 mg/phút",
+      "C": "100 mg/phút",
+      "D": "150 mg/phút"
+    }
+  },
+  "sly.4.93": {
+    "question": "Tăng nồng độ ion K⁺ trong huyết tương do giảm bài xuất K⁺ qua nước tiểu sẽ dẫn đến tăng phóng thích chất nào?",
+    "options": {
+      "A": "Renin",
+      "B": "Aldosterone",
+      "C": "ADH",
+      "D": "ANP"
+    }
+  },
+  "sly.4.94": {
+    "question": "Các acid amin trong dịch lọc qua cầu thận được tái hấp thu chủ yếu tại vị trí nào?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Quai Henle",
+      "C": "Ống lượn xa",
+      "D": "Ống góp"
+    }
+  },
+  "sly.4.95": {
+    "question": "Tại ống lượn xa, hoạt động tái hấp thu Na⁺ sẽ tăng trong trường hợp nào sau đây?",
+    "options": {
+      "A": "Tăng kích thích thần kinh giao cảm",
+      "B": "Tăng tiết hormon ANP",
+      "C": "Tăng tiết hormon ADH",
+      "D": "Tăng tiết hormon aldosterone"
+    }
+  },
+  "sly.4.96": {
+    "question": "Chọn câu đúng khi nói về ống lượn gần:",
+    "options": {
+      "A": "Sự tái hấp thu Na⁺ chịu tác động của aldosterone",
+      "B": "Glucose được tái hấp thu hoàn toàn tại đây",
+      "C": "Có khoảng 10% nước trong dịch lọc được tái hấp thu",
+      "D": "Parathormone làm tăng tái hấp thu phosphate"
+    }
+  },
+  "sly.4.97": {
+    "question": "Vị trí nào trong hệ thống ống thận là nơi bài tiết creatinine chủ yếu?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Quai Henle",
+      "C": "Ống lượn xa",
+      "D": "Ống góp"
+    }
+  },
+  "sly.4.98": {
+    "question": "Câu nào sau đây đúng khi nói về quá trình tái hấp thu Na⁺ trong hệ thống ống thận?",
+    "options": {
+      "A": "Diễn ra kết hợp với tái hấp thu Cl⁻ và HCO₃⁻",
+      "B": "Chỉ xảy ra tại ống lượn gần và ống lượn xa",
+      "C": "Luôn luôn phụ thuộc vào hormon aldosterone",
+      "D": "Là quá trình thụ động, không tiêu tốn năng lượng"
+    }
+  },
+  "sly.4.99": {
+    "question": "Những chất quyết định áp suất thẩm thấu huyết tương, NGOẠI TRỪ:",
+    "options": {
+      "A": "Na⁺",
+      "B": "Hemoglobin",
+      "C": "Albumin",
+      "D": "Glucose"
+    }
+  },
+  "sly.4.100": {
+    "question": "Ion bicarbonate (HCO₃⁻) trong dịch ngoại bào đệm toan kiềm hiệu quả cho các acid dưới đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Sulfuric acid",
+      "B": "Phosphate acid",
+      "C": "Lactic acid",
+      "D": "Carbonic acid"
+    }
+  }
+}

@@ -1,0 +1,902 @@
+{
+  "sly.2.1": {
+    "question": "Pha khử cực của tế bào nút xoang là do quá trình nào sau đây?",
+    "options": {
+      "A": "Tăng hoạt động kênh Ca²⁺ type L",
+      "B": "Tăng hoạt động kênh Na⁺ nhanh",
+      "C": "Giảm hoạt động của kênh If",
+      "D": "Giảm hoạt động của kênh Na⁺-K⁺"
+    }
+  },
+  "sly.2.2": {
+    "question": "Cơ tim chỉ có thể đáp ứng với kích thích trong điều kiện nào?",
+    "options": {
+      "A": "Kích thích với cường độ tối đa và vào thời kỳ trơ tuyệt đối",
+      "B": "Kích thích với cường độ tối đa và vào thời kỳ trơ tương đối",
+      "C": "Kích thích đạt đến ngưỡng và vào thời kỳ trơ tuyệt đối",
+      "D": "Kích thích đạt đến ngưỡng và vào thời kỳ trơ tương đối"
+    }
+  },
+  "sly.2.3": {
+    "question": "Tế bào nút nhĩ thất mở kênh Ca²⁺ type T ở giai đoạn nào của điện thế động?",
+    "options": {
+      "A": "Pha 1",
+      "B": "Pha 2",
+      "C": "Pha 3",
+      "D": "Pha 4"
+    }
+  },
+  "sly.2.4": {
+    "question": "Đỉnh sóng R tương ứng với giai đoạn nào của chu chuyển tim?",
+    "options": {
+      "A": "Co đẳng trương",
+      "B": "Co đẳng trường",
+      "C": "Giãn đẳng trường",
+      "D": "Giãn đẳng trương"
+    }
+  },
+  "sly.2.5": {
+    "question": "Cơ chế tiếng tim thứ tư?",
+    "options": {
+      "A": "Do đóng van động mạch chủ và van động mạch phổi",
+      "B": "Do máu về thất giai đoạn tim hút máu về nhanh",
+      "C": "Do đóng van hai lá và van ba lá",
+      "D": "Do máu về thất giai đoạn thu nhĩ"
+    }
+  },
+  "sly.2.6": {
+    "question": "Dựa vào giản đồ thể tích - áp suất thất trái dưới đây, hãy cho biết van 2 lá đóng vào thời điểm nào?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    }
+  },
+  "sly.2.7": {
+    "question": "Vì sao trao đổi chất có thể thực hiện được qua mao mạch?",
+    "options": {
+      "A": "Thành mao mạch có 3 lớp",
+      "B": "Lớp tế bào nội mô có khoảng kẽ",
+      "C": "Tổng thiết diện lớn nhất",
+      "D": "Áp suất thấp"
+    }
+  },
+  "sly.2.8": {
+    "question": "Cơ chế thường gặp làm tăng huyết áp ở người lớn tuổi?",
+    "options": {
+      "A": "Tăng chiều dài mạch",
+      "B": "Tăng cholesterol máu",
+      "C": "Tăng lưu lượng tim",
+      "D": "Giảm khả năng đàn hồi mạch máu"
+    }
+  },
+  "sly.2.9": {
+    "question": "Thể tích nhát bóp tăng trong điều kiện nào sau đây?",
+    "options": {
+      "A": "Giảm sức cản ngoại biên toàn bộ",
+      "B": "Tăng áp suất nhĩ phải",
+      "C": "Tăng hoạt giao cảm",
+      "D": "Tăng dẫn truyền nhĩ thất"
+    }
+  },
+  "sly.2.10": {
+    "question": "Điều gì xảy ra khi kích thích phản xạ thụ thể ở thất?",
+    "options": {
+      "A": "Tăng nhịp tim và tăng kháng lực ngoại biên",
+      "B": "Giảm nhịp tim và tăng kháng lực ngoại biên",
+      "C": "Tăng nhịp tim và giảm kháng lực ngoại biên",
+      "D": "Giảm nhịp tim và giảm kháng lực ngoại biên"
+    }
+  },
+  "sly.2.11": {
+    "question": "Nút xoang bình thường là nút tạo nhịp cho toàn tim vì lý do nào?",
+    "options": {
+      "A": "Gần nút nhĩ - thất",
+      "B": "Tạo các xung thần kinh",
+      "C": "Nhịp xung cao hơn các nơi khác",
+      "D": "Chịu sự kiểm soát của hệ thần kinh thực vật"
+    }
+  },
+  "sly.2.12": {
+    "question": "Kênh Na chậm mở ra ở thời kỳ nào trong hình?",
+    "options": {
+      "A": "Pha 0",
+      "B": "Pha 1",
+      "C": "Pha 2",
+      "D": "Pha 3"
+    }
+  },
+  "sly.2.13": {
+    "question": "Vì sao điện thế màng khi nghỉ ở tế bào cơ tim được duy trì?",
+    "options": {
+      "A": "Chênh lệch điện thế giữa Na⁺ và K⁺",
+      "B": "Nhờ hoạt động của kênh Kali chỉnh lưu nhập bào",
+      "C": "Sự tập trung cao K⁺ trong tế bào",
+      "D": "Sự tập trung cao Cl⁻ trong tế bào"
+    }
+  },
+  "sly.2.14": {
+    "question": "Sự lan truyền điện thế động trong tim nhanh nhất ở nơi nào sau đây?",
+    "options": {
+      "A": "Nút xoang",
+      "B": "Cơ thất",
+      "C": "Bó His",
+      "D": "Sợi Purkinje"
+    }
+  },
+  "sly.2.15": {
+    "question": "Pha khử cực của tế bào nút xoang là do quá trình nào sau đây?",
+    "options": {
+      "A": "Tăng dòng Na⁺ vào trong tế bào",
+      "B": "Giảm hoạt động của bơm Na⁺-K⁺",
+      "C": "Tăng trao đổi Na⁺-Ca²⁺",
+      "D": "Giảm dòng Cl⁻ ra ngoài tế bào"
+    }
+  },
+  "sly.2.16": {
+    "question": "Dòng điện gây ra do mở kênh ion nào sau đây liên quan đến pha 1 của điện thế động của tế bào cơ tâm thất?",
+    "options": {
+      "A": "Kênh Na⁺",
+      "B": "Kênh Cl⁻",
+      "C": "Kênh Ca²⁺",
+      "D": "Kênh K⁺"
+    }
+  },
+  "sly.2.17": {
+    "question": "Điện tim hữu ích nhất trong khám phá bất thường về điều nào?",
+    "options": {
+      "A": "Vị trí tim trong lồng ngực",
+      "B": "Nhịp tim",
+      "C": "Khả năng co của tim",
+      "D": "Lưu lượng tim"
+    }
+  },
+  "sly.2.18": {
+    "question": "Sóng tái cực muộn của tâm thất được biểu diễn bằng sóng nào sau đây trên điện tâm đồ?",
+    "options": {
+      "A": "Sóng P",
+      "B": "Sóng Q",
+      "C": "Sóng T",
+      "D": "Sóng S"
+    }
+  },
+  "sly.2.19": {
+    "question": "Yếu tố nào sau đây là chỉ số chính của tiền tải?",
+    "options": {
+      "A": "Áp suất thất trái cuối tâm trương",
+      "B": "Áp suất tĩnh mạch trung tâm",
+      "C": "Áp suất nền mao mạch phổi",
+      "D": "Thể tích thất trái cuối tâm trương"
+    }
+  },
+  "sly.2.20": {
+    "question": "Cơ chế nào giúp van động mạch chủ mở được?",
+    "options": {
+      "A": "Do áp suất trong thất trái lớn hơn áp suất trong nhĩ trái",
+      "B": "Do áp suất trong nhĩ trái lớn hơn áp suất trong động mạch chủ",
+      "C": "Do áp suất trong thất trái lớn hơn áp suất động mạch chủ",
+      "D": "Do áp suất trong động mạch chủ vượt quá áp suất trong thất trái"
+    }
+  },
+  "sly.2.21": {
+    "question": "Câu nào sau đây đúng với tốc độ bơm máu từ thất ra ngoài trong lúc tâm thu?",
+    "options": {
+      "A": "Cao nhất ở 1/3 đầu của kỳ tâm thu",
+      "B": "Cao nhất ở 1/3 giữa",
+      "C": "Cao nhất ở 1/3 cuối",
+      "D": "Bằng nhau trong suốt kỳ tâm thu"
+    }
+  },
+  "sly.2.22": {
+    "question": "Đóng van nhĩ - thất được khởi đầu bởi quá trình nào sau đây?",
+    "options": {
+      "A": "Co nhĩ",
+      "B": "Co thất",
+      "C": "Co cơ cột",
+      "D": "Áp suất máu trong tâm thất cao hơn trong tâm nhĩ"
+    }
+  },
+  "sly.2.23": {
+    "question": "Tiếng tim thứ hai xảy ra trong thời kỳ nào sau đây?",
+    "options": {
+      "A": "Co đẳng trương",
+      "B": "Co đẳng trường",
+      "C": "Giãn đẳng trương",
+      "D": "Giãn đẳng trương"
+    }
+  },
+  "sly.2.24": {
+    "question": "Máu lên phổi dễ dàng chủ yếu nhờ vào yếu tố nào dưới đây?",
+    "options": {
+      "A": "Tác động lên hệ thần kinh thực vật",
+      "B": "Mao mạch phổi rộng",
+      "C": "Áp lực thất phải lớn",
+      "D": "Áp lực động mạch phổi thấp"
+    }
+  },
+  "sly.2.25": {
+    "question": "Điều gì sau đây sẽ tăng khi tăng kích thích phó giao cảm?",
+    "options": {
+      "A": "Nhịp tim",
+      "B": "Dẫn truyền nhĩ thất",
+      "C": "Bài tiết acetylcholine",
+      "D": "Bài tiết noradrenalin"
+    }
+  },
+  "sly.2.26": {
+    "question": "Khi nghỉ ngơi, ở người đàn ông khỏe mạnh, tim bơm bao nhiêu lít trong một phút?",
+    "options": {
+      "A": "0,9",
+      "B": "2 đến 3",
+      "C": "5 đến 6",
+      "D": "8 đến 10"
+    }
+  },
+  "sly.2.27": {
+    "question": "Giai đoạn nào không có trong thời kỳ tâm thu của tim?",
+    "options": {
+      "A": "Thu nhĩ",
+      "B": "Căng tâm thất",
+      "C": "Giãn đồng thể tích",
+      "D": "Bơm máu ra ngoài"
+    }
+  },
+  "sly.2.28": {
+    "question": "Phản xạ do thụ thể ở thất có tác dụng nào sau đây?",
+    "options": {
+      "A": "Giảm nhịp tim và giảm kháng lực ngoại biên",
+      "B": "Tăng nhịp tim và tăng kháng lực ngoại biên",
+      "C": "Giảm nhịp tim và tăng kháng lực ngoại biên",
+      "D": "Tăng nhịp tim và giảm kháng lực ngoại biên"
+    }
+  },
+  "sly.2.29": {
+    "question": "Nồng độ epinephrine trong máu tăng, gây hậu quả nào sau đây?",
+    "options": {
+      "A": "Giảm lượng máu trong một nhát bóp",
+      "B": "Giảm nhịp tim",
+      "C": "Tăng cung lượng tim",
+      "D": "Giảm co thắt cơ tim"
+    }
+  },
+  "sly.2.30": {
+    "question": "Ở người bình thường, lượng máu do tim bơm ra trong một nhịp sẽ tăng trong điều kiện nào sau đây?",
+    "options": {
+      "A": "Tăng kích thích giao cảm đến tim",
+      "B": "Tăng kích thích phó giao cảm đến tim",
+      "C": "Giảm thể tích cuối tâm trương",
+      "D": "Phản xạ áp thụ quan"
+    }
+  },
+  "sly.2.31": {
+    "question": "Cơ chế tiếng tim thứ tư?",
+    "options": {
+      "A": "Đóng van động mạch chủ và van động mạch phổi",
+      "B": "Đồ đẩy thất",
+      "C": "Đóng van hai lá và van ba lá",
+      "D": "Do thu nhĩ"
+    }
+  },
+  "sly.2.32": {
+    "question": "Khi đường kính mạch máu lúc nghỉ ngơi giảm 1/2, kháng lực đối với dòng máu tăng bao nhiêu lần?",
+    "options": {
+      "A": "12",
+      "B": "16",
+      "C": "18",
+      "D": "20"
+    }
+  },
+  "sly.2.33": {
+    "question": "Độ nhớt máu tùy thuộc vào yếu tố nào sau đây?",
+    "options": {
+      "A": "Số lượng tế bào máu",
+      "B": "Hình dạng tế bào máu",
+      "C": "Lượng protein trong huyết tương",
+      "D": "Tính thấm mao mạch"
+    }
+  },
+  "sly.2.34": {
+    "question": "Máu lên phổi dễ dàng chủ yếu nhờ vào yếu tố nào dưới đây?",
+    "options": {
+      "A": "Tác động lên hệ thần kinh thực vật",
+      "B": "Mao mạch phổi rộng",
+      "C": "Áp lực thất phải lớn",
+      "D": "Áp lực động mạch phổi thấp"
+    }
+  },
+  "sly.2.35": {
+    "question": "Yếu tố nào sau đây sẽ làm giảm áp suất đẩy (hiệu áp) ở động mạch?",
+    "options": {
+      "A": "Giảm sức đàn động mạch",
+      "B": "Giảm sức đàn tĩnh mạch",
+      "C": "Giảm thể tích máu",
+      "D": "Tăng áp suất tĩnh mạch trung ương"
+    }
+  },
+  "sly.2.36": {
+    "question": "Các yếu tố sau đều làm tăng huyết áp động mạch, NGOẠI TRỪ:",
+    "options": {
+      "A": "Cung lượng tim tăng",
+      "B": "Kháng lực ngoại biên tăng",
+      "C": "Sức đàn hồi thành mạch tăng",
+      "D": "Độ nhớt máu tăng"
+    }
+  },
+  "sly.2.37": {
+    "question": "Sự trao đổi các chất dinh dưỡng và khí giữa máu và mô xảy ra tại nơi nào sau đây?",
+    "options": {
+      "A": "Động mạch",
+      "B": "Tiểu động mạch",
+      "C": "Mao mạch",
+      "D": "Tĩnh mạch"
+    }
+  },
+  "sly.2.38": {
+    "question": "Tổng thiết diện mạch lớn nhất ở nơi nào sau đây?",
+    "options": {
+      "A": "Động mạch lớn",
+      "B": "Tiểu động mạch",
+      "C": "Mao mạch",
+      "D": "Tĩnh mạch"
+    }
+  },
+  "sly.2.39": {
+    "question": "Trong pha co đồng thể tích của chu chuyển tim, hoạt động các van như thế nào?",
+    "options": {
+      "A": "Van nhĩ thất mở, van bán nguyệt đóng",
+      "B": "Van nhĩ thất và van bán nguyệt đều mở",
+      "C": "Van nhĩ thất và van bán nguyệt đều đóng",
+      "D": "Van nhĩ thất đóng, van bán nguyệt mở"
+    }
+  },
+  "sly.2.40": {
+    "question": "Câu nào sau đây đúng với hiện tượng tự điều hòa do cơ ở mạch?",
+    "options": {
+      "A": "Khi áp suất truyền vào mạch tăng, mạch co lại và ngược lại",
+      "B": "Khi áp suất truyền vào mạch tăng, mạch giãn ra và ngược lại",
+      "C": "Khi áp suất truyền thay đổi, không có phản ứng ở thành mạch",
+      "D": "Đáp ứng mạch lệ thuộc vào tế bào nội mô thành mạch"
+    }
+  },
+  "sly.2.41": {
+    "question": "Vùng thần kinh nào sau đây có tham gia vào phản xạ vận mạch?",
+    "options": {
+      "A": "Vỏ não",
+      "B": "Hành não",
+      "C": "Tủy sống",
+      "D": "Tất cả các câu nêu trên đều đúng"
+    }
+  },
+  "sly.2.42": {
+    "question": "Phản xạ áp thụ quan có tác dụng nào sau đây?",
+    "options": {
+      "A": "Nhịp tim tăng, huyết áp tăng",
+      "B": "Nhịp tim chậm, gây giãn mạch",
+      "C": "Nhịp tim chậm, gây co mạch",
+      "D": "Nhịp tim tăng, gây co mạch"
+    }
+  },
+  "sly.2.43": {
+    "question": "Phản xạ hóa thụ quan gây tác dụng nào sau đây?",
+    "options": {
+      "A": "Giãn mạch",
+      "B": "Co mạch",
+      "C": "Kích thích vùng dưới đồi",
+      "D": "Ức chế trung tâm vận mạch"
+    }
+  },
+  "sly.2.44": {
+    "question": "Vì sao trao đổi chất có thể thực hiện được qua mao mạch?",
+    "options": {
+      "A": "Do thành mao mạch có 3 lớp",
+      "B": "Do mao mạch có lớp tế bào nội mô có khoảng kẽ",
+      "C": "Do mao mạch có tổng thiết diện lớn nhất",
+      "D": "Do mao mạch có áp suất thấp"
+    }
+  },
+  "sly.2.45": {
+    "question": "Khi các áp thụ quan bị giảm kích thích, tất cả các yếu tố sau đây sẽ tăng, NGOẠI TRỪ:",
+    "options": {
+      "A": "Cung lượng tim",
+      "B": "Tổng kháng lực ngoại biên",
+      "C": "Hoạt động thần kinh giao cảm",
+      "D": "Hoạt động thần kinh phó giao cảm"
+    }
+  },
+  "sly.2.46": {
+    "question": "Tiền tải tăng hầu như là do tăng yếu tố nào sau đây?",
+    "options": {
+      "A": "Trương lực tiểu động mạch",
+      "B": "Trương lực tĩnh mạch",
+      "C": "Co thất cơ tim",
+      "D": "Tính thấm mao mạch"
+    }
+  },
+  "sly.2.47": {
+    "question": "Yếu tố nào sau đây tạo tiếng tim thứ nhất?",
+    "options": {
+      "A": "Đóng van nhĩ - thất",
+      "B": "Là nguyên nhân gây ra các tiếng T1 và T2",
+      "C": "Làm đóng van nhĩ-thất và mở van tổ chim",
+      "D": "Là giai đoạn dài nhất trong một chu kỳ hoạt động của tim"
+    }
+  },
+  "sly.2.48": {
+    "question": "Buồng tim nào đóng vai trò chủ yếu trong chu kỳ tim?",
+    "options": {
+      "A": "Tâm nhĩ và tâm thất",
+      "B": "Tâm nhĩ trái và tâm thất trái",
+      "C": "Tâm thất trái",
+      "D": "Tâm thất phải"
+    }
+  },
+  "sly.2.49": {
+    "question": "Đúng vào lúc nghe thấy tiếng tim thứ hai, điều nào đang xảy ra?",
+    "options": {
+      "A": "Nhĩ đang giãn, thất đã giãn hoàn toàn",
+      "B": "Thất vừa giãn, nhĩ đang giãn",
+      "C": "Thất đang co, nhĩ bắt đầu co",
+      "D": "Nhĩ bắt đầu co, thất đang giãn"
+    }
+  },
+  "sly.2.50": {
+    "question": "Đúng vào lúc nghe tiếng tim thứ nhất, điều nào sau đây đang xảy ra?",
+    "options": {
+      "A": "Nhĩ đang giãn, sau khi co",
+      "B": "Nhĩ đang giãn, thất vừa mới co",
+      "C": "Nhĩ đang giãn, thất đang tống máu",
+      "D": "Nhĩ bắt đầu co, thất đang tống máu"
+    }
+  },
+  "sly.2.51": {
+    "question": "Cơ tim được đặc trưng bởi đặc tính nào sau đây?",
+    "options": {
+      "A": "Tính hợp bào",
+      "B": "Dẫn truyền điện thế rất nhanh qua các cầu nối",
+      "C": "Sự co bóp đồng nhất",
+      "D": "Câu A và B đúng"
+    }
+  },
+  "sly.2.52": {
+    "question": "Thành của mạch máu nào chỉ có một lớp tế bào?",
+    "options": {
+      "A": "Động mạch lớn",
+      "B": "Tiểu động mạch",
+      "C": "Tiểu tĩnh mạch",
+      "D": "Mao mạch"
+    }
+  },
+  "sly.2.53": {
+    "question": "Trong chu kỳ hoạt động của tim, thời kỳ bắt đầu đóng van nhĩ thất cho đến cuối kỳ đóng van bán nguyệt, phù hợp với giai đoạn nào?",
+    "options": {
+      "A": "Tâm nhĩ thu",
+      "B": "Tâm nhĩ giãn",
+      "C": "Tâm thất thu",
+      "D": "Tâm thất giãn"
+    }
+  },
+  "sly.2.54": {
+    "question": "Sự đóng van động mạch chủ xảy ra lúc bắt đầu của pha nào trong chu chuyển tim?",
+    "options": {
+      "A": "Co đẳng trương",
+      "B": "Sự tống máu nhanh",
+      "C": "Cuối tâm trương",
+      "D": "Giãn đẳng trương"
+    }
+  },
+  "sly.2.55": {
+    "question": "Tính tự động của tim thể hiện ở đâu?",
+    "options": {
+      "A": "Hoạt động của nút xoang",
+      "B": "Hoạt động của sự dẫn truyền nhĩ-thất",
+      "C": "Hoạt động của tế bào cơ nhĩ và cơ thất",
+      "D": "Toàn bộ trái tim"
+    }
+  },
+  "sly.2.56": {
+    "question": "Tiếng tim thứ tư gây ra do:",
+    "options": {
+      "A": "Đóng van động mạch chủ và van động mạch phổi",
+      "B": "Dao động thành thất trong kỳ tâm thu",
+      "C": "Đóng van hai lá và van ba lá",
+      "D": "Do thu nhĩ"
+    }
+  },
+  "sly.2.57": {
+    "question": "Vì sao tâm thất trái có thành dày hơn thất phải?",
+    "options": {
+      "A": "Thất trái tống máu với tốc độ cao hơn",
+      "B": "Thất trái chứa nhiều máu hơn",
+      "C": "Tim nghiêng trái trong lồng ngực",
+      "D": "Thất trái tống máu với áp suất cao"
+    }
+  },
+  "sly.2.58": {
+    "question": "Yếu tố nào sau đây tạo tiếng tim thứ hai?",
+    "options": {
+      "A": "Sự đột trở lại của máu động mạch sau khi van đóng",
+      "B": "Máu rớt nhanh xuống tâm thất vào kỳ tâm trương",
+      "C": "Đóng van động mạch chủ",
+      "D": "Đóng các van bán nguyệt"
+    }
+  },
+  "sly.2.59": {
+    "question": "Sự kích thích cơ tim chỉ có thể tạo nên sự đáp ứng khi nào?",
+    "options": {
+      "A": "Kích thích với cường độ tối đa",
+      "B": "Kích thích đạt đến ngưỡng và vào thời kỳ trơ tương đối",
+      "C": "Kích thích vào giai đoạn tâm trương",
+      "D": "Kích thích vào thời kỳ trơ tuyệt đối"
+    }
+  },
+  "sly.2.60": {
+    "question": "Tiếng tim thứ tư gây ra do:",
+    "options": {
+      "A": "Đóng van động mạch chủ và van động mạch phổi.",
+      "B": "Dao động thành thất trong kỳ tâm thu.",
+      "C": "Hoạt động của tế bào cơ nhĩ và cơ thất",
+      "D": "Toàn bộ trái tim"
+    }
+  },
+  "sly.2.61": {
+    "question": "Tim nhận máu từ đâu?",
+    "options": {
+      "A": "Mạch vành, thời kỳ tâm trương",
+      "B": "Mạch vành và máu thấm từ các buồng tim",
+      "C": "Mạch vành và từ các tĩnh mạch Thebeus",
+      "D": "Mạch vành và từ xoang vành"
+    }
+  },
+  "sly.2.62": {
+    "question": "Vận tốc dẫn truyền xung động trong sợi cơ thất là bao nhiêu?",
+    "options": {
+      "A": "0,03-0,05 m/s",
+      "B": "0,3-1 m/s",
+      "C": "1,5-4 m/s",
+      "D": "5-25 m/s"
+    }
+  },
+  "sly.2.63": {
+    "question": "Vận tốc dẫn truyền xung động trong hệ Purkinje là bao nhiêu?",
+    "options": {
+      "A": "0,03-0,05 m/s",
+      "B": "0,3-1 m/s",
+      "C": "1,5-4 m/s",
+      "D": "5-25 m/s"
+    }
+  },
+  "sly.2.64": {
+    "question": "Pha 4 trong điện thế hoạt động của tế bào nút xoang được sinh ra bởi yếu tố nào sau đây?",
+    "options": {
+      "A": "Sự tăng dòng Natri đi vào tế bào",
+      "B": "Sự tăng hoạt động của bơm Na+-K+ ATPase",
+      "C": "Sự giảm dòng chlorua ra khỏi tế bào",
+      "D": "Sự giảm hoạt động của bơm Na+-K+ ATPase"
+    }
+  },
+  "sly.2.65": {
+    "question": "Sự mở kênh Ca2+ type L (long-lasting) ở màng tế bào cơ tim là ở giai đoạn nào?",
+    "options": {
+      "A": "Khử cực",
+      "B": "Tái cực",
+      "C": "Điện thế màng lúc nghỉ",
+      "D": "Bình nguyên"
+    }
+  },
+  "sly.2.66": {
+    "question": "Sự kích thích giao cảm sẽ gây bài tiết chất nào sau đây?",
+    "options": {
+      "A": "Epinephrin",
+      "B": "Norepinephrin",
+      "C": "Dopamin và Serotonin",
+      "D": "Acetylcholin"
+    }
+  },
+  "sly.2.67": {
+    "question": "Điều nào sau đây đúng về ý nghĩa của qui luật Frank-Starling?",
+    "options": {
+      "A": "Nói lên ảnh hưởng của hệ giao cảm trên tim",
+      "B": "Nói lên khả năng co bóp của tâm thất",
+      "C": "Nói lên sự tự điều hòa hoạt động tim",
+      "D": "Nói lên khả năng nhận máu vào thì tâm trương"
+    }
+  },
+  "sly.2.68": {
+    "question": "Điều nào sau đây đúng với huyết áp động mạch?",
+    "options": {
+      "A": "Tỉ lệ thuận với sức cản mạch máu và lưu lượng tim",
+      "B": "Tỉ lệ thuận với lưu lượng tim và đường kính động mạch",
+      "C": "Phụ thuộc vào sức co của cơ tim",
+      "D": "Tỉ lệ thuận với bán kính mạch máu"
+    }
+  },
+  "sly.2.69": {
+    "question": "Điều nào sau đây đúng với huyết áp trung bình?",
+    "options": {
+      "A": "Là trung bình cộng giữa huyết áp tối đa và huyết áp tối thiểu",
+      "B": "Là hiệu số giữa huyết áp tối đa và huyết áp tối thiểu",
+      "C": "Phụ thuộc vào sức co của cơ tim",
+      "D": "Là trung bình các áp suất máu đo trong mạch nhằm đảm bảo lưu lượng"
+    }
+  },
+  "sly.2.70": {
+    "question": "Hiện tượng gì xảy ra khi nhịp tim nhanh?",
+    "options": {
+      "A": "Thời gian tâm trương ngắn lại",
+      "B": "Tim co bóp mạnh hơn",
+      "C": "Trương lực mạch giảm",
+      "D": "Tăng lưu lượng vành"
+    }
+  },
+  "sly.2.71": {
+    "question": "Xoa trên vùng xoang cảnh ở cổ ở một bệnh nhân có nhịp tim rất nhanh sẽ làm nhịp tim chậm lại tại sao?",
+    "options": {
+      "A": "Oxy thấp trong máu động mạch",
+      "B": "Tăng áp suất trong hố sọ",
+      "C": "Tăng áp suất đổ đầy thất",
+      "D": "Tăng áp suất trong xoang cảnh"
+    }
+  },
+  "sly.2.72": {
+    "question": "Dòng điện gây ra do mở kênh ion nào sau đây liên quan đến tái cực của điện thế động của tế bào cơ tâm thất?",
+    "options": {
+      "A": "Kênh Na+",
+      "B": "Kênh Ca2+",
+      "C": "Kênh K+",
+      "D": "Kênh HCO3-"
+    }
+  },
+  "sly.2.73": {
+    "question": "Các chất có tác dụng lên điều hòa huyết áp do có tác động lên mạch máu và đồng thời tác động lên tái hấp thu ở ống thận là:",
+    "options": {
+      "A": "Epinephrin và Norepinephrin",
+      "B": "Prostaglandin và ANF",
+      "C": "Angiotensin II và Aldosteron",
+      "D": "Angiotensin II và Vasopressin"
+    }
+  },
+  "sly.2.74": {
+    "question": "Qui luật Frank-Starling:",
+    "options": {
+      "A": "Nói lên ảnh hưởng của hệ giao cảm trên tim",
+      "B": "Nói lên khả năng co bóp của tâm thất",
+      "C": "Nói lên sự tự điều hòa hoạt động tim",
+      "D": "Nói lên khả năng nhận máu vào thì tâm trương"
+    }
+  },
+  "sly.2.75": {
+    "question": "Huyết áp động mạch là gì?",
+    "options": {
+      "A": "Tỉ lệ thuận với sức cản mạch máu và lưu lượng tim",
+      "B": "Tỉ lệ thuận với lưu lượng tim và đường kính động mạch",
+      "C": "Phụ thuộc vào sức co của cơ tim",
+      "D": "Tỉ lệ thuận với bán kính mạch máu"
+    }
+  },
+  "sly.2.76": {
+    "question": "Huyết áp có xu hướng tăng ở người gia tăng trọng lượng do?",
+    "options": {
+      "A": "Tăng chiều dài mạch máu",
+      "B": "Tăng cholesterol máu",
+      "C": "Tăng thể tích máu",
+      "D": "Tăng lưu lượng tim"
+    }
+  },
+  "sly.2.77": {
+    "question": "Sự tập luyện thể dục thể thao đều đặn đem lại lợi ích sau?",
+    "options": {
+      "A": "Giảm huyết áp",
+      "B": "Giảm stress",
+      "C": "Tăng thể tích tổng máu tâm thu",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "sly.2.78": {
+    "question": "Khi nghỉ ngơi, ở người đàn ông khỏe mạnh, tim bơm bao nhiêu lít trong một phút?",
+    "options": {
+      "A": "0.9",
+      "B": "2 đến 3",
+      "C": "5 đến 6",
+      "D": "8 đến 10"
+    }
+  },
+  "sly.2.79": {
+    "question": "Áp suất keo của huyết tương:",
+    "options": {
+      "A": "Tăng dần từ đầu tiểu động mạch sang đầu tiểu tĩnh mạch",
+      "B": "Tăng cao nhất trong mao tĩnh mạch",
+      "C": "Giảm rõ trong mao động mạch",
+      "D": "Tất cả đều sai"
+    }
+  },
+  "sly.2.80": {
+    "question": "Khi hoạt động, chỉ số nào sau đây gia tăng?",
+    "options": {
+      "A": "Lưu lượng tim",
+      "B": "Áp suất nhĩ phải",
+      "C": "Áp suất động mạch phổi",
+      "D": "Huyết áp tâm trương"
+    }
+  },
+  "sly.2.81": {
+    "question": "Yếu tố quan trọng điều hòa nội tại hệ động mạch:",
+    "options": {
+      "A": "Áp suất trong lòng mạch",
+      "B": "Các chất sinh ra từ tế bào nội mạc",
+      "C": "Thiếu oxy tổ chức",
+      "D": "Hoạt động giao cảm"
+    }
+  },
+  "sly.2.82": {
+    "question": "Cơ chế tự điều chỉnh trên mạch như sau:",
+    "options": {
+      "A": "Tăng áp suất truyền vào mạch, mạch giãn ra",
+      "B": "Tăng áp suất truyền vào mạch, mạch co lại",
+      "C": "Tăng áp suất truyền vào mạch, mạch không thay đổi",
+      "D": "Giảm áp suất truyền vào mạch, mạch co lại"
+    }
+  },
+  "sly.2.83": {
+    "question": "Khúc trên đường biểu diễn áp suất động mạch chủ là do:",
+    "options": {
+      "A": "Đóng van hai lá",
+      "B": "Đóng van ba lá",
+      "C": "Đóng van động mạch chủ",
+      "D": "Đóng van động mạch phổi"
+    }
+  },
+  "sly.2.84": {
+    "question": "Yếu tố nào sau đây làm tăng huyết áp?",
+    "options": {
+      "A": "Prostacyclin",
+      "B": "Ức chế men chuyển angiotensin II",
+      "C": "Thuốc ức chế men NO synthetase",
+      "D": "Thuốc ức chế thụ thể vasopressin"
+    }
+  },
+  "sly.2.85": {
+    "question": "Khi áp suất máu ở xoang cảnh giảm thì điều nào xảy ra?",
+    "options": {
+      "A": "Co mạch",
+      "B": "Giãn mạch",
+      "C": "Tăng ức chế trung tâm vận mạch",
+      "D": "Giảm xung giao cảm ra ngoại biên"
+    }
+  },
+  "sly.2.86": {
+    "question": "Phản xạ áp thụ quan được dẫn bởi thần kinh nào sau đây?",
+    "options": {
+      "A": "VII và XI",
+      "B": "IX và X",
+      "C": "X và XI",
+      "D": "X và XII"
+    }
+  },
+  "sly.2.87": {
+    "question": "Phần ECG tương ứng với khử cực nhĩ là gì?",
+    "options": {
+      "A": "Đỉnh sóng R",
+      "B": "Khoảng giữa sóng T và sóng P",
+      "C": "Sóng T",
+      "D": "Sóng P"
+    }
+  },
+  "sly.2.88": {
+    "question": "Khi hít vào nhịp tim thay đổi như thế nào so với ban đầu?",
+    "options": {
+      "A": "Nhịp tim chậm",
+      "B": "Nhịp tim nhanh",
+      "C": "Nhịp tim nhanh giai đoạn đầu, chậm giai đoạn sau",
+      "D": "Nhịp tim chậm giai đoạn đầu, nhanh giai đoạn sau"
+    }
+  },
+  "sly.2.89": {
+    "question": "Bình thường, lượng máu do tim tống ra trong mỗi nhịp sẽ tăng trong điều kiện nào?",
+    "options": {
+      "A": "Tăng hoạt dây X",
+      "B": "Tăng áp suất nhĩ phải",
+      "C": "Tăng dẫn truyền nhĩ thất",
+      "D": "Tăng hoạt giao cảm"
+    }
+  },
+  "sly.2.90": {
+    "question": "Chất nào sau đây gây co mạch?",
+    "options": {
+      "A": "Acetylcholin",
+      "B": "Bradykinin",
+      "C": "Endothelin I",
+      "D": "Nitric oxide"
+    }
+  },
+  "sly.2.91": {
+    "question": "Trong điều hòa hoạt động mạch, khi các thụ thể áp suất bị kích thích sẽ gây các tác dụng nào sau đây?",
+    "options": {
+      "A": "Ức chế vùng co mạch",
+      "B": "Ức chế trung tâm ức chế tim",
+      "C": "Tăng xung giao cảm ra ngoại biên",
+      "D": "Tăng huyết áp"
+    }
+  },
+  "sly.2.92": {
+    "question": "Cơ chế siêu lọc tại mao mạch:",
+    "options": {
+      "A": "Áp suất thủy tĩnh mao mạch ở đầu động mạch là 15 mmHg, đầu tĩnh mạch là 32 mmHg",
+      "B": "Áp suất keo mao mạch thường không đáng kể",
+      "C": "Áp suất keo tại mô kẽ là 25-28 mmHg",
+      "D": "85% dịch được lọc qua mao mạch sẽ được tái hấp thu trở lại mao mạch"
+    }
+  },
+  "sly.2.93": {
+    "question": "Mạch máu nào mang máu tĩnh mạch từ đầu và cổ đến tim?",
+    "options": {
+      "A": "Tĩnh mạch phổi",
+      "B": "Động mạch chủ ở ngực",
+      "C": "Tĩnh mạch chủ dưới",
+      "D": "Tĩnh mạch chủ trên"
+    }
+  },
+  "sly.2.94": {
+    "question": "Huyết áp lớn nhất ở đâu?",
+    "options": {
+      "A": "Cung động mạch chủ",
+      "B": "Động mạch phổi",
+      "C": "Tĩnh mạch",
+      "D": "Mao mạch"
+    }
+  },
+  "sly.2.95": {
+    "question": "Trong điều hòa hoạt động mạch, hiện tượng tự điều chỉnh và điều hòa do cơ có tác dụng:",
+    "options": {
+      "A": "Khi áp suất truyền vào mạch tăng, mạch giãn ra",
+      "B": "Khi cơ trơn thành mạch bị căng, mạch giãn ra",
+      "C": "Đáp ứng này độc lập với nội mô",
+      "D": "Đáp ứng này xảy ra ở mạch máu còn nguyên vẹn và không xảy ra ở mạch bị lấy đi nội mô"
+    }
+  },
+  "sly.2.96": {
+    "question": "Các yếu tố sau đều làm tăng huyết áp động mạch, NGOẠI TRỪ:",
+    "options": {
+      "A": "Cung lượng tim tăng",
+      "B": "Kháng lực ngoại biên tăng",
+      "C": "Tổng thể tích máu tăng",
+      "D": "Sức đàn hồi thành mạch tăng"
+    }
+  },
+  "sly.2.97": {
+    "question": "Thay đổi tần số co bóp sẽ làm thay đổi lực phát sinh co cơ tim như sau:",
+    "options": {
+      "A": "Khi khoảng cách giữa các nhịp tăng đột ngột, lực co cơ sẽ tăng",
+      "B": "Khi khoảng cách giữa các nhịp giảm đột ngột, lực co cơ sẽ giảm",
+      "C": "Thay đổi tần số co bóp không gây ảnh hưởng đến lực co cơ tim",
+      "D": "Lực co của nhịp tâm thu xảy ra sớm thường yếu do có ít Ca2+ phóng thích"
+    }
+  },
+  "sly.2.98": {
+    "question": "Thụ thể hóa học bị kích thích khi huyết áp giảm:",
+    "options": {
+      "A": "Dưới 50 mmHg",
+      "B": "Dưới 70 mmHg",
+      "C": "Dưới 80 mmHg",
+      "D": "Dưới 90 mmHg"
+    }
+  },
+  "sly.2.99": {
+    "question": "Tiền tải là gì?",
+    "options": {
+      "A": "Sức căng của sợi cơ tim khi co",
+      "B": "Sức căng của sợi cơ tim trước khi co",
+      "C": "Thể tích máu trong tâm thất trái cuối kỳ tâm trương",
+      "D": "Áp suất trong tâm thất trái cuối kỳ tâm trương"
+    }
+  },
+  "sly.2.100": {
+    "question": "Trong giai đoạn bơm máu, độ sai biệt áp suất là nhỏ nhất giữa hai nơi nào sau đây?",
+    "options": {
+      "A": "Động mạch phổi và nhĩ trái",
+      "B": "Thất phải và nhĩ phải",
+      "C": "Thất trái và động mạch chủ",
+      "D": "Thất trái và nhĩ trái"
+    }
+  }
+}

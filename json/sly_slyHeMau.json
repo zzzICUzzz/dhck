@@ -1,0 +1,993 @@
+{
+    "sly.1.1": {
+      "question": "Dựa trên kết quả nghiệm pháp huyết thanh (hồng cầu mẫu A: –, B: +, O: –) hãy cho biết bệnh nhân mang nhóm máu gì?",
+      "options": {
+        "A": "Nhóm máu A",
+        "B": "Nhóm máu B",
+        "C": "Nhóm máu AB",
+        "D": "Nhóm máu O"
+      }
+    },
+    "sly.1.2": {
+      "question": "Nhóm máu nào phù hợp để truyền cho bệnh nhân có kết quả xác định nhóm máu như sau (Anti-A: +, Anti-AB: +, Anti-B: –, Anti-D: –)?",
+      "options": {
+        "A": "Nhóm máu A-",
+        "B": "Nhóm máu B+",
+        "C": "Nhóm máu AB-",
+        "D": "Nhóm máu O-"
+      }
+    },
+    "sly.1.3": {
+      "question": "Dựa trên kết quả nghiệm pháp huyết thanh (hồng cầu mẫu A: –, B: –, O: –) hãy cho biết bệnh nhân mang nhóm máu gì?",
+      "options": {
+        "A": "Nhóm máu A",
+        "B": "Nhóm máu B",
+        "C": "Nhóm máu AB",
+        "D": "Nhóm máu O"
+      }
+    },
+    "sly.1.4": {
+      "question": "Nhóm máu nào có thể truyền an toàn cho bệnh nhân máu AB, Rh-?",
+      "options": {
+        "A": "A hoặc AB, Rh-",
+        "B": "B hoặc O, Rh+",
+        "C": "A hoặc O, Rh+",
+        "D": "O Bombay, Rh-"
+      }
+    },
+    "sly.1.5": {
+      "question": "Kết quả nào phù hợp với chẩn đoán thiếu máu thiếu sắt? (Sắt huyết thanh / Transferrin / Ferritin)",
+      "options": {
+        "A": "↑ / bình thường / ↑",
+        "B": "↓ / ↑ / ↓",
+        "C": "↓ / ↓ / ↑",
+        "D": "bình thường / bình thường / ↓"
+      }
+    },
+    "sly.1.6": {
+      "question": "Yếu tố nào tham gia kiểm soát lượng sắt được hấp thu vào cơ thể?",
+      "options": {
+        "A": "Ferritin",
+        "B": "Erythropoietin",
+        "C": "Hepcidin",
+        "D": "Transferrin"
+      }
+    },
+    "sly.1.7": {
+      "question": "Tiểu cầu gắn với yếu tố von Willebrand nhờ phân tử nào?",
+      "options": {
+        "A": "Acid sialic",
+        "B": "Glycoprotein Ib",
+        "C": "Glycoprotein IIa",
+        "D": "Phospholipid màng"
+      }
+    },
+    "sly.1.8": {
+      "question": "Yếu tố đông máu nào KHÔNG do gan sản xuất?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      }
+    },
+    "sly.1.9": {
+      "question": "Hãy xác định các điểm trong biểu đồ phù hợp với trường hợp một người có bệnh lý đa hồng cầu nguyên phát (bệnh Vaquez), biết rằng lượng Erythropoietin (EPO) ở người bình thường xấp xỉ 10.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      }
+    },
+    "sly.1.10": {
+      "question": "Bệnh Hemophilia A do thiếu hụt yếu tố đông máu nào?",
+      "options": {
+        "A": "VII",
+        "B": "VIII",
+        "C": "IX",
+        "D": "XI"
+      }
+    },
+    "sly.1.11": {
+      "question": "Hồng cầu người hình đĩa lõm hai mặt KHÔNG liên quan đến đặc tính nào sau đây?",
+      "options": {
+        "A": "Hóa hướng động",
+        "B": "Tăng diện tích tiếp xúc",
+        "C": "Tăng tốc độ khuếch tán khí",
+        "D": "Biến dạng dễ dàng"
+      }
+    },
+    "sly.1.12": {
+      "question": "Yếu tố nào KHÔNG làm tăng số lượng hồng cầu?",
+      "options": {
+        "A": "Lao động",
+        "B": "Áp suất khí quyển là 760 mmHg",
+        "C": "Sống ở vùng núi cao",
+        "D": "Trẻ sơ sinh"
+      }
+    },
+    "sly.1.13": {
+      "question": "Sự thay đổi tốc độ lắng máu phụ thuộc vào các chất nào?",
+      "options": {
+        "A": "Acid sialic",
+        "B": "Cholesterol",
+        "C": "Glycoprotein",
+        "D": "Phospholipid"
+      }
+    },
+    "sly.1.14": {
+      "question": "Bệnh lý nào không gây tăng số lượng hồng cầu?",
+      "options": {
+        "A": "Bệnh đa hồng cầu",
+        "B": "Bệnh xuất huyết",
+        "C": "Mất nước nhiều do tiêu chảy, nôn ói",
+        "D": "Suy tim lâu dài"
+      }
+    },
+    "sly.1.15": {
+      "question": "Phản ứng kết hợp giữa Hb và O₂ KHÔNG mang đặc điểm gì?",
+      "options": {
+        "A": "Đây là phản ứng oxy hóa",
+        "B": "Một phân tử Hb có thể gắn với 4 phân tử O₂",
+        "C": "O₂ chỉ gắn lỏng lẻo với nguyên tử Fe²+",
+        "D": "O₂ được gắn với Fe²+ trong thành phần heme"
+      }
+    },
+    "sly.1.16": {
+      "question": "Nhận định nào SAI khi nói về chức năng hô hấp của hemoglobin?",
+      "options": {
+        "A": "Globin vận chuyển CO₂",
+        "B": "Khi CO gắn với globin làm Hb không vận chuyển được O₂",
+        "C": "Khi Fe²+ chuyển thành Fe³+, Hb không vận chuyển được O₂",
+        "D": "Một gam Hb gắn được 1,34 mL O₂"
+      }
+    },
+    "sly.1.17": {
+      "question": "Trong trường hợp ngộ độc CO, người ta cho bệnh nhân thở hỗn hợp khí 95% O₂ và 5% CO₂, để làm gì?",
+      "options": {
+        "A": "Kích thích hô hấp",
+        "B": "Phân ly HbCO",
+        "C": "Tăng áp lực của O₂ với Hb",
+        "D": "A và B đúng"
+      }
+    },
+    "sly.1.18": {
+      "question": "Hemoglobin ở người trưởng thành bình thường thuộc loại nào?",
+      "options": {
+        "A": "Hb A",
+        "B": "Hb C",
+        "C": "Hb E",
+        "D": "Hb S"
+      }
+    },
+    "sly.1.19": {
+      "question": "Yếu tố nào KHÔNG làm giảm ái lực của hemoglobin với oxy?",
+      "options": {
+        "A": "Chất 2,3-DPG giảm",
+        "B": "Nhiệt độ tăng",
+        "C": "pH giảm",
+        "D": "Phân áp CO₂ tăng"
+      }
+    },
+    "sly.1.20": {
+      "question": "Cơ chế nào gây tình trạng thiếu máu ác tính?",
+      "options": {
+        "A": "Cơ thể không hấp thu được B₁₂",
+        "B": "Giảm bài tiết erythropoietin từ thận",
+        "C": "Giảm bài tiết yếu tố nội tại từ dạ dày",
+        "D": "A và C đúng"
+      }
+    },
+    "sly.1.21": {
+      "question": "Thiếu máu nhược sắc là do nguyên nhân nào?",
+      "options": {
+        "A": "Thiếu vitamin B₁₂",
+        "B": "Thiếu acid folic",
+        "C": "Thiếu chất sắt",
+        "D": "Thiếu protein"
+      }
+    },
+    "sly.1.22": {
+      "question": "Chất sắt dự thừa trong máu sẽ được dự trữ tại gan dưới dạng nào?",
+      "options": {
+        "A": "Apoferritin",
+        "B": "Fe³+",
+        "C": "Hemosiderin",
+        "D": "Transferrin"
+      }
+    },
+    "sly.1.23": {
+      "question": "Một bệnh nhân nam, 65 tuổi, chẩn đoán đa hồng cầu. Việc làm giảm hematocrit máu có ích gì cho bệnh nhân này?",
+      "options": {
+        "A": "Giảm cung lượng tim",
+        "B": "Tăng lượng oxy trong động mạch",
+        "C": "Tăng độ bão hòa oxy trong máu động mạch",
+        "D": "Giảm độ nhớt của máu"
+      }
+    },
+    "sly.1.24": {
+      "question": "Cobalamin (vitamin B₁₂) hấp thu từ tiêu hóa sẽ được dự trữ ở nơi nào trong cơ thể?",
+      "options": {
+        "A": "Gan",
+        "B": "Lách",
+        "C": "Mô",
+        "D": "Tủy xương"
+      }
+    },
+    "sly.1.25": {
+      "question": "Sắt được hấp thu chủ yếu ở vị trí nào tại ống tiêu hóa?",
+      "options": {
+        "A": "Đại tràng",
+        "B": "Hồi tràng",
+        "C": "Hỗng tràng",
+        "D": "Tá tràng"
+      }
+    },
+    "sly.1.26": {
+      "question": "Chất nào ít cần thiết cho sự tạo hồng cầu?",
+      "options": {
+        "A": "Chất đồng",
+        "B": "Chất sắt",
+        "C": "Thymidin",
+        "D": "Vitamin B₁₂"
+      }
+    },
+    "sly.1.27": {
+      "question": "Khi dự trữ máu lâu trên một tháng, yếu tố nào sẽ thay đổi?",
+      "options": {
+        "A": "Áp suất keo",
+        "B": "Áp suất thẩm thấu",
+        "C": "Độ nhớt",
+        "D": "Thành phần protein"
+      }
+    },
+    "sly.1.28": {
+      "question": "Trong trường hợp viêm mạn tính, tế bào nào sẽ tăng?",
+      "options": {
+        "A": "Basophil",
+        "B": "Eosinophil",
+        "C": "Monocyte",
+        "D": "Neutrophil"
+      }
+    },
+    "sly.1.29": {
+      "question": "Đặc tính nào KHÔNG PHẢI của bạch cầu?",
+      "options": {
+        "A": "Chuyển động bằng chân giả",
+        "B": "Hóa ứng động",
+        "C": "Tạo áp suất keo",
+        "D": "Thực bào"
+      }
+    },
+    "sly.1.30": {
+      "question": "Neutrophil tăng trong trường hợp nào?",
+      "options": {
+        "A": "Bị chấn thương tâm lý",
+        "B": "Cơ thể bị nhiễm ký sinh trùng",
+        "C": "Dùng thuốc ACTH",
+        "D": "Tiêm các protein lạ vào cơ thể"
+      }
+    },
+    "sly.1.31": {
+      "question": "Tế bào nào KHÔNG tăng khi có hiện tượng viêm?",
+      "options": {
+        "A": "Basophil",
+        "B": "Mô bào",
+        "C": "Monocyte",
+        "D": "Neutrophil"
+      }
+    },
+    "sly.1.32": {
+      "question": "Bào tương của bạch cầu ưa kiềm KHÔNG chứa các loại hóa chất?",
+      "options": {
+        "A": "Bradykinin",
+        "B": "Heparin",
+        "C": "Plasminogen",
+        "D": "Serotonin"
+      }
+    },
+    "sly.1.33": {
+      "question": "Cặp tế bào nào có liên quan đến tình trạng dị ứng?",
+      "options": {
+        "A": "Basophil và monocyte",
+        "B": "Eosinophil và basophil",
+        "C": "Neutrophil và basophil",
+        "D": "Neutrophil và eosinophil"
+      }
+    },
+    "sly.1.34": {
+      "question": "Khi cơ thể bị nhiễm ký sinh trùng, tế bào nào sẽ tăng?",
+      "options": {
+        "A": "Basophil",
+        "B": "Eosinophil",
+        "C": "Monocyte",
+        "D": "Neutrophil"
+      }
+    },
+    "sly.1.35": {
+      "question": "Plasminogen được giải phóng từ bạch cầu nào?",
+      "options": {
+        "A": "Basophil",
+        "B": "Eosinophil",
+        "C": "Lymphocyte",
+        "D": "Neutrophil"
+      }
+    },
+    "sly.1.36": {
+      "question": "Eosinophil thường tập trung nhiều ở nơi nào?",
+      "options": {
+        "A": "Hạch bạch huyết",
+        "B": "Niêm mạc đường tiêu hóa",
+        "C": "Tổ chức phổi",
+        "D": "B và C đúng"
+      }
+    },
+    "sly.1.37": {
+      "question": "Tiểu cầu sẽ không kết dính với lớp collagen nếu thiếu chất nào?",
+      "options": {
+        "A": "Yếu tố Willebrand",
+        "B": "Phospholipid",
+        "C": "ADP",
+        "D": "Thromboplastin"
+      }
+    },
+    "sly.1.38": {
+      "question": "Sự co thắt mạch máu khi thành mạch bị tổn thương có tác dụng nào?",
+      "options": {
+        "A": "Giảm bớt lượng máu mất",
+        "B": "Hoạt hóa yếu tố gây đông máu",
+        "C": "Tăng giải phóng yếu tố đông máu",
+        "D": "Ức chế tác dụng chất chống đông"
+      }
+    },
+    "sly.1.39": {
+      "question": "Hiện tượng co thắt mạch khi thành mạch bị tổn thương là do quá trình nào?",
+      "options": {
+        "A": "Kích thích hệ đối giao cảm",
+        "B": "Phản xạ thần kinh",
+        "C": "Sự co thắt cơ tại chỗ",
+        "D": "B và C đúng"
+      }
+    },
+    "sly.1.40": {
+      "question": "Phản xạ thần kinh gây co mạch khi bị mạch máu tổn thương bắt nguồn từ nơi nào?",
+      "options": {
+        "A": "Các mạch máu tổn thương",
+        "B": "Các mô lân cận vùng mạch máu tổn thương",
+        "C": "Phần da phía trên mạch máu bị tổn thương",
+        "D": "B và C đúng"
+      }
+    },
+    "sly.1.41": {
+      "question": "Thời gian chảy máu (TS) không thay đổi trong trường hợp nào?",
+      "options": {
+        "A": "Chất lượng tiểu cầu giảm",
+        "B": "Số lượng tiểu cầu giảm",
+        "C": "Thành mạch giảm khả năng đàn hồi",
+        "D": "Thiếu các yếu tố đông máu"
+      }
+    },
+    "sly.1.42": {
+      "question": "Điều kiện nào cần thiết để thành mạch co thắt tốt?",
+      "options": {
+        "A": "Đàn hồi tốt",
+        "B": "Chuyển chở chất đông",
+        "C": "Chuyển chở cholesterol",
+        "D": "Bảo vệ cơ thể"
+      }
+    },
+    "sly.1.43": {
+      "question": "Chất nào giúp mạch máu co thắt mạnh hơn?",
+      "options": {
+        "A": "ADP",
+        "B": "Adrenalin",
+        "C": "Serotonin",
+        "D": "B và C đúng"
+      }
+    },
+    "sly.1.44": {
+      "question": "Sự gia tăng tính bám dính của tiểu cầu vào thành mạch tổn thương phụ thuộc vào yếu tố nào?",
+      "options": {
+        "A": "ADP",
+        "B": "ATP",
+        "C": "Độ nhớt của máu",
+        "D": "Vitamin K"
+      }
+    },
+    "sly.1.45": {
+      "question": "Câu nào KHÔNG ĐÚNG với quá trình thành lập nút chặn tiểu cầu?",
+      "options": {
+        "A": "ADP làm tăng tính bám dính của các tiểu cầu, tạo nên nút chặn tiểu cầu",
+        "B": "Tiểu cầu bám dính vào lớp collagen",
+        "C": "Tiểu cầu giải phóng ADP",
+        "D": "Tiểu cầu phát động quá trình đông máu"
+      }
+    },
+    "sly.1.46": {
+      "question": "Các nốt xuất huyết xuất hiện nhiều trên cơ thể do nguyên nhân nào?",
+      "options": {
+        "A": "Chất lượng tiểu cầu giảm",
+        "B": "Phospholipid tiểu cầu giảm",
+        "C": "Số lượng tiểu cầu giảm",
+        "D": "B và C đúng"
+      }
+    },
+    "sly.1.47": {
+      "question": "Vitamin K cần thiết cho quá trình tổng hợp yếu tố đông máu nào?",
+      "options": {
+        "A": "Fibrinogen",
+        "B": "Prothrombin",
+        "C": "Tất cả các yếu tố gây đông máu",
+        "D": "Yếu tố Hageman"
+      }
+    },
+    "sly.1.48": {
+      "question": "Các yếu tố đông máu nào trực tiếp tham gia quá trình thành lập phức hợp men prothrombinase ngoại sinh?",
+      "options": {
+        "A": "I, III, V, VII, X",
+        "B": "II, III, IV, V, VII",
+        "C": "II, IV, VII, IX, X",
+        "D": "III, IV, V, VII, X"
+      }
+    },
+    "sly.1.49": {
+      "question": "Các yếu tố đông máu nào trực tiếp tham gia thành lập phức hợp men prothrombinase nội sinh?",
+      "options": {
+        "A": "IV, VIII, X, XI, XII",
+        "B": "IX, VIII, IV, X, V",
+        "C": "V, VIII, IX, X, XI",
+        "D": "X, IX, VII, V, VIII"
+      }
+    },
+    "sly.1.50": {
+      "question": "Yếu tố tham gia giai đoạn thành lập thrombin từ prothrombin?",
+      "options": {
+        "A": "Phospholipid và Ca²⁺",
+        "B": "Prothrombinase và Ca²⁺",
+        "C": "Prothrombinase, vitamin K và Ca²⁺",
+        "D": "Thromboplastin và Ca²⁺"
+      }
+    },
+    "sly.1.51": {
+      "question": "Xét nghiệm TCK được dùng để khảo sát quá trình nào?",
+      "options": {
+        "A": "Cầm máu ban đầu",
+        "B": "Đông máu ngoại sinh",
+        "C": "Đông máu nội sinh"
+      }
+    },
+    "sly.1.52": {
+      "question": "Hiện tượng co cục máu có tác dụng nào?",
+      "options": {
+        "A": "Làm tăng sự co thắt mạch máu",
+        "B": "Làm vết thương mau lành",
+        "C": "Ngăn chặn sự chảy máu",
+        "D": "Ngăn chặn sự hình thành huyết khối"
+      }
+    },
+    "sly.1.53": {
+      "question": "Antithrombin tham gia vào quá trình nào để thực hiện tác dụng chống đông?",
+      "options": {
+        "A": "Biến đổi fibrinogen thành fibrin",
+        "B": "Biến prothrombin thành thrombin",
+        "C": "Kích thích các chất chống đông",
+        "D": "Ức chế tạo prothrombinase"
+      }
+    },
+    "sly.1.54": {
+      "question": "Khả năng và tốc độ co cục máu KHÔNG phụ thuộc vào yếu tố nào?",
+      "options": {
+        "A": "Chất lượng tiểu cầu",
+        "B": "Lượng fibrinogen",
+        "C": "Lượng prothrombin",
+        "D": "Men retractozym"
+      }
+    },
+    "sly.1.55": {
+      "question": "Chất nào KHÔNG làm tan cục máu đông?",
+      "options": {
+        "A": "Plasminogen",
+        "B": "Retractozym",
+        "C": "Streptokinase",
+        "D": "Urokinase"
+      }
+    },
+    "sly.1.56": {
+      "question": "Dưỡng bào (mast cell) và basophil sản xuất chất chống đông nào?",
+      "options": {
+        "A": "Antithrombin",
+        "B": "Antithromboplastin",
+        "C": "Heparin",
+        "D": "Serotonin"
+      }
+    },
+    "sly.1.57": {
+      "question": "Natri citrate có tác dụng chống đông thông qua cơ chế nào?",
+      "options": {
+        "A": "Ngăn cản tác dụng của Ca²⁺",
+        "B": "Ngăn cản thành lập fibrin",
+        "C": "Ngăn cản thành lập thrombin",
+        "D": "Ức chế sự tạo thành phức hợp men prothrombinase"
+      }
+    },
+    "sly.1.58": {
+      "question": "Huyết thanh tươi gây đông máu vì chứa nhiều chất nào?",
+      "options": {
+        "A": "Dicoumarin",
+        "B": "Fibrinogen",
+        "C": "Prothrombin",
+        "D": "Thromboplastin"
+      }
+    },
+    "sly.1.59": {
+      "question": "Cặp kháng nguyên và/ hoặc kháng thể phù hợp với nhóm máu A?",
+      "options": {
+        "A": "Kháng nguyên A và B",
+        "B": "Kháng nguyên A và anti-B",
+        "C": "Kháng nguyên B và anti-A",
+        "D": "Kháng thể anti-A và anti-B"
+      }
+    },
+    "sly.1.60": {
+      "question": "Cặp kháng nguyên và/ hoặc kháng thể phù hợp với nhóm máu B?",
+      "options": {
+        "A": "Kháng nguyên A và B",
+        "B": "Kháng nguyên A và anti-B",
+        "C": "Kháng nguyên B và anti-A",
+        "D": "Kháng thể anti-A và anti-B"
+      }
+    },
+    "sly.1.61": {
+      "question": "Cặp kháng nguyên và/ hoặc kháng thể phù hợp với nhóm máu AB?",
+      "options": {
+        "A": "Kháng nguyên A và B",
+        "B": "Kháng nguyên A và anti-B",
+        "C": "Kháng nguyên B và anti-A",
+        "D": "Kháng thể anti-A và anti-B"
+      }
+    },
+    "sly.1.62": {
+      "question": "Cặp kháng nguyên và/ hoặc kháng thể phù hợp với nhóm máu O?",
+      "options": {
+        "A": "Kháng nguyên A và B",
+        "B": "Kháng nguyên A và anti-B",
+        "C": "Kháng nguyên B và anti-A",
+        "D": "Kháng thể anti-A và anti-B"
+      }
+    },
+    "sly.1.63": {
+      "question": "Cặp kháng nguyên và/ hoặc kháng thể phù hợp với nhóm máu Rh+?",
+      "options": {
+        "A": "Kháng nguyên A và anti-B",
+        "B": "Kháng nguyên B và anti-A",
+        "C": "Kháng nguyên Rh",
+        "D": "Kháng thể anti-A và anti-B"
+      }
+    },
+    "sly.1.64": {
+      "question": "Mỗi phân tử Hemoglobin có khả năng vận chuyển bao nhiêu nguyên tử oxy?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "16"
+      }
+    },
+    "sly.1.65": {
+      "question": "Nhận định nào đúng khi nói về bạch cầu trung tính?",
+      "options": {
+        "A": "Không có nhân",
+        "B": "Có mang haemoglobin",
+        "C": "Tham gia bảo vệ cơ thể",
+        "D": "Đại thực bào là một dạng của bạch cầu trung tính"
+      }
+    },
+    "sly.1.66": {
+      "question": "Chức năng nào là của Globulin α và β?",
+      "options": {
+        "A": "Chuyển chở chất sắt",
+        "B": "Chuyển chở chất đông",
+        "C": "Chuyển chở cholesterol",
+        "D": "Bảo vệ cơ thể"
+      }
+    },
+    "sly.1.67": {
+      "question": "Ceruloplasmin có chức năng gì?",
+      "options": {
+        "A": "Chuyển chở chất sắt",
+        "B": "Chuyển chở chất đồng",
+        "C": "Chuyển chở phospholipid",
+        "D": "Bảo vệ cơ thể"
+      }
+    },
+    "sly.1.68": {
+      "question": "Chức năng nào là của Transferrin?",
+      "options": {
+        "A": "Chuyển chở chất sắt",
+        "B": "Chuyển chở chất đông",
+        "C": "Chuyển chở cholesterol",
+        "D": "Bảo vệ cơ thể"
+      }
+    },
+    "sly.1.69": {
+      "question": "Chức năng nào là của nhóm γ globulin?",
+      "options": {
+        "A": "Chuyển chở chất đông",
+        "B": "Chuyển chở cholesterol",
+        "C": "Chuyển chở phospholipid",
+        "D": "Bảo vệ cơ thể"
+      }
+    },
+    "sly.1.70": {
+      "question": "Chức năng nào là của albumin?",
+      "options": {
+        "A": "Chuyển chở chất sắt",
+        "B": "Chuyển chở chất đông",
+        "C": "Chuyển chở cholesterol",
+        "D": "Bảo vệ cơ thể"
+      }
+    },
+    "sly.1.71": {
+      "question": "Chức năng vận chuyển lipid từ thức ăn vào cơ thể thuộc thành phần lipid huyết tương nào?",
+      "options": {
+        "A": "α-lipoprotein",
+        "B": "β-lipoprotein",
+        "C": "Chylomicron",
+        "D": "Cholesterol"
+      }
+    },
+    "sly.1.72": {
+      "question": "Chức năng vận chuyển lipid từ các tổ chức về gan thuộc thành phần lipid huyết tương nào?",
+      "options": {
+        "A": "α-lipoprotein",
+        "B": "β-lipoprotein",
+        "C": "Chylomicron",
+        "D": "Cholesterol"
+      }
+    },
+    "sly.1.73": {
+      "question": "Chức năng nào là của thành phần tiền β-lipoprotein huyết tương?",
+      "options": {
+        "A": "Vận chuyển lipid từ tổ chức về gan",
+        "B": "Vận chuyển axit béo tới các mô",
+        "C": "Vận chuyển cholesterol và caroten",
+        "D": "Tổng hợp hormone vỏ thượng thận và sinh dục"
+      }
+    },
+    "sly.1.74": {
+      "question": "Khi cần lấy máu để làm xét nghiệm ADN, thành phần nào sẽ được dùng để phân tích?",
+      "options": {
+        "A": "Bạch cầu",
+        "B": "Hồng cầu",
+        "C": "Tiểu cầu",
+        "D": "Lipid máu"
+      }
+    },
+    "sly.1.75": {
+      "question": "Nhận định nào đúng khi nói về bạch cầu đơn nhân?",
+      "options": {
+        "A": "Có số lượng ít hơn bạch cầu ưa acid",
+        "B": "Là nguồn gốc của các mô bào",
+        "C": "Có chứa histamine trong bào tương",
+        "D": "Tham gia cân bằng hệ thống đông máu và chống đông"
+      }
+    },
+        "sly.1.76": {
+          "question": "Một bệnh nhân đến khám vì mệt mỏi kéo dài, lo lắng, ăn uống kém, hoa mắt chóng mặt, mất tập trung. Kết quả công thức máu: Hb giảm, hồng cầu nhỏ, nhược sắc. Nguyên nhân nào gây nên tình trạng này?",
+          "options": {
+            "A": "Thiếu vitamin B₁₂",
+            "B": "Suy tủy",
+            "C": "Thiếu sắt",
+            "D": "Thiếu erythropoietin"
+          }
+        },
+        "sly.1.77": {
+          "question": "Kháng nguyên màng hồng cầu của người mang nhóm máu O có đặc điểm gì?",
+          "options": {
+            "A": "Có bản chất là oligosaccharide",
+            "B": "Có sự hiện diện của phân tử Galactose",
+            "C": "Có sự hiện diện của phân tử N-acetyl-galactosamine",
+            "D": "Dễ gây ngưng kết với kháng thể có sẵn trong các nhóm máu khác"
+          }
+        },
+        "sly.1.78": {
+          "question": "Các yếu tố nào sau đây KHÔNG cần thiết cho quá trình hình thành cục máu đông? (1) Vitamin K, (2) Canxi, (3) Prostacyclin, (4) Plasmin, (5) Fibrinogen",
+          "options": {
+            "A": "1, 2 và 5",
+            "B": "3, 4 và 5",
+            "C": "4 và 5",
+            "D": "1, 2 và 3"
+          }
+        },
+        "sly.1.79": {
+          "question": "Người có nhóm máu A, Rh- có thể nhận máu từ những người thuộc nhóm máu nào?",
+          "options": {
+            "A": "Nhóm máu A, Rh+",
+            "B": "Nhóm máu AB, Rh-",
+            "C": "Nhóm máu O, Rh-",
+            "D": "Nhóm máu O, Rh+"
+          }
+        },
+        "sly.1.80": {
+          "question": "Vitamin K cần thiết cho quá trình tổng hợp yếu tố đông máu nào?",
+          "options": {
+            "A": "I, V, X, XII",
+            "B": "II, V, X",
+            "C": "II, VIII, X",
+            "D": "I, III, V"
+          }
+        },
+        "sly.1.81": {
+          "question": "Yếu tố nào làm tăng ái lực của hemoglobin với oxy?",
+          "options": {
+            "A": "Nhiệt độ tăng",
+            "B": "pH giảm",
+            "C": "HbF (hemoglobin bào thai)",
+            "D": "Hợp chất phosphat tăng"
+          }
+        },
+        "sly.1.82": {
+          "question": "Hồng cầu trưởng thành KHÔNG mang đặc điểm nào?",
+          "options": {
+            "A": "Hình đĩa lõm hai mặt",
+            "B": "Có nhân",
+            "C": "Có chứa hemoglobin",
+            "D": "Vận chuyển O₂ và CO₂"
+          }
+        },
+        "sly.1.83": {
+          "question": "Một người nhóm máu AB, Rh- có thể nhận máu từ nhóm máu nào sau đây?",
+          "options": {
+            "A": "A, Rh+",
+            "B": "AB, Rh+",
+            "C": "B, Rh-",
+            "D": "O, Rh+"
+          }
+        },
+        "sly.1.84": {
+          "question": "Một người nhóm máu AB, Rh+, truyền máu lần đầu, có thể nhận máu loại nào?",
+          "options": {
+            "A": "Toàn phần nhóm A, Rh+",
+            "B": "Toàn phần nhóm B, Rh+",
+            "C": "Toàn phần nhóm AB, Rh+",
+            "D": "Tất cả đều đúng"
+          }
+        },
+        "sly.1.85": {
+          "question": "Xét nghiệm TCK được dùng để khảo sát cơ chế đông máu liên quan đến các yếu tố nào?",
+          "options": {
+            "A": "IV, VIII, IX, XI, XII",
+            "B": "V, VIII, XII, XIII",
+            "C": "V, VII, X",
+            "D": "VIII, IX, XI, XII"
+          }
+        },
+        "sly.1.86": {
+          "question": "Nguyên nhân nào KHÔNG gây giảm tiểu cầu?",
+          "options": {
+            "A": "Giảm sản xuất trong tủy xương",
+            "B": "Tăng tiêu hao và phá hủy tiểu cầu",
+            "C": "Tăng bắt giữ tiểu cầu tại lách",
+            "D": "Tăng bắt giữ tiểu cầu tại gan"
+          }
+        },
+        "sly.1.87": {
+          "question": "Câu 87: Bệnh nhân ói ra máu, Hb 8 g/dL, nghiệm pháp huyết thanh (Anti-A: +, Anti-AB: +, Anti-B: –, Anti-D: –). Nhóm máu bệnh nhân là?",
+          "options": {
+            "A": "A-",
+            "B": "B+",
+            "C": "AB-",
+            "D": "O+"
+          }
+        },
+        "sly.1.88": {
+          "question": "Câu 88: Bệnh nhân trên có chỉ định truyền máu, chọn nhóm máu phù hợp để truyền:",
+          "options": {
+            "A": "A+",
+            "B": "B-",
+            "C": "AB-",
+            "D": "O-"
+          }
+        },
+        "sly.1.89": {
+          "question": "Yếu tố nào KHÔNG liên quan đến giảm tiểu cầu?",
+          "options": {
+            "A": "Hóa trị ung thư",
+            "B": "Nhiễm HIV",
+            "C": "Bệnh lupus",
+            "D": "Hẹp van tim"
+          }
+        },
+        "sly.1.90": {
+          "question": "Tình huống nào KHÔNG có chỉ định truyền tiểu cầu?",
+          "options": {
+            "A": "TC < 10 000/mm³",
+            "B": "Chuẩn bị mổ lấy thai",
+            "C": "Xuất huyết não-màng não",
+            "D": "Tiểu dầm"
+          }
+        },
+        "sly.1.91": {
+          "question": "Nhiễm siêu vi nào ít liên quan đến giảm tiểu cầu?",
+          "options": {
+            "A": "Viêm gan siêu vi E",
+            "B": "Viêm gan siêu vi B",
+            "C": "Viêm gan siêu vi C",
+            "D": "HIV"
+          }
+        },
+        "sly.1.92": {
+          "question": "Nguyên nhân nào KHÔNG liên quan đến giảm tiểu cầu?",
+          "options": {
+            "A": "Thiếu đồng",
+            "B": "Nhiễm trùng huyết",
+            "C": "Thuốc",
+            "D": "Hội chứng urê huyết cao"
+          }
+        },
+        "sly.1.93": {
+          "question": "Chẩn đoán hội chứng thiếu máu dựa trên đặc điểm nào?",
+          "options": {
+            "A": "Mệt mỏi mạn tính",
+            "B": "Khó thở khi gắng sức",
+            "C": "Chóng mặt khi thay đổi tư thế",
+            "D": "Giảm số lượng hồng cầu và/hoặc hemoglobin"
+          }
+        },
+        "sly.1.94": {
+          "question": "Chỉ số nào phân biệt thiếu máu hồng cầu to, nhỏ hay đẳng bào?",
+          "options": {
+            "A": "Hct",
+            "B": "RBC",
+            "C": "MCV",
+            "D": "MCHC"
+          }
+        },
+        "sly.1.95": {
+          "question": "Chỉ số nào phân biệt thiếu máu hồng cầu nhược sắc hay đẳng sắc?",
+          "options": {
+            "A": "Hct",
+            "B": "RBC",
+            "C": "MCV",
+            "D": "MCHC"
+          }
+        },
+        "sly.1.96": {
+          "question": "Thiếu máu hồng cầu to có thể gặp trong bệnh lý nào?",
+          "options": {
+            "A": "Thiếu vitamin B₁₂",
+            "B": "Thiếu máu thiếu sắt",
+            "C": "Thalassemia",
+            "D": "Thiếu máu do xuất huyết"
+          }
+        },
+        "sly.1.97": {
+          "question": "Nhận định nào ĐÚNG khi nói về Hemoglobin?",
+          "options": {
+            "A": "Một phân tử Hb chứa một nguyên tử sắt",
+            "B": "Bị tiêu hủy bởi đại thực bào",
+            "C": "Khác nhau ở trẻ em và người lớn",
+            "D": "Nồng độ Hb khi mới sinh thấp hơn khi trưởng thành"
+          }
+        },
+        "sly.1.98": {
+          "question": "Câu nào KHÔNG ĐÚNG khi nói về sắt huyết thanh?",
+          "options": {
+            "A": "Giảm trong các bệnh viêm nhiễm",
+            "B": "Tăng khi quá tải sắt",
+            "C": "Thay đổi theo nhịp ngày–đêm",
+            "D": "Được vận chuyển trong huyết tương bởi ferritin"
+          }
+        },
+        "sly.1.99": {
+          "question": "Nhận định nào SAI khi nói về Hemoglobin?",
+          "options": {
+            "A": "Tổng hợp bởi enzyme Δ-aminolaevulinic acid synthetase",
+            "B": "Quá trình tổng hợp cần khoảng 8 g protein mỗi ngày",
+            "C": "Mỗi gram Hb gắn với 20 mL O₂",
+            "D": "Tiểu đạm"
+          }
+        },
+        "sly.1.100": {
+          "question": "Nguyên nhân nào làm thay đổi kích thước hồng cầu nhỏ?",
+          "options": {
+            "A": "Rượu",
+            "B": "Bệnh thận",
+            "C": "α-Thalassaemia",
+            "D": "Tăng hồng cầu lưới"
+          }
+        },
+        "sly.1.101": {
+          "question": "Hồng cầu ở người trưởng thành được sản xuất chủ yếu từ nơi nào?",
+          "options": {
+            "A": "Gan",
+            "B": "Hạch",
+            "C": "Xương chậu",
+            "D": "Xương sườn"
+          }
+        },
+        "sly.1.102": {
+          "question": "Tỷ trọng của máu phụ thuộc vào yếu tố nào?",
+          "options": {
+            "A": "Nồng độ Na⁺ và Cl⁻",
+            "B": "Nồng độ protein và lượng huyết cầu",
+            "C": "Số lượng bạch cầu",
+            "D": "Số lượng hồng cầu"
+          }
+        },
+        "sly.1.103": {
+          "question": "Độ nhớt của máu phụ thuộc vào yếu tố nào?",
+          "options": {
+            "A": "Nồng độ các yếu tố gây đông máu và số lượng tiểu cầu",
+            "B": "Nồng độ phospholipid và lipoprotein",
+            "C": "Nồng độ protein và các chất điện giải",
+            "D": "Nồng độ protein và số lượng huyết cầu"
+          }
+        },
+        "sly.1.104": {
+          "question": "Áp suất thẩm thấu của máu phụ thuộc vào yếu tố nào?",
+          "options": {
+            "A": "Nồng độ albumin và lipoprotein",
+            "B": "Nồng độ Cl⁻ và calcium",
+            "C": "Nồng độ NaCl và calcium",
+            "D": "Nồng độ NaCl và protein hòa tan"
+          }
+        },
+        "sly.1.105": {
+          "question": "Chức năng nào KHÔNG phải của Protid huyết tương?",
+          "options": {
+            "A": "Bảo vệ cơ thể",
+            "B": "Đông máu",
+            "C": "Tạo áp suất keo của máu",
+            "D": "Vận chuyển oxy"
+          }
+        },
+        "sly.1.106": {
+          "question": "Độ pH của máu phụ thuộc chủ yếu vào ion nào?",
+          "options": {
+            "A": "Cl⁻",
+            "B": "HCO₃⁻ và H⁺",
+            "C": "HPO₄²⁻",
+            "D": "Na⁺"
+          }
+        },
+        "sly.1.107": {
+          "question": "Hematocrit là tỉ lệ phần trăm giữa hai đại lượng nào?",
+          "options": {
+            "A": "Tổng thể tích hồng cầu và thể tích bạch cầu cộng tiểu cầu",
+            "B": "Tổng thể tích hồng cầu và thể tích máu toàn phần",
+            "C": "Tổng thể tích hồng cầu và thể tích huyết tương",
+            "D": "Tổng thể tích hồng cầu và thể tích máu toàn phần"
+          }
+        },
+        "sly.1.108": {
+          "question": "Chức năng miễn dịch của hồng cầu KHÔNG thực hiện nhờ đặc tính nào?",
+          "options": {
+            "A": "Bám vào lympho T, giao nộp kháng nguyên cho tế bào này",
+            "B": "Kháng nguyên trên màng hồng cầu đặc trưng nhóm máu",
+            "C": "Hoạt động enzyme bề mặt",
+            "D": "Giữ phức hợp kháng nguyên–kháng thể–bổ thể, tạo thuận lợi cho thực bào"
+          }
+        },
+        "sly.1.109": {
+          "question": "Áp suất keo của máu được tạo nên bởi chất nào?",
+          "options": {
+            "A": "Albumin",
+            "B": "Globulin",
+            "C": "Lipoprotein",
+            "D": "Phospholipid"
+          }
+        },
+        "sly.1.110": {
+          "question": "Chất nào KHÔNG phải là lipoprotein huyết tương?",
+          "options": {
+            "A": "α-lipoprotein (HDL)",
+            "B": "β-lipoprotein (LDL)",
+            "C": "Lycopene",
+            "D": "Lipoprotein (IDL)"
+          }
+        }
+  }
+  
