@@ -1,0 +1,1525 @@
+{
+  "sly.6.1": {
+    "question": "Cơ quan nào vừa có khả năng thu nhận glucose sau bữa ăn, vừa có khả năng phóng thích glucose vào máu lúc hạ đường huyết?",
+    "options": {
+      "A": "Mô mỡ",
+      "B": "Ruột non",
+      "C": "Mô gan",
+      "D": "Cơ bắp"
+    }
+  },
+  "sly.6.2": {
+    "question": "Iodine (I⁻) là nguồn nguyên liệu quan trọng cho tổng hợp hormon giáp. Ion này được đưa vào tế bào biểu mô nang giáp bằng hình thức nào sau đây?",
+    "options": {
+      "A": "Vận chuyển tích cực nguyên phát",
+      "B": "Vận chuyển tích cực thứ phát",
+      "C": "Khuếch tán đơn giản",
+      "D": "Khuếch tán được tạo thuận lợi"
+    }
+  },
+  "sly.6.3": {
+    "question": "Hãy cho biết các phản ứng bên dưới được xúc tác bởi enzyme nào?",
+    "options": {
+      "A": "Thyroglobulin synthase",
+      "B": "Thyroperoxidase",
+      "C": "5'-deiodinase",
+      "D": "Tyrosine phosphorylase"
+    }
+  },
+  "sly.6.4": {
+    "question": "Chất nào sau đây có thể được xem là dạng dự trữ của hormon giáp khi lưu hành trong huyết tương?",
+    "options": {
+      "A": "TBG",
+      "B": "Thyroglobulin",
+      "C": "Triiodothyronine",
+      "D": "Thyroxine"
+    }
+  },
+  "sly.6.5": {
+    "question": "Theo bạn, trên lâm sàng, test đo lường nồng độ của chất nào sau đây sẽ có độ nhạy cao nhất trong phát hiện chức năng rối loạn giáp?",
+    "options": {
+      "A": "TSH",
+      "B": "free T3",
+      "C": "free T4",
+      "D": "reverse T3"
+    }
+  },
+  "sly.6.6": {
+    "question": "Theo bạn, khi sử dụng các nhóm thuốc có chứa iod trên bệnh nhân có sẵn bướu giáp thì thường gây nên điều nào sau đây?",
+    "options": {
+      "A": "Phình giáp lan tỏa",
+      "B": "Bướu giáp ác tính",
+      "C": "Hiệu ứng Jod–Basedow",
+      "D": "Hiệu ứng Wolff–Chaikoff"
+    }
+  },
+  "sly.6.7": {
+    "question": "Theo bạn, sự bài tiết hormon TSH tại tuyến yên sẽ tăng lên trong trường hợp nào sau đây?",
+    "options": {
+      "A": "Sử dụng thyroxine ngoại sinh",
+      "B": "Hoại tử tuyến yên do mất máu",
+      "C": "Phẫu thuật cắt bỏ tuyến giáp",
+      "D": "Bị cường năng tuyến giáp"
+    }
+  },
+  "sly.6.8": {
+    "question": "Vì sao hormon giáp không được dự trữ trong các túi chứa nội bào?",
+    "options": {
+      "A": "Tế bào giáp không tạo được các túi chứa (vesicle)",
+      "B": "Tuyến giáp không có các bào quan Golgi như mô khác",
+      "C": "Hormon giáp thuộc nhóm hormon tan trong lipid",
+      "D": "Các túi chứa làm chậm trễ sự phóng thích hormon"
+    }
+  },
+  "sly.6.9": {
+    "question": "Nồng độ của IGF-1 (insulin-like growth factor 1) trong huyết tương được dùng để đánh giá và theo dõi nhóm bệnh lý nào sau đây?",
+    "options": {
+      "A": "Đái tháo đường típ 1",
+      "B": "Cường giáp tại yên",
+      "C": "Bệnh lùn",
+      "D": "Suy thượng thận Addison"
+    }
+  },
+  "sly.6.10": {
+    "question": "Một bệnh nhân nữ đến khám vì gần đây hay bị mệt, tiêu nhiều lần, tiêu đêm, có cảm giác thèm ngọt, kèm theo sụt cân nhanh. Theo bạn, các rối loạn trên có khả năng liên quan nhiều nhất đến hoạt động của hormon nào?",
+    "options": {
+      "A": "Vasopressin",
+      "B": "Thyroxine",
+      "C": "Insulin",
+      "D": "Progesterone"
+    }
+  },
+  "sly.6.11": {
+    "question": "Vùng hạ đồi tổng hợp hormon nào sau đây?",
+    "options": {
+      "A": "ACTH",
+      "B": "Thyroxine",
+      "C": "Prolactin",
+      "D": "Oxytocin"
+    }
+  },
+  "sly.6.12": {
+    "question": "Hormon GH của tuyến yên kích thích sự phát triển của các xương dài trong cơ thể thông qua đĩa sụn nối và màng xương. Tuy nhiên, GH không chỉ trực tiếp tác động lên xương, mà còn thông qua việc kích thích sự bài tiết một yếu tố tăng trưởng khác từ gan. Đó là yếu tố nào sau đây?",
+    "options": {
+      "A": "IGF-1",
+      "B": "IGF-2",
+      "C": "IGF-3",
+      "D": "IGF-4"
+    }
+  },
+  "sly.6.13": {
+    "question": "Hoạt động của các hormon nhóm protein gây nên sự thay đổi như thế nào tại các tế bào đích?",
+    "options": {
+      "A": "Là các hormon có đặc tính tan trong lipid màng tế bào",
+      "B": "Vị trí tác động nằm bên trong nhân tế bào",
+      "C": "Gắn lên thụ thể nằm tại màng tế bào và kích hoạt chất truyền tin thứ 2",
+      "D": "Làm thay đổi biểu hiện gen tại các tế bào đích"
+    }
+  },
+  "sly.6.14": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG khi nói về tuyến yên trước?",
+    "options": {
+      "A": "Chịu sự kiểm soát từ vùng hạ đồi",
+      "B": "Phóng thích hormon FSH kích thích nang trứng phát triển trong chu kỳ kinh",
+      "C": "Phóng thích hormon TSH kích thích tuyến giáp",
+      "D": "Có bản chất mô học là các tế bào thần kinh (neuron)"
+    }
+  },
+  "sly.6.15": {
+    "question": "Hormon nào sau đây của vùng hạ đồi có vai trò kích thích tuyến yên bài tiết hormon LH?",
+    "options": {
+      "A": "CRH",
+      "B": "GHRH",
+      "C": "GnRH",
+      "D": "TRH"
+    }
+  },
+  "sly.6.16": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG khi nói về hormon GH?",
+    "options": {
+      "A": "Do vùng tuyến yên trước bài tiết",
+      "B": "Kích thích gan tiết ra IGF-1",
+      "C": "Tác động lên đĩa sụn nối ở trước tuổi dậy thì",
+      "D": "Chỉ có tác dụng kích thích tăng trưởng ở trước tuổi dậy thì"
+    }
+  },
+  "sly.6.17": {
+    "question": "Hormon nào sau đây có thụ thể nằm trên màng tế bào đích?",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Testosterone",
+      "C": "Cortisol",
+      "D": "Progesterone"
+    }
+  },
+  "sly.6.18": {
+    "question": "Hormon nào sau đây được sử dụng trong phòng ngừa biến chứng tăng huyết sau sinh ở các sản phụ?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "ADH",
+      "C": "Cortisol",
+      "D": "Oxytocin"
+    }
+  },
+  "sly.6.19": {
+    "question": "Hormon nào sau đây KHÔNG có tác dụng trên sự phát triển cơ thể?",
+    "options": {
+      "A": "GH",
+      "B": "Testosterone",
+      "C": "Thyroxine",
+      "D": "Vasopressin"
+    }
+  },
+  "sly.6.20": {
+    "question": "Hormon GH của tuyến yên kích thích lên sự phát triển chiều dài của xương thông qua cấu trúc nào?",
+    "options": {
+      "A": "Các tạo cốt bào ở đầu xương",
+      "B": "Các tế bào gốc trong tủy xương",
+      "C": "Các nguyên bào sụn ở đĩa sụn nối",
+      "D": "Các tạo cốt bào ở thân xương"
+    }
+  },
+  "sly.6.21": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG khi nói về nhóm hormon có bản chất là protein?",
+    "options": {
+      "A": "Được tổng hợp tại các ribosome trong tế bào nội tiết",
+      "B": "Thụ thể nằm trên màng tế bào đích",
+      "C": "Thường gặp ở tuyến thượng thận và tuyến sinh dục",
+      "D": "Tất cả các hormon của tuyến yên đều có bản chất là protein"
+    }
+  },
+  "sly.6.22": {
+    "question": "Hormon nào của tuyến yên có khả năng trực tiếp gây tăng huyết áp khi được cơ thể tiết ra quá mức hoặc do sử dụng quá liều?",
+    "options": {
+      "A": "ACTH",
+      "B": "TSH",
+      "C": "ADH",
+      "D": "FSH"
+    }
+  },
+  "sly.6.23": {
+    "question": "Câu nào sau đây đúng với tuyến yên trước?",
+    "options": {
+      "A": "Được cấp máu bởi hệ mạch cửa yên",
+      "B": "Chứa sợi trục của các tế bào thần kinh từ vùng hạ đồi",
+      "C": "Tổng hợp và phóng thích hormon oxytocin",
+      "D": "Không chịu ảnh hưởng của hormon testosterone"
+    }
+  },
+  "sly.6.24": {
+    "question": "Câu nào sau đây đúng với cả hormon oxytocin và ADH?",
+    "options": {
+      "A": "Được tổng hợp từ các tế bào thần kinh ở vùng hạ đồi",
+      "B": "Được bài tiết bởi tuyến yên trước",
+      "C": "Đều có tác dụng chống bài niệu",
+      "D": "Đều là hormon nhóm steroid"
+    }
+  },
+  "sly.6.25": {
+    "question": "Câu nào đúng về tuyến yên?",
+    "options": {
+      "A": "Gồm 3 phần: tuyến yên trước, tuyến yên giữa, tuyến yên sau",
+      "B": "Điều hòa hoạt động tuyến cận giáp",
+      "C": "Tuyến yên trước liên hệ với vùng hạ đồi bằng đường thần kinh",
+      "D": ""
+    }
+  },
+  "sly.6.26": {
+    "question": "Hormon nào của vùng hạ đồi kích thích tuyến yên tiết ra hormon TSH?",
+    "options": {
+      "A": "GHRH",
+      "B": "TRH",
+      "C": "CRH",
+      "D": "GnRH"
+    }
+  },
+  "sly.6.27": {
+    "question": "Hormon GH kích thích sự phát triển theo chiều dài của xương tại đĩa sụn nối thông qua hoạt động của chất nào?",
+    "options": {
+      "A": "T3, T4",
+      "B": "Insulin",
+      "C": "IGF-1",
+      "D": "ACTH"
+    }
+  },
+  "sly.6.28": {
+    "question": "Bệnh to đầu chi xảy ra là do tăng tiết quá mức hormon nào sau đây?",
+    "options": {
+      "A": "GH",
+      "B": "ACTH",
+      "C": "FSH",
+      "D": "TSH"
+    }
+  },
+  "sly.6.29": {
+    "question": "Hormon nào dưới đây KHÔNG do tuyến yên trước tiết ra?",
+    "options": {
+      "A": "FSH",
+      "B": "GH",
+      "C": "ACTH",
+      "D": "ADH"
+    }
+  },
+  "sly.6.30": {
+    "question": "Hormon nào sau đây có tác dụng kích thích mô tuyến vú tiết sữa khi người phụ nữ cho con bú?",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Prolactin",
+      "C": "ACTH",
+      "D": "ADH"
+    }
+  },
+  "sly.6.31": {
+    "question": "Bệnh nào dưới đây gây nên do tuyến yên tăng tiết hormon tăng trưởng (GH) trước tuổi dậy thì?",
+    "options": {
+      "A": "Bệnh khổng lồ",
+      "B": "Cường vỏ thượng thận",
+      "C": "Cường giáp tại tuyến yên",
+      "D": "Bệnh to đầu chi"
+    }
+  },
+  "sly.6.32": {
+    "question": "Sự phát triển của các xương dài trước tuổi dậy thì chịu tác động chính của hormon nào?",
+    "options": {
+      "A": "Vitamin D",
+      "B": "GH",
+      "C": "Insulin",
+      "D": "Androgen"
+    }
+  },
+  "sly.6.33": {
+    "question": "Hormon LH tiết ra từ tuyến yên có bản chất là gì?",
+    "options": {
+      "A": "Protein",
+      "B": "Steroid",
+      "C": "Acid amin",
+      "D": "Triglyceride"
+    }
+  },
+  "sly.6.34": {
+    "question": "Bản chất mô học của tuyến yên là gì?",
+    "options": {
+      "A": "Là mô thần kinh",
+      "B": "Là mô tuyến",
+      "C": "Là biểu mô",
+      "D": "Là mô liên kết"
+    }
+  },
+  "sly.6.35": {
+    "question": "Hoạt động của tuyến nội tiết nào sau đây hầu như không chịu sự điều hòa của trục hạ đồi–tuyến yên?",
+    "options": {
+      "A": "Tuyến giáp",
+      "B": "Tuyến sinh dục",
+      "C": "Tuyến vỏ thượng thận",
+      "D": "Tuyến tụy"
+    }
+  },
+  "sly.6.36": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với hoạt động của hormon ở tế bào đích?",
+    "options": {
+      "A": "Mỗi thụ thể ở tế bào đích có tính đặc hiệu với một loại hormon",
+      "B": "Thụ thể nằm trên màng tế bào gắn kết với nhóm hormon protein",
+      "C": "Thụ thể nằm trong nhân cho hormon tan trong lipid",
+      "D": "Hormon protein thường có tác dụng kéo dài hơn hormon steroid"
+    }
+  },
+  "sly.6.37": {
+    "question": "Câu nào KHÔNG ĐÚNG đối với cơ chế tác dụng của hormon?",
+    "options": {
+      "A": "Một số hormon protein làm thay đổi tính thấm màng tế bào",
+      "B": "Đa số hormon tan trong nước hoạt hóa enzyme trong tế bào đích",
+      "C": "Các hormon tan trong lipid thường hoạt hóa gene trong nhân",
+      "D": "AMP vòng là chất truyền tin thứ hai của hormon steroid"
+    }
+  },
+  "sly.6.38": {
+    "question": "Câu nào sau đây đúng với tuyến nội tiết và hormon được bài tiết?",
+    "options": {
+      "A": "Tuyến cận giáp – calcitonin",
+      "B": "Tuyến yên sau – vasopressin",
+      "C": "Vùng hạ đồi – hormon LH",
+      "D": "Tủy thượng thận – aldosterone"
+    }
+  },
+  "sly.6.39": {
+    "question": "Tên gọi nào sau đây chỉ bao gồm một hormon, không phải tập hợp nhiều hormon khác nhau?",
+    "options": {
+      "A": "Mineralocorticoid",
+      "B": "Hormon giáp",
+      "C": "Catecholamine",
+      "D": "Oxytocin"
+    }
+  },
+  "sly.6.40": {
+    "question": "Câu nào sau đây đúng đối với tác dụng của GH tại tế bào đích?",
+    "options": {
+      "A": "Giảm tổng hợp protein",
+      "B": "Giảm huy động lipid",
+      "C": "Tăng phân giải glycogen",
+      "D": "Tăng sử dụng lipid tạo năng lượng"
+    }
+  },
+  "sly.6.41": {
+    "question": "Hormon tuyến giáp được tổng hợp từ acid amin nào?",
+    "options": {
+      "A": "Tryptophan",
+      "B": "Tyrosine",
+      "C": "Phenylalanine",
+      "D": "Valine"
+    }
+  },
+  "sly.6.42": {
+    "question": "Hormon tuyến giáp làm tăng chuyển hóa tạo năng lượng tại tế bào thông qua cơ chế nào?",
+    "options": {
+      "A": "Tăng đưa glucose vào tế bào",
+      "B": "Kích thích tế bào thu nhận acid béo",
+      "C": "Mở kênh ion Ca²⁺ trên màng tế bào",
+      "D": "Tăng phiên mã gen enzyme chuyển hóa"
+    }
+  },
+  "sly.6.43": {
+    "question": "Một bệnh nhân mệt mỏi, sốt nhẹ, hồi hộp, tim đập nhanh; fT4 tăng cao, TSH giảm. Biểu hiện nào KHÔNG HỢP LÝ?",
+    "options": {
+      "A": "Khó ngủ",
+      "B": "Tăng cân",
+      "C": "Sợ nóng",
+      "D": "Tiêu chảy"
+    }
+  },
+  "sly.6.44": {
+    "question": "Bệnh lý nào KHÔNG gây rối loạn nội tiết tại tuyến giáp?",
+    "options": {
+      "A": "Bệnh Graves",
+      "B": "Nhân giáp độc",
+      "C": "Phình giáp đơn thuần",
+      "D": "Viêm giáp Hashimoto"
+    }
+  },
+  "sly.6.45": {
+    "question": "Câu nào đúng khi nói về hormon T3 của tuyến giáp?",
+    "options": {
+      "A": "Còn có tên là thyroxine",
+      "B": "Chuyển thành dạng T4 ở mô đích",
+      "C": "Tiết ra lượng nhỏ tại tuyến (7%)",
+      "D": "Có tác dụng yếu hơn T4"
+    }
+  },
+  "sly.6.46": {
+    "question": "Phức hợp T3–thụ thể tác động lên vị trí nào tại tế bào đích?",
+    "options": {
+      "A": "Màng tế bào",
+      "B": "Nhân tế bào",
+      "C": "Ty thể",
+      "D": "Bộ máy Golgi"
+    }
+  },
+  "sly.6.47": {
+    "question": "Bướu cổ lồi mắt (Graves) – cơ chế sinh bệnh nào đúng?",
+    "options": {
+      "A": "Tuyến yên tăng tiết TSH",
+      "B": "Hạ đồi tăng tiết TRH",
+      "C": "Kháng thể giống TSH",
+      "D": "Tăng sinh ác tính tế bào giáp"
+    }
+  },
+  "sly.6.48": {
+    "question": "Cơ chế tim đập nhanh trong cường giáp?",
+    "options": {
+      "A": "Tăng tạo năng lượng cơ tim",
+      "B": "Kích thích thu nhận acid béo",
+      "C": "Mở kênh Ca²⁺ ở cơ tim",
+      "D": "Tăng thụ thể catecholamine"
+    }
+  },
+  "sly.6.49": {
+    "question": "Nguyên nhân hàng đầu gây suy giáp?",
+    "options": {
+      "A": "Hậu điều trị cường giáp",
+      "B": "Thiếu iod",
+      "C": "Viêm giáp Hashimoto",
+      "D": "Suy yên"
+    }
+  },
+  "sly.6.50": {
+    "question": "Iod hóa tyrosine trên thyroglobulin xảy ra ở đâu?",
+    "options": {
+      "A": "Trong nang giáp",
+      "B": "Lòng nang giáp",
+      "C": "Mạch máu quanh nang",
+      "D": "Màng tế bào nang"
+    }
+  },
+  "sly.6.51": {
+    "question": "Dạng tác dụng chính của hormon giáp tại tế bào đích?",
+    "options": {
+      "A": "T1",
+      "B": "T2",
+      "C": "T3",
+      "D": "T4"
+    }
+  },
+  "sly.6.52": {
+    "question": "Xét nghiệm giúp chẩn đoán rối loạn nội tiết giáp?",
+    "options": {
+      "A": "T3, T4",
+      "B": "fT3, fT4",
+      "C": "Thyroglobulin, TSH",
+      "D": "fT3, fT4, TSH"
+    }
+  },
+  "sly.6.53": {
+    "question": "Biểu hiện KHÔNG ĐÚNG của suy giáp?",
+    "options": {
+      "A": "Mặt tròn, ít biểu cảm",
+      "B": "Tăng cân nhanh",
+      "C": "Nhịp tim nhanh",
+      "D": "Khàn tiếng do phù"
+    }
+  },
+  "sly.6.54": {
+    "question": "fT4 bình thường, TSH giảm nhẹ: chẩn đoán?",
+    "options": {
+      "A": "Cường giáp yên",
+      "B": "Cường giáp giáp",
+      "C": "Cường giáp dưới lâm sàng",
+      "D": "Tuyến giáp bình thường"
+    }
+  },
+  "sly.6.55": {
+    "question": "Dạng dự trữ của hormon giáp trong huyết tương?",
+    "options": {
+      "A": "Tyrosine",
+      "B": "Thyroglobulin",
+      "C": "T3",
+      "D": "T4"
+    }
+  },
+  "sly.6.56": {
+    "question": "fT4 và TSH đều tăng cao: chẩn đoán?",
+    "options": {
+      "A": "Suy giáp giáp",
+      "B": "Cường giáp giáp",
+      "C": "Suy giáp yên",
+      "D": "Cường giáp yên"
+    }
+  },
+  "sly.6.57": {
+    "question": "Giảm T3, T4 gây nên, NGOẠI TRỪ:",
+    "options": {
+      "A": "Nhịp tim chậm",
+      "B": "Phù niêm toàn thân",
+      "C": "Tăng cân",
+      "D": "Mất ngủ"
+    }
+  },
+  "sly.6.58": {
+    "question": "Bệnh đần độn ở trẻ em do rối loạn hormon nào?",
+    "options": {
+      "A": "GH",
+      "B": "IGF-1",
+      "C": "T3, T4",
+      "D": "Insulin"
+    }
+  },
+  "sly.6.59": {
+    "question": "TSH tăng khi nào?",
+    "options": {
+      "A": "Dùng thyroxine",
+      "B": "Hoại tử yên",
+      "C": "Iod dư thừa",
+      "D": "Cắt tuyến giáp"
+    }
+  },
+  "sly.6.60": {
+    "question": "Triệu chứng cường giáp?",
+    "options": {
+      "A": "Nhịp tim nhanh",
+      "B": "Sụt cân",
+      "C": "Dễ cáu giận",
+      "D": "Tất cả trên"
+    }
+  },
+  "sly.6.61": {
+    "question": "T4 tăng, TSH giảm: chẩn đoán phù hợp?",
+    "options": {
+      "A": "Cường giáp giáp",
+      "B": "Cường giáp yên",
+      "C": "Suy giáp giáp",
+      "D": "Suy giáp yên"
+    }
+  },
+  "sly.6.62": {
+    "question": "Các chất kích thích bài tiết dịch tuỵ ngoại tiết, NGOẠI TRỪ?",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "Cholecystokinin",
+      "C": "Histamine",
+      "D": "Secretin"
+    }
+  },
+  "sly.6.63": {
+    "question": "Chất ngoại tiết của tuyến tuỵ?",
+    "options": {
+      "A": "Lipase",
+      "B": "Somatostatin",
+      "C": "Glucagon",
+      "D": "Pepsin"
+    }
+  },
+  "sly.6.64": {
+    "question": "Bài tiết tuỵ ngoại tiết, NGOẠI TRỪ?",
+    "options": {
+      "A": "Dịch giàu HCO₃⁻ do secretin",
+      "B": "Men do cholecystokinin",
+      "C": "Đã bài tiết trước khi thức ăn tới",
+      "D": "Epinephrin kích thích HCO₃⁻"
+    }
+  },
+  "sly.6.65": {
+    "question": "Dịch tuỵ bình thường, NGOẠI TRỪ?",
+    "options": {
+      "A": "pH kiềm",
+      "B": "Chứa pepsin",
+      "C": ">1000 mL/ngày",
+      "D": "Protein tiền men"
+    }
+  },
+  "sly.6.66": {
+    "question": "Trypsinogen → trypsin nhờ?",
+    "options": {
+      "A": "Enterokinase",
+      "B": "Procarboxypolypeptidase",
+      "C": "Lipase tuỵ",
+      "D": "pH kiềm"
+    }
+  },
+  "sly.6.67": {
+    "question": "Chất KHÔNG kích thích tuỵ ngoại tiết?",
+    "options": {
+      "A": "Secretin",
+      "B": "Cholecystokinin",
+      "C": "Gastrin",
+      "D": "Epinephrin"
+    }
+  },
+  "sly.6.68": {
+    "question": "Tắc mật lâu ngày kém hấp thu vitamin nào?",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Vitamin B1",
+      "C": "Vitamin B12",
+      "D": "Vitamin D"
+    }
+  },
+  "sly.6.69": {
+    "question": "Câu nào đúng với secretin?",
+    "options": {
+      "A": "Enzym tá tràng",
+      "B": "Kích thích HCO₃⁻ tuỵ",
+      "C": "Hormon tuỵ",
+      "D": "Tăng thoát dạ dày"
+    }
+  },
+  "sly.6.70": {
+    "question": "Yếu tố điều hòa bài tiết enzyme tuỵ?",
+    "options": {
+      "A": "Secretin",
+      "B": "Histamine",
+      "C": "Cholecystokinin",
+      "D": "GRP"
+    }
+  },
+  "sly.6.71": {
+    "question": "Chất kích thích giải phóng secretin?",
+    "options": {
+      "A": "Protein tiêu hóa",
+      "B": "Histamine",
+      "C": "Somatostatin",
+      "D": "HCl"
+    }
+  },
+  "sly.6.72": {
+    "question": "Hoạt động hệ tiêu hóa KHÔNG điều hòa?",
+    "options": {
+      "A": "Hấp thu glucose ruột non",
+      "B": "Bài tiết HCl dạ dày",
+      "C": "Tống thoát thức ăn dạ dày",
+      "D": "Bài tiết men tuỵ"
+    }
+  },
+  "sly.6.73": {
+    "question": "Bờ bàn chải ruột non hỗ trợ tiêu hóa, NGOẠI TRỪ?",
+    "options": {
+      "A": "Tăng vận chuyển đường thẳng",
+      "B": "Tăng diện tích tiếp xúc",
+      "C": "Cung cấp men tại chỗ",
+      "D": "Cung cấp hệ chuyên chở"
+    }
+  },
+  "sly.6.74": {
+    "question": "Carbohydrate trong thức ăn đúng?",
+    "options": {
+      "A": "Tiêu hóa chủ yếu dạ dày",
+      "B": "Tiêu hóa ở miệng pH≈2.0",
+      "C": "Cắt disaccharides do amylase",
+      "D": "Hấp thu chỉ glucose"
+    }
+  },
+  "sly.6.75": {
+    "question": "Carbohydrate trong thức ăn đúng?",
+    "options": {
+      "A": "Gan nhận monosaccharit tĩnh mạch cửa",
+      "B": "Tiêu hóa bởi enterokinase",
+      "C": "Đồng vận chuyển Na⁺ vào bạch huyết",
+      "D": "Hấp thu niêm mạc khi pH <3.0"
+    }
+  },
+  "sly.6.76": {
+    "question": "Co túi mật do hormon nào điều khiển?",
+    "options": {
+      "A": "Enterogastrone",
+      "B": "Cholecystokinin",
+      "C": "Gastrin",
+      "D": "Secretin"
+    }
+  },
+  "sly.6.77": {
+    "question": "Chất KHÔNG chứa trong mật?",
+    "options": {
+      "A": "Cholesterol",
+      "B": "Muối vô cơ",
+      "C": "Lipase",
+      "D": "Bilirubin"
+    }
+  },
+  "sly.6.78": {
+    "question": "Co thắt túi mật đúng?",
+    "options": {
+      "A": "Do secretin",
+      "B": "Do pH tá tràng giảm",
+      "C": "Khởi phát căng túi mật",
+      "D": "Kích thích HCO₃⁻ tuỵ"
+    }
+  },
+  "sly.6.79": {
+    "question": "Cắt túi mật tăng nồng độ chất nào trong máu?",
+    "options": {
+      "A": "Cholesterol",
+      "B": "T3",
+      "C": "T4",
+      "D": "TBG"
+    }
+  },
+  "sly.6.80": {
+    "question": "Enzyme quan trọng hoạt động hormon giáp ở mô đích?",
+    "options": {
+      "A": "2'-deiodinase",
+      "B": "3'-deiodinase",
+      "C": "4'-deiodinase",
+      "D": "5'-deiodinase"
+    }
+  },
+  "sly.6.81": {
+    "question": "Cortisol được tổng hợp chủ yếu từ chất nào?",
+    "options": {
+      "A": "Tryptophan",
+      "B": "Tyrosine",
+      "C": "Cholesterol",
+      "D": "Triglyceride"
+    }
+  },
+  "sly.6.82": {
+    "question": "Nguồn gốc cholesterol tổng hợp hormon vỏ thượng thận?",
+    "options": {
+      "A": "Chylomicron",
+      "B": "VLDL",
+      "C": "LDL",
+      "D": "HDL"
+    }
+  },
+  "sly.6.83": {
+    "question": "Lớp bó vỏ thượng thận tiết hormon bản chất gì?",
+    "options": {
+      "A": "Steroid",
+      "B": "Triglycerid",
+      "C": "Protein",
+      "D": "Tyrosine"
+    }
+  },
+  "sly.6.84": {
+    "question": "Aldosterone gắn thụ thể di chuyển vào nhân, phiên mã gen nào?",
+    "options": {
+      "A": "Kênh Na⁺",
+      "B": "Kênh H⁺",
+      "C": "Kênh Cl⁻",
+      "D": "Kênh Ca²⁺"
+    }
+  },
+  "sly.6.85": {
+    "question": "Cortisol tăng đường huyết qua cơ chế nào?",
+    "options": {
+      "A": "Thúc đẩy chuyển hóa glucose",
+      "B": "Tân tạo glucose ở gan",
+      "C": "Tổng hợp glycogen",
+      "D": "Tổng hợp triglycerid từ glucose"
+    }
+  },
+  "sly.6.86": {
+    "question": "Thụ thể đích của hormon lớp cầu vỏ thượng thận?",
+    "options": {
+      "A": "Kênh ion",
+      "B": "Protein G",
+      "C": "Tyrosine kinase",
+      "D": "Thụ thể nhân"
+    }
+  },
+  "sly.6.87": {
+    "question": "Corticosteroid ngoại sinh liều cao nhằm mục đích nào?",
+    "options": {
+      "A": "Kháng stress",
+      "B": "Kháng viêm",
+      "C": "Kháng dị ứng",
+      "D": "Ức chế miễn dịch"
+    }
+  },
+  "sly.6.88": {
+    "question": "Aldosterone điều hòa muối khoáng do đâu bài tiết?",
+    "options": {
+      "A": "Tủy thượng thận",
+      "B": "Lớp cầu vỏ thượng thận",
+      "C": "Lớp bó vỏ thượng thận",
+      "D": "Lớp lưới vỏ thượng thận"
+    }
+  },
+  "sly.6.89": {
+    "question": "Yếu tố nào hầu như KHÔNG điều hòa bài tiết aldosterone?",
+    "options": {
+      "A": "Tăng K⁺ ngoại bào",
+      "B": "Tăng ACTH",
+      "C": "Renin–angiotensin",
+      "D": "Giảm thể tích dịch ngoại bào"
+    }
+  },
+  "sly.6.90": {
+    "question": "Cơ chế hoạt động ở cấp độ tế bào của nhóm corticosteroid (bao gồm hormon cortisol của vỏ thượng thận) trong quá trình viêm. CHỌN CÂU SAI:",
+    "options": {
+      "A": "Vừa có tác động ngoài gen, vừa có tác động lên gen của tế bào đích",
+      "B": "Ức chế enzyme phospholipase A2",
+      "C": "Gắn với thụ thể nằm trên màng tế bào",
+      "D": "Phức hợp hormon–thụ thể kích hoạt biểu hiện của các gen kháng viêm"
+    }
+  },
+  "sly.6.91": {
+    "question": "Hội chứng Cushing là một biểu hiện của sự rối loạn corticosteroid trong cơ thể. Corticosteroid tăng cao trong cơ thể dẫn đến nhiều biểu hiện khác nhau như: tăng huyết áp, tăng đường huyết, phù, tái phân bố mỡ, loãng xương … Nguyên nhân nào thường gặp nhất gây ra hội chứng này?",
+    "options": {
+      "A": "U tuyến yên tăng tiết ACTH",
+      "B": "Tiết ACTH lạc chỗ",
+      "C": "Lạm dụng corticoid ngoại sinh",
+      "D": "U thượng thận gây tăng tiết cortisol"
+    }
+  },
+  "sly.6.92": {
+    "question": "Hormon aldosterone của vỏ thượng thận thúc đẩy quá trình tái hấp thu ion Na+ tại hệ thống ống thận của các nephron. Tác dụng này thể hiện ở đoạn nào của ống thận?",
+    "options": {
+      "A": "Ống lượn gần",
+      "B": "Cành xuống quai Henle",
+      "C": "Cành lên quai Henle",
+      "D": "Ống lượn xa"
+    }
+  },
+  "sly.6.93": {
+    "question": "Hormon glucocorticoid chủ yếu do nơi nào sau đây bài tiết?",
+    "options": {
+      "A": "Tủy thượng thận",
+      "B": "Lớp cầu vùng vỏ thượng thận",
+      "C": "Lớp bó vùng vỏ thượng thận",
+      "D": "Lớp lưới vùng vỏ thượng thận"
+    }
+  },
+  "sly.6.94": {
+    "question": "Yếu tố nào sau đây có vai trò mạnh nhất trong sự điều hòa bài tiết aldosterone tại tuyến thượng thận?",
+    "options": {
+      "A": "Tăng nồng độ K+ dịch ngoại bào",
+      "B": "Tăng tiết ACTH từ tuyến yên",
+      "C": "Tăng hoạt động hệ renin-angiotensin",
+      "D": "Giảm thể tích dịch ngoại bào"
+    }
+  },
+  "sly.6.95": {
+    "question": "Câu nào KHÔNG ĐÚNG khi nói về tác động của hệ thống renin-angiotensin-aldosterone trong cơ thể?",
+    "options": {
+      "A": "Gây co mạch ở các tiểu động mạch",
+      "B": "Kích thích vỏ thượng thận bài tiết aldosterone",
+      "C": "Làm tăng áp suất động mạch",
+      "D": "Có tác dụng lợi tiểu tại ống thận"
+    }
+  },
+  "sly.6.96": {
+    "question": "Những bệnh nhân nghi ngờ có rối loạn bài tiết cortisol tại vùng vỏ thượng thận thường được lấy máu để định lượng nồng độ hormon tại thời điểm đỉnh tiết cao nhất của nó. Đỉnh tiết này của cortisol đạt được vào lúc nào trong ngày?",
+    "options": {
+      "A": "Buổi sáng (7-9 giờ)",
+      "B": "Buổi trưa (11-13 giờ)",
+      "C": "Buổi chiều (15-17 giờ)",
+      "D": "Giữa đêm (23-1 giờ)"
+    }
+  },
+  "sly.6.97": {
+    "question": "Hormon aldosterone khi đến các tế bào biểu mô ống lượn xa sẽ gắn với thụ thể tương ứng trong tế bào chất. Phức hợp hormon–thụ thể này sau đó di chuyển vào nhân tế bào biểu mô, kích thích sự tổng hợp của các kênh ion sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Kênh Na+ tại màng đỉnh của tế bào biểu mô",
+      "B": "Kênh K+ tại màng đỉnh của tế bào biểu mô",
+      "C": "Kênh Na+ tại màng đáy của tế bào biểu mô",
+      "D": "Bơm Na+-K+-ATPase tại màng đáy của tế bào biểu mô"
+    }
+  },
+  "sly.6.98": {
+    "question": "Khi sử dụng corticoid liều cao kéo dài sẽ gây ức chế lên hoạt động của hệ thống nào sau đây?",
+    "options": {
+      "A": "Trục hạ đồi - yên - tuyến giáp",
+      "B": "Trục hạ đồi - yên - vỏ thượng thận",
+      "C": "Trục hạ đồi - yên - tinh hoàn",
+      "D": "Trục hạ đồi - yên - buồng trứng"
+    }
+  },
+  "sly.6.99": {
+    "question": "Khi vỏ thượng thận tăng tiết aldosterone quá mức sẽ làm ảnh hưởng đến huyết áp như thế nào?",
+    "options": {
+      "A": "Hạ huyết áp",
+      "B": "Tăng huyết áp",
+      "C": "Không làm thay đổi huyết áp",
+      "D": "Gây huyết áp kép"
+    }
+  },
+  "sly.6.100": {
+    "question": "Hormon nào sau đây có vai trò quan trọng trong đáp ứng của cơ thể với các kích thích stress?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Aldosterone",
+      "C": "Thyroxine",
+      "D": "Testosterone"
+    }
+  },
+  "sly.6.101": {
+    "question": "Hormon nào sau đây của tuyến yên có vai trò kích thích vỏ thượng thận tiết ra aldosterone?",
+    "options": {
+      "A": "ACTH",
+      "B": "TSH",
+      "C": "GH",
+      "D": "Tất cả đều sai"
+    }
+  },
+  "sly.6.102": {
+    "question": "Hormon androgen của tuyến vỏ thượng thận có bản chất là gì?",
+    "options": {
+      "A": "Protein",
+      "B": "Steroid",
+      "C": "Acid amin",
+      "D": "Triglyceride"
+    }
+  },
+  "sly.6.103": {
+    "question": "Hormon nào sau đây được coi là hormon sinh mệnh của cơ thể?",
+    "options": {
+      "A": "Prolactin",
+      "B": "Oxytocin",
+      "C": "Aldosterone",
+      "D": "Cortisol"
+    }
+  },
+  "sly.6.104": {
+    "question": "Các biến chứng xảy ra sau khi sử dụng corticosteroid liều cao kéo dài, CHỌN CÂU SAI:",
+    "options": {
+      "A": "Hạ đường huyết",
+      "B": "Tăng huyết áp",
+      "C": "Suy thượng thận cấp",
+      "D": "Hội chứng Cushing"
+    }
+  },
+  "sly.6.105": {
+    "question": "Lớp nào sau đây của vỏ thượng thận có vai trò tiết androgen?",
+    "options": {
+      "A": "Lớp cầu",
+      "B": "Lớp bó",
+      "C": "Lớp lưới",
+      "D": "Cả 3 lớp"
+    }
+  },
+  "sly.6.106": {
+    "question": "Sự tái hấp thu muối Na+ tại ống lượn xa và ống góp trong các nephron phụ thuộc vào hormon nào?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "ADH",
+      "C": "Cortisol",
+      "D": "ACTH"
+    }
+  },
+  "sly.6.107": {
+    "question": "Hormon nào sau đây của vùng hạ đồi có vai trò kích thích tuyến yên bài tiết hormon ACTH?",
+    "options": {
+      "A": "CRH",
+      "B": "GHRH",
+      "C": "GnRH",
+      "D": "TRH"
+    }
+  },
+  "sly.6.108": {
+    "question": "Phần nào sau đây KHÔNG thuộc về tuyến thượng thận?",
+    "options": {
+      "A": "Lớp cầu",
+      "B": "Lớp bó",
+      "C": "Lớp lưới",
+      "D": "Lớp hạt"
+    }
+  },
+  "sly.6.109": {
+    "question": "Hormon nào sau đây có tác dụng mạnh nhất trên sự bài xuất K+ khỏi cơ thể?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Vasopressin",
+      "C": "Androgen",
+      "D": "Aldosterone"
+    }
+  },
+  "sly.6.110": {
+    "question": "Tuyến nào sau đây được xem là tuyến sinh mạng, vì nếu cắt bỏ nó sẽ nhanh chóng gây tử vong?",
+    "options": {
+      "A": "Tuyến yên",
+      "B": "Tuyến giáp",
+      "C": "Tuyến tụy",
+      "D": "Tuyến vỏ thượng thận"
+    }
+  },
+  "sly.6.111": {
+    "question": "Câu nào sau đây đúng với hormon aldosterone?",
+    "options": {
+      "A": "Là hormon glucocorticoid của lớp bó tuyến thượng thận",
+      "B": "Là một hormon steroid của lớp lưới tuyến thượng thận",
+      "C": "Là một hormon tan trong nước của lớp cầu tuyến thượng thận",
+      "D": "Là hormon mineralocorticoid của lớp cầu tuyến thượng thận"
+    }
+  },
+  "sly.6.112": {
+    "question": "Câu nào sau đây đúng với hoạt động của hormon cortisol?",
+    "options": {
+      "A": "Do lớp lưới tuyến thượng thận tiết ra",
+      "B": "Kích thích tân tạo glucose tại gan từ các acid amin",
+      "C": "Thuộc nhóm hormon tan trong nước",
+      "D": "Cơ quan đích quan trọng nhất là các tế bào biểu mô ống thận"
+    }
+  },
+  "sly.6.113": {
+    "question": "Chất nào sau đây được xem là glucocorticoid?",
+    "options": {
+      "A": "Androgen",
+      "B": "Aldosterone",
+      "C": "Cortisol",
+      "D": "Glucagon"
+    }
+  },
+  "sly.6.114": {
+    "question": "Ở người bình thường, nếu sử dụng hormon cortisol kéo dài sẽ gây ra tác dụng nào sau đây?",
+    "options": {
+      "A": "Hạ đường huyết",
+      "B": "Kích thích tuyến yên tăng tiết ACTH",
+      "C": "Ức chế trục hạ đồi - tuyến yên - tuyến thượng thận",
+      "D": "Giảm nồng độ acid béo tự do trong huyết tương"
+    }
+  },
+  "sly.6.115": {
+    "question": "Tác dụng kháng viêm của cortisol là do các tác dụng sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Giảm tính thấm mao mạch",
+      "B": "Tăng hóa ứng bạch cầu vào vùng viêm để thực bào",
+      "C": "Giữ ổn định màng lysosome",
+      "D": "Ức chế enzyme phospholipase A2 trên màng tế bào"
+    }
+  },
+  "sly.6.116": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG khi nói về tuyến thượng thận?",
+    "options": {
+      "A": "Tủy thượng thận có cùng nguồn gốc mô học với hệ thần kinh giao cảm",
+      "B": "Vỏ thượng thận là tổ chức gồm các tế bào tuyến",
+      "C": "Tuyến vỏ thượng thận tiết ra các hormon steroid",
+      "D": "Không hormon nào của tuyến thượng thận được điều hòa bởi tuyến yên"
+    }
+  },
+  "sly.6.117": {
+    "question": "Phẫu thuật cắt bỏ cả 2 tuyến thượng thận sẽ gây ra hậu quả nào?",
+    "options": {
+      "A": "Giảm bài tiết CRH tại vùng hạ đồi",
+      "B": "Tăng acid amin trong huyết tương",
+      "C": "Tăng bài tiết ACTH tại tuyến yên",
+      "D": "Tăng tái hấp thu Na+ tại ống thận xa"
+    }
+  },
+  "sly.6.118": {
+    "question": "Thiếu glucocorticoid là biểu hiện chính trong tình trạng suy thượng thận cấp. Điều này sẽ gây ra các hậu quả sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Giảm glucose trong huyết tương",
+      "B": "Giảm acid amin trong huyết tương",
+      "C": "Ức chế giải phóng ACTH",
+      "D": "Gây cảm giác mệt mỏi, khó chịu"
+    }
+  },
+  "sly.6.119": {
+    "question": "Cholesterol là tiền chất tổng hợp các hormon của tuyến thượng thận. NGOẠI TRỪ hormon nào sau đây?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Cortisol",
+      "C": "Androgen",
+      "D": "Noradrenaline"
+    }
+  },
+  "sly.6.120": {
+    "question": "Khi tiêm quá mức hormon aldosterone vào cơ thể sẽ gây ảnh hưởng như thế nào lên huyết áp và nồng độ K+ huyết tương?",
+    "options": {
+      "A": "Huyết áp tăng, nồng độ K+ giảm",
+      "B": "Huyết áp tăng, nồng độ K+ tăng",
+      "C": "Huyết áp giảm, nồng độ K+ tăng",
+      "D": "Huyết áp không thay đổi, nồng độ K+ giảm"
+    }
+  },
+  "sly.6.121": {
+    "question": "Nồng độ của chất nào dưới đây phản ánh chính xác nhất sự bài tiết hormon insulin nội sinh từ chính tuyến tụy của cơ thể?",
+    "options": {
+      "A": "Preproinsulin",
+      "B": "Proinsulin",
+      "C": "Peptid C",
+      "D": "Insulin"
+    }
+  },
+  "sly.6.122": {
+    "question": "Hormon insulin có các vai trò sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Kích thích mở các kênh GLUT4 trên tế bào đích",
+      "B": "Kích thích gan tổng hợp glycogen",
+      "C": "Kích thích mô mỡ dự trữ triglycerid",
+      "D": "Kích thích quá trình tân tạo glucose"
+    }
+  },
+  "sly.6.123": {
+    "question": "Yếu tố quan trọng nhất trong điều hòa bài tiết glucagon là gì?",
+    "options": {
+      "A": "Tuyến yên trước",
+      "B": "Nồng độ lipid máu",
+      "C": "Nồng độ đường huyết",
+      "D": "Nồng độ acid amin huyết"
+    }
+  },
+  "sly.6.124": {
+    "question": "Đái tháo đường típ 2 là tình trạng tăng đường huyết mạn tính trong cơ thể. Chọn câu đúng khi nói về cơ chế của bệnh lý này:",
+    "options": {
+      "A": "Do hoại tử gần hết các tế bào bài tiết insulin ở tụy",
+      "B": "Thứ phát sau các bệnh lý nội tiết khác như cường giáp, cường yên …",
+      "C": "Do lạm dụng quá mức corticosteroid ngoại sinh",
+      "D": "Biểu hiện đề kháng insulin ở gan"
+    }
+  },
+  "sly.6.125": {
+    "question": "Hormon insulin do loại tế bào nào sau đây của tuyến tụy bài tiết?",
+    "options": {
+      "A": "Tế bào alpha",
+      "B": "Tế bào beta",
+      "C": "Tế bào delta",
+      "D": "Tế bào gamma"
+    }
+  },
+  "sly.6.126": {
+    "question": "Đái tháo đường típ 1 xảy ra do tình trạng hoại tử của các tế bào bài tiết insulin ở đảo tụy. Sự thiếu hụt insulin này thường dẫn đến tình trạng rối loạn chuyển hóa nào nhất?",
+    "options": {
+      "A": "Biến chứng nhiễm toan lactic",
+      "B": "Tăng áp lực thẩm thấu do đường huyết tăng cao",
+      "C": "Tăng ure máu do hủy protein",
+      "D": "Biến chứng nhiễm toan ceton"
+    }
+  },
+  "sly.6.127": {
+    "question": "Các mô đích của insulin được tạo thành từ những tế bào có chứa kênh vận chuyển glucose nào sau đây trên bề mặt của màng sinh chất?",
+    "options": {
+      "A": "Kênh GLUT1",
+      "B": "Kênh GLUT2",
+      "C": "Kênh GLUT3",
+      "D": "Kênh GLUT4"
+    }
+  },
+  "sly.6.128": {
+    "question": "Cơ quan nào được xem là bộ phận đệm đường huyết quan trọng nhất trong cơ thể, giúp duy trì nồng độ glucose trong máu ở mức hằng định?",
+    "options": {
+      "A": "Ruột non",
+      "B": "Gan",
+      "C": "Cơ bắp",
+      "D": "Mô mỡ"
+    }
+  },
+  "sly.6.129": {
+    "question": "Trong tình trạng thiếu hụt insulin tuyệt đối, các tế bào đích của insulin sẽ sử dụng hợp chất nào sau đây để chuyển hóa tạo năng lượng?",
+    "options": {
+      "A": "Glucose",
+      "B": "Acid amin",
+      "C": "Cholesterol",
+      "D": "Thể keton"
+    }
+  },
+  "sly.6.130": {
+    "question": "Nào sử dụng glucose không phụ thuộc vào hormon insulin do các tế bào thần kinh. KHÔNG có kênh vận chuyển glucose nào sau đây trên bề mặt màng tế bào?",
+    "options": {
+      "A": "Kênh GLUT1",
+      "B": "Kênh GLUT2",
+      "C": "Kênh GLUT3",
+      "D": "Kênh GLUT4"
+    }
+  },
+  "sly.6.131": {
+    "question": "Các tế bào của mô mỡ có khả năng phóng thích acid béo tự do vào máu từ nguồn triglycerid dự trữ là nhờ enzyme HSL (hormon sensitive lipase). Enzyme này bị kích thích bởi hormon sau, NGOẠI TRỪ:",
+    "options": {
+      "A": "Glucagon",
+      "B": "Cortisol",
+      "C": "Insulin",
+      "D": "Progesterone"
+    }
+  },
+  "sly.6.132": {
+    "question": "Mô nào sau đây là mô đích chính của insulin?",
+    "options": {
+      "A": "Mô thần kinh",
+      "B": "Mô gan",
+      "C": "Mô xương",
+      "D": "Mô máu"
+    }
+  },
+  "sly.6.133": {
+    "question": "Hormon glucagon do loại tế bào nào sau đây của tuyến tụy bài tiết?",
+    "options": {
+      "A": "Tế bào alpha",
+      "B": "Tế bào beta",
+      "C": "Tế bào delta",
+      "D": "Tế bào gamma"
+    }
+  },
+  "sly.6.134": {
+    "question": "Hormon nào sau đây có tác dụng làm tăng đường huyết?",
+    "options": {
+      "A": "Glucagon",
+      "B": "Cortisol",
+      "C": "Adrenaline",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "sly.6.135": {
+    "question": "Các mô đích chính của insulin trong cơ thể là mô nào?",
+    "options": {
+      "A": "Mô gan",
+      "B": "Mô cơ",
+      "C": "Mô mỡ",
+      "D": "A, B, C đúng"
+    }
+  },
+  "sly.6.136": {
+    "question": "Thiếu insulin tuyệt đối là cơ chế chính của típ đái tháo đường nào?",
+    "options": {
+      "A": "Đái tháo đường típ 1",
+      "B": "Đái tháo đường típ 2",
+      "C": "Đái tháo đường thai kỳ",
+      "D": "Đái tháo đường do các bệnh nội tiết"
+    }
+  },
+  "sly.6.137": {
+    "question": "Cơ quan nào trong cơ thể vừa có khả năng tổng hợp glycogen từ glucose, đồng thời có thể ly giải ngược lại glycogen thành glucose đưa vào máu khi cơ thể đói?",
+    "options": {
+      "A": "Thận",
+      "B": "Cơ bắp",
+      "C": "Gan",
+      "D": "Mỡ dưới da"
+    }
+  },
+  "sly.6.138": {
+    "question": "Hormon nào sau đây có tác dụng làm hạ đường huyết?",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Somatostatin",
+      "D": "Cortisol"
+    }
+  },
+  "sly.6.139": {
+    "question": "Để kháng với insulin tại các mô đích là cơ chế chính của típ đái tháo đường nào sau đây?",
+    "options": {
+      "A": "Đái tháo đường típ 1",
+      "B": "Đái tháo đường típ 2",
+      "C": "Đái tháo đường thai kỳ",
+      "D": "Đái tháo đường do các bệnh nội tiết"
+    }
+  },
+  "sly.6.140": {
+    "question": "Chọn câu đúng khi nói về tác dụng của các hormon trong cơ thể?",
+    "options": {
+      "A": "Cortisol - Tổng hợp glycogen tại gan từ glucose",
+      "B": "Aldosterone - Thải Na+ qua nước tiểu",
+      "C": "Insulin - Tổng hợp triglyceride dự trữ tại các tế bào mỡ",
+      "D": "Thyroxine - Giảm chuyển hóa tại các tế bào đích"
+    }
+  },
+  "sly.6.141": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG khi nói về hormon được đề cập và tác dụng tương ứng của nó?",
+    "options": {
+      "A": "Glucagon làm tăng tân tạo glucose tại gan từ các acid amin",
+      "B": "Insulin làm tăng tổng hợp protein tại các mô đích",
+      "C": "Noradrenalin làm tăng tần số tim",
+      "D": "Vasopressin làm tăng tái hấp thu Na+ tại ống lượn xa"
+    }
+  },
+  "sly.6.142": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG đối với loại tế bào tuyến tụy và tên sản phẩm bài tiết tương ứng?",
+    "options": {
+      "A": "Tế bào beta - Insulin",
+      "B": "Tế bào alpha - Glucagon",
+      "C": "Tế bào delta - Somatostatin",
+      "D": "Tế bào F - Gastrin"
+    }
+  },
+  "sly.6.143": {
+    "question": "Câu nào sau đây đúng khi nói về đảo tụy Langerhans?",
+    "options": {
+      "A": "Có những ống nhỏ dẫn chất tiết ra khỏi tuyến tụy",
+      "B": "Bài tiết một chất dịch hỗn hợp chứa hormon và enzyme tiêu hóa",
+      "C": "Được điều hòa bài tiết bởi vùng hạ đồi và tuyến yên trước",
+      "D": "Chứa các tế bào alpha và beta"
+    }
+  },
+  "sly.6.144": {
+    "question": "Insulin làm tăng sự vận chuyển glucose vào tổ chức nào?",
+    "options": {
+      "A": "Tế bào ống thận",
+      "B": "Tế bào hồng cầu",
+      "C": "Tế bào neuron trong vỏ não",
+      "D": "Tế bào cơ xương"
+    }
+  },
+  "sly.6.145": {
+    "question": "Câu nào sau đây đúng khi nói về tác dụng của hormon insulin?",
+    "options": {
+      "A": "Kích hoạt phản ứng phân cắt phân tử glycogen thành glucose",
+      "B": "Kích thích tân tạo glucose tại gan",
+      "C": "Tăng vận chuyển ion K+ vào nội bào",
+      "D": "Tăng cường ly giải các phân tử protein trong các tế bào"
+    }
+  },
+  "sly.6.146": {
+    "question": "Điều gì xảy ra sau khi tiêm insulin vào một người bình thường?",
+    "options": {
+      "A": "Làm tăng thủy phân glycogen thành glucose",
+      "B": "Tăng tổng hợp triglyceride dự trữ trong các tế bào mỡ",
+      "C": "Giảm tổng hợp protein trong tế bào",
+      "D": "Tăng nồng độ thể ceton trong máu"
+    }
+  },
+  "sly.6.147": {
+    "question": "Sự hiện diện của các thể ceton trong nước tiểu thường gặp ở các bệnh nhân đái tháo đường típ 1 là do nguyên nhân nào sau đây?",
+    "options": {
+      "A": "Chức năng thận kém làm giảm tái hấp thu ceton tại ống thận",
+      "B": "Chế độ ăn có nhiều lipid",
+      "C": "Thiếu insulin làm tăng huy động acid béo từ mô mỡ quá mức",
+      "D": "Thiếu ADH cần cho sự thoái biến của các thể ceton"
+    }
+  },
+  "sly.6.148": {
+    "question": "Thiếu hụt insulin tuyệt đối trong đái tháo đường típ 1 có thể gây ra các rối loạn sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Nồng độ ceton trong máu tăng cao",
+      "B": "Nồng độ glucose trong máu tăng cao",
+      "C": "Nồng độ acid béo trong máu tăng",
+      "D": "Đề kháng insulin tại mô đích"
+    }
+  },
+  "sly.6.149": {
+    "question": "Sự bài tiết insulin từ các tế bào của tuyến tụy nội tiết tăng cao nhất trong trường hợp nào sau đây?",
+    "options": {
+      "A": "Khi nhịn đói",
+      "B": "Suy tuyến yên",
+      "C": "Tiêm truyền dung dịch chứa glucose vào tĩnh mạch",
+      "D": "Khi lao động"
+    }
+  },
+  "sly.6.150": {
+    "question": "Insulin làm tăng vận chuyển glucose vào các tổ chức, NGOẠI TRỪ:",
+    "options": {
+      "A": "Mô mỡ",
+      "B": "Mô gan",
+      "C": "Mô cơ xương",
+      "D": "Tế bào neuron"
+    }
+  },
+  "sly.6.151": {
+    "question": "Câu nào sau đây đúng khi nói về hormon glucagon?",
+    "options": {
+      "A": "Do tế bào beta đảo Langerhans tiết",
+      "B": "Điều hòa bởi thủy trước tuyến yên",
+      "C": "Tác động lên tế bào đích bằng cách gắn vào thụ thể màng",
+      "D": "Có vai trò ức chế sự thoái biến triglyceride tại tế bào mỡ"
+    }
+  },
+  "sly.6.152": {
+    "question": "Hormon glucagon làm tăng đường huyết bằng cơ chế nào sau đây?",
+    "options": {
+      "A": "Hoạt hóa một số gen trên DNA của tế bào đích",
+      "B": "Gắn với thụ thể nhân trong bào tương của tế bào đích",
+      "C": "Tạo ra chất truyền tin thứ hai là AMP vòng",
+      "D": "Ức chế trực tiếp sự bài tiết insulin từ tế bào beta tụy"
+    }
+  },
+  "sly.6.153": {
+    "question": "Các yếu tố sau tham gia điều hòa bài tiết insulin, NGOẠI TRỪ:",
+    "options": {
+      "A": "Nồng độ glucose trong máu",
+      "B": "Nồng độ acid amin trong máu",
+      "C": "Các hormon của dạ dày, ruột như gastrin, secretin",
+      "D": "Thể tích dịch ngoại bào"
+    }
+  },
+  "sly.6.154": {
+    "question": "Tác dụng nào sau đây đúng với hormon glucagon?",
+    "options": {
+      "A": "Kích thích tổng hợp glycogen tại cơ",
+      "B": "Kích thích phân hủy glycogen tại gan",
+      "C": "Ức chế enzyme adenyl cyclase (tạo AMP vòng) trong gan",
+      "D": "Kích thích tổng hợp triglyceride dự trữ trong mô mỡ"
+    }
+  },
+  "sly.6.155": {
+    "question": "Một bữa ăn giàu protein, nhưng ít carbohydrate sẽ ảnh hưởng như thế nào lên hoạt động của các tế bào nội tiết tại đảo tụy Langerhans?",
+    "options": {
+      "A": "Kích thích bài tiết glucagon",
+      "B": "Kích thích bài tiết insulin",
+      "C": "Ức chế bài tiết glucagon",
+      "D": "Không ảnh hưởng lên hoạt động của các tế bào đảo tụy"
+    }
+  },
+  "sly.6.156": {
+    "question": "Yếu tố nào sau đây kích thích sự bài tiết glucagon?",
+    "options": {
+      "A": "Giảm nồng độ acid amin huyết tương",
+      "B": "Tăng nồng độ acid amin huyết tương",
+      "C": "Tăng nồng độ glucose huyết tương",
+      "D": "Sự bài tiết somatostatin từ các tế bào delta ở đảo tụy"
+    }
+  },
+  "sly.6.157": {
+    "question": "Hormon glucagon có các tác dụng sau đây, NGOẠI TRỪ:",
+    "options": {
+      "A": "Tăng hoạt hóa phản ứng phân hủy glycogen tại gan",
+      "B": "Tăng huy động acid béo từ mô mỡ",
+      "C": "Tăng nồng độ glucose huyết khi đói",
+      "D": "Làm tăng huy động glucose từ kho dự trữ glycogen tại cơ xương"
+    }
+  },
+  "sly.6.158": {
+    "question": "Khi sử dụng các loại thức ăn có chứa ít đường và nhiều acid amin (như sữa bổ sung đạm), tế bào beta tụy cũng bị kích thích bài tiết insulin nhưng không gây hạ đường huyết. Lý do nào sau đây hợp lý nhất để giải thích cho vấn đề này?",
+    "options": {
+      "A": "Bữa ăn gây tăng bài tiết hormon giáp",
+      "B": "Acid amin trong bữa ăn sẽ được biến đổi thành glucose",
+      "C": "Cortisol trong máu ức chế sự vận chuyển glucose vào cơ xương",
+      "D": "Acid amin kích thích tuỷ thượng thận bài tiết adrenalin"
+    }
+  },
+  "sly.6.159": {
+    "question": "Câu nào sau đây đúng với tác dụng của insulin tại mô đích?",
+    "options": {
+      "A": "Kích thích tân tạo glucose tại gan",
+      "B": "Hoạt hóa phản ứng phân hủy glycogen tại cơ xương",
+      "C": "Kích thích phản ứng tiêu hủy triglyceride trong mô mỡ",
+      "D": "Ngăn sự huy động acid béo từ mô mỡ"
+    }
+  },
+  "sly.6.160": {
+    "question": "Sự thiếu hụt insulin tuyệt đối làm tăng quá trình sử dụng lipid tạo năng lượng tại các tế bào là do nguyên nhân nào sau đây?",
+    "options": {
+      "A": "Giảm thu nhận glucose vào các mô đích của insulin qua kênh GLUT3",
+      "B": "Tăng giải phóng acid béo từ kho dự trữ trong mô mỡ",
+      "C": "Tăng tổng hợp protein tại các tế bào nên cần nhiều năng lượng hơn",
+      "D": "Tăng sự hấp thu lipid tại niêm mạc đường tiêu hóa"
+    }
+  },
+  "sly.6.161": {
+    "question": "Hoạt động của các hormon nhóm steroid gây nên sự thay đổi như thế nào tại các tế bào đích?",
+    "options": {
+      "A": "Gắn lên thụ thể nằm tại màng tế bào và kích hoạt chất truyền tin thứ 2",
+      "B": "Kích hoạt hoặc ức chế trực tiếp lên hoạt động của các enzym tại tế bào đích",
+      "C": "Mở hoặc đóng các kênh ion nằm trên màng tế bào",
+      "D": "Tác động lên sự tổng hợp protein bằng cách điều hòa biểu hiện gen"
+    }
+  },
+  "sly.6.162": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG khi nói về tuyến yên sau?",
+    "options": {
+      "A": "Dự trữ hormon do hạ đồi bài tiết",
+      "B": "Phóng thích hormon ADH làm tăng tái hấp thu nước tại ống thận xa",
+      "C": "Phóng thích hormon Oxytocin giúp co hồi cơ trơn tử cung sau sinh",
+      "D": "Có cùng nguồn gốc phôi thai học với tuyến yên trước"
+    }
+  },
+  "sly.6.163": {
+    "question": "Câu nào sau đây đúng với cặp hormon điều hòa và thành phần huyết tương tương ứng?",
+    "options": {
+      "A": "Na⁺ - Parathormone",
+      "B": "Protein - Adrenalin",
+      "C": "Nước - Vasopressin",
+      "D": "Iod - Thyroxine"
+    }
+  },
+  "sly.6.164": {
+    "question": "Câu nào KHÔNG ĐÚNG khi nói về bệnh to đầu chi (acromegaly)?",
+    "options": {
+      "A": "Bệnh nhân thường có biểu hiện biến dạng khuôn mặt",
+      "B": "Do tuyến yên tăng cường bài tiết hormon GH",
+      "C": "Xương bị kích thích phát triển to bề theo chiều ngang",
+      "D": "Xảy ra trước tuổi dậy thì"
+    }
+  },
+  "sly.6.165": {
+    "question": "Câu nào sau đây KHÔNG ĐÚNG khi nói về hormon steroid?",
+    "options": {
+      "A": "Được tổng hợp từ cholesterol",
+      "B": "Có thụ thể nằm trong tế bào chất",
+      "C": "Thường gặp ở tuyến thượng thận và tuyến sinh dục",
+      "D": "Tác động lên tế bào đích thông qua chất truyền tin thứ 2"
+    }
+  },
+  "sly.6.166": {
+    "question": "Kênh nào sau đây tăng biểu hiện trên bề mặt tế bào biểu mô ống lượn xa dưới tác dụng của ADH?",
+    "options": {
+      "A": "Kênh Natri",
+      "B": "Kênh Kali",
+      "C": "Kênh Aquaporin",
+      "D": "Kênh Canxi"
+    }
+  },
+  "sly.6.167": {
+    "question": "Hormon nào sau đây của vùng hạ đồi có vai trò kích thích tuyến yên bài tiết Prolactin?",
+    "options": {
+      "A": "CRH",
+      "B": "GHRH",
+      "C": "TRH",
+      "D": "PRH"
+    }
+  },
+  "sly.6.169": {
+    "question": "Hormon nào sau đây có thụ thể nằm trong tế bào chất?",
+    "options": {
+      "A": "FSH",
+      "B": "ADH",
+      "C": "Cortisol",
+      "D": "Insulin"
+    }
+  },
+  "sly.6.170": {
+    "question": "Một bệnh nhân nữ đến khám vì tiểu rất nhiều lần trong ngày, tiểu không gắt buốt, không đau bụng. Bệnh nhân có cảm giác khát thường xuyên và phải uống nước liên tục. Bệnh nhân được cho làm xét nghiệm, kết quả cho thấy tỉ trọng nước tiểu giảm. Theo anh/chị có sự rối loạn trong hoạt động của hormon nào?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "ADH",
+      "C": "Cortisol",
+      "D": "Oxytocin"
+    }
+  }
+}
+
+

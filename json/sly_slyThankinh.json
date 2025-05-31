@@ -1,0 +1,823 @@
+{
+  "sly.7.1": {
+    "question": "Một bệnh nhân nữ là giáo viên tiểu học đến khám vì gặp khó khăn khi viết khoảng vài tháng gần đây, nét chữ nguệch ngoạc, to nhỏ không đều. Tổn thương có thể xảy ra ở vị trí nào?",
+    "options": {
+      "A": "Vỏ não",
+      "B": "Hạch nền não",
+      "C": "Tiểu não",
+      "D": "Sừng trước tuỷ"
+    }
+  },
+  "sly.7.2": {
+    "question": "Dấu hiệu nào gợi ý có tổn thương neuron vận động trên?",
+    "options": {
+      "A": "Yếu cơ",
+      "B": "Giảm phản xạ gân xương",
+      "C": "Giảm trương lực cơ",
+      "D": "Phản xạ lòng bàn chân đáp ứng gập"
+    }
+  },
+  "sly.7.3": {
+    "question": "Dấu hiệu nào gợi ý có tổn thương neuron vận động dưới?",
+    "options": {
+      "A": "Teo cơ",
+      "B": "Tăng phản xạ gân xương",
+      "C": "Tăng trương lực cơ",
+      "D": "Phản xạ lòng bàn chân đáp ứng duỗi"
+    }
+  },
+  "sly.7.4": {
+    "question": "Dấu hiệu nào gợi ý có tổn thương neuron vận động trên?",
+    "options": {
+      "A": "Tăng phản xạ gân xương",
+      "B": "Giảm trương lực cơ",
+      "C": "Phản xạ lòng bàn chân đáp ứng gập",
+      "D": "Rung giật bó cơ"
+    }
+  },
+  "sly.7.5": {
+    "question": "Dấu hiệu nào gợi ý có tổn thương neuron vận động dưới?",
+    "options": {
+      "A": "Phì đại cơ",
+      "B": "Tăng phản xạ gân xương",
+      "C": "Giảm trương lực cơ",
+      "D": "Phản xạ lòng bàn chân đáp ứng duỗi"
+    }
+  },
+  "sly.7.6": {
+    "question": "Động mạch (ĐM) nào cấp máu cho đoạn tuỷ cổ?",
+    "options": {
+      "A": "ĐM tuỷ trước",
+      "B": "ĐM tuỷ sau",
+      "C": "ĐM cột sống",
+      "D": "ĐM tiểu não sau dưới"
+    }
+  },
+  "sly.7.7": {
+    "question": "Dự đoán phản xạ cơ nhị đầu cánh tay, cơ tam đầu cánh tay thay đổi như thế nào sau khi tổn thương tế bào sừng trước tuỷ chi phối rễ thần kinh C6?",
+    "options": {
+      "A": "PX cơ nhị đầu mất, PX cơ tam đầu mất",
+      "B": "PX cơ nhị đầu mất, PX cơ tam đầu bình thường",
+      "C": "PX cơ nhị đầu bình thường, PX cơ tam đầu mất",
+      "D": "PX cơ nhị đầu tăng, PX cơ tam đầu mất"
+    }
+  },
+  "sly.7.8": {
+    "question": "Các biện pháp trị liệu nào có thể cải thiện tình trạng cử động chậm chạp trên bệnh nhân Parkinson?",
+    "options": {
+      "A": "Ức chế men catechol-O-methyltransferase",
+      "B": "Tăng cường men monoamine oxidase-B",
+      "C": "Kích thích nhân đồi thị sau bên",
+      "D": "Kích thích cầu nhạt trong"
+    }
+  },
+  "sly.7.9": {
+    "question": "Các chất dẫn truyền thần kinh có thể thay đổi như thế nào trên các bệnh nhân trầm cảm?",
+    "options": {
+      "A": "Giảm serotonin và norepinephrine",
+      "B": "Giảm serotonin và tăng acetylcholine",
+      "C": "Tăng lượng GABA và serotonin",
+      "D": "Tăng lượng serotonin và epinephrine"
+    }
+  },
+  "sly.7.10": {
+    "question": "Tổn thương hải mã có thể gây ảnh hưởng đến chức năng gì của hệ thần kinh?",
+    "options": {
+      "A": "Run không chủ ý",
+      "B": "Trí nhớ",
+      "C": "Thay đổi hành vi, cảm xúc",
+      "D": "Liệt nửa người"
+    }
+  },
+  "sly.7.11": {
+    "question": "Đường bó tháp có đặc điểm như thế nào?",
+    "options": {
+      "A": "Gồm bó tháp thẳng và bó tháp chéo, dẫn truyền xung động vận động tuỷ ý",
+      "B": "Bó tháp thẳng bắt chéo trong hành não, dẫn truyền các xung động vận động và phối hợp với tiểu não",
+      "C": "Bó tháp chéo bắt chéo trong chất xám tuỷ gai T1 đến L3, dẫn truyền xung động vận động không tuỳ ý",
+      "D": "Vai trò chính là bó tháp thẳng"
+    }
+  },
+  "sly.7.12": {
+    "question": "Nhận định nào KHÔNG ĐÚNG khi mô tả đường ngoại tháp?",
+    "options": {
+      "A": "Bó nhân đỏ – tuỷ: xuất phát từ nhân đỏ ở cuống đại não",
+      "B": "Bó mái – tuỷ: xuất phát từ củ não sinh tư của tiểu não",
+      "C": "Bó tiền đình – tuỷ: xuất phát từ nhân tiền đình trong hành não",
+      "D": "Bó trám – tuỷ: xuất phát từ nhân trám hành não"
+    }
+  },
+  "sly.7.13": {
+    "question": "Câu nào KHÔNG ĐÚNG với hệ thần kinh tự chủ?",
+    "options": {
+      "A": "Được phân phối đến cơ quan nội tạng",
+      "B": "Tạo phản ứng không theo ý muốn",
+      "C": "Còn gọi là hệ thần kinh tự động",
+      "D": "Tạo các cử động nhờ hệ cơ xương"
+    }
+  },
+  "sly.7.14": {
+    "question": "Hệ thần kinh tự chủ KHÔNG mang đặc điểm nào?",
+    "options": {
+      "A": "Gồm có 3 hệ là giao cảm, đối giao cảm và hệ thần kinh trung ương",
+      "B": "Có trung khu phân bố ở chất xám tuỷ gai liên tục từ đốt sống ngực T1 đến đốt sống lưng L3",
+      "C": "Được phân bố ở não giữa, hành não và vùng tuỷ cùng (S2, S3 và S4)",
+      "D": "Có trung khu cao cấp ở vùng hạ đồi"
+    }
+  },
+  "sly.7.15": {
+    "question": "Hệ giao cảm có đặc điểm gì?",
+    "options": {
+      "A": "Có các hạch giao cảm cạnh sống và trước sống",
+      "B": "Trung khu ở phần trước vùng hạ đồi",
+      "C": "Kích thích làm giãn đồng tử",
+      "D": "Tất cả đều đúng"
+    }
+  },
+  "sly.7.16": {
+    "question": "Hạch sao mang đặc điểm gì?",
+    "options": {
+      "A": "Có sợi trước hạch xuất phát từ T1–T10",
+      "B": "Còn được gọi là hạch cổ trên",
+      "C": "Các sợi sau hạch đi theo dây thần kinh IV và VI",
+      "D": "Các sợi sau hạch đi tới các cơ quan vùng cổ, chi trên"
+    }
+  },
+  "sly.7.17": {
+    "question": "Trung khu hệ giao cảm được phân bố ở đâu?",
+    "options": {
+      "A": "Sừng bên chất xám tuỷ gai T1 đến L3",
+      "B": "Sừng bên chất xám tuỷ gai T1 đến L5",
+      "C": "Sừng bên chất xám tuỷ gai T1 đến T10",
+      "D": "Dọc hai bên các đốt sống cổ"
+    }
+  },
+  "sly.7.18": {
+    "question": "Trung khu hệ đối giao cảm được phân bố ở nơi nào?",
+    "options": {
+      "A": "Dọc theo các đốt sống lưng",
+      "B": "Rải rác từ hành não đến hai bên đốt sống cổ",
+      "C": "Hành não, não giữa và vùng tuỷ cùng",
+      "D": "Không có phân bố rõ ràng"
+    }
+  },
+  "sly.7.19": {
+    "question": "Hạch đám rối thái dương KHÔNG mang đặc điểm gì?",
+    "options": {
+      "A": "Nhận các sợi trước hạch từ T5–T10",
+      "B": "Là hạch trước sống",
+      "C": "Còn gọi là hạch mạc treo tràng dưới",
+      "D": "Các sợi sau hạch đi tới dạ dày, gan, lách, ruột non"
+    }
+  },
+  "sly.7.20": {
+    "question": "Đám rối Meissner và Auerbach KHÔNG mang đặc điểm gì?",
+    "options": {
+      "A": "Là các hạch đối giao cảm",
+      "B": "Nhận các sợi trước hạch nằm trong thần kinh X",
+      "C": "Sợi trước hạch xuất phát từ hành não",
+      "D": "Chi phối tuyến nước bọt dưới hàm và dưới lưỡi"
+    }
+  },
+  "sly.7.21": {
+    "question": "Hệ đối giao cảm KHÔNG mang đặc điểm gì?",
+    "options": {
+      "A": "Trung tâm đối giao cảm ở hành não",
+      "B": "Các sợi trước hạch theo dây X đến hạch đối giao cảm nằm ở xa tim",
+      "C": "Các sợi sau hạch đến nút xoang và nút nhĩ thất",
+      "D": "Chất dẫn truyền thần kinh là acetylcholine"
+    }
+  },
+  "sly.7.22": {
+    "question": "Cung phản xạ của hệ thần kinh tự chủ có đặc điểm như thế nào?",
+    "options": {
+      "A": "Neuron sau hạch tương ứng neuron trung gian của thần kinh trung ương",
+      "B": "Neuron vận động xuất phát từ hạch ngoại biên",
+      "C": "Neuron cảm giác có myelin nên dẫn truyền xung động rất nhanh",
+      "D": "Giống cung phản xạ của hệ thần kinh trung ương"
+    }
+  },
+  "sly.7.23": {
+    "question": "Hệ thần kinh tự chủ KHÔNG có tác dụng gì?",
+    "options": {
+      "A": "Kích thích đối giao cảm co cơ thắt đồng tử",
+      "B": "Kích thích giao cảm làm giãn cơ tia của mống mắt",
+      "C": "Kích thích đối giao cảm co cơ mi lại",
+      "D": "Hệ đối giao cảm điều tiết thủy tinh thể"
+    }
+  },
+  "sly.7.24": {
+    "question": "Tác dụng của hệ thần kinh tự chủ lên cơ thể như thế nào?",
+    "options": {
+      "A": "Kích thích đối giao cảm làm tiết nhiều mồ hôi",
+      "B": "Kích thích đối giao cảm làm tăng tiết dịch tuỵ",
+      "C": "Kích thích giao cảm làm giảm tiêu glycogen của cơ",
+      "D": "Kích thích đối giao cảm làm tăng lượng nước tiểu"
+    }
+  },
+  "sly.7.25": {
+    "question": "Kích thích hệ thần kinh tự chủ trên hệ tiêu hoá gây tác dụng gì?",
+    "options": {
+      "A": "Kích thích giao cảm làm tăng nhu động ruột",
+      "B": "Kích thích giao cảm có thể làm viêm loét tá tràng",
+      "C": "Kích thích đối giao cảm làm giảm bài tiết dịch tiêu hoá",
+      "D": "Kích thích đối giao cảm làm tăng trương lực cơ thắt của ống tiêu hoá"
+    }
+  },
+  "sly.7.26": {
+    "question": "Tác dụng của hệ giao cảm trên hệ tim mạch như thế nào?",
+    "options": {
+      "A": "Tăng thời gian tâm trương",
+      "B": "Giảm khoảng PR trong điện tâm đồ",
+      "C": "Giảm sức co bóp cơ tim",
+      "D": "Giảm dẫn truyền xung động cơ tim"
+    }
+  },
+  "sly.7.27": {
+    "question": "Propranolol là một loại thuốc ức chế β không chọn lọc (ức chế cả β1, β2). Sử dụng thuốc có thể gây tác dụng như thế nào?",
+    "options": {
+      "A": "Hạ huyết áp, giãn cơ trơn phế quản",
+      "B": "Tăng chuyển hóa cơ bản",
+      "C": "Tăng tiết insulin, giảm tiết glucagon",
+      "D": "Tăng co thắt các cơ trơn ở ống gan, túi mật, niệu quản, bàng quang"
+    }
+  },
+  "sly.7.28": {
+    "question": "Hệ thần kinh tự chủ có tác dụng như thế nào trên đồng tử?",
+    "options": {
+      "A": "Kích thích giao cảm làm co cơ tia của mống mắt gây giãn đồng tử",
+      "B": "Kích thích đối giao cảm làm co cơ vòng mống mắt gây co đồng tử",
+      "C": "Kích thích giao cảm gây giãn cơ tia của mống mắt làm giãn đồng tử",
+      "D": "A và B đúng"
+    }
+  },
+  "sly.7.29": {
+    "question": "Vai trò của hệ thần kinh tự chủ trong hiện tượng điều tiết ở mắt thể nào?",
+    "options": {
+      "A": "Điều tiết thủy tinh thể được kiểm soát hoàn toàn bởi hệ giao cảm",
+      "B": "Điều tiết thủy tinh thể được kiểm soát hoàn toàn bởi hệ đối giao cảm",
+      "C": "Kích thích đối giao cảm làm cơ mi giãn ra",
+      "D": "Thần kinh giao cảm gây co cơ mi, làm tăng sức căng của dây chằng treo, nên thủy tinh thể lồi hơn"
+    }
+  },
+  "sly.7.30": {
+    "question": "Hệ thần kinh tự chủ có tác dụng như thế nào?",
+    "options": {
+      "A": "Kích thích hệ đối giao cảm gây tăng tiết các tuyến ở dạ dày, tuỵ, mật",
+      "B": "Kích thích hệ đối giao cảm gây giảm sự bài tiết các tuyến",
+      "C": "Kích thích đối giao cảm làm tăng nhu động ruột và giảm trương lực cơ vòng",
+      "D": ""
+    }
+  },
+  "sly.7.31": {
+    "question": "Ảnh hưởng của hệ thần kinh tự chủ trên hệ tiêu hoá như thế nào?",
+    "options": {
+      "A": "Kích thích hệ giao cảm sẽ ức chế nhu động ruột, làm giảm vận chuyển thức ăn dọc ống tiêu hoá",
+      "B": "Kích thích hệ giao cảm làm tăng nhu động ruột và tăng sự vận chuyển thức ăn dọc ống tiêu hoá",
+      "C": "Kích thích hệ giao cảm làm tăng bài tiết chất nhầy ở tuyến Brunner tá tràng",
+      "D": "Kích thích hệ giao cảm làm tăng sự bài tiết chất nhầy ở các tuyến Brunner của tá tràng"
+    }
+  },
+  "sly.7.32": {
+    "question": "Tác dụng của giao cảm KHÔNG gây đáp ứng nào ở tim?",
+    "options": {
+      "A": "Tăng nhịp tim",
+      "B": "Tăng sức co bóp của cơ tim",
+      "C": "Kích thích giao cảm bên phải làm tăng nhịp tim nhiều hơn",
+      "D": "Giảm truyền xung động trong cơ tim"
+    }
+  },
+  "sly.7.33": {
+    "question": "Hệ giao cảm có tác dụng như thế nào trên các cơ quan?",
+    "options": {
+      "A": "Giãn cơ Reissessen",
+      "B": "Co phế quản",
+      "C": "Giãn mạch máu ở phổi",
+      "D": "Tăng áp suất mao mạch cầu thận"
+    }
+  },
+  "sly.7.34": {
+    "question": "Hệ đối giao cảm có tác dụng như thế nào trên các cơ quan?",
+    "options": {
+      "A": "Tăng glucose máu",
+      "B": "",
+      "C": "",
+      "D": ""
+    }
+  },
+  "sly.7.35": {
+    "question": "Epinephrine và norepinephrine có đặc điểm gì khác nhau?",
+    "options": {
+      "A": "Kích thích thần kinh giao cảm đến tuỷ thượng thận làm phóng thích 25% norepinephrine và 25% epinephrine",
+      "B": "Tác dụng của norepinephrine tuần hoàn dài hơn tác dụng của hệ giao cảm",
+      "C": "Norepinephrine tác động lên tim mạnh hơn epinephrine",
+      "D": "Norepinephrine làm tăng cung lượng tim mạnh hơn epinephrine"
+    }
+  },
+  "sly.7.36": {
+    "question": "Kích thích hoạt động thần kinh tự chủ KHÔNG gây tác động nào trên cơ trơn?",
+    "options": {
+      "A": "Hệ giao cảm làm co thắt hầu hết các mạch máu tạng, da",
+      "B": "Hệ đối giao cảm làm giãn hầu hết các mạch máu",
+      "C": "Hệ giao cảm làm co cơ Reissessen tiểu phế quản",
+      "D": "Hệ giao cảm thận gây co tiểu động mạch vào cầu thận"
+    }
+  },
+  "sly.7.37": {
+    "question": "Tương quan giữa hệ giao cảm và hệ đối giao cảm trong điều kiện bình thường như thế nào?",
+    "options": {
+      "A": "Hệ giao cảm hoạt động mạnh hơn hệ đối giao cảm",
+      "B": "Hệ giao cảm hoạt động yếu hơn hệ đối giao cảm",
+      "C": "Hệ giao cảm và hệ đối giao cảm hoạt động liên tục và ở mức độ cân bằng",
+      "D": "Cân bằng, nghiêng về giao cảm hay đối giao cảm tuỳ kiểm soát của đồi thị"
+    }
+  },
+  "sly.7.38": {
+    "question": "Hủy tất cả hệ giao cảm tới hệ tim mạch sẽ gây ra hậu quả gì trên huyết áp động mạch?",
+    "options": {
+      "A": "Giảm trầm trọng",
+      "B": "Giảm nhẹ",
+      "C": "Bình thường",
+      "D": "Tăng cao"
+    }
+  },
+  "sly.7.39": {
+    "question": "Điều gì xảy ra khi cắt bỏ thần kinh giao cảm đến mạch máu?",
+    "options": {
+      "A": "Mạch máu giãn tối đa",
+      "B": "Mạch máu hơi giãn",
+      "C": "Co mạch bình thường",
+      "D": "Trương lực nội tại trong mạch máu giảm đi"
+    }
+  },
+  "sly.7.40": {
+    "question": "Cắt bỏ hạch sao, sau đó một tuần chích norepinephrine vào thì lưu lượng máu đến tay thay đổi như thế nào?",
+    "options": {
+      "A": "Giảm rất ít như chưa cắt hạch sao",
+      "B": "Giảm nhiều hơn khi chưa cắt hạch sao",
+      "C": "Hơi tăng hơn khi chưa cắt hạch sao",
+      "D": "Tăng nhiều hơn khi chưa cắt hạch sao"
+    }
+  },
+  "sly.7.41": {
+    "question": "Hiện tượng tăng tính nhạy cảm do cắt thần kinh giao cảm hay đối giao cảm là do nguyên nhân nào?",
+    "options": {
+      "A": "Tăng các thụ thể ở màng sau synapse của tế bào đích",
+      "B": "Thay đổi ngưỡng kích thích của tế bào đích",
+      "C": "Giảm số lượng enzyme tiêu hủy acetylcholine hay norepinephrine",
+      "D": "Thay đổi điện thế màng tế bào đích"
+    }
+  },
+  "sly.7.42": {
+    "question": "Hệ thần kinh tự chủ KHÔNG gây tác dụng nào trên các tạng rỗng?",
+    "options": {
+      "A": "Kích thích giao cảm sẽ làm co cơ thắt của các tạng rỗng",
+      "B": "Kích thích đối giao cảm sẽ làm giãn cơ thắt của các tạng rỗng",
+      "C": "Kích thích đối giao cảm sẽ làm co cơ thắt của các tạng rỗng",
+      "D": "Kích thích giao cảm hay đối giao cảm đều kích thích cơ thắt các tạng rỗng"
+    }
+  },
+  "sly.7.43": {
+    "question": "Câu nào đúng với năm thành phần của một cung phản xạ tự động tim mạch điều chỉnh huyết áp?",
+    "options": {
+      "A": "Áp thụ quan, hành não, thần kinh X, thần kinh tim lớn, nút xoang",
+      "B": "Thụ thể áp suất tại xoang cảnh và quai động mạch chủ, thần kinh X, hành não, thần kinh giao cảm, nút xoang",
+      "C": "Áp thụ quan, thần kinh giao cảm, hành não, thần kinh X, nút xoang",
+      "D": "Áp thụ quan, dây thần kinh truyền vào, hành não, thần kinh X, nút xoang"
+    }
+  },
+  "sly.7.44": {
+    "question": "Câu nào KHÔNG ĐÚNG với phản xạ tự động điều chỉnh huyết áp?",
+    "options": {
+      "A": "Khi huyết áp tăng thì dây đối giao cảm được hoạt hóa",
+      "B": "Khi huyết áp tăng thì hành não cũng bị kích thích",
+      "C": "Khi huyết áp giảm thì áp thụ quan (baroreceptor) bớt bị kích thích",
+      "D": "Khi huyết áp giảm thì các dấu hiệu truyền đến hành não ức chế các xung động giao cảm"
+    }
+  },
+  "sly.7.45": {
+    "question": "Huyết áp tăng sẽ ảnh hưởng như thế nào lên hệ thần kinh tự chủ?",
+    "options": {
+      "A": "Dây đối giao cảm bị kích thích và dây giao cảm bị ức chế",
+      "B": "Dây đối giao cảm bị ức chế",
+      "C": "Dây giao cảm bị kích thích",
+      "D": "Dây giao cảm làm mạch bớt co thắt"
+    }
+  },
+  "sly.7.46": {
+    "question": "Trong phản xạ tống nước tiểu của bàng quang, khi bàng quang bị căng (do lượng nước tiểu khoảng 300–400 ml) điều gì sẽ xảy ra?",
+    "options": {
+      "A": "Phản xạ thần kinh tự chủ sẽ làm co thắt bàng quang và làm giãn cơ thắt trong còn cơ thắt ngoài thì chỉ mở khi ta tự ý đi tiểu",
+      "B": "Thần kinh giao cảm làm co thắt bàng quang và giãn cơ vòng làm đi tiểu ngay",
+      "C": "Đoạn tuỷ cùng bị kích thích tạo xung động thần kinh theo dây giao cảm kích thích bàng quang co thắt, cơ vòng giãn ra làm nước tiểu thoát ra ngoài",
+      "D": "Không có phản xạ tự động tống xuất nước tiểu"
+    }
+  },
+  "sly.7.47": {
+    "question": "Hoạt động nào KHÔNG phải là phản xạ thần kinh tự chủ?",
+    "options": {
+      "A": "Bài tiết dịch tuỵ, mật",
+      "B": "Điều hoà nồng độ glucose máu",
+      "C": "Tăng hoạt động khi bị stress",
+      "D": "Tăng trương lực cơ vân"
+    }
+  },
+  "sly.7.48": {
+    "question": "Ảnh hưởng của stress lên hoạt động cơ thể như thế nào?",
+    "options": {
+      "A": "Hệ giao cảm và đối giao cảm đều tăng cường hoạt động",
+      "B": "Hoạt động tiêu hoá và hấp thu giảm để cung cấp năng lượng cho cơ thể",
+      "C": "Đường huyết và huyết áp tăng",
+      "D": "Lượng máu đến tất cả cơ quan tăng"
+    }
+  },
+  "sly.7.49": {
+    "question": "Chỗ tận cùng của hệ thần kinh tự chủ có đặc điểm như thế nào?",
+    "options": {
+      "A": "Cũng giống như của hệ thần kinh động vật",
+      "B": "Có phiên tận cùng",
+      "C": "Phân bố sao cho mỗi neuron kích thích chuyên biệt một tế bào cơ trơn",
+      "D": "Có các nốt phồng, chứa các hạt dự trữ các chất dẫn truyền thần kinh"
+    }
+  },
+  "sly.7.50": {
+    "question": "Norepinephrine là chất dẫn truyền thần kinh của sợi thần kinh nào?",
+    "options": {
+      "A": "Sợi sau hạch giao cảm đến các tuyến mồ hôi",
+      "B": "Sợi sau hạch giao cảm đến các cơ dựng lông",
+      "C": "Sợi trước hạch của hệ đối giao cảm",
+      "D": "Sợi sau hạch giao cảm"
+    }
+  },
+  "sly.7.51": {
+    "question": "Epinephrine có tác dụng trên tế bào đích như thế nào?",
+    "options": {
+      "A": "Thông qua thụ thể alpha là chính",
+      "B": "Thông qua thụ thể beta là chính",
+      "C": "Chỉ thông qua thụ thể beta_1",
+      "D": "Thông qua 2 thụ thể là alpha và beta"
+    }
+  },
+  "sly.7.52": {
+    "question": "Tác dụng của norepinephrine ở tế bào đích thông qua thụ thể thế nào?",
+    "options": {
+      "A": "Ưu thế trên thụ thể alpha",
+      "B": "Ưu thế trên thụ thể beta",
+      "C": "Chỉ thông qua thụ thể beta_2",
+      "D": "Gắn 2 thụ thể alpha và beta như nhau"
+    }
+  },
+  "sly.7.53": {
+    "question": "Thụ thể beta được tìm thấy ở màng của tế bào nào?",
+    "options": {
+      "A": "Tế bào cơ trơn mạch ngoại biên",
+      "B": "Tế bào cơ trơn mạch máu nội tạng",
+      "C": "Tế bào cơ tim",
+      "D": "Tế bào cơ xương"
+    }
+  },
+  "sly.7.54": {
+    "question": "Thụ thể β_1 được phân bố ở nơi nào?",
+    "options": {
+      "A": "Cơ trơn mạch vành",
+      "B": "Nút xoang và nút nhĩ thất",
+      "C": "Cơ Reissessen ở phế quản",
+      "D": "Cơ trơn ống tiêu hoá"
+    }
+  },
+  "sly.7.55": {
+    "question": "Norepinephrine khi gắn vào thụ thể alpha sẽ gây ra tác dụng gì?",
+    "options": {
+      "A": "Giãn cơ trơn mạch máu ngoại biên",
+      "B": "Co cơ trơn mạch máu nội tạng",
+      "C": "Tăng co bóp cơ tim",
+      "D": "Giãn cơ trơn phế quản"
+    }
+  },
+  "sly.7.56": {
+    "question": "Thụ thể β_2 có đặc điểm gì?",
+    "options": {
+      "A": "Hoạt động thông qua chất truyền tin thứ hai là inositol triphosphate",
+      "B": "Khi gắn với norepinephrine ở cơ trơn phế quản sẽ làm giãn phế quản",
+      "C": "Khi hưng phấn sẽ làm giãn tử cung",
+      "D": "Khi hưng phấn sẽ làm co phế quản"
+    }
+  },
+  "sly.7.57": {
+    "question": "Thụ thể alpha có đặc điểm gì?",
+    "options": {
+      "A": "Gắn được với chất truyền tin hóa học có trọng lượng phân tử 100.000 dalton",
+      "B": "Gắn được với chất truyền tin hóa học có nhánh bên NH₂",
+      "C": "Gắn được với chất truyền tin hóa học có nhánh bên CH₃",
+      "D": "Gắn được với chất truyền tin hóa học có nhánh bên COOH"
+    }
+  },
+  "sly.7.58": {
+    "question": "Acetylcholine KHÔNG phải là chất dẫn truyền thần kinh ở các cấu trúc nào sau đây?",
+    "options": {
+      "A": "Hạch giao cảm và đối giao cảm",
+      "B": "Neuron sau hạch đối giao cảm",
+      "C": "Các sợi trước hạch của cả hai hệ giao cảm và đối giao cảm",
+      "D": "Các sợi sau hạch của cả hai hệ giao cảm và đối giao cảm"
+    }
+  },
+  "sly.7.59": {
+    "question": "Câu nào đúng với epinephrine/norepinephrine?",
+    "options": {
+      "A": "Epinephrine được tiếp nhận bởi cả hai thụ thể α và β ở mức ngang nhau",
+      "B": "Norepinephrine được tiếp nhận bởi cả hai thụ thể α và β ở mức ngang nhau",
+      "C": "Epinephrine chỉ được tiếp nhận bởi thụ thể α",
+      "D": "Norepinephrine chỉ được tiếp nhận bởi thụ thể β"
+    }
+  },
+  "sly.7.60": {
+    "question": "Câu nào đúng với tác động của dây adrenergic trên tế bào cơ trơn?",
+    "options": {
+      "A": "Tăng tính thấm màng với Na⁺ làm tế bào khó bị khử cực",
+      "B": "Giảm tính thấm màng với Na⁺ làm tế bào khó bị khử cực",
+      "C": "Tăng tính thấm màng với K⁺ làm tế bào dễ bị khử cực",
+      "D": "Không câu nào nêu trên là đúng"
+    }
+  },
+  "sly.7.61": {
+    "question": "Hoạt động của hệ thần kinh tự chủ có đặc điểm gì?",
+    "options": {
+      "A": "Có tính tự động không chịu sự điều khiển của vỏ não",
+      "B": "Không chịu sự điều khiển của hệ lưới",
+      "C": "Không chịu sự điều khiển của vùng hạ đồi",
+      "D": "Chịu sự điều khiển của hệ thần kinh trung ương"
+    }
+  },
+  "sly.7.62": {
+    "question": "Acetylcholine gây ra hiện tượng gì ở các tế bào?",
+    "options": {
+      "A": "Gây khử cực màng tế bào phía trước các synapse",
+      "B": "Ngăn sự khử cực của màng tế bào cơ",
+      "C": "Gây khử cực màng tế bào sau synapse",
+      "D": "Gắn với thụ thể kênh làm cho Na đi ra K đi vào"
+    }
+  },
+  "sly.7.141": {
+    "question": "Bó tuỷ–tiểu não thẳng dẫn truyền cảm giác gì?",
+    "options": {
+      "A": "Cảm giác sâu có ý thức",
+      "B": "Cảm giác sâu không ý thức",
+      "C": "Cảm giác thô sơ",
+      "D": "Cảm giác về trương lực cơ"
+    }
+  },
+  "sly.7.142": {
+    "question": "Bó tháp dẫn truyền tín hiệu nào sau đây?",
+    "options": {
+      "A": "Cảm giác sâu có ý thức",
+      "B": "Cảm giác sâu không ý thức",
+      "C": "Vận động tuỷ ý",
+      "D": "Trương lực cơ"
+    }
+  },
+  "sly.7.143": {
+    "question": "Đường dẫn truyền cảm giác nhiệt độ và đau bắt chéo tại đâu?",
+    "options": {
+      "A": "Tuỷ gai",
+      "B": "Hành não",
+      "C": "Cầu não",
+      "D": "Não giữa"
+    }
+  },
+  "sly.7.144": {
+    "question": "Đường dẫn truyền cảm giác sâu có ý thức bắt chéo tại đâu?",
+    "options": {
+      "A": "Tuỷ gai",
+      "B": "Hành não",
+      "C": "Cầu não",
+      "D": "Não giữa"
+    }
+  },
+  "sly.7.145": {
+    "question": "Đường cảm giác sâu có ý thức dẫn truyền cảm giác gì?",
+    "options": {
+      "A": "Cảm giác bản thể",
+      "B": "Nhiệt độ và đau",
+      "C": "Trương lực cơ",
+      "D": "Phối hợp động tác"
+    }
+  },
+  "sly.7.146": {
+    "question": "Một bệnh nhân bị thoát vị đĩa đệm chèn ép rễ thần kinh L3–L4. Phản xạ nào có thể mất?",
+    "options": {
+      "A": "Phản xạ da bụng",
+      "B": "Phản xạ đùi trước",
+      "C": "Phản xạ gân bánh chè",
+      "D": "Phản xạ gân gót"
+    }
+  },
+  "sly.7.147": {
+    "question": "Câu nào đúng với chức năng của tiểu não?",
+    "options": {
+      "A": "Lưu trữ và phục hồi trí nhớ",
+      "B": "Giải thích tín hiệu cảm giác",
+      "C": "Kiểm soát thức tỉnh",
+      "D": "Điều hoà trương lực cơ"
+    }
+  },
+  "sly.7.148": {
+    "question": "Salbutamol là thuốc đồng vận β₂ giao cảm. Chất dẫn truyền thần kinh nào giúp hoạt hoá thụ thể đích của salbutamol?",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "Norepinephrine",
+      "C": "Serotonin",
+      "D": "Dopamine"
+    }
+  },
+  "sly.7.149": {
+    "question": "Khi kích thích hệ thần kinh giao cảm sẽ gây tác dụng gì?",
+    "options": {
+      "A": "Giãn cơ trơn mạch máu ngoại biên",
+      "B": "Giảm sản xuất glucose",
+      "C": "Tăng lượng nước tiểu",
+      "D": "Tăng tiết mồ hôi"
+    }
+  },
+  "sly.7.150": {
+    "question": "Đáp ứng của tim như thế nào khi kích thích hệ thần kinh tự chủ?",
+    "options": {
+      "A": "Kích thích hệ giao cảm làm giảm truyền xung động trong cơ tim",
+      "B": "Kích thích hệ giao cảm bên phải làm tăng nhịp tim hơn bên trái",
+      "C": "Kích thích hệ đối giao cảm làm tăng nhịp tim",
+      "D": "Kích thích hệ đối giao cảm làm tăng co bóp cơ tim"
+    }
+  },
+  "sly.7.151": {
+    "question": "Kích thích hệ giao cảm tác động như thế nào?",
+    "options": {
+      "A": "Giảm co bóp cơ tim",
+      "B": "Giãn cơ Reissessen",
+      "C": "Giãn mạch máu ở phổi",
+      "D": "Co đồng tử"
+    }
+  },
+  "sly.7.152": {
+    "question": "Kích thích hệ đối giao cảm có tác dụng gì?",
+    "options": {
+      "A": "Tăng chuyển hoá cơ bản",
+      "B": "Tăng co thắt cơ trơn đường tiêu hoá",
+      "C": "Tăng lipid máu",
+      "D": "Tăng tiết insulin, giảm tiết glucagon"
+    }
+  },
+  "sly.7.153": {
+    "question": "Một bệnh nhân ngộ độc Clostridium botulinum với triệu chứng mệt mỏi, yếu cơ. Độc tố botulinum gắn vào màng trước synapse thần kinh – cơ gây hiện tượng nào?",
+    "options": {
+      "A": "Kháng lại kênh Ca²⁺",
+      "B": "Kháng lại kênh K⁺",
+      "C": "Kháng lại thụ thể acetylcholine",
+      "D": "Ngăn phóng thích acetylcholine"
+    }
+  },
+  "sly.7.154": {
+    "question": "Thuốc ức chế acetylcholinesterase điều trị nhược cơ có tác dụng gì?",
+    "options": {
+      "A": "Ngăn chặn sự phân huỷ acetylcholine",
+      "B": "Giảm tác động của acetylcholine lên màng tế bào cơ",
+      "C": "Giảm phóng thích acetylcholine vào khe synapse",
+      "D": "Tạo điện thế ức chế sau synapse"
+    }
+  },
+  "sly.7.155": {
+    "question": "Thụ thể β₁ được phân bố chủ yếu ở đâu?",
+    "options": {
+      "A": "Cơ Reissessen ở phế quản",
+      "B": "Cơ trơn ống tiêu hoá",
+      "C": "Cơ trơn mạch vành",
+      "D": "Nút xoang và nút nhĩ thất"
+    }
+  },
+  "sly.7.177": {
+    "question": "Trung khu cao cấp của hệ thần kinh giao cảm nằm ở đâu?",
+    "options": {
+      "A": "Phần sau vùng hạ đồi",
+      "B": "Phần trước vùng hạ đồi",
+      "C": "Thùy trước tuyến yên",
+      "D": "Thùy sau tuyến yên"
+    }
+  },
+  "sly.7.178": {
+    "question": "Trung khu cao cấp của hệ thần kinh đối giao cảm nằm ở đâu?",
+    "options": {
+      "A": "Phần sau vùng hạ đồi",
+      "B": "Phần trước vùng hạ đồi",
+      "C": "Thùy trước tuyến yên",
+      "D": "Thùy sau tuyến yên"
+    }
+  },
+  "sly.7.179": {
+    "question": "Chất Dopamin được trích ra từ phần đen (substantia nigra) có tác dụng gì trên thể vân?",
+    "options": {
+      "A": "Ức chế thụ thể D3 của thể vân",
+      "B": "Làm tăng thụ thể D1, D2 của thể vân",
+      "C": "Làm giảm thụ thể D2 và tăng thụ thể D1 (về số lượng) của thể vân",
+      "D": "Kích thích thụ thể D1 và ức chế thụ thể D2 của thể vân"
+    }
+  },
+  "sly.7.180": {
+    "question": "Bệnh Alzheimer liên quan đến chất dẫn truyền thần kinh nào?",
+    "options": {
+      "A": "Norepinephrine",
+      "B": "Adrenaline",
+      "C": "Acetylcholine",
+      "D": "Tất cả đều sai"
+    }
+  },
+  "sly.7.181": {
+    "question": "Để tạo động vật thí nghiệm ngang mức nào người ta cắt?",
+    "options": {
+      "A": "Tuỷ gai",
+      "B": "Dưới cầu não",
+      "C": "Dưới hành não",
+      "D": "Ngang cầu não"
+    }
+  },
+  "sly.7.182": {
+    "question": "Cung phản xạ tuỷ có đặc điểm như thế nào?",
+    "options": {
+      "A": "Là đường đi của xung thần kinh từ vỏ não đến cơ quan đáp ứng",
+      "B": "Gồm có 6 thành phần",
+      "C": "Khi tổn thương một thành phần, phản xạ sẽ mất hoặc rối loạn",
+      "D": "Chỉ có cảm giác đau dẫn truyền theo cung phản xạ"
+    }
+  },
+  "sly.7.183": {
+    "question": "Nhận định nào SAI khi nói về cung phản xạ tuỷ?",
+    "options": {
+      "A": "Cung phản xạ tuỷ gồm hai hoặc ba neuron",
+      "B": "Phản xạ một synapse bắt nguồn từ các thụ thể nông ngoài da",
+      "C": "Phản xạ ba neuron có thời gian tiềm tăng dài từ 3–5 ms",
+      "D": "Phản xạ đa synapse bắt nguồn từ các thụ thể da và cơ"
+    }
+  },
+  "sly.7.184": {
+    "question": "Phản xạ gân KHÔNG mang đặc điểm gì?",
+    "options": {
+      "A": "Gây ra do sự căng của các sợi cơ",
+      "B": "Có thời gian tiềm tăng rất ngắn",
+      "C": "Phản xạ gân ở động vật tuỷ thì mạnh và chỉ co một lần",
+      "D": "Phản xạ gân ở động vật bình thường thì biên độ thấp và có hai lần co"
+    }
+  },
+  "sly.7.185": {
+    "question": "Câu nào KHÔNG ĐÚNG đối với phản xạ cơ nhị đầu cánh tay?",
+    "options": {
+      "A": "Gõ lên gân cơ nhị đầu ở khuỷu tay",
+      "B": "Cơ nhị đầu co lại",
+      "C": "Cẳng tay duỗi ra",
+      "D": "Chi phối bởi thần kinh C5–C6"
+    }
+  },
+  "sly.7.186": {
+    "question": "Câu nào đúng với phản xạ gân bánh chè?",
+    "options": {
+      "A": "Gõ lên xương bánh chè, gây co cơ bốn đầu đùi, co căng chân, do đoạn tuỷ thắt lưng 3–4 chi phối",
+      "B": "Gõ lên cơ bốn đầu đùi, gây co cơ bốn đầu đùi, duỗi căng chân, do đoạn tuỷ thắt lưng 3–4 chi phối",
+      "C": "Gõ lên gân xương bánh chè, gây co cơ bốn đầu đùi, duỗi căng chân, do đoạn tuỷ thắt lưng 3–4 chi phối",
+      "D": "Gõ lên gân xương bánh chè, gây co cơ bốn đầu đùi, duỗi bàn chân, do đoạn tuỷ thắt lưng 3–4 chi phối"
+    }
+  },
+  "sly.7.187": {
+    "question": "Tính chất nào KHÔNG phù hợp với phản xạ gấp?",
+    "options": {
+      "A": "Tập cộng của phản xạ gấp",
+      "B": "Hiện tượng triệt bớt",
+      "C": "Tùy thuộc tần số kích thích",
+      "D": "Bị ức chế đối lập"
+    }
+  },
+  "sly.7.188": {
+    "question": "Phản xạ tuỷ nào KHÔNG liên quan đến hệ thần kinh tự chủ?",
+    "options": {
+      "A": "Phản xạ tiết mồ hôi và vận mạch",
+      "B": "Phản xạ bàng quang",
+      "C": "Phản xạ cương sinh dục",
+      "D": "Phản xạ chớp mắt"
+    }
+  },
+  "sly.7.189": {
+    "question": "Bó Goll–Burdoch dẫn truyền loại thông tin gì?",
+    "options": {
+      "A": "Cảm giác sâu có ý thức",
+      "B": "Cảm giác thô sơ",
+      "C": "Trương lực cơ",
+      "D": "Cảm giác xúc giác"
+    }
+  },
+  "sly.7.190": {
+    "question": "Đường cảm giác sâu không ý thức có đặc điểm gì?",
+    "options": {
+      "A": "Dẫn truyền đến tiểu não cảm giác về trương lực cơ để phối hợp động tác",
+      "B": "Dẫn truyền đến vỏ não để phối hợp động tác",
+      "C": "Dẫn truyền các cảm giác bản thể",
+      "D": "Dẫn truyền cảm giác phân biệt tinh tế"
+    }
+  }
+}
+
+
