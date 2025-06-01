@@ -300,9 +300,9 @@
     "question": "Hệ đối giao cảm có tác dụng như thế nào trên các cơ quan?",
     "options": {
       "A": "Tăng glucose máu",
-      "B": "",
-      "C": "",
-      "D": ""
+      "B": "Tăng chuyển hóa cơ bản",
+      "C": "Tăng tiết insulin, giảm tiết glucagon",
+      "D": "Tăng co thắt các cơ trơn ở ống gan, túi mật, niệu quản, bàng quang"
     }
   },
   "sly.7.35": {
