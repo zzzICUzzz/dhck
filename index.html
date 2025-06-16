@@ -16,36 +16,73 @@
         <label for="name">Tên của bạn:</label>
         <input type="text" id="name" name="name">
 
-        <label for="subject">Chọn bộ môn:</label>
-        <select id="subject">
+        <label for="main-bank">Chọn bộ đề:</label>
+        <select id="main-bank">
             <option value="">-- Chọn --</option>
-            <option value="sly_slyHeMau.json">Sinh lý yds - Sinh lý hệ máu</option>
-            <option value="sly_slyTuanHoan.json">Sinh lý yds - Sinh lý hệ tuần hoàn</option>
-            <option value="sly_slyHoHap.json">Sinh lý yds - Sinh lý hệ hô hấp</option>
-            <option value="sly_slyTietNieu.json">Sinh lý yds - Sinh lý hệ tiết niệu</option>
-            <option value="sly_slyTieuHoa.json">Sinh lý yds - Sinh lý hệ tiêu hóa</option>
-            <option value="sly_slyNoitiet.json">Sinh lý yds - Sinh lý hệ nội tiết</option>
-            <option value="sly_slyThankinh.json">Sinh lý yds - Sinh lý hệ thần kinh</option>
-            <option value="gmhs_yds.json">gmhs yds</option>
-            <option value="gmhs_yvd.json">gmhs y việt đức</option>
-            <option value="random">Đề (70c random)</option>
-            <option value="gp1_220.json">Bộ giải phẫu</option>
-            <option value="sl221_495.json">Bộ sinh lý</option>
-            <option value="noi496_965.json">Bộ nội</option>
-            <option value="ngoai966_1438.json">Bộ ngoại</option>
-            <option value="san1439_1735.json">Bộ sản</option>
-            <option value="nhi1736_2028.json">Bộ nhi</option>
-            <option value="slnew.json">Bộ sinh lý 2024</option>
-            <option value="gpnew.json">Bộ giải phẫu 2024</option>
-            <option value="noinew.json">Bộ nội 2024</option>
-            <option value="ngoainew.json">Bộ ngoại 2024</option>
-            <option value="sannew.json">Bộ sản 2024</option>
-            <option value="nhinew.json">Bộ nhi 2024</option>
+            <option value="yds">Đề trắc nghiệm ôn cao học YDS</option>
+            <option value="ctump">Ngân hàng trắc nghiệm CTUMP</option>
         </select>
+
+        <div id="subject-area" style="display:none;">
+            <label for="subject">Chọn bộ môn:</label>
+            <select id="subject"></select>
+        </div>
 
         <button id="startBtn">Bắt đầu</button>
     </div>
 
+    <script>
+    // Dữ liệu bộ đề
+    const ydsSubjects = [
+        { value: "sly_slyHeMau.json", label: "Sinh lý yds - Sinh lý hệ máu" },
+        { value: "sly_slyTuanHoan.json", label: "Sinh lý yds - Sinh lý hệ tuần hoàn" },
+        { value: "sly_slyHoHap.json", label: "Sinh lý yds - Sinh lý hệ hô hấp" },
+        { value: "sly_slyTietNieu.json", label: "Sinh lý yds - Sinh lý hệ tiết niệu" },
+        { value: "sly_slyTieuHoa.json", label: "Sinh lý yds - Sinh lý hệ tiêu hóa" },
+        { value: "sly_slyNoitiet.json", label: "Sinh lý yds - Sinh lý hệ nội tiết" },
+        { value: "sly_slyThankinh.json", label: "Sinh lý yds - Sinh lý hệ thần kinh" },
+        { value: "gmhs_yds.json", label: "GMHS YDS" },
+        { value: "gmhs_yvd.json", label: "GMHS Y Việt Đức" }
+        
+    ];
+
+    const ctumpSubjects = [
+        { value: "random", label: "Đề (70c random)" },
+        { value: "gp1_220.json", label: "Bộ giải phẫu" },
+        { value: "sl221_495.json", label: "Bộ sinh lý" },
+        { value: "noi496_965.json", label: "Bộ nội" },
+        { value: "ngoai966_1438.json", label: "Bộ ngoại" },
+        { value: "san1439_1735.json", label: "Bộ sản" },
+        { value: "nhi1736_2028.json", label: "Bộ nhi" },
+        { value: "slnew.json", label: "Bộ sinh lý 2024" },
+        { value: "gpnew.json", label: "Bộ giải phẫu 2024" },
+        { value: "noinew.json", label: "Bộ nội 2024" },
+        { value: "ngoainew.json", label: "Bộ ngoại 2024" },
+        { value: "sannew.json", label: "Bộ sản 2024" },
+        { value: "nhinew.json", label: "Bộ nhi 2024" }
+    ];
+
+    const mainBank = document.getElementById('main-bank');
+    const subjectArea = document.getElementById('subject-area');
+    const subjectSelect = document.getElementById('subject');
+
+    mainBank.addEventListener('change', function () {
+        subjectSelect.innerHTML = "";
+        if (this.value === "yds") {
+            ydsSubjects.forEach(sub =>
+                subjectSelect.innerHTML += `<option value="${sub.value}">${sub.label}</option>`
+            );
+            subjectArea.style.display = "";
+        } else if (this.value === "ctump") {
+            ctumpSubjects.forEach(sub =>
+                subjectSelect.innerHTML += `<option value="${sub.value}">${sub.label}</option>`
+            );
+            subjectArea.style.display = "";
+        } else {
+            subjectArea.style.display = "none";
+        }
+    });
+    </script>
     <script src="script.js"></script>
 </body>
 </html>
