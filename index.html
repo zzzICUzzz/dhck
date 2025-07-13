@@ -1,88 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Góc học tập của Z cùng vài người bạn</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="picture\logo.jpg" type="image/x-icon">
-</head>
-<body>
-    <div id="loading" style="display:none;">
-        <img src="picture\ZZ5H.gif" alt="Loading...">
-    </div>
-    <h1 class="title">Góc học tập của Z cùng vài người bạn</h1>
-    <p class="disclaimer">Khi nhấn bắt đầu, trang load ~2 giây. Đây là góc học tập do nhóm tự soạn, tự trao đổi kiến thức cùng nhau, không có giá trị lưu hành bên ngoài và cam đoan KHÔNG VÌ LỢI NHUẬN. Mong người dùng tôn trọng !!!</p>
-
-    <div class="selection-area">
-        <label for="name">Tên của bạn:</label>
-        <input type="text" id="name" name="name">
-
-        <label for="main-bank">Chọn bộ đề:</label>
-        <select id="main-bank">
-            <option value="">-- Chọn --</option>
-            <option value="yds">Đề trắc nghiệm ôn cao học YDS</option>
-            <option value="ctump">Ngân hàng trắc nghiệm CTUMP</option>
-        </select>
-
-        <div id="subject-area" style="display:none;">
-            <label for="subject">Chọn bộ môn:</label>
-            <select id="subject"></select>
-        </div>
-
-        <button id="startBtn">Bắt đầu</button>
-    </div>
-
-    <script>
-    // Dữ liệu bộ đề
-    const ydsSubjects = [
-        { value: "sly_slyHeMau.json", label: "Sinh lý yds - Sinh lý hệ máu" },
-        { value: "sly_slyTuanHoan.json", label: "Sinh lý yds - Sinh lý hệ tuần hoàn" },
-        { value: "sly_slyHoHap.json", label: "Sinh lý yds - Sinh lý hệ hô hấp" },
-        { value: "sly_slyTietNieu.json", label: "Sinh lý yds - Sinh lý hệ tiết niệu" },
-        { value: "sly_slyTieuHoa.json", label: "Sinh lý yds - Sinh lý hệ tiêu hóa" },
-        { value: "sly_slyNoitiet.json", label: "Sinh lý yds - Sinh lý hệ nội tiết" },
-        { value: "sly_slyThankinh.json", label: "Sinh lý yds - Sinh lý hệ thần kinh" },
-        { value: "gmhs_yds.json", label: "GMHS YDS" },
-        { value: "gmhs_yvd.json", label: "GMHS Y Việt Đức" }
-        
-    ];
-
-    const ctumpSubjects = [
-        { value: "random", label: "Đề (70c random)" },
-        { value: "gp1_220.json", label: "Bộ giải phẫu" },
-        { value: "sl221_495.json", label: "Bộ sinh lý" },
-        { value: "noi496_965.json", label: "Bộ nội" },
-        { value: "ngoai966_1438.json", label: "Bộ ngoại" },
-        { value: "san1439_1735.json", label: "Bộ sản" },
-        { value: "nhi1736_2028.json", label: "Bộ nhi" },
-        { value: "slnew.json", label: "Bộ sinh lý 2024" },
-        { value: "gpnew.json", label: "Bộ giải phẫu 2024" },
-        { value: "noinew.json", label: "Bộ nội 2024" },
-        { value: "ngoainew.json", label: "Bộ ngoại 2024" },
-        { value: "sannew.json", label: "Bộ sản 2024" },
-        { value: "nhinew.json", label: "Bộ nhi 2024" }
-    ];
-
-    const mainBank = document.getElementById('main-bank');
-    const subjectArea = document.getElementById('subject-area');
-    const subjectSelect = document.getElementById('subject');
-
-    mainBank.addEventListener('change', function () {
-        subjectSelect.innerHTML = "";
-        if (this.value === "yds") {
-            ydsSubjects.forEach(sub =>
-                subjectSelect.innerHTML += `<option value="${sub.value}">${sub.label}</option>`
-            );
-            subjectArea.style.display = "";
-        } else if (this.value === "ctump") {
-            ctumpSubjects.forEach(sub =>
-                subjectSelect.innerHTML += `<option value="${sub.value}">${sub.label}</option>`
-            );
-            subjectArea.style.display = "";
-        } else {
-            subjectArea.style.display = "none";
-        }
-    });
-    </script>
-    <script src="script.js"></script>
-</body>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://studywithz.pages.dev/" />
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    Nếu bạn không được chuyển hướng tự động, vui lòng nhấn vào 
+    <a href="https://studywithz.pages.dev/">đây</a>.
+  </body>
 </html>
